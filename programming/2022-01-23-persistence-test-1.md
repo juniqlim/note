@@ -1,14 +1,10 @@
-## 테스트코드로 개발속도 올리기 1 (persistence test-리포지터리 테스트1)
+## 테스트코드로 개발속도 올리기 1 (persistence test-리포지터리 테스트1)
 
 먼저 테스트 코드 없이, 아주 간단한 블로그를 만들어보자.
-
 java, spring boot, jpa를 사용해서 대충대충 만들어보자.
+먼저 [spring initializr](https://start.spring.io)를 이용해서 spring web, jpa, lombok 를 추가해서 프로젝트 베이스를 만들었다.  
 
-먼저 [spring initializr](https://start.spring.io)를 이용해서 spring web, jpa, lombok 를 추가해서 프로젝트 베이스를 만들었다.
-
-
-
-나는 서비스(기능)을 만들때 일반적으로 데이터베이스 영역부터 만들었다.
+나는 서비스(기능)을 만들때 일반적으로 데이터베이스 영역부터 만들었다.  
 
 블로그 글을 담을 entity
 ```java
