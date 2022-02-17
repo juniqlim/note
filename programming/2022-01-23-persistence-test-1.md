@@ -138,7 +138,7 @@ public class BlogController {
 
 패키지구조는 다음과 같다.
 
-<img width="372" alt="스크린샷 2022-01-16 오후 12 08 50" src="./2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.08.50.png">
+<img width="372" alt="스크린샷 2022-01-16 오후 12 08 50" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.08.50.png">
 
 이제는 애플리케이션을 실행해서 잘 동작하는지 테스트해보자.
 
@@ -208,11 +208,11 @@ yml를 선호하지만 인터넷 검색했더니 properties만 눈에 띄었다.
 
 controller method옆에 콩모양을 클릭한다.
 
-<img width="556" alt="스크린샷 2022-01-09 오후 2 46 47" src="./2022-01-23-persistence-test-1/스크린샷 2022-01-09 오후 2.46.47.png">
+<img width="556" alt="스크린샷 2022-01-09 오후 2 46 47" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-09 오후 2.46.47.png">
 
 왼쪽에 실행버튼을 누르면(또는 맥에서 ‘option’+’enter’) api가 실행된다.
 
-<img width="511" alt="스크린샷 2022-01-16 오후 12 31 40" src="./2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.31.40.png">
+<img width="511" alt="스크린샷 2022-01-16 오후 12 31 40" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.31.40.png">
 
 
 오류발생
