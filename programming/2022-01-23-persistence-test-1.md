@@ -1,7 +1,7 @@
 ## 테스트코드로 개발속도 올리기 1 (persistence test-리포지터리 테스트1)
 
-먼저 테스트 코드 없이, 아주 간단한 블로그를 만들어보자.
-java, spring boot, jpa를 사용해서 대충대충 만들어보자.
+먼저 테스트 코드 없이, 아주 간단한 블로그를 만들어보자.  
+java, spring boot, jpa를 사용해서 대충대충 만들어보자.  
 먼저 [spring initializr](https://start.spring.io)를 이용해서 spring web, jpa, lombok 를 추가해서 프로젝트 베이스를 만들었다.  
 
 나는 서비스(기능)을 만들때 일반적으로 데이터베이스 영역부터 만들었다.  
@@ -26,12 +26,8 @@ public class Post {
     @Column(name = "UPT_DT")
     private LocalDateTime modifiedAt;
 }
-```
-
-
-
+```  
 글에 대한 카테고리를 담을 entity
-
 ```java
 @Entity
 @Table(name = "Category")
@@ -48,31 +44,20 @@ public class Category {
     private LocalDateTime modifiedAt;
 }
 ```
+를 먼저 만들었다. 대충의 DB설계가 되었다.  
 
-를 먼저 만들었다. 대충의 DB설계가 되었다.
-
-이제 저 엔티티들을 CRUD하는 repository 클래스를 만들자.
-
-
-
+이제 저 엔티티들을 CRUD하는 repository 클래스를 만들자.  
 ```java
 public interface PostRepository extends JpaRepository<Post, Long> {
 }
-```
-
-
-
+```  
 ```java
 public interface CategoryRepository extends JpaRepository<Category, Long> {
 }
 ```
-
-jpa 라서 아주 간단하다.
-
-
+jpa 라서 아주 간단하다.  
 
 이제 저 repository를 사용할 service를 만들자.
-
 ```java
 @Service
 @RequiredArgsConstructor
@@ -93,23 +78,16 @@ public class BlogService {
     }
 }
 ```
-
-모든 카테고리조회, 모든 블로그글 조회, 특정 카테고리의 블로그글 조회 메소드를 만들었다.
-
-
+모든 카테고리조회, 모든 블로그글 조회, 특정 카테고리의 블로그글 조회 메소드를 만들었다.  
 
 특정 카테고리의 블로그글 조회기능은 repository에 메소드 추가가 필요하다.
-
 ```java
 public interface PostRepository extends JpaRepository<Post, Long> {
     List<Post> findByCategoryId(Long categoryId);
 }
-```
-
-
+```  
 
 이제 controller를 만들자.
-
 ```java
 @RestController
 @RequiredArgsConstructor
@@ -127,21 +105,18 @@ public class BlogController {
     }
 }
 ```
-
-모든 카테고리 조회, 특정 카테고리의 블로그글 조회 api를 만들었다.
-
-
+모든 카테고리 조회, 특정 카테고리의 블로그글 조회 api를 만들었다.  
+  
 
 패키지구조는 다음과 같다.
 
 <img width="372" alt="스크린샷 2022-01-16 오후 12 08 50" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.08.50.png">
 
 이제는 애플리케이션을 실행해서 잘 동작하는지 테스트해보자.
-
+  
 
 
 애플리케이션을 실행해봤다.
-
 ```
 ***************************
 APPLICATION FAILED TO START
@@ -156,13 +131,10 @@ Consider the following:
  If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
 
 ```
-
-DB설정이 없다고 하는 것 같다. H2로 빠르게 설정해보자.
-
+DB설정이 없다고 하는 것 같다. H2로 빠르게 설정해보자.  
 
 
 build.gradle
-
 ```ruby
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
@@ -173,13 +145,9 @@ dependencies {
     implementation 'com.h2database:h2:1.4.200'
 }
 ```
-
-맨 밑에 h2 추가
-
-
+맨 밑에 h2 추가  
 
 application.properties
-
 ```
 spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
@@ -191,23 +159,17 @@ spring.datasource.password=
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
 ```
+yml를 선호하지만 인터넷 검색했더니 properties만 눈에 띄었다. 빠르게 가자.  
 
-yml를 선호하지만 인터넷 검색했더니 properties만 눈에 띄었다. 빠르게 가자.
-
-
-
-서버를 재가동해보자. 이제 빌드가 성공한다!
-
-
+서버를 재가동해보자. 이제 빌드가 성공한다!  
+  
 
 인텔리제이는 쉽게 http api를 테스트할 수 있는 기능을 제공한다.
 
 controller method옆에 콩모양을 클릭한다.
-
 <img width="556" alt="스크린샷 2022-01-09 오후 2 46 47" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-09 오후 2.46.47.png">
 
 왼쪽에 실행버튼을 누르면(또는 맥에서 ‘option’+’enter’) api가 실행된다.
-
 <img width="511" alt="스크린샷 2022-01-16 오후 12 31 40" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.31.40.png">
 
 
