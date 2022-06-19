@@ -21,9 +21,6 @@ public class Post {
     private LocalDateTime modifiedAt;
 }
 ```
-
-
-
 ```
 @Entity
 @Table(name = "Category")
@@ -40,25 +37,16 @@ public class Category {
     private LocalDateTime modifiedAt;
 }
 ```
-
-
-
 ```
 public interface PostRepository extends JpaRepository<Post, Long> {
 }
 ```
-
-
-
 ```
 public interface CategoryRepository extends JpaRepository<Category, Long> {
 }
 ```
-
-
-
+###
 그리고 service를 만들기 전에 테스트 코드를 작성한다. 테스트 코드를 작성하고 싶은 클래스에서 단축키 (맥 :command+shift+T)를 누르면, 자동으로 빈 클래스가 생성된다.
-
 ```
 @SpringBootTest
 class CategoryRepositoryTest {
@@ -72,11 +60,8 @@ class CategoryRepositoryTest {
     }
 }
 ```
-
-
-
+###
 클래스명(CategoryRepositoryTest)으로 커서를 옴기고 실행 단축키(맥: controll+shift+r)로 테스트를 실행한다.
-
 ```
 ***************************
 APPLICATION FAILED TO START
@@ -88,13 +73,10 @@ Failed to configure a DataSource: 'url' attribute is not specified and no embedd
 
 Reason: Failed to determine a suitable driver class
 ```
-
 아까 봤던 오류다. DB설정을 하자.
 
-
-
+###
 build.gradle
-
 ```
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
@@ -105,9 +87,7 @@ dependencies {
     implementation 'com.h2database:h2:1.4.200'
 }
 ```
-
 application.properties
-
 ```
 spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
@@ -118,9 +98,6 @@ spring.datasource.username=sa
 spring.datasource.password=
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 ```
-
-
-
 설정 후 다시 테스트를 실행하자.  이제는 성공한다.
 
 ![](./02b22d01-3bf0-4aa5-a49a-7f3f299645e4.png)
