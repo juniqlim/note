@@ -100,9 +100,7 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 ```
 설정 후 다시 테스트를 실행하자.  이제는 성공한다.
 
-![](./02b22d01-3bf0-4aa5-a49a-7f3f299645e4.png)
-
-
+<img width="556" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-02-19-persistence-test-2/스크린샷 2022-01-18 오후 10.21.44.png">
 
 테스트 코드를 좀 고쳐보자.
 
@@ -196,7 +194,8 @@ void 저장후_categoryId로_조회() {
 
 
 
-실행해보니 테스트가 실패한다. ![](./9d411415-2ec6-4722-88ef-8bf597af26eb.png)
+실행해보니 테스트가 실패한다.
+<img width="556" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-02-19-persistence-test-2/스크린샷 2022-01-23 오후 3.42.18.png">
 
 테스트를 실행하면서, 기존에 저장된 데이터 때문에 조회되는 post개수가 2가가 넘었다.
 
@@ -229,11 +228,9 @@ repository 테스트 코드에는 모두 @Transactional 어노테이션을 붙�
 
 지금까지 테스트코드를 작성한 패키지에서 실행 단축키(맥: controll+shift+r)를 누르면 전체 테스트를 실행해 결과를 볼 수 있다.
 
-![](./8efd661d-f1bd-44d1-a77e-3592f08ecd8e.png)
+<img width="556" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-02-19-persistence-test-2/스크린샷 2022-01-23 오후 2.54.40.png">
 
-
-
-![](./b33fa8c4-7631-4a57-b592-5cf7566427c8.png)
+<img width="556" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-02-19-persistence-test-2/스크린샷 2022-01-23 오후 2.54.54.png">
 
 일단 내가 작성한 테스트는 모두 통과했다!
 
