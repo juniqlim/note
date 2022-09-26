@@ -40,7 +40,7 @@ Result 명사 or 명사구
 ### 방법2: 템플릿으로 변경
 ```java
 List<Integer> numbers = new SplitedNumbers("1;2;3", ";").value();
-int sum = new Sum(numbers).value();
+int sum = new NumbersSum(numbers).value();
 ```
 
 ### 방법3: 구현
