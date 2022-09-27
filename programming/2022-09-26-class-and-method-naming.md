@@ -39,8 +39,8 @@ Result 명사 or 명사구
 
 ### 방법2: 템플릿으로 변경
 ```java
-List<Integer> numbers = new SplitedNumbers("1;2;3", ";").value();
-int sum = new NumbersSum(numbers).value();
+List<Integer> numbers = new Numbers("1;2;3", ";").value();
+int sum = new Sum(numbers).value();
 ```
 
 ### 방법3: 구현
@@ -70,18 +70,18 @@ class SplitedNumbers {
 }
 
 
-class NumbersSumTest {
+class SumTest {
     @Test
     void test() {
-        int sum = new NumbersSum(Arrays.asList(1, 2, 3)).value();
+        int sum = new Sum(Arrays.asList(1, 2, 3)).value();
         assertThat(sum).isEqualTo(6);
     }
 }
 
-class NumbersSum {
+class Sum {
     private final List<Integer> numbers;
 
-    public NumbersSum(List<Integer> numbers) {
+    public Sum(List<Integer> numbers) {
         this.numbers = numbers;
     }
 
