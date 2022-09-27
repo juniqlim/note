@@ -100,3 +100,4 @@ class NumbersSum {
 
 ## 참조
 https://www.yegor256.com/2022/06/14/principle-of-one.html
+https://www.yegor256.com/2020/03/03/prefixed-naming.html
