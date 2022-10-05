@@ -1,4 +1,7 @@
 ## 테스트코드로 개발속도 올리기 2 (persistence test-리포지터리 테스트2)
+관련 [코드](https://github.com/juniqlim/simple-blog/tree/persistence-test)도 확인하실 수 있습니다.
+
+---
 spring boot 프로젝트를 준비한 후
 entity, repository 코드를 이전과 똑같이 작성한다.
 ```

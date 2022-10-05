@@ -1,5 +1,7 @@
 ## 테스트코드로 개발속도 올리기 1 (persistence test-리포지터리 테스트1)
+관련 [코드](https://github.com/juniqlim/simple-blog/tree/previous)도 확인하실 수 있습니다.
 
+---
 먼저 테스트 코드 없이, 아주 간단한 블로그를 만들어보자.  
 java, spring boot, jpa를 사용해서 대충대충 만들어보자.  
 먼저 [spring initializr](https://start.spring.io)를 이용해서 spring web, jpa, lombok 를 추가해서 프로젝트 베이스를 만들었다.  
