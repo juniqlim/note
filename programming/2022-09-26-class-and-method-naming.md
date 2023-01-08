@@ -99,4 +99,5 @@ class Sum {
 를 추가하면 불변객체가 만들어지고, 선언형 프로그래밍에 가까워지는 것 같다.
 
 ## 참조
-https://www.yegor256.com/2022/06/14/principle-of-one.html
+[엘레강트 오브젝트 책](http://www.yes24.com/Product/Goods/96193044)
+[예고르 부가옌코 블로그](https://www.yegor256.com)
