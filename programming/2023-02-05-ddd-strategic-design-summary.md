@@ -1,4 +1,4 @@
-# 도메인 주도 설계 - 4부 전략적 설계 정리
+# 도메인 주도 설계(DDD) - 4부 전략적 설계 정리
 에릭 에반스가 [직접 요약한 DDD문서](https://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)도 있다.
 
 ## 전략적 설계의 3가지 주제 
