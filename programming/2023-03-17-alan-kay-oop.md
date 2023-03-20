@@ -48,7 +48,7 @@ Alan Kay는 1966년에 Object Oriented Programming란 용어를 만들었다고 
 
 > Another very attractive feature of having everything being made from “semantic software computers intercommunicating via messaging” is that some ugly properties of “data” could not only be fixed, but even eliminated.  
 > 모든 것이 "메시징을 통해 상호 통신하는 시맨틱 소프트웨어 컴퓨터"로 만들어지는 것의 또 다른 매력적인 특징은 '데이터'의 일부 추악한 속성을 수정할 수 있을 뿐만 아니라 제거할 수도 있다는 점입니다.
-
+정
 OOP는 데이터를 제거할 수 있다고 한다.
 
 > The data idea was always a bad one, and this new semantic building block would allow objects to progress through time — and “learn” etc. — but would be much safer.  
@@ -73,8 +73,10 @@ OOP는 데이터를 제거할 수 있다고 한다.
 하기 위해 탄생한 것 같다.
 
 ## 그래서 어떻게 해야되지?
-> C++ and Java etc. use objects mainly to define new things that are very like data structures, and the programming that is done is generally very data structure like (e.g. “setters” turn any kind of entity back into a data structure that can be imperatively munged by anyone). Technically, this is actually “Abstract Data Structures” and though a subset of what can be done with objects, is a divergence from the intent.  
-> C++과 Java 등은 주로 데이터 구조와 매우 유사한 새로운 것을 정의하는 데 객체를 사용하며, 이렇게 수행되는 프로그래밍은 일반적으로 데이터 구조와 매우 유사합니다(예: "세터"는 모든 종류의 엔티티를 누구나 필수적으로 뭉뚱그릴 수 있는 데이터 구조로 다시 전환합니다). 엄밀히 말하면 이것은 "추상 데이터 구조"이며 객체로 할 수 있는 일의 하위 집합이지만, 의도와는 다른 것입니다.
+> C++ and Java etc. use objects mainly to define new things that are very like data structures, and the programming that is done is generally very data structure like (e.g. “setters” turn any kind of entity back into a data structure that can be imperatively munged by anyone).   
+> Technically, this is actually “Abstract Data Structures” and though a subset of what can be done with objects, is a divergence from the intent.  
+> C++과 Java 등은 주로 데이터 구조와 매우 유사한 새로운 것을 정의하는 데 객체를 사용하며, 이렇게 수행되는 프로그래밍은 일반적으로 데이터 구조와 매우 유사합니다(예: "세터"는 모든 종류의 엔티티를 누구나 필수적으로 뭉뚱그릴 수 있는 데이터 구조로 다시 전환합니다).   
+> 엄밀히 말하면 이것은 "추상 데이터 구조"이며 객체로 할 수 있는 일의 하위 집합이지만, 의도와는 다른 것입니다.
 
 구조체에 대해 Alan Kay는 특히 나쁘게 생각하는 것 같다.   
 하지만 일반적인 애플리케이션이라면 데이터(구조체)의 입력/출력은 필수적이다.  
