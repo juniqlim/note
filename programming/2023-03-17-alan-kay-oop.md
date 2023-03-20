@@ -54,7 +54,7 @@ OOP는 데이터를 제거할 수 있다고 한다.
 > The data idea was always a bad one, and this new semantic building block would allow objects to progress through time — and “learn” etc. — but would be much safer.  
 > 데이터 아이디어는 항상 나쁜 아이디어였으며, 이 새로운 시맨틱 빌딩 블록은 객체가 시간이 지남에 따라 발전하고 "학습" 등을 할 수 있게 해주지만 훨씬 더 안전할 것입니다.
 
-[여기에서도](http://everdeenoop.blogspot.com/2017/01/alan-kay-oop.html) 비슷한 이야기를 한다. 프로시저와 함께하는 데이터를 나쁘게 생각하는 것 같다.      
+[여기에서도](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en) 데이터를 제거한다는 이야기를 한다. 프로시저와 함께하는 데이터를 나쁘게 생각하는 것 같다.      
 시간이 지나면서 발전/학습한다는 것은 xp, ddd를 생각나게 한다.
 
 > What hit me in Nov 1966 was ridiculously, absurdly simple:  
