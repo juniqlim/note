@@ -105,6 +105,10 @@ OOP는 데이터를 제거할 수 있다고 한다.
 '무언가'가 어떻게 동작하는지에 집중하기 보다, '무언가'에게 어떤 메세지를 보낼지에 집중하라고 하는 것 같다.
 객체를 만들때 또 네이밍할때, 어떻게 보다 무엇이 들어나야된다는 이야기와도 통하는 것 같다.
 
+[헐퀴](https://softwareengineering.stackexchange.com/questions/46592/so-what-did-alan-kay-really-mean-by-the-term-object-oriented)
+>I was too blythe about the term back in the 60s and should have chosen something like "message oriented"  
+>Alan Kay Jun 8, 2011 at 16:27
+
 ## 그래서 어떻게 해야되지?
 
 그가 작성한 [세](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)[개](https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11)[의 글](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html)을 종합하여, 실천할 수 있는 방법을 내가 도출해본다면.
