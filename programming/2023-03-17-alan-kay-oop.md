@@ -23,7 +23,7 @@ The other one, which came a little later as an object of study was abstract data
 
 현재 일반적인 객체지향의 모습이, OO 용어를 처음만든 Alan Kay의 OO와 다른 이유가 조금 나온다.  
   
-또 글을보면, 상속 좋아하지 않고 '다형성'이라는 용도는 타당하지 않다는 내용도 나온다.
+또 글을보면, 상속 좋아하지 않고 '다형성'이라는 용어는 타당하지 않다는 내용도 나온다.
 
 ## OOP를 만든 이유
 Alan Kay는 1966년에 Object Oriented Programming란 용어를 만들었다고 한다.  
@@ -48,7 +48,7 @@ Alan Kay는 1966년에 Object Oriented Programming란 용어를 만들었다고 
 
 > Another very attractive feature of having everything being made from “semantic software computers intercommunicating via messaging” is that some ugly properties of “data” could not only be fixed, but even eliminated.  
 > 모든 것이 "메시징을 통해 상호 통신하는 시맨틱 소프트웨어 컴퓨터"로 만들어지는 것의 또 다른 매력적인 특징은 '데이터'의 일부 추악한 속성을 수정할 수 있을 뿐만 아니라 제거할 수도 있다는 점입니다.
-정
+
 OOP는 데이터를 제거할 수 있다고 한다.
 
 > The data idea was always a bad one, and this new semantic building block would allow objects to progress through time — and “learn” etc. — but would be much safer.  
@@ -72,7 +72,7 @@ OOP는 데이터를 제거할 수 있다고 한다.
 3. 데이터(프로시저&구조체)를 제거
 하기 위해 탄생한 것 같다.
 
-## 그래서 어떻게 해야되지?
+## no data
 > C++ and Java etc. use objects mainly to define new things that are very like data structures, and the programming that is done is generally very data structure like (e.g. “setters” turn any kind of entity back into a data structure that can be imperatively munged by anyone).   
 > Technically, this is actually “Abstract Data Structures” and though a subset of what can be done with objects, is a divergence from the intent.  
 > C++과 Java 등은 주로 데이터 구조와 매우 유사한 새로운 것을 정의하는 데 객체를 사용하며, 이렇게 수행되는 프로그래밍은 일반적으로 데이터 구조와 매우 유사합니다(예: "세터"는 모든 종류의 엔티티를 누구나 필수적으로 뭉뚱그릴 수 있는 데이터 구조로 다시 전환합니다).   
@@ -82,8 +82,33 @@ OOP는 데이터를 제거할 수 있다고 한다.
 하지만 일반적인 애플리케이션이라면 데이터(구조체)의 입력/출력은 필수적이다.  
 구조체를 최대한 덜 쓰고, 객체를 최대한 많이 사용한다면, 그가 원하는 OOP에 가까워지지 않을까?
 
-그가 작성한 [두](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)[개](https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11)의 글을 종합하여, 실천할 수 있는 방법을 내가 도출해본다면.
-1. 메세징을 사용한다.(use small class)
+## object가 아니고 messaging
+이 [글](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html)에서 다소 충격적인 얘기가 나온다.
+> I'm sorry that I long ago coined the term "objects" for this topic because it gets many people to focus on the lesser idea.
+> The big idea is "messaging" -- that is what the kernal of Smalltalk/Squeak is all about
+> The key in making great and growable systems is much more to design how its modules communicate rather than what their internal properties and behaviors should be.
+> 제가 오래 전에 이 주제에 대해 "객체"라는 용어를 사용한 것에 대해 유감스럽게 생각합니다. 많은 사람들이 덜 중요한 아이디어에 집중하기 때문입니다.
+> 큰 아이디어는 "메시징"입니다. 이것이 바로 Smalltalk/Squeak의 핵심입니다.
+> 훌륭하고 성장 가능한 시스템을 만드는 데 있어 핵심은 모듈의 내부 속성과 동작보다는 모듈이 통신하는 방식을 설계하는 것입니다.
+ 
+> If you focus on just messaging -- and realize that a good metasystem can late bind the various 2nd level architectures used in objects -- then much of the language-, UI-, and OS based discussions on this thread are really quite moot.
+> 메시징에만 집중한다면 -- 좋은 메타시스템은 객체에 사용되는 다양한 2차 수준 아키텍처(구현 상세)를 뒤늦게 바인딩할 수 있다는 사실을 깨닫는다면 -- 이 스레드에서 언어, UI, OS에 기반한 논의의 상당 부분이 실제로는 상당히 무의미해집니다.
+
+객체라는 용어를 사용한것이 후회된다는 듯하다.  
+핵심은 object가 아니라 messaging이라고 한다. 
+[여기](https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11)에서 좀 더 설명해준다.
+
+> 1. '무언가'에게 메시지를 보내는 경우 어떤 종류의 메시지를 보내고 싶으신가요? 예를 들어, 명령하는 건가요, 요청하는 건가요, 제안하는 건가요, 협상하는 건가요?
+> 2. '무언가'에게 메시지를 보낼 수 있다면 영원히 묶여 있지 않고 마음이 바뀔 수 있으며 상대방도 바뀔 수 있습니다.
+> 3. 메시지를 보낼 수 있다면 정말 특정 대상에게만 메시지를 보내고 싶으신가요? 필요에 따라 요청을 보내는 것이 더 나을 수 있으며, 또한 공동체에 X, Y, Z를 공급할 수 있다고 시스템에 알려주는 것이 나을 수 있습니다.
+
+'무언가'가 어떻게 동작하는지에 집중하기 보다, '무언가'에게 어떤 메세지를 보낼지에 집중하라고 하는 것 같다.
+객체를 만들때 또 네이밍할때, 어떻게 보다 무엇이 들어나야된다는 이야기와도 통하는 것 같다.
+
+## 그래서 어떻게 해야되지?
+
+그가 작성한 [세](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)[개](https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11)[의 글](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html)을 종합하여, 실천할 수 있는 방법을 내가 도출해본다면.
+1. 메세징을 사용한다. '어떻게' 보다 '무엇'에 집중한다.(what to build, not how to work)
 2. 데이터(구조체)를 지양한다.(no getter, setter)
 3. 늦은 바인딩을 사용한다.(use interface)
 4. 상속을 지양한다.(no extends)
