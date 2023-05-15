@@ -185,7 +185,7 @@ void 저장후_categoryId로_조회() {
     assertThat(posts.size()).isEqualTo(2);
 }
 ```
-실행해보니 테스트가 실패한다.
+실행해보니 테스트가 실패한다.  
 <img width="600" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-02-19-persistence-test-2/스크린샷 2022-01-23 오후 3.42.18.png">
 
 테스트를 실행하면서, 기존에 저장된 데이터 때문에 조회되는 post개수가 2가가 넘었다.

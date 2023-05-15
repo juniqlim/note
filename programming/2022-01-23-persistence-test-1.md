@@ -168,10 +168,10 @@ yml를 선호하지만 인터넷 검색했더니 properties만 눈에 띄었다.
 
 인텔리제이는 쉽게 http api를 테스트할 수 있는 기능을 제공한다.
 
-controller method옆에 콩모양을 클릭한다.
+controller method옆에 콩모양을 클릭한다.  
 <img width="556" alt="스크린샷 2022-01-09 오후 2 46 47" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-09 오후 2.46.47.png">
 
-왼쪽에 실행버튼을 누르면(또는 맥에서 ‘option’+’enter’) api가 실행된다.
+왼쪽에 실행버튼을 누르면(또는 맥에서 ‘option’+’enter’) api가 실행된다.  
 <img width="511" alt="스크린샷 2022-01-16 오후 12 31 40" src="https://raw.githubusercontent.com/juniqlim/note/master/programming/2022-01-23-persistence-test-1/스크린샷 2022-01-16 오후 12.31.40.png">
 
 
