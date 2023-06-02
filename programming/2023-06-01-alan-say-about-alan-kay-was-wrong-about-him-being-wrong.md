@@ -1,5 +1,5 @@
 # Alan Kay의 message oriented는 틀렸다고 말하는 Yegor Bugayenko에 대한 Alan의 반박
-아래글은 엘레강트 오브젝트의 저자 예고르의 글이다.  
+아래링크는 [엘레강트 오브젝트](https://product.kyobobook.co.kr/detail/S000001902572)의 저자 예고르의 글이다.  
 https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html    
   
 ‘object’라는 용어는 오해의 소지가 있으니, ‘messaging'이라는 용어가 더 적절했다.  
@@ -31,8 +31,8 @@ tmi)앨런 캐이의 부인이 가끔 구글에서 남편을 찾아본다.
 하지만 꽤 핵심적인 부분이 차이가 있었다.  
   
 코딩 관점에서 예고르와 앨런의 큰차이는 결국 getter 사용 유무인 것 같다.  
-  
-전부터 느꼈고, 이번에 realworld 만들때도 느꼈는데,  
+
+전부터 느꼈고, 이번에 [realworld](https://github.com/juniqlim/realworld-springboot-declarative-oop-style) 만들때도 느꼈는데,    
 객체의 구성을 많이 사용했을때, 수정사항이 있으면 코드수정이 많았다. 객체들이 켜켜히 쌓여있을때, 깊숙히 손을 넣어서 뭔가 해야되면 일이 컸다.  
 객체의 공개메소드(behavior/messaging)를 일반적으로 만들때, 유지보수가 쉽다고 느꼈다.  
   
