@@ -1,9 +1,11 @@
 # Alan Kay의 message oriented는 틀렸다고 말하는 Yegor Bugayenko에 대한 Alan의 반박
-엘레강트 오브젝트의 저자 예고르의 글이다.  
-https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html  
+아래글은 엘레강트 오브젝트의 저자 예고르의 글이다.  
+https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html    
+  
 ‘object’라는 용어는 오해의 소지가 있으니, ‘messaging'이라는 용어가 더 적절했다.  
-라는 앨런 캐이의 말에, 예고르는 그렇지 않다고 했다.
-
+라는 앨런 캐이의 말에, 예고르는 그렇지 않다고 했다.  
+  
+글을 요약해보자면,
 ## messaging, composition
 객체 간 상호 작용에는 ‘messaging’과 ‘composition’이라는 두 수단이 있는데  
 messaging
@@ -17,7 +19,7 @@ composition
 따라서 객체에는 구성이, 모듈에는 메세징이 맞다고 주장한다. 그러므로 ‘object oriented’라는 이름이 맞단다.
 
 ## 본인 등판
-흥미롭게도 앨런 캐이가 댓글에 등장했다. 깜짝놀랬다.
+흥미롭게도 앨런 캐이가 댓글에 등장했다. 깜짝놀랬다. 그가 말하길,
 1. 객체와 모듈은 같다.
 2. 가장좋은 메세지는 목표를 요청한다. 가장 좋은 객체는 ‘큰 목표’를 만족시킨다.
 3. 보편적인 객체는 사용처가 많고, 더 포괄적인 객체는 의미론적으로 강해진다.(이해못함;)

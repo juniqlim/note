@@ -3,7 +3,7 @@
 상속보다 구성이 좋는 것은, 많은 사람들이 공감하는 주류의견인 것 같다.
 나 또한 상속을 멀리하고 구성을 좋아하고 즐겨썼다.
 
-먼저, 그런데 [Alan Kay가 틀렸다고 하는 글에 남긴 Alan 반박글](https://github.com/juniqlim/note/blob/master/programming/2023-06-01-alan-say-about-alan-kay-was-wrong-about-him-being-wrong.md)의 [원문](https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html)에 있는 [댓글](https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3718437603)을 보고 생각이 많아졌다.  
+그런데 [Alan Kay가 틀렸다고 하는 글에 남긴 Alan 반박글](https://github.com/juniqlim/note/blob/master/programming/2023-06-01-alan-say-about-alan-kay-was-wrong-about-him-being-wrong.md)에서 소개한 [yegor의 글](https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html)에 있는 [댓글](https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3718437603)을 보고 생각이 많아졌다.  
 
 요약해보면,
 1. [David West](https://www.amazon.com/Object-Thinking-Developer-Reference-David/dp/0735619654) 아이디어의 핵심은, 문제공간(problem space)의 객체분해(object decomposition)다. 메세지의 핵심은 분해가 일어나도록 하는 것.
