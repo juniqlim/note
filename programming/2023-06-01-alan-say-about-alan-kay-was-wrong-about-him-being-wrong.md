@@ -1,5 +1,5 @@
 # Alan Kay의 message oriented는 틀렸다고 말하는 Yegor Bugayenko에 대한 Alan의 반박
-엘레강트 오브젝트 책을 쓴 예고르의 블로그글을 봤다.  
+엘레강트 오브젝트의 저자 예고르의 글이다.  
 https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html  
 ‘object’라는 용어는 오해의 소지가 있으니, ‘messaging'이라는 용어가 더 적절했다.  
 라는 앨런 캐이의 말에, 예고르는 그렇지 않다고 했다.

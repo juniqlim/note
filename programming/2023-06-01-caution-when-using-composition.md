@@ -1,6 +1,6 @@
-# 상속보다 구성이 좋다. 근데 구성할때 생각해볼 점.
+# 상속보다 구성이 좋다. 그런데 구성할때 생각해볼 점.
 
-상속보다 구성이 좋는 것은, 주류의견인 것 같다.
+상속보다 구성이 좋는 것은, 많은 사람들이 공감하는 주류의견인 것 같다.
 나 또한 상속을 멀리하고 구성을 좋아하고 즐겨썼다.
 
 먼저, 그런데 [Alan Kay가 틀렸다고 하는 글에 남긴 Alan 반박글](https://github.com/juniqlim/note/blob/master/programming/2023-06-01-alan-say-about-alan-kay-was-wrong-about-him-being-wrong.md)의 [원문](https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html)에 있는 [댓글](https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3718437603)을 보고 생각이 많아졌다.  
@@ -20,4 +20,4 @@
 
 객체들의 구성(composition)으로 문제를 해결할때, 변경사항이 있으면 고쳐야할 코드가 너무 많을때가 있다.  
 위 글대로 문제 공간의 분리가 이루어지지 않았기 때문이 아닐까?  
-상속은 OO스럽지 못해서 구성을 선택했는데 여전히 절차지향적 이었을까?
+나는 상속은 OO 스럽지 못해서 구성을 선택했는데, 여전히 절차지향적이진 않았나?
