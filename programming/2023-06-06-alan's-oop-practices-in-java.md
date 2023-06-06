@@ -48,6 +48,7 @@
     }
 ```
 구조체+프로시저 스타일의 코드다.  
+  
 이 코드는 아래의 테스트 코드처럼 사용되어진다.
 ```java
     @Test
@@ -56,7 +57,7 @@
         assertEquals("how-to-train-your-dragon", article.getSlug());
     }
 ```
-'setter 금지' 실천방법을 적용해본다.
+### 1.'setter 금지' 실천방법을 적용해본다.
 ```java
     MutableObjectArticle makeMutableObjectArticle(String title, String content) {
         MutableObjectArticle article = new MutableObjectArticle(title, content);
@@ -88,7 +89,7 @@
 ```
 가변객체 스타일의 코드다.  
 slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안으로 들어갔다. '글' 객체를 만드는 코드가 작아졌다.  
-객체는 변경가능한 상태를 가지고 있다. 이 객체의 참조가 다른 곳에서 사용되거나, 멀티 프로세스환경이라면 경쟁상태가 된다.  
+'글'객체는 변경가능한 상태를 가지고 있다. '글'객체의 참조가 다른 곳에서 사용되거나, 멀티 프로세스환경이라면 경쟁상태가 된다.  
 코드 실행시 의도하지 않은 결과가 나올수 있다.  
   
 이 코드는 아래의 테스트 코드처럼 사용되어진다.
@@ -99,7 +100,7 @@ slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안
         assertEquals("how-to-train-your-dragon", article.getSlug());
     }
 ```  
-'인스턴스 필드는 final' 실천방법을 적용해본다.
+### 2.'인스턴스 필드는 final' 실천방법을 적용해본다.
 ```java
     ImmutableObjectArticle immutableObjectArticle(String title, String content) {
         return new ImmutableObjectArticle(title, content, new SluggedString(title));
@@ -146,7 +147,7 @@ slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안
         }
     }
 ```
-불변객체 스타일의 코드다.
+불변객체 스타일의 코드다.  
 slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객체를 가지고 있다(Composition).  
 객체는 변경가능한 상태가 없기 때문에 다루기 쉽다.
 
@@ -161,7 +162,7 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
 ```
 메소드의 리턴값이 'slug'객체이다. 다른 코드에서 'slug'객체를 알게(의존하게)된다.  
 
-'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.
+### 3.'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.
 ```java
     ImmutableObjectDependencyFreeArticle immutableObjectDependencyFreeArticle(String title, String content) {
         return new ImmutableObjectDependencyFreeArticle(title, content, new Slugging().text(title));
@@ -189,8 +190,9 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
         }
     }
 ```
-불변객체 스타일의 코드다. 객체를 모듈처럼 서버처럼 생각하고 구현해보았다.  
-[데이터와 계산이 분리된](https://www.yes24.com/Product/Goods/110253986) 함수처럼 보이기도 한다.  
+불변객체 스타일의 코드다.  
+객체를 모듈처럼 서버처럼 생각하고 구현해보았다.  
+[데이터와 계산이 분리된 함수](https://www.yes24.com/Product/Goods/110253986) 처럼 보이기도 한다.  
 > both OOP and functional computation can be completely compatible (and should be!)
 
 OOP와 함수형 계산이 완벽하게 호환 가능해야된다는 앨런 선생님의 말씀에 가까워 졌는지도 모르겠다.  
@@ -205,6 +207,7 @@ OOP와 함수형 계산이 완벽하게 호환 가능해야된다는 앨런 선�
 ```
 사용법이 다시 간단해 졌다.
 
+전체 코드는 [여기](https://github.com/juniqlim/code-for-article/tree/master/aoop)에서 확인할 수 있다.
 ## Etc
 Kent Beck의 XP가 그랬던 것 처럼, 가치와 원칙도 만들어 보았다.
 ### Principles
