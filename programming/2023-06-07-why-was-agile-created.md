@@ -63,4 +63,6 @@ a가 기존 개발방식의 문제점이었던 것 같다.
 가치와 원칙을 보면서 참 좋은 말들이라고 고개를 끄덕일만 하다.  
 하지만 특히 개발자 입장에서, 실제로 어떻게 해야하는지, 가치와 원칙만 읽고 행하기는 어려운 것 같다.
 
-엉클밥은 [책](https://www.yes24.com/Product/Goods/96370562)에서 그 해결책으로 익스트림 프로그래밍의 실천방법을 이용한다.
+엉클밥은 [책](https://www.yes24.com/Product/Goods/96370562)에서 그 해결책으로 익스트림 프로그래밍의 실천방법을 이용한다.  
+  
+나도 그 영향을 받아 [이렇게](https://github.com/juniqlim/note/blob/master/programming/2023-06-07-how-to-become-an-agile-developer.md) 하고 있다.
