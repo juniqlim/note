@@ -165,7 +165,7 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
 ### 3.'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.
 ```java
     ImmutableObjectDependencyFreeArticle immutableObjectDependencyFreeArticle(String title, String content) {
-        return new ImmutableObjectDependencyFreeArticle(title, content, new Slugging().text(title));
+        return new ImmutableObjectDependencyFreeArticle(title, content, new Slugify().withDash(title));
     }
 
     class ImmutableObjectDependencyFreeArticle {
@@ -184,8 +184,8 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
         }
     }
 
-    static class Slugging {
-        String text(String text) {
+    static class Slugify {
+        String withDash(String text) {
             return text.toLowerCase().replace(" ", "-");
         }
     }

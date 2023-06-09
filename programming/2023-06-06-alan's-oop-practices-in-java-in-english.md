@@ -167,7 +167,7 @@ method's return value is a 'slug' object. Other code will know (rely on) the 'sl
 ### 3. Apply the "Make public method requests/responses simple" practice.
 ```java
     ImmutableObjectDependencyFreeArticle immutableObjectDependencyFreeArticle(String title, String content) {
-        return new ImmutableObjectDependencyFreeArticle(title, content, new Slugging().text(title));
+        return new ImmutableObjectDependencyFreeArticle(title, content, new Slugify().withDash(title));
     }
 
     class ImmutableObjectDependencyFreeArticle {
@@ -186,8 +186,8 @@ method's return value is a 'slug' object. Other code will know (rely on) the 'sl
         }
     }
 
-    static class Slugging {
-        String text(String text) {
+    static class Slugify {
+        String withDash(String text) {
             return text.toLowerCase().replace(" ", "-");
         }
     }
