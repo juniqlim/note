@@ -1,5 +1,5 @@
 # Alan Kay의 OOP를 Java code에 적용해보기
-## Alan Kay's OOP Pratices in Java
+## Alan Kay's OOP Practices in Java
 (내 나름대로, 내가 이해한)앨런 캐이의 객체지향을 자바코드에 적용해보자.  
   
 [Smalltalk와 LISP에서만 가능하다](https://github.com/juniqlim/note/blob/master/programming/2023-03-17-alan-kay-oop.md)고 했지만, 가능한 부분만 시도해보자.
