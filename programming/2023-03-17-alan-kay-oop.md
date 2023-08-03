@@ -8,7 +8,7 @@ OOP to me means only messaging, local retention and protection and hiding of sta
 It can be done in Smalltalk and in LISP.  
 There are possibly other systems in which this is possible, but I'm not aware of them.  
 (저는 타입에 대해 적대적이지는 않습니다만 완벽하게 고통이 없는 타입시스템은 본적이 없습니다. 그래서 여전히 다이나믹 타이핑을 좋아합니다.)  
-저에게 있어서 OOP는 오직 메시징, 지역보존 및 보호, 상태-처리의 은닉, 모든것들에 대한 최후의 late-biding(Dynamic Binding)입니다.  
+저에게 있어서 OOP는 오직 메시징, 지역보존 및 보호, 상태-처리의 은닉, 모든것들에 대한 극도의 late-biding입니다.  
 스몰토크와 LISP에서 가능합니다.  
 이러한 것들이 가능한 다른 시스템들이 있을수 있지만 저는 그러한 시스템을 모릅니다.  
 
