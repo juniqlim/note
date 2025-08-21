@@ -1,22 +1,99 @@
 # Delivering Software
-Ward Cunningham
-Position Paper
-XP Beyond Limitations
-XP/Agile Universe 2002
+https://c2.com/doc/xpu02/panel.html  
+워드 커닝햄의 글 "Delivering Software"를 한국어로 번역한 내용입니다.  gemini 2.5 pro를 이용했습니다.
+---
+워드 커닝햄  
+입장문  
+한계를 넘어서는 XP  
+XP/Agile Universe 2002  
 
-
-Extreme Programming consists of a set of practices that are surprisingly complete in a wide variety of situations. Are there limits to the applicable situations? Sure. But every limitation I have found to date can be traced to disagreement with a fundamental assumption of extreme programming:
+## XP의 근본 가정
+익스트림 프로그래밍(Extreme Programming, XP)은 매우 다양한 상황에서 놀라울 정도로 완전한 일련의 실천법(practice)들로 구성됩니다.  
+적용 가능한 상황에 한계가 있을까요? 물론입니다.   
+하지만 제가 지금까지 발견한 모든 한계는 익스트림 프로그래밍의 근본적인 가정에 동의하지 않는 데서 그 원인을 찾을 수 있습니다.  
 
 ```
+가정: 우리의 활동 목적은 소프트웨어를 전달하는 것이다.
 Assumption: The purpose of our activity is to deliver software.
 ```
 
-The two key words here are 'deliver' and 'software'. Let's consider both in turn. Extreme programming practices rely on self-organization that is possible when individuals' compelling interests are aligned. Delivery provides that alignment for extreme programming. Should delivery be infrequent or remote then other compelling interests, such as 'appearing important', dominate the organization. A manager's compelling interest may be to run a 100 person organization, perhaps because there are jobs within the company that cannot be done without 100 people, and the manager wants the experience to do those jobs. It may be in the companies best interest to provide that manager with 100 developers so that he gains this experience even if that is not the shortest path to delivery.
+여기서 두 가지 핵심 단어는 '전달(deliver)'과 '소프트웨어(software)'입니다. 차례대로 각각을 살펴봅시다. 
 
-Large organizations always have multiple goals which may or may not be harmonized. When goals are in harmony then individual effort toward any goal is at least indirectly contributing to the primary goal of the organization which for commercial organizations is often increasing shareholder value. Whenever delivering software is one of the harmonized goals for an organization then there is a place in that organization for extreme programming.
+## 전달(deliver)
+익스트림 프로그래밍의 실천법들은 개인들의 강력한 이해관계가 일치할 때 가능한 자기 조직화(self-organization)에 의존합니다.   
+'전달'은 익스트림 프로그래밍에 그러한 일치점을 제공합니다. 만약 전달이 드물거나 요원해진다면, '중요해 보이는 것'과 같은 다른 강력한 이해관계가 조직을 지배하게 됩니다.  
+  
+한 관리자의 강력한 이해관계는 100명 규모의 조직을 운영하는 것일 수 있습니다. 아마도 회사 내에 100명이 없으면 할 수 없는 직무가 있고, 그 관리자가 그 직무를 수행하기 위한 경험을 원하기 때문일 것입니다. 그것이 소프트웨어 전달을 위한 최단 경로는 아닐지라도, 관리자가 이 경험을 얻도록 100명의 개발자를 제공하는 것이 회사의 최선의 이익일 수도 있습니다.  
+  
+대규모 조직은 항상 여러 목표를 가지고 있으며, 이 목표들은 조화를 이룰 수도 있고 그렇지 않을 수도 있습니다. 
+목표들이 조화를 이룰 때, 어떤 목표를 향한 개인의 노력이라도 최소한 간접적으로는 조직의 주된 목표에 기여하게 됩니다. 상업 조직의 경우 이 주된 목표는 종종 주주 가치(shareholdervalue)를 높이는 것입니다.     
+  
+소프트웨어를 전달하는 것이 조직의 조화된 목표 중 하나일 때마다, 그 조직에는 익스트림 프로그래밍을 위한 자리가 있습니다.  
 
-The second of our two key words is 'software'. Extreme programming relies on emergent abstraction achieved though continual factoring of the software. Software has more in common with folk tunes than circuit boards in this regard in that both software and folk tunes are improved through rework while a circuit board becomes brittle and breaks. It is a mistake to manage the design of software as one would manage the design of circuit boards as the software then becomes brittle too which is a loss.
+## 소프트웨어
+두 핵심 단어 중 두 번째는 '소프트웨어'입니다. 익스트림 프로그래밍은 소프트웨어의 지속적인 팩토링(factoring)을 통해 달성되는 창발적 추상화(emergent abstraction)에 의존합니다.   
 
-Hardware design actually aspires to be more like software and is progressing in this direction through programmable components. The essential measure here is change turn-around time for which 30 seconds is considered good and is easily achieved through in-place programming. Unfortunately the true cost of change can still escalate with program complexity unless means for effective rework are in place. This comes down to effective factoring of resource allocations such as registers, timers, counters, ports, bits and so forth. The goal isn't so much to get above these things as to be able to talk about them effectively. I've had some initial success using objects to model the 'organization' of microcontroller code rather than modeling the 'computation' it is to perform.
+이런 점에서 소프트웨어는 회로 기판보다는 민요와 더 많은 공통점을 가집니다. 소프트웨어와 민요는 모두 재작업(rework)을 통해 개선되지만, 회로 기판은 재작업 시 깨지기 쉽고 부서지기 때문입니다.   
+소프트웨어 설계를 회로 기판 설계처럼 관리하는 것은 실수입니다. 그렇게 하면 소프트웨어 역시 깨지기 쉬워지며 이는 손실입니다.  
+  
+하드웨어 설계는 사실 소프트웨어처럼 되기를 갈망하며, 프로그래밍 가능한 부품들을 통해 이 방향으로 나아가고 있습니다.   
+여기서 핵심 척도는 변경 소요 시간(change turn−around time)이며, 30초 정도가 좋은 수준으로 여겨지고 인플레이스 프로그래밍(in−place programming)을 통해 쉽게 달성됩니다.   
+불행히도, 효과적인 재작업 수단이 마련되어 있지 않다면 변경의 실제 비용은 프로그램의 복잡도에 따라 계속해서 치솟을 수 있습니다. 이는 레지스터, 타이머, 카운터, 포트, 비트 등과 같은 리소스 할당의 효과적인 팩토링 문제로 귀결됩니다.  
+  
+목표는 이러한 것들로부터 벗어나는 것이라기보다는 그것들에 대해 효과적으로 이야기할 수 있게 되는 것입니다. 저는 수행해야 할 '연산(computation)'을 모델링하는 대신, 객체를 사용하여 마이크로컨트롤러 코드의 '구조(organization)'를 모델링하는 데 약간의 초기 성공을 거두었습니다.  
+  
+## 결론  
+따라서 대기업의 경우와 소형 프로세서의 경우 모두, 가치의 핵심은 창발적 조직(emergent organization)이며, 익스트림 프로그래밍 실천법의 적용을 가능하게 하는 것은 바로 유연한 모델의 독창적인 사용입니다.
 
-So in both the case of the large company and the small processor it is emergent organization that is the key to value and original use of flexible models that enables the extreme programming practices to apply.
+---
+글 내용중 모르는 내용을 찾아보았습니다.
+
+### 인플레이스 프로그래밍(In-Place Programming)
+마이크로컨트롤러(MCU)나 메모리 칩과 같은 전자 부품을 회로 기판에서 떼어내지 않고, 제자리에 장착된 상태 그대로 내부 프로그램을 수정하거나 새로 쓰는 기술을 말합니다.  
+과거 칩분리 방식은 매우 번거롭고 시간이 오래 걸리며, 칩이나 보드를 물리적으로 손상시킬 위험도 컸습니다.
+
+### 수행해야 할 '연산(computation)'을 모델링하는 대신, 객체를 사용하여 '구조(organization)'를 모델링 하는 것
+#### 연산(Computation) 모델링
+"요리 레시피" 방식, 이는 전통적인 임베디드 프로그래밍 방식입니다. "무엇을, 어떤 순서로 할 것인가?" 에만 집중합니다.
+
+##### 관점
+컴퓨터(MCU)가 수행해야 할 작업의 절차와 순서에 초점을 맞춥니다.
+
+##### 코드 형태:  
+```
+main 함수 안에 모든 작업이 순서대로 나열됩니다.
+1. 센서 값을 읽어라 (레지스터 A에서).
+2. 그 값이 100보다 크면, LED를 켜라 (포트 B의 5번 핀을 HIGH로 만들어라).
+3. 0.5초 기다려라.
+4. LED를 꺼라 (포트 B의 5번 핀을 LOW로 만들어라).
+5. 1번으로 돌아가라.
+```
+
+##### 문제점:
+취약함(Brittle): LED가 다른 핀으로 바뀌면, 코드 전체에서 '포트 B의 5번 핀'을 제어하는 모든 부분을 찾아 수정해야 합니다. 실수가 발생하기 쉽습니다.
+재사용 불가: 이 LED 점멸 코드는 이 특정 프로젝트에 완전히 종속되어 있어 다른 프로젝트에서 재사용하기 어렵습니다.
+이해하기 어려움: 코드가 길어지면 전체가 복잡한 스파게티처럼 얽혀서, 특정 기능을 이해하거나 수정하기가 매우 힘들어집니다. 이 방식은 "연산" 즉, '값을 읽고, 비교하고, 출력하고, 기다리는' 행위의 연속으로만 시스템을 바라봅니다.
+
+#### 구조(Organization) 모델링
+"주방 시스템" 방식, 워드 커닝햄이 말한 "객체를 사용한" 접근 방식입니다.  
+"시스템이 어떤 부품들로 구성되어 있고, 각 부품의 역할과 책임은 무엇인가?" 에 집중합니다.
+
+##### 관점
+시스템을 독립적인 역할을 가진 여러 부품(객체)의 조합으로 바라봅니다.
+
+##### 코드 형태
+```
+* 'LED'라는 부품(객체)을 먼저 정의합니다.
+이 'LED' 부품은 켜기(), 끄기(), 깜빡이기() 같은 기능(메서드)을 책임집니다.
+'LED' 부품은 자신이 어떤 핀에 연결되어 있는지 스스로 알고 있습니다.
+* '온도센서'라는 부품(객체)도 정의합니다.
+이 '온도센서'는 현재온도읽기() 같은 기능을 책임집니다.
+* main 함수에서는 이 부품들을 조립하여 원하는 시나리오를 만듭니다.
+만약 (온도센서.현재온도읽기() > 50) { 경고용LED.깜빡이기(0.1초_간격); }
+```
+
+##### 장점
+유연함(Flexible): LED가 다른 핀으로 바뀌어도 'LED' 부품의 내부 정의만 살짝 바꾸면 됩니다. main 함수의 코드는 전혀 수정할 필요가 없습니다.  
+재사용 가능: 잘 만들어진 'LED'나 '온도센서' 부품은 어떤 프로젝트에든 가져가서 쉽게 재사용할 수 있습니다.  
+이해하기 쉬움: 코드가 실제 세상의 부품처럼 논리적인 단위로 묶여있어 전체 구조를 파악하기 쉽습니다. "경고용 LED가 깜빡인다"처럼 사람이 생각하는 방식과 가깝게 코드를 읽을 수 있습니다.  
+이 방식은 저수준의 '연산'을 부품이라는 '구조' 안에 감추고(캡슐화), 개발자는 잘 정의된 부품들을 조립하는 데 집중하게 만듭니다.
