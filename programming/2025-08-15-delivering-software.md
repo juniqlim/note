@@ -1,5 +1,6 @@
 # Delivering Software
-https://c2.com/doc/xpu02/panel.html  
+
+https://c2.com/doc/xpu02/panel.html    
 워드 커닝햄의 글 "Delivering Software"를 한국어로 번역한 내용입니다.  gemini 2.5 pro를 이용했습니다.
 ---
 워드 커닝햄  
