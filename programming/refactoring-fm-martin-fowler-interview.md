@@ -1,6 +1,7 @@
 # Refactoring.fm Martin Fowler Interview
 https://youtu.be/lurbDAEU0KM?si=b99RCgaKdz7cNH9  
 마틴파울러 인터뷰 영상의 스크립트를 번역한 내용입니다. gemini 2.5 pro를 이용했습니다.
+
 ---
 
 [마틴]
