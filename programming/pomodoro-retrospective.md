@@ -1,6 +1,6 @@
 # 뽀모도로 회고 
 ## 뽀모도로 회고
-[뽀모도로 기법](https://en.wikipedia.org/wiki/Pomodoro_Technique)은 기간관리 방법이다.
+[뽀모도로 기법](https://en.wikipedia.org/wiki/Pomodoro_Technique)은 시간관리 방법이다.
 25분 집중해서 작업을 하고 5분 완전히 쉰다. 이 사이클을 반복한다.
 
 여기에 한 사이클이 종료되면 그 사이클을 [회고](https://en.wikipedia.org/wiki/Retrospective#Software_development)하는 것을 추가한다.
