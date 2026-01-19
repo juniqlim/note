@@ -2,7 +2,7 @@
 
 켄트백이 3x에 대해 예를 들어 설명해준다.   
 claude opus 4.5  
-좀 더 의역은 [gemini 3 pro](https://github.com/juniqlim/note/blob/master/kent-3x-gemini-3-pro.md)  
+좀 더 의역은 [gemini 3 pro](https://github.com/juniqlim/note/blob/master/programming/kent-3x-yow-2018-gemini-3-pro.md)  
 ---
 정말 감사합니다. 브리즈번에 아부하면서 시드니를 깎아내리는 농담을 준비했는데, 그 타이밍을 빼앗겨서 그걸로 시작할 수가 없네요. 오늘 와주셔서 정말 감사합니다. 점심 후 시간대라는 걸 알고 있습니다. 대중 연설을 많이 해보셨는지 모르겠지만, 이건 연사에게는 벌칙 시간대입니다.
 그래서 오늘 제가 뭘 잘못했길래 이 시간을 받았는지 모르겠지만, 어쨌든 여기 있습니다.

@@ -2,7 +2,7 @@
 
 켄트백이 3x에 대해 예를 들어 설명해준다.  
 gemini 3 pro  
-좀 더 직역은 [claude opus 4.5](https://github.com/juniqlim/note/blob/master/kent-3x-opus-45.md)
+좀 더 직역은 [claude opus 4.5](https://github.com/juniqlim/note/blob/master/programming/kent-3x-yow-2018-opus-45.md)
 ---
 
 대단히 감사합니다.
