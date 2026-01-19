@@ -1,5 +1,5 @@
 # 3X Explore, Expand, Extract • Kent Beck • YOW! 2018
-
+https://www.youtube.com/watch?v=WazqgfsO_kY  
 켄트백이 3x에 대해 예를 들어 설명해준다.   
 claude opus 4.5  
 좀 더 의역은 [gemini 3 pro](https://github.com/juniqlim/note/blob/master/programming/kent-3x-yow-2018-gemini-3-pro.md)  
