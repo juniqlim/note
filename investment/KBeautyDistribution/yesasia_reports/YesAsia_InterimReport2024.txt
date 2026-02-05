@@ -1,0 +1,6088 @@
+CONTENTS
+1
+
+Contents
+
+2
+
+Corporate Information
+
+3
+
+Definitions and Glossary
+
+6
+
+Key Highlights
+
+8
+
+Management Discussion and Analysis
+
+20
+
+Other Information
+
+35
+
+Interim Condensed Consolidated Statement of
+Profit or Loss
+
+36
+
+Interim Condensed Consolidated Statement of
+Profit or Loss and Other Comprehensive Income
+
+37
+
+Interim Condensed Consolidated Statement of
+Financial Position
+
+38
+
+Interim Condensed Consolidated Statement of
+Changes in Equity
+
+39
+
+Interim Condensed Consolidated Statement of
+Cash Flows
+
+40
+
+Notes to Interim Condensed Consolidated Financial
+Information
+
+CORPORATE INFORMATION
+
+BOARD OF DIRECTORS
+
+AUDITOR
+
+Executive Directors
+
+RSM Hong Kong
+Certified Public Accountants
+Registered Public Interest Entity Auditor
+29th Floor
+Lee Garden Two
+28 Yun Ping Road
+Causeway Bay
+Hong Kong
+
+Mr. Lau Kwok Chu (劉國柱) (Chief Executive Officer)
+Ms. Chu Lai King (朱麗琼) (Chairperson)
+Mr. Chu Kin Hang (朱健恒)
+Non-executive Directors
+Mr. Lui Pak Shing Michael (雷百成)
+Mr. Hui Yat Yan Henry (許日昕)
+Mr. Poon Chi Ho (潘智豪)
+Independent Non-executive Directors
+Mr. Chan Yu Cheong (陳汝昌)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+Mr. Wong Chee Chung (王子聰)
+
+HEAD OFFICE AND REGISTERED
+OFFICE IN HONG KONG
+5/F., KC100, 100 Kwai Cheong Road
+Kwai Chung, New Territories, Hong Kong
+
+LEGAL ADVISOR AS TO HONG KONG
+LAWS
+
+AUDIT COMMITTEE
+Ronald Tong & Co
+Mr. Wong Chee Chung (王子聰) (Chairman)
+Mr. Hui Yat Yan Henry (許日昕)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+Mr. Chan Yu Cheong (陳汝昌)
+
+REMUNERATION COMMITTEE
+Mr. Chan Yu Cheong (陳汝昌) (Chairman)
+Mr. Poon Chi Ho (潘智豪)
+Mr. Wong Chee Chung (王子聰)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+
+NOMINATION COMMITTEE
+Mr. Sin Pak Cheong Philip Charles (冼栢昌) (Chairman)
+Mr. Chu Kin Hang (朱健恒)
+Mr. Chan Yu Cheong (陳汝昌)
+Mr. Wong Chee Chung (王子聰)
+
+COMPANY SECRETARY
+
+SHARE REGISTRAR
+Computershare Hong Kong Investor Services Limited
+Shops 1712-1716, 17th Floor, Hopewell Centre
+183 Queen’s Road East, Wan Chai
+Hong Kong
+
+PRINCIPAL BANKS
+The Hongkong and Shanghai Banking
+Corporation Limited
+DBS Bank (Hong Kong) Limited
+
+STOCK CODE
+2209
+
+CORPORATE WEBSITE
+www.yesasiaholdings.com
+
+Mr. Ng Sai Cheong (伍世昌)
+
+AUTHORISED REPRESENTATIVES
+Mr. Lau Kwok Chu (劉國柱)
+Mr. Ng Sai Cheong (伍世昌)
+
+2
+
+YesAsia Holdings Limited Interim Report 2024
+
+SHOPPING WEBSITES
+www.yesstyle.com
+www.asianbeautywholesale.com
+www.yesasia.com
+
+DEFINITIONS AND GLOSSARY
+
+“AMR”
+
+automated robot equipment used in the integrated system of hardware and
+software for warehouse and logistics management functions
+
+“AsianBeautyWholesale”
+
+the AsianBeautyWholesale platform with its website at www.AsianBeautyWholesale.com
+
+“Audit Committee”
+
+the audit committee of our Company
+
+“Board” or “Board
+of Directors”
+
+the board of directors of our Company
+
+“CN Logistics”
+
+CN Logistics International Holdings Limited (嘉泓物流國際控股有限公司) (a
+company incorporated in the Cayman Islands with limited liability, whose shares are
+listed on the Main Board of the Stock Exchange (stock code: 2130))
+
+“Company”, “our Company”, YesAsia Holdings Limited (喆麗控股有限公司), a company incorporated with
+“the Company”or “YesAsia” limited liability in Hong Kong on 11 March 2005, or, where the context requires
+(as the case may be), its predecessor, YesAsia.com, Inc. (formerly known as Asia
+CD, Inc.), a company incorporated in California, the US on 18 December 1997,
+and except where the context indicates otherwise (i) our subsidiaries and (ii) with
+respect to the period before our Company became the holding company of our
+present subsidiaries, the business operated by our present subsidiaries or (as the
+case may be) their predecessors
+“Directors” or “our Directors”
+
+the directors of our Company
+
+“EEA”
+
+European Economic Area
+
+“Group”, “our Group”,
+“we” or “us”
+
+our Company and its subsidiaries or, where the context requires, in respect of
+the period prior to our Company becoming the holding company of its present
+subsidiaries, such subsidiaries as if they were subsidiaries of our Company at the
+relevant time
+
+“HK$” or “Hong Kong dollars” Hong Kong dollars, the lawful currency of Hong Kong
+“Hong Kong”
+
+the Hong Kong Special Administrative Region of the People’s Republic of China
+
+“Listing”
+
+the listing of the Shares on the Main Board of the Stock Exchange
+
+“Listing Date”
+
+9 July 2021, on which the Shares are first listed and from which dealings in the
+Shares are permitted to take place on the Main Board of the Stock Exchange
+
+“Listing Rules”
+
+the Rules Governing the Listing of Securities on the Stock Exchange, as amended
+or supplemented from time to time
+
+YesAsia Holdings Limited Interim Report 2024
+
+3
+
+DEFINITIONS AND GLOSSARY
+
+4
+
+“Main Board”
+
+the stock exchange (excluding the option market) operated by the Stock Exchange
+which is independent from and operated in parallel with the GEM of the Stock
+Exchange. For the avoidance of doubt, the Main Board excludes the GEM
+
+“Mapletree Smart
+Robotics Warehouse”
+
+the smart warehouse located at Mapletree Logistics Hub with approximately
+147,468 square feet in Tsing Yi equipped with AMR
+
+“Model Code”
+
+Model Code for Securities Transactions by Directors of Listed Issuers as contained
+in Appendix C3 to the Listing Rules
+
+“pp”
+
+percentage point
+
+“Pre-IPO Share Option
+Schemes”
+
+YesAsia Holdings 2016 General Stock Option Plan, being the pre-IPO share
+option schemes of the Company approved and adopted by the Company on 30
+June 2016, particulars of which are set out in “Other Information — Share Option
+Scheme” to this interim report
+
+“Prior Period” or “2023 1H”
+
+the six months ended 30 June 2023
+
+“Prospectus”
+
+prospectus of the Company dated 28 June 2021
+
+“Relevant Jurisdiction”
+
+any jurisdiction that is relevant to the Company and has sanctions related law or
+regulation restricting, among other things, its nationals and/or entities which are
+incorporated or located in that jurisdiction from directly or indirectly making assets
+or services available to or otherwise dealing in certain countries, governments,
+person or entities targeted by such law or regulation
+
+“Reporting Period” or
+“2024 1H”
+
+the six months ended 30 June 2024
+
+“Sanctioned Countries”
+
+Any country or territory subject to a general and comprehensive export, import,
+financial or investment embargo under sanctions related laws or regulation of the
+Relevant Jurisdiction, namely Cuba, Iran, North Korea, Syria, the Crimea, Donetsk
+and Luhansk Regions
+
+“Sanctioned Person(s)”
+
+certain person(s) and entity(ies) listed on The US Department of Treasury’s Office
+of Foreign Assets Control’s Specially Designated Nationals and Blocked Persons
+List or other restricted parties lists maintained by the US, the European Union, the
+United Nations or Australia
+
+YesAsia Holdings Limited Interim Report 2024
+
+DEFINITIONS AND GLOSSARY
+
+“SFO”
+
+the Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong)
+
+“Share(s)”
+
+ordinary share(s) in the share capital of our Company
+
+“Share Split”
+
+the subdivision of one Share into ten Shares pursuant to the resolutions passed by
+the Shareholders on 9 June 2021
+
+“Shareholder(s)”
+
+holder(s) of Shares
+
+“Stock Exchange”
+
+The Stock Exchange of Hong Kong Limited
+
+“Subsidiary(ies)”
+
+has the meaning ascribed to it under the Listing Rules
+
+“UK” or “U.K.”
+
+the United Kingdom
+
+“US”, “United States” or
+“U.S.”
+
+the United States of America, its territories and possessions, any state of the United
+States and the District of Columbia
+
+“US$”
+
+United States dollar, the lawful currency of the United States
+
+“YesAsia” or “YesAsia
+Platform”
+
+the YesAsia platform with its website at www.YesAsia.com
+
+“YesStyle” or “YesStyle
+Platforms”
+
+the YesStyle platforms, which include the website at www.YesStyle.com and the
+YesStyle Mobile apps
+
+YesAsia Holdings Limited Interim Report 2024
+
+5
+
+KEY HIGHLIGHTS
+
+Six months ended 30 June
+
+Revenue
+Gross profit
+Gross profit margin(1)
+Profit for the period
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+Change
+(%)
+
+163,348
+50,192
+30.7%
+11,107
+
+90,657
+28,182
+31.1%
+1,563
+
+80.2
+78.1
+(0.4pp)
+610.6
+
+Note:
+(1)
+Gross profit margin is calculated based on gross profit divided by revenue and multiplied by 100%.
+
+Six months ended 30 June
+E-commerce Platforms(1)
+Number of E-commerce platforms customers(2)
+Average order size(3) (US$)
+Acquisition cost per new customer(4) (US$)
+Revenue generated from fashion and lifestyle products (US$’000)
+Revenue generated from beauty products (US$’000)
+Revenue generated from entertainment products on
+E-commerce platform (US$’000)
+Return rate (YesStyle)
+Return rate (AsianBeautyWholesale)
+Return rate (YesAsia)
+
+2024
+
+2023
+
+1,304,000
+$84.0
+$10.6
+$12,722
+$149,361
+
+796,000
+$78.9
+$9.6
+$19,040
+$69,833
+
+$1,020
+0.4%
+0.6%
+0.3%
+
+$1,179
+0.8%
+0.3%
+0.1%
+
+Notes:
+(1)
+E-commerce platforms include YesStyle (website and mobile apps), AsianBeautyWholesale (website) and YesAsia
+(website).
+(2)
+A person is considered as customer of our E-commerce platform during a reporting period if the invoice of his/
+her/its order has been issued within the reporting period. A person who made his/her/its purchases on different
+E-commerce platforms is accounted as a separate E-commerce customer of each E-commerce platform and
+any anonymous person can register multiple accounts on each of the E-commerce platforms and be counted as
+multiple E-commerce customers.
+(3)
+The average order size is equal to the total order amount divided by the number of orders (excluding canceled
+orders). Total order amount represents the amount paid by our customers for the value of products purchased,
+and before indirect tax payment, effects on foreign exchange, post-sale order refund and adjustments, and other
+accounting adjustments.
+(4)
+This represents marketing and promotion fees incurred during the period divided by the number of new customer
+acquired across all E-commerce platforms of the Group during the same period. A new customer is a customer
+where first invoice of his/her/its first ever order has been issued within the reporting periods. A guest visitor who
+made his/her purchase during different reporting periods without specific customer identification data is counted as
+a new customer for each of the reporting periods.
+
+Six months ended 30 June
+YesStyle Platforms
+Number of YesStyle Mobile apps downloads
+(Includes IOS and Android)
+Influencer Program expenses (US$’000)
+Revenue generated by the YesStyle Mobile apps (US$’000)
+Revenue generated by influencers’ referrals (US$’000)
+
+6
+
+YesAsia Holdings Limited Interim Report 2024
+
+2024
+
+2023
+
+2,264,000
+$2,293
+$60,405
+$33,934
+
+1,683,000
+$1,352
+$31,548
+$15,769
+
+KEY HIGHLIGHTS
+
+REVENUE FROM DIFFERENT REGIONS
+US & Canada
+
+US$’000
+
+UK/EU/EEA/Switzerland
+
+Middle East
+9,747
+
+67,539
+
+63,608
+
+45,113
+31,370
+49.7%
+
+2023 1H
+
+102.8%
+
+2024 1H
+
+2023 1H
+
+Oceania
+
+3,207
+
+2024 1H
+
+204.0%
+
+2023 1H
+
+Latin America
+
+2024 1H
+
+Rest of World
+11,183
+
+6,070
+4,473
+
+5,737
+
+5,201
+
+35.7%
+
+94.9%
+
+587.1%
+757
+2023 1H
+
+2024 1H
+
+2023 1H
+
+2024 1H
+
+2023 1H
+
+2023 1H
+
+2024 1H
+
+2024 1H
+
+UK/EU/EEA/Switzerland
+34.6%
+US & Canada
+49.8%
+
+UK/EU/EEA/Switzerland
+39.0%
+US & Canada
+41.3%
+
+Latin America
+0.8%
+Middle East
+3.5%
+Rest of World
+6.3%
+
+Oceania
+5.0%
+
+Latin America
+3.2%
+Middle East
+6.0%
+Rest of World
+6.8%
+
+Oceania
+3.7%
+
+YesAsia Holdings Limited Interim Report 2024
+
+7
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS OVERVIEW
+The Group has reached a historical high for its first-half revenue. Thanks to the rise in sales in beauty products via
+both its retail platforms and wholesale platforms – YesStyle and AsianBeautyWholesale, particularly in the US and
+Europe.
+During the Reporting Period:
+–
+
+Revenue increased by about 80.2% to approximately US$163,348,000 (Prior Period: US$90,657,000)
+
+–
+
+Net profit rocketed over six times to approximately US$11,107,000, as compared with approximately
+US$1,563,000 in the Prior Period
+
+Beauty products – a major growth driver
+–
+
+The stellar performance of beauty products, in particular Korean beauty (“K-Beauty”) products, made it a
+major revenue growth driver during the Reporting Period
+
+–
+
+Beauty products contributed approximately 91.4% of the Group’s revenue during the Reporting Period, as
+compared with approximately 80.6% during the year ended 31 December 2023
+
+–
+
+Pursuing both diversity and quality, the Group has re-shuffled its brand portfolio to partner with 466 K-Beauty
+brands (31 December 2023: 448) after ceasing partnership with 15 underperforming brands
+
+–
+
+During the Reporting Period, the Group has also strengthened its on-going partnership with popular K-Beauty
+companies including Amorepacific Corporations, CJ Olive Young and LG Household & Health Care (“LG
+H&H”) by adding several more of their brands to our platforms, namely Mamonde and B.READY from
+Amorepacific Corporation, CARE PLUS under CJ Olive Young Corporation, and Belief and CNP Laboratory,
+from LG H&H
+
+–
+
+Revenue contributed by entertainment products and fashion products continued to downtrend as the
+Group focused on its beauty products
+
+Europe outpaced US in revenue growth
+
+8
+
+–
+
+European Union (“EU”) overtook US in revenue growth, recording a three-digit growth rate of approximately
+114.1% during the Reporting Period. It contributed approximately 30.5% of the Group’s revenue during the
+Reporting Period
+
+–
+
+United States, representing approximately 35.4% of the Group’s business, still recorded a double-digit
+growth rate (approximately 42.4% during the Reporting Period)
+
+–
+
+Latin America and Middle East regions, especially Saudi Arabia and the United Arab Emirates (“U.A.E.”),
+also demonstrated strong growth momentum
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Big leap in retail e-commerce mirrored in wholesale
+–
+
+Revenue from YesStyle platforms, which cater to B2C customers, jumped approximately 75.1% to about
+US$125,132,000 during the Reporting Period (Prior Period: US$71,450,000), driven by record-high sales in
+beauty products
+
+–
+
+YesStyle Platforms were also ranked as No.1 most visit website for Asian beauty products in many major
+overseas markets, including the US, the UK, Canada, Australia, France, Germany, Italy and Spain
+
+–
+
+Revenue from AsianBeautyWholesale, on the other hand, was more than doubled to approximately
+US$36,951,000 (Prior Period: US$17,423,000), contributing approximately 22.6% of the Group’s total
+revenue
+
+–
+
+AsianBeautyWholesale’s number of customers, number of orders and average order size rose by
+approximately 8.4%, 50.1% and 41.3% respectively as compared to the Prior Period
+
+Social media and digital technologies in e-commerce
+The effective application of digital technologies is indispensable in e-commerce where potential customers are
+usually perusing several shopping sites at the same time while relying heavily on online reviews for their purchase
+decisions. YesAsia was one of the first in the market to heavily invest in social media marketing, and AI-powered
+customer relationship management system.
+i)
+
+Social media: YesStyle Influencer Program
+–
+
+The new incentives, new loyalty program and continued recruitment driving under the YesStyle
+Influencer Program have translated into growth, reaching over 1 million users across various social
+media platforms
+
+–
+
+The total number of unique influencers grew to approximately 365,000 by the end of June 2024 (31
+December 2023: 333,000)
+
+–
+
+In particular, the number of YesStyle TikTok Influencers reached approximately 87,000 at the end of
+June 2024 (31 December 2023: 72,000), representing a growth rate of approximately 20.8%
+
+–
+
+During the Reporting Period, revenue generated from influencer referrals was more than double to
+approximately US$33,934,000 (Prior Period: US$15,769,000), amounting to approximately 27.2% of
+the YesStyle Platforms’ revenue (Prior Period: 22.1%)
+
+–
+
+We continued to partner with influencers to create interesting videos and posts on various platforms,
+including Instagram, TikTok and YouTube
+
+YesAsia Holdings Limited Interim Report 2024
+
+9
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+ii)
+
+Customer Relationship Management (“CRM”) System
+Powered by AI technology, our CRM system has effectively enhanced customer retention rate, and
+increased revenue from existing customers:
+–
+
+Revenue facilitated by the CRM System had more than doubled to approximately US$23,796,000
+during the Reporting Period (Prior Period: US$11,524,000)
+
+–
+
+The number of YesStyle loyalty program members grew by approximately 18.4% to approximately
+13,753,000 as at 30 June 2024 (31 December 2023: 11,617,000)
+
+–
+
+YesStyle Student Program, targeting Generation Z students, reached approximately 149,000
+members at the end of the Reporting Period (Prior Period: 70,000); revenue generated went up by
+approximately 44.9% to approximately US$3,402,000 during the Reporting Period (Prior Period:
+US$2,348,000)
+
+Cost control
+We have been keeping a close eye on cost-control as agility is vital in the fast-paced business environment of
+e-commerce. Under stringent costs control measures, we have been able to keep our expenses growth rate below
+our revenue growth rate:
+–
+
+Our selling expenses, excluding payment gateway charges, amounted to approximately US$14,562,000 for
+the Reporting Period (Prior Period: US$8,844,000), representing an increase of approximately 64.7%, which
+is lower than the growth rate of the Group’s revenue (approximately 80.2%) during the same period
+
+–
+
+Administrative staff costs, on the other hand, increased by approximately 30.6% to approximately
+US$10,584,000 during the Reporting Period (Prior Period: US$8,107,000) mainly due to approximately
+US$1,820,000 of bonuses accrued (Prior Period: Nil) as the Group achieved the set performance during the
+Reporting Period.
+
+In addition, we continue to manage our inventories in good quality and optimal quantity. Inventories written down
+amounted to approximately US$98,000 for the Reporting Period (Prior Period: US$187,000), representing 0.1%
+(Prior Period: 0.2%) of the Group’s revenue. Return rate for YesStyle had also been maintained at 0.4% (Prior
+Period: 0.8%) while revenue grew during the Reporting Period.
+
+10
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+PROSPECTS
+We feel encouraged by our strong performance in 2024 1H, and would like to express our appreciation to our
+colleagues, partners, and customers.
+Looking forward, we are excited by what lies ahead for YesStyle. Despite macroeconomics headwinds such as
+geopolitics, trade relations, and inflation, we are optimistic about the prospects of YesStyle as its diverse portfolio
+of K-Beauty products continues to appeal to its global audience – particularly in Europe and the US, where K-Beauty
+products have surpassed French beauty products for the first time to top the import cosmetics market share.
+K-Beauty: strong, sustainable growth in the US and Europe
+Korean cosmetics products reached a remarkable milestone in the US market, overtaking French beauty products
+in the US import cosmetics market share during the first four months of 2024. According to data from the United
+States International Trade Commission (“USITC”), Korea came out at the top of the US import cosmetics market
+share for the first time, capturing 20.1% of the market with a value of US$477.1 million. It has displaced France, a
+traditional global leader in cosmetics, which came in second with US$459.43 million, accounting for 19.3% of the
+market share. The popularity of K-Beauty is expected to continue in the US market – the North America K-Beauty
+products market is expected to grow with a compound annual growth rate (“CAGR”) of 10.02% during the period
+from 2023 to 2032, where it is expected to reach US$9.9 billion in revenue.
+Similarly, Europe K-beauty products market size is set to increase at a CAGR of 9.48% during the same period,
+where its revenue is expected to grow to US$5.6 billion by 2032. That is why we have been active in recruiting
+influencers across the world to run the social media marketing campaigns in their respective markets, and
+investing in multiple European language versions of our website. We are operating Spanish and Arabic languages
+on YesStyle to unleash the market potential of Latin America and Middle East.
+Competitive pricing, delivery and user experience
+E-commerce boom is expected to carry on as statistics have shown that online shopping is here to stay, for
+example, 22.6% of total retail sales will be conducted online by 2027. Optimisation has therefore become a
+business mandate to remain competitive in an ever-changing, price-sensitive industry overshadowed by high
+inflation, currency fluctuation and supply chain challenges.
+To further control costs, shorten delivery time and enhance online order fulfilment, we are planning to build a
+second AMR warehouse in Hong Kong, and have established overseas warehouses in the US, the U.K., and
+Germany to cater for our B2C and B2B customers around the world. We are also exploring partnership with
+logistics companies to further reduce freight costs from Hong Kong and South Korea to overseas markets.
+On the other hand, our CRM system utilises AI algorithms in collecting and analysing real-time transactional and
+behavioural customer data. The system then enhances sales performance by providing the best selections to
+customers that cater to their preferences in terms of product types, and pricing.
+
+YesAsia Holdings Limited Interim Report 2024
+
+11
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Scalability: additional logistics hub to meet surging customer demand
+The additional warehouses in Hong Kong, the US, the UK and Germany not only help shorten delivery time
+and lower transportation costs, but also increase the scalability of YesStyle as it responds to the rapid surge in
+customer demand.
+The second AMR warehouse at the Mapletree Logistic Hub in Hong Kong will play a vital role in responding to
+the ebbs and flows in market demand. Drawing on the proven experience of the current fulfilment centre, the new
+highly-automated facility will enable the Group to increase operational efficiency and capacity with relatively less
+manpower, thereby satisfying rapidly growing customer demand across its e-commerce platforms. The second
+AMR warehouse is expected to commence operations in the first quarter of 2025.
+Deep collaboration with brands: social media marketing and brand management
+Social media shopping has been on the rise among younger consumers – for example, the Group has found that
+more and more users are making purchases directly on TikTok. As such, YesAsia is taking a step forward in its
+digital marketing solutions: we not only promote our partnering brands on our own website, but also mobilize our
+approximately 365,000 influencers online to help them run their social media platforms, and online shops.
+For example, in 2024 June, we have kicked off a three-year US exclusive distribution agreement with Too Cool for
+School (“TCFS”), which puts us in charge of running its US Amazon store and US official website for both B2C
+and B2B channels. We have also been recruiting online influencers for the brand, setting up and operating its US
+Instagram and TikTok accounts, as well as building up its offline channels. Our marketing strategies will be backed
+up by the transactional and behavioural data collected from millions of customers via our CRM system.
+Meet surging customer demand with an additional logistic hub
+To keep pace with the booming K-Beauty market, the Group has established three overseas warehouses in the
+US, the UK and Germany and is building a second AMR warehouse at the Mapletree Logistics Hub in Hong Kong.
+Looking forward, we are optimistic about YesAsia’s performance for the rest of the 2024, and beyond. We will
+continue to be agile in adapting to the changing environments, and work with the best brands, and best people to
+bring the best of Asia to the rest of the world.
+
+12
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+FINANCIAL REVIEW
+Revenue
+Our revenue increased by approximately US$72,691,000 or 80.2% from approximately US$90,657,000 during the
+Prior Period to approximately US$163,348,000 during the Reporting Period. The increase was primarily attributable
+to (i) approximately US$53,682,000 or 75.1% increase in sales contributed by YesStyle to approximately
+US$125,132,000 during the Reporting Period from approximately US$71,450,000 during the Prior Period; and (ii)
+approximately US$19,528,000 or 112.1% increase in sales contributed by AsianBeautyWholesale to approximately
+US$36,951,000 during the Reporting Period from approximately US$17,423,000 during the Prior Period, offset by
+(i) approximately US$159,000 or 13.5% decrease in sales contributed by entertainment products to approximately
+US$1,020,000 during the Reporting period from approximately US$1,179,000 during the Prior Period and (ii)
+approximately US$360,000 or 59.5% decrease in revenue contributed by logistics services to approximately
+US$245,000 during the Reporting Period from approximately US$605,000 during the Prior Period.
+The following table sets forth the breakdown of our revenue by business segments:
+Six months ended 30 June
+2024
+(Unaudited) As % of total
+US$’000
+revenue
+Fashion & lifestyle and
+beauty products
+– YesStyle Platforms
+– AsianBeautyWholesale
+
+Entertainment products
+– YesAsia Platform
+Logistics services
+Total
+
+2023
+(Unaudited)
+As % of total
+US$’000
+revenue
+
+Change
+(%)
+
+125,132
+36,951
+
+76.6
+22.6
+
+71,450
+17,423
+
+78.8
+19.2
+
+75.1
+112.1
+
+162,083
+
+99.2
+
+88,873
+
+98.0
+
+82.4
+
+1,020
+
+0.6
+
+1,179
+
+1.3
+
+(13.5)
+
+245
+
+0.2
+
+605
+
+0.7
+
+(59.5)
+
+163,348
+
+100.0
+
+90,657
+
+100.0
+
+80.2
+
+YesAsia Holdings Limited Interim Report 2024
+
+13
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Cost of Sales
+Cost of sales of the Group during the Reporting Period was approximately US$113,156,000, representing an
+increase of approximately US$50,681,000 or 81.1%, as compared to approximately US$62,475,000 during the
+Prior Period. However, product costs as percentage of revenue increased by approximately 1.0 percentage points
+to approximately 47.3% during the Reporting Period from approximately 46.3% in the Prior Period. This was mainly
+because of the increase in the weighting of revenue from AsianBeautyWholesale which has a lower markup as it is
+a wholesale business.
+The following table sets forth the breakdown of our cost of sales:
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+2023
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+Product costs
+Freight charges
+Packing materials
+Direct labour cost
+
+77,296
+35,104
+696
+60
+
+47.3
+21.5
+0.4
+0.1
+
+41,963
+19,986
+464
+62
+
+46.3
+22.0
+0.5
+0.1
+
+84.2
+75.6
+50.0
+(3.2)
+
+Total
+
+113,156
+
+69.3
+
+62,475
+
+68.9
+
+81.1
+
+Gross Profit and Gross Margin
+Gross profit of the Group during the Reporting Period was approximately US$50,192,000, representing an
+increase of approximately US$22,010,000 or 78.1% as compared to approximately US$28,182,000 for the Prior
+Period. The gross profit margin decreased by approximately 0.4 percentage points to approximately 30.7% (Prior
+Period: 31.1%).
+The following table sets forth the breakdown of our gross profit by business segments:
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+(Unaudited)
+US$’000
+
+Gross Profit
+Margin
+(%)
+
+Change
+(%)
+
+43,190
+6,590
+
+34.5
+17.8
+
+23,058
+4,525
+
+32.3
+26.0
+
+87.3
+45.6
+
+49,780
+
+30.7
+
+27,583
+
+31.0
+
+80.5
+
+Entertainment products
+– YesAsia Platform
+
+230
+
+22.5
+
+64
+
+5.4
+
+259.4
+
+Logistics services
+
+182
+
+74.3
+
+535
+
+88.4
+
+(66.0)
+
+50,192
+
+30.7
+
+28,182
+
+31.1
+
+78.1
+
+Fashion & lifestyle and
+beauty products
+– YesStyle Platforms
+– AsianBeautyWholesale
+
+Total
+
+14
+
+2023
+Gross Profit
+Margin
+(%)
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Other Income and Other Gains and Losses
+Our other income and other gains increased by 1,322.0% from approximately US$50,000 during the Prior Period to
+approximately US$711,000 during the Reporting Period. The increase was primarily attributable to (i) approximately
+US$818,000 increase in marketing income to approximately US$825,000 during the Reporting Period compared
+to approximately US$7,000 during the Prior Period; (ii) approximately US$91,000 increase in interest income from
+bank deposits to approximately US$151,000 during the Reporting Period compared to approximately US$60,000
+during the Prior Period; and (iii) approximately US$2,000 increase in interest income from financial assets at FVTPL
+to approximately US$21,000 during the Reporting Period compared to approximately US$19,000 during the
+Prior Period, partially offset by (i) approximately US$239,000 increase in fair value loss on FVTPL to approximately
+US$311,000 during the Reporting Period compared to approximately US$72,000 during the Prior Period; (ii)
+approximately US$12,000 decrease in dividend income to approximately US$2,000 during the Reporting Period
+compared to approximately US$14,000 during the Prior Period; and (iii) approximately US$7,000 decrease in cash
+rebates to approximately US$15,000 during the Reporting Period compared to approximately US$22,000 during
+the Prior Period.
+Selling Expenses
+The Group’s selling expenses during the Reporting Period were approximately US$18,642,000 (Prior Period:
+US$11,146,000), representing an increase of approximately US$7,496,000 or 67.3% as compared to that for
+the Prior Period. Such increase was mainly attributable to (i) approximately US$3,792,000 or 88.3% increase
+in marketing and promotion fees due to increase in beauty products-focused promotion; (ii) approximately
+US$1,778,000 or 77.2% increase in payment gateway charges; (iii) approximately US$1,580,000 or 116.3%
+increase in outsourced warehouse labour charges and (iv) approximately US$245,000 or 85.1% increase in custom
+duties; (v) approximately US$87,000 or 4.1% increase in warehouse wages; and (vi) approximately US$26,000
+or 100.0% increase in outsourced fulfilment fee during the Reporting Period, partially offset by (i) approximately
+US$9,000 or 1.3% decrease in IT networking fee; and (ii) approximately US$3,000 or 4.2% decrease in web
+content and translation fee.
+The following table sets forth the breakdown of our selling expenses:
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+Marketing and promotion
+fees
+Payment gateway charges
+Outsourced warehouse
+labour charges
+Warehouse wages
+IT networking fee
+Custom duties
+Web content and
+translation fee
+Outsourced fulfilment fee
+Total
+
+As % of
+revenue
+
+2023
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+8,088
+4,080
+
+5.0
+2.5
+
+4,296
+2,302
+
+4.7
+2.5
+
+88.3
+77.2
+
+2,938
+2,213
+696
+533
+
+1.8
+1.4
+0.4
+0.3
+
+1,358
+2,126
+705
+288
+
+1.5
+2.4
+0.8
+0.3
+
+116.3
+4.1
+(1.3)
+85.1
+
+68
+26
+
+–
+–
+
+71
+–
+
+0.1
+–
+
+(4.2)
+100.0
+
+18,642
+
+11.4
+
+11,146
+
+12.3
+
+67.3
+
+YesAsia Holdings Limited Interim Report 2024
+
+15
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Administrative Expenses
+The Group’s administrative expenses during the Reporting Period were approximately US$18,234,000 (Prior
+Period: US$14,563,000), representing an increase by approximately US$3,671,000 or 25.2% as compared to
+that of the Prior Period. The increase was mainly due to (i) approximately US$2,477,000 or 30.6% increase in staff
+costs mainly due to approximately US$1,820,000 of bonuses accrued (Prior Period: Nil) as the Group achieved the
+set performance; (ii) approximately US$446,000 or 48.3% increase in exchange losses, net due to more payments
+settled by our payment gateway as a result of revenue increase; (iii) approximately US$276,000 or 51.6% increase
+in legal and professional fees; (iv) approximately US$206,000 or 57.4% increase in directors’ remuneration; (v)
+approximately US$116,000 or 5.1% increase in depreciation of right-of-use assets due to the newly leased
+office in South Korea; (vi) approximately US$100,000 or 43.9% increase in others; (vii) approximately US$62,000
+or 14.4% increase in utilities expenses; (viii) approximately US$51,000 or 49.0% increase in staff training and
+recruitment expenses resulting from more training programs organized; and (ix) approximately US$32,000 or 5.1%
+increase in rate and management fee during the Reporting Period, partially offset by (i) approximately US$60,000
+or 7.2% decrease in depreciation of property, plant and equipment due to the write-off of leasehold improvements
+for warehouses upon the expiration of the lease during the year ended 31 December 2023; and (ii) approximately
+US$44,000 or 86.3% decrease in operating lease charges due to the renewed lease term of certain short term
+leases in the Prior Period now exceeded twelve months.
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+16
+
+As % of
+revenue
+
+2023
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+Staff costs
+Depreciation of right-ofuse assets
+Exchange losses, net
+Legal and professional fees
+Depreciation of property,
+plant and equipment
+Rates and management
+fee
+Directors’ remuneration
+Utilities expenses
+Staff training and
+recruitment expenses
+Auditor’s remuneration
+Operating lease charges
+Depreciation of intangible
+asset
+Others
+
+10,584
+
+6.5
+
+8,107
+
+8.9
+
+30.6
+
+2,407
+1,369
+811
+
+1.5
+0.8
+0.5
+
+2,291
+923
+535
+
+2.5
+1.0
+0.6
+
+5.1
+48.3
+51.6
+
+770
+
+0.5
+
+830
+
+0.9
+
+(7.2)
+
+660
+565
+492
+
+0.4
+0.3
+0.3
+
+628
+359
+430
+
+0.7
+0.4
+0.5
+
+5.1
+57.4
+14.4
+
+155
+85
+7
+
+0.1
+0.1
+–
+
+104
+77
+51
+
+0.1
+0.1
+0.1
+
+49.0
+10.4
+(86.3)
+
+1
+328
+
+–
+0.2
+
+–
+228
+
+–
+0.3
+
+100.0
+43.9
+
+Total
+
+18,234
+
+11.2
+
+14,563
+
+16.1
+
+25.2
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Finance Costs
+The Group’s finance costs for the Reporting Period were approximately US$504,000 (Prior Period: US$642,000),
+representing a decrease of approximately 21.5% as compared to the Prior Period, reflecting a decrease in interest
+on lease liabilities and provision for reinstatement costs during the Reporting Period.
+Income Tax Expense
+Income tax expense for the Reporting Period was approximately US$2,416,000 (Prior Period: US$319,000),
+representing an increase of approximately US$2,097,000 or 657.4% as compared to the Prior Period. The
+increase was mainly due to the higher taxable profit generated during the Reporting Period.
+Profit for the Period
+As a result of the foregoing, a profit of approximately US$11,107,000 was recorded for the Reporting Period (Prior
+Period: US$1,563,000). The increase in profit was mainly attributable to (i) an enhancement of YesStyle Platforms’
+marketing efforts to promote the sale of beauty products, and (ii) the expansion of AsianBeautyWholesale to serve
+more business-to-business (B2B) customers who are looking to source Asian beauty products globally.
+
+CAPITAL EXPENDITURE
+During the Reporting Period, the Group acquired plant and equipment of approximately US$168,000 (Prior Period:
+US$252,000), representing a decrease of approximately US$84,000 or 33.3% as compared to that for the Prior
+Period.
+
+LIQUIDITY AND CAPITAL RESOURCES
+Our principal source of liquidity was cash from operations and the proceeds from Listing. As of 30 June
+2024, the Group’s bank and cash balances amounted to approximately US$6,868,000 (31 December 2023:
+US$25,181,000).
+Our bank and cash balances, which were mainly denominated in US Dollar, Hong Kong Dollar, Korean Won,
+British Pound Sterling, Japanese Yen, Euro and Renminbi, decreased by approximately US$18,081,000
+during the Reporting Period which was attributable to (i) net cash used in operating activities of approximately
+US$15,148,000; (ii) principal elements of lease payments of approximately US$2,863,000; (iii) increase in pledged
+bank fixed deposits approximately US$417,000; (iv) purchase of property, plant and equipment of approximately
+US$168,000; and (v) purchase of intangible asset of approximately US$50,000; partially offset by (i) US$430,000
+of proceeds from issuance of shares; and (ii) US$151,000 of interest received.
+The net cash used in operating activities was mainly due to operating profit before working capital changes of
+approximately US$18,201,000 during the Reporting Period and an increase in trade and other payables and
+accruals by approximately US$3,253,000, offset by (i) an increase in inventories by approximately US$28,839,000;
+(ii) an increase in prepayments, deposits and other receivables by approximately US$4,330,000; (iii) a decrease
+in contract liabilities by approximately US$1,941,000; and (iv) an increase in trade receivables by approximately
+US$638,000.
+As at 30 June 2024, the Group had no bank borrowing (31 December 2023: Nil). The unutilised banking facilities as
+at 30 June 2024 amounted to approximately US$4,355,000 (31 December 2023: US$5,015,000).
+
+YesAsia Holdings Limited Interim Report 2024
+
+17
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+We believe that our liquidity requirements and our expected source of funding going forward will be satisfied by using
+a combination of cash generated from our operations and net proceeds from Listing.
+
+TREASURY AND FOREIGN EXCHANGE POLICIES
+The Group’s treasury management policy is to avoid any investment in highly-leveraged or speculative derivative
+products. The Group continued to be conservative in managing financial risk during the Reporting Period.
+Consistent with the aforesaid treasury objectives and policy, the Group undertakes treasury management activities
+with respect to its surplus cash assets. The selection criteria of investments include the relative risk profile
+involved, the liquidity of an investment, the after-tax equivalent yield of an investment and investments that are not
+speculative in nature.
+Most business transactions, assets and liabilities of the Group were denominated either in US Dollar, Hong Kong
+Dollar, Korean Won, British Pound Sterling, Japanese Yen, Euro or Renminbi. The E-commerce customers of
+the Group generally settle their invoices using their designated currencies upon checkout via secure payment
+gateways, and the fund is generally transferred to the Group’s account in Hong Kong Dollar and US Dollar upon
+currency conversion. As Hong Kong Dollar is pegged to US Dollar, our Group does not expect any significant
+movements in the exchange rate between US Dollars and Hong Kong Dollars. Besides, our Group has certain
+exposure to foreign currency risk as some of our business transactions, assets and liabilities are denominated
+in currencies (i.e. Korean Won, Japanese Yen, British Pound Sterling, Renminbi and Euro, etc) other than the
+functional currency of our Group (i.e. US Dollar).
+Currently, we do not have a formal foreign currency hedging policy. However, our management monitors the
+Group’s foreign exchange exposure constantly and will consider engaging in derivatives markets or foreign
+exchange hedging measures to minimise the foreign exchange risk when it is foreseen to be significant.
+
+GEARING RATIO
+Our gearing ratio, calculated by the total interest-bearing liabilities (including lease liabilities) divided by total equity,
+decreased from approximately 34.8% as at 31 December 2023 to approximately 23.9% as at 30 June 2024,
+primarily due to amortisation of lease liabilities during the Reporting Period.
+
+CONTINGENT LIABILITIES
+As at 30 June 2024, the Group did not have any material contingent liabilities (31 December 2023: Nil).
+
+CAPITAL COMMITMENTS
+Saved for those disclosed in Note 20 to the Interim Condensed Consolidated Financial Information, the Group did
+not have any significant capital commitments as at 30 June 2024.
+
+18
+
+YesAsia Holdings Limited Interim Report 2024
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+SIGNIFICANT INVESTMENTS HELD
+During the Reporting Period, we did not hold any significant investments, save for the 1,100,000 shares in CN
+Logistics, representing approximately 0.37% of the issued share capital of CN Logistics as at 30 June 2024, with
+a fair value amounted to approximately US$553,000 as at 30 June 2024 (31 December 2023: US$863,000). The
+investment represents approximately 0.6% of the total consolidated asset of the Group as at 30 June 2024 (31
+December 2023: 1.2%). The aforementioned 1,100,000 shares in CN Logistics were subscribed by the Company
+at a total cash consideration of HK$10,120,000. The principal activity of CN Logistics is investment holding, which
+through its subsidiaries, is principally engaged in the provision of air freight forwarding services and distribution and
+logistics services in relation to fashion products and fine wine, primarily focusing on high-end fashion (including
+luxury and affordable luxury) products. CN Logistics is a strategic logistics partner of the Group for delivery of our
+customers’ products to the US, Europe and other overseas markets.
+As at 30 June 2024, the unrealised fair value loss of such investment was approximately US$310,000 due to the
+decrease in share price of CN Logistics during the Reporting Period from our subscription price of HK$9.20 per
+share. A dividend of approximately US$2,000 had been recognised from the investment during the Reporting
+Period. In view of the expected positive impact to the businesses of both CN Logistics and the Group through
+the strategic logistics partnership and the deepened collaboration during the Reporting Period, the investment in
+CN Logistics is expected to be strategic and enable the Group to foster a closer business partnership with CN
+Logistics for a longer term and result in potential investment returns to the Shareholders.
+
+INTERIM DIVIDEND
+The Board has resolved not to declare any interim dividend for the six months ended 30 June 2024 (Prior Period:
+Nil).
+
+FUTURE PLANS FOR MATERIAL INVESTMENTS AND CAPITAL ASSETS
+Except as disclosed herein and apart from investment for operation purposes which may be made in the ordinary
+and usual course of business, as of the date of this report, the Group did not have any concrete immediate
+future plans for material investments or capital assets but the Group may explore potential opportunities to make
+investment and/or acquire capital assets for sustainable growth.
+
+MATERIAL ACQUISITIONS, DISPOSALS AND FUTURE PLANS FOR SUBSIDIARIES
+During the Reporting Period and as of the date of this interim report, we did not have any material acquisition or
+disposal of subsidiaries, associates and joint ventures nor any future plans in relation to such actions.
+
+CHARGE ON ASSETS
+As at 30 June 2024, the banking facilities of the Group mainly comprised corporate credit cards and letters of
+guarantee issued to the Group and Group’s suppliers for products purchased by the Group and securing the
+payments to the Group’s suppliers respectively. The banking facilities were secured by the pledged deposit of the
+Group of approximately US$1,674,000 as of 30 June 2024 (31 December 2023: US$1,257,000).
+
+YesAsia Holdings Limited Interim Report 2024
+
+19
+
+OTHER INFORMATION
+
+DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS IN
+SHARES, UNDERLYING SHARES AND DEBENTURES
+As of 30 June 2024, interests and short positions of the Directors and the chief executives of the Company in the
+Shares, underlying Shares and debentures of the Company and its associated corporations (within the meaning of
+Part XV of the SFO) which have been notified to the Company and the Stock Exchange pursuant to Divisions 7 and
+8 of Part XV of the SFO (including interests and short positions which were taken or deemed to have taken under
+such provisions of the SFO), or which were recorded in the register required to be kept pursuant to section 352 of
+the SFO or as otherwise notified to the Company and the Stock Exchange pursuant to the Model Code were as
+follows:
+
+Name of Director
+
+Capacity
+
+Nature of interest
+
+Mr. Lau Kwok Chu (劉國柱)(1)
+
+Beneficial interest
+Interest of Spouse
+
+Long position
+Long position
+
+124,670,980
+29,935,550
+
+31.19%
+7.49%
+
+Ms. Chu Lai King (朱麗琼)(1)
+
+Beneficial interest
+Interest of Spouse
+
+Long position
+Long position
+
+29,935,550
+124,670,980
+
+7.49%
+31.19%
+
+Mr. Chu Kin Hang (朱健恒)(2)
+
+Beneficial interest
+
+Long position
+
+4,842,120
+
+1.21%
+
+Mr. Lui Pak Shing Michael
+(雷百成)(3)
+
+Beneficial interest
+
+Long position
+
+35,283,210
+
+8.83%
+
+Mr. Hui Yat Yan Henry (許日昕)(4)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Poon Chi Ho (潘智豪)(5)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Chan Yu Cheong (陳汝昌)(6)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Sin Pak Cheong Philip Charles Beneficial interest
+(冼栢昌)(7)
+
+Long position
+
+100,000
+
+0.03%
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Wong Chee Chung (王子聰)(8)
+
+20
+
+Number of Shares
+and underlying
+Shares
+
+Approximate
+percentage
+of the issued
+share capital of
+the Company
+(%)
+
+YesAsia Holdings Limited Interim Report 2024
+
+OTHER INFORMATION
+
+(1)
+
+As at 30 June 2024, Mr. Lau Kwok Chu directly held 121,970,980 Shares, and held options under the 2016
+Share Option Scheme and Post-IPO Share Option Scheme which entitled him to subscribe for 2,600,000 Shares
+and 100,000 Shares respectively.
+As at 30 June 2024, Ms. Chu Lai King directly held 29,235,550 Shares, and held options under the 2016 Share
+Option Scheme and Post-IPO Share Option Scheme which entitled her to subscribe for 600,000 Shares and
+100,000 Shares respectively.
+As Mr. Lau Kwok Chu is the spouse of Ms. Chu Lai King and vice versa, and they are each deemed under the
+SFO to be interested in the Shares and underlying Shares directly held by each other, they are therefore both
+interested in the combined number of Shares (being 154,606,530 Shares as at 30 June 2024, representing
+approximately 38.68% of the issued share capital of the Company as at 30 June 2024).
+
+(2)
+
+Mr. Chu Kin Hang is the brother of Ms. Chu Lai King and brother-in-law of Mr. Lau Kwok Chu. As at 30 June
+2024, Mr. Chu Kin Hang directly held 4,742,120 Shares, and held options under the Post-IPO Share Option
+Scheme which entitled him to subscribe for 100,000 Shares.
+
+(3)
+
+As at 30 June 2024, Mr. Lui Pak Shing Michael directly held 35,183,210 Shares, and held options under the
+Post-IPO Share Option Scheme which entitled him to subscribe for 100,000 Shares.
+
+(4)
+
+As at 30 June 2024, Mr. Hui Yat Yan Henry directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(5)
+
+As at 30 June 2024, Mr. Poon Chi Ho directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(6)
+
+As at 30 June 2024, Mr. Chan Yu Cheong directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(7)
+
+As at 30 June 2024, Mr. Sin Pak Cheong Philip Charles directly held 37,500 Shares, and held options under the
+Post-IPO Share Option Scheme which entitled him to subscribe for 62,500 Shares.
+
+(8)
+
+As at 30 June 2024, Mr. Wong Chee Chung directly held options under the Post-IPO Share Option Scheme
+which entitled him to subscribe for 100,000 Shares.
+
+Mr. Lau Kwok Chu holds one share, representing 10% of the issued share capital of YesAsia.com Limited as
+a trustee for the Company, which is the beneficial owner of the share in YesAsia.com Limited held by Mr. Lau
+Kwok Chu. YesAsia.com Limited was incorporated on 7 December 1998 and was subject to the requirement of
+a minimum of two shareholders set out in the predecessor Companies Ordinance (Cap. 32 of the Laws of Hong
+Kong). Accordingly, Mr. Lau Kwok Chu holds the share in YesAsia.com Limited upon trust for the Company for
+nominee shareholding purpose to comply with the aforesaid requirement.
+
+YesAsia Holdings Limited Interim Report 2024
+
+21
+
+OTHER INFORMATION
+
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+As of 30 June 2024, to the best knowledge of the Directors, the following persons (other than a Director or chief
+executive of the Company) had interests or short positions in the Shares or underlying Shares which were required
+to be disclosed to the Company under the provisions of Divisions 2 and 3 of Part XV of the SFO, or recorded in the
+register required to be kept by the Company under section 336 of the SFO:
+
+22
+
+Name of Shareholder
+
+Capacity
+
+Nature of interest
+
+PCCW e-Ventures Limited(1)
+
+Beneficial interest
+
+Long Position
+
+39,704,030
+
+9.93%
+
+CyberWorks Ventures Limited(1)
+
+Interest in controlled
+corporation
+
+Long Position
+
+39,704,030
+
+9.93%
+
+PCCW Limited(1)(4)
+
+Interest in controlled
+corporation
+
+Long Position
+
+39,704,030
+
+9.93%
+
+Stonepath Group, Inc.(2)
+
+Beneficial interest
+
+Long Position
+
+26,000,000
+
+6.50%
+
+In Express Limited(3)
+
+Beneficial interest
+
+Long Position
+
+23,800,000
+
+5.95%
+
+Lau Mak Yee Ming Alice(3)
+
+Interest in controlled
+corporation
+
+Long Position
+
+23,800,000
+
+5.95%
+
+Lau Wai Kit Winkie(3)
+
+Interest in controlled
+corporation
+
+Long Position
+
+23,800,000
+
+5.95%
+
+YesAsia Holdings Limited Interim Report 2024
+
+Number of Shares
+
+Approximate
+percentage
+of the issued
+share capital of
+the Company
+(%)
+
+OTHER INFORMATION
+
+Notes:
+(1)
+
+PCCW e-Ventures Limited is held as to 50% by CyberWorks Ventures Limited and 50% by PCCW Nominees
+Limited (acting as a bare trustee for and on behalf of CyberWorks Ventures Limited as the beneficiary).
+CyberWorks Ventures Limited is a wholly-owned subsidiary of PCCW Limited (being a company listed on the
+Main Board of the Stock Exchange with stock code 0008). Therefore, each of CyberWorks Ventures Limited and
+PCCW Limited is deemed to be interested in the 39,704,030 Shares held by PCCW e-Ventures Limited for the
+purpose of Part XV of the SFO.
+
+(2)
+
+Stonepath Group, Inc., is a US company incorporated in the State of Delaware, directly held 26,000,000 Shares.
+As far as our Directors are aware, Stonepath Group, Inc. is held by various shareholders, and none of which is
+deemed to be interested in the Shares held by Stonepath Group, Inc. for the purpose of Part XV of the SFO.
+
+(3)
+
+In Express Limited is held as to 50.01% by Lau Wai Kit Winkie and 49.99% by Lau Mak Yee Ming Alice.
+Therefore, each of Lau Wai Kit Winkie and Lau Mak Yee Ming Alice is deemed to be interested in the 23,800,000
+Shares held by In Express Limited for the purpose of Part XV of the SFO.
+
+(4)
+
+As at 30 June 2024, the following Directors were directors/employees of a company who had an interest in the
+Shares which would fall to be disclosed to the Company under the provisions of Divisions 2 and 3 of Part XV of
+the SFO:
+(a)
+
+Mr. HUI Yat Yan Henry served as senior vice president of the business development unit of PCCW and
+served as a director in a number of subsidiaries in the PCCW Group and HKT Limited.
+
+(b)
+
+Mr. POON Chi Ho held a number of positions within the PCCW Group, including as director in a number
+of subsidiaries in both the PCCW Group and the HKT Group.
+
+Save as disclosed above, as of 30 June 2024, the Company is not aware of any other person (other than the
+Directors or chief executives of the Company) who had an interest or short position in the Shares or underlying
+Shares as recorded in the register required to be kept by the Company pursuant to section 336 of the SFO.
+
+YesAsia Holdings Limited Interim Report 2024
+
+23
+
+OTHER INFORMATION
+
+SHARE OPTION SCHEME
+2016 Share Option Scheme
+The Company adopted a share option scheme on 30 June 2016 (“2016 Share Option Scheme”) for the purpose
+of enabling the Company to attract and retain qualified employees by providing them with an opportunity for
+investment in the Company. The Company may grant options under the 2016 Share Option Scheme only to
+employees of the Company. As the Company became listed on the Stock Exchange on 9 July 2021, no further
+options can be granted under the 2016 Share Option Scheme.
+However, the terms of the 2016 Share Option Scheme allow the options to have a maximum exercise period of
+ten (10) years from the date of grant of the respective options and all outstanding options granted prior to the
+expiration of the scheme would remain effective, and the expiration of the 2016 Share Option Scheme would not
+result in the termination of any options already granted.
+There is no maximum entitlement of each participant specified under the 2016 Share Option Scheme. The exercise
+price of options granted under the 2016 Share Option Scheme shall be determined by the Board but shall not be
+less than 85% of the fair market value of the Shares as at the grant date.
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for exercising
+each outstanding option granted under the 2016 Share Option Scheme.
+Movements of the share options under the 2016 Share Option Scheme during the Reporting Period are as follows:
+
+24
+
+Lapsed
+during Outstanding
+as at
+the
+30 June
+Reporting
+2024
+Period
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2024
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Executive Directors
+Lau Kwok Chu
+
+80,000
+
+–
+
+–
+
+–
+
+–
+
+180,000
+
+–
+
+–
+
+–
+
+Chu Lai King
+
+60,000
+
+–
+
+–
+
+Subtotal
+
+320,000
+
+–
+
+–
+
+YesAsia Holdings Limited Interim Report 2024
+
+Exercise
+price
+per option
+US$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+80,000
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+28 July 2017 to
+28 July 2026
+
+–
+
+180,000
+
+15 August 2019
+
+15 August 2019 to 15 August 2020 to
+15 August 2023 15 August 2029
+
+1.55
+
+–
+
+–
+
+60,000
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+0.80
+
+–
+
+–
+
+320,000
+
+28 July 2017 to
+28 July 2026
+
+0.80
+
+OTHER INFORMATION
+
+Lapsed
+during Outstanding
+as at
+the
+30 June
+Reporting
+2024
+Period
+
+Outstanding
+as at
+1 January
+2024
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+3,000
+
+–
+
+–
+
+–
+
+–
+
+2 Grantees
+
+2,451
+
+–
+
+–
+
+–
+
+1 Grantee
+
+625
+
+–
+
+–
+
+1 Grantee
+
+1,250
+
+–
+
+1 Grantee
+
+1,875
+
+1 Grantee
+
+Name of category/
+participant
+
+Exercise
+price
+per option
+US$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+3,000
+
+23 April 2020
+
+23 April 2020 to
+23 April 2024
+
+23 April 2021 to
+23 April 2030
+
+2.01
+
+–
+
+2,451
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+28 July 2017 to
+28 July 2026
+
+0.80
+
+–
+
+–
+
+625
+
+27 April 2017
+
+1 April 2017 to
+1 April 2021
+
+1 April 2018 to
+27 April 2027
+
+0.80
+
+–
+
+–
+
+–
+
+1,250
+
+10 August 2017
+
+1 August 2017 to 1 August 2018 to
+1 August 2021
+10 August 2027
+
+0.80
+
+–
+
+–
+
+–
+
+–
+
+1,875
+
+27 April 2018
+
+1 November 2017 1 November 2018
+to 27 April 2028
+to 1 November
+2021
+
+1.20
+
+625
+
+–
+
+–
+
+–
+
+–
+
+625
+
+27 April 2018
+
+1 December 2017 1 December 2018
+to 27 April 2028
+to 1 December
+2021
+
+1.20
+
+Nil Grantee
+
+3,200
+
+–
+
+(3,200)
+
+–
+
+–
+
+–
+
+27 April 2018
+
+1 January 2018 to 1 January 2019 to
+1 January 2022 27 April 2028
+
+1.20
+
+7 Grantees
+
+36,538
+
+–
+
+(9,350)
+
+–
+
+–
+
+27,188
+
+27 April 2018
+
+1 April 2018 to
+1 April 2022
+
+1 April 2019 to
+27 April 2028
+
+1.20
+
+Nil Grantee
+
+6,250
+
+–
+
+(6,250)
+
+–
+
+–
+
+–
+
+27 April 2018
+
+1 May 2018 to
+1 May 2022
+
+1 May 2019 to
+27 April 2028
+
+1.20
+
+3 Grantees
+
+37,500
+
+–
+
+–
+
+–
+
+–
+
+37,500
+
+26 July 2018
+
+1 April 2018 to
+1 April 2022
+
+1 April 2019 to
+26 July 2028
+
+1.20
+
+Nil Grantee
+
+15,625
+
+–
+
+(15,625)
+
+–
+
+–
+
+–
+
+26 July 2018
+
+1 May 2018 to
+1 May 2022
+
+1 May 2019 to
+26 July 2028
+
+1.20
+
+5 Grantees
+
+78,175
+
+–
+
+(10,050)
+
+–
+
+–
+
+68,125
+
+24 January 2019
+
+1 January 2019 to 1 January 2020 to
+1 January 2023 24 January
+2029
+
+1.20
+
+21 Grantees
+
+73,443
+
+–
+
+(2,248)
+
+–
+
+–
+
+71,195
+
+25 April 2019
+
+25 April 2019 to
+25 April 2023
+
+25 April 2020 to
+25 April 2029
+
+1.55
+
+5 Grantees
+
+33,000
+
+–
+
+–
+
+–
+
+–
+
+33,000
+
+15 August 2019
+
+15 August 2019 to 15 August 2020 to
+15 August 2023 15 August 2029
+
+1.55
+
+7 Grantees
+
+133,200
+
+–
+
+(38,000)
+
+–
+
+–
+
+95,200
+
+6 February 2020
+
+6 February 2020
+to 6 February
+2024
+
+6 February 2021
+to 6 February
+2030
+
+1.55
+
+Other Employees*
+Chu Pui King
+(Associate of
+Director – Sister of
+Ms. Chu Lai King and
+Mr. Chu Kin
+Hang)
+
+YesAsia Holdings Limited Interim Report 2024
+
+25
+
+OTHER INFORMATION
+
+Lapsed
+during Outstanding
+as at
+the
+30 June
+Reporting
+2024
+Period
+
+Outstanding
+as at
+1 January
+2024
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+34 Grantees
+
+245,000
+
+–
+
+(49,000)
+
+–
+
+–
+
+2 Grantees
+
+50,000
+
+–
+
+–
+
+(20,000)
+
+15 Grantees
+
+240,000
+
+–
+
+(17,500)
+
+11 Grantees
+
+140,000
+
+–
+
+68 Grantees
+
+418,000
+
+Subtotal
+Total
+
+Name of category/
+participant
+
+*
+
+Exercise
+price
+per option
+US$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+196,000
+
+23 April 2020
+
+23 April 2020 to
+23 April 2024
+
+23 April 2021 to
+23 April 2030
+
+2.01
+
+–
+
+30,000
+
+30 July 2020
+
+30 July 2020 to
+30 July 2024
+
+30 July 2021 to
+30 July 2030
+
+2.01
+
+–
+
+–
+
+222,500
+
+29 October 2020 29 October 2020 29 October 2021
+to 29 October
+to 29 October
+2030
+2024
+
+2.01
+
+(13,825)
+
+(10,000)
+
+–
+
+116,175
+
+28 January 2021
+
+28 January 2021
+to 28 January
+2025
+
+28 January 2022
+to 28 January
+2031
+
+2.01
+
+–
+
+(51,000)
+
+(12,000)
+
+–
+
+355,000
+
+29 April 2021
+
+29 April 2021 to
+29 April 2025
+
+29 April 2022 to
+29 April 2031
+
+2.01
+
+1,519,757
+
+–
+
+(216,048)(1)
+
+(42,000)
+
+–
+
+1,261,709
+
+1,839,757
+
+–
+
+(216,048)
+
+(42,000)
+
+–
+
+1,581,709
+
+Represents number of grantees as at 30 June 2024.
+
+As at 1 January 2024, the total number of Shares that could be issued upon exercise of all outstanding options
+granted under the 2016 Share Option Scheme were 18,397,570 Shares, which represented about 4.63% of the
+total number of issued Shares as at 1 January 2023. As at 30 June 2024, the total number of Shares that could be
+issued upon exercise of all outstanding options granted under the 2016 Share Option Scheme were 15,817,090
+Shares, which represented about 3.96% of the total number of issued Shares as at 30 June 2024.
+The default vesting schedule of the 2016 Share Option Scheme is as follows: (i) 25% of all the options granted will
+become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of the options granted will become
+vested as at the end of each three-month period after the Vesting Start Date.
+The total proceeds of approximately US$380,000 received from the exercise of share options under the 2016
+Share Option Scheme during the Reporting Period were used as general working capital of the Company.
+Please refer to Note 18 to the Interim Condensed Consolidated Financial Information for the methodology and
+assumptions used in the calculation of the fair value of Options granted.
+Note:
+(1)
+
+During the six months ended 30 June 2024, a total of 216,048 options were exercised under the 2016 Share
+Option Scheme. The weighted average closing price of Shares immediately before 5 June 2024 (the exercise
+date of 29,800 Share options) and 24 June 2024 (the exercise date of 186,248 Share options) were HK$1.07 and
+HK$2.99 respectively.
+
+26
+
+YesAsia Holdings Limited Interim Report 2024
+
+OTHER INFORMATION
+
+Post-IPO Share Option Scheme
+A post-IPO share option scheme was adopted by the Company on 13 March 2021, which was conditional upon
+the listing of the Shares on the Stock Exchange and came into effect on 9 July 2021 (the “Post-IPO Share
+Option Scheme”). The Post-IPO Share Option Scheme shall be valid and effective for the period of ten years
+from the date of the listing of the Shares on the Stock Exchange until 8 July 2031. The purpose of the Post-IPO
+Share Option Scheme is to advance the interests of the Company and its shareholders by enabling the Company
+to attract and retain qualified employees or directors of the Company and/or its subsidiaries through providing
+them with an opportunity for investment in the shares of the Company. Participants of the Post-IPO Share Option
+Scheme include any individual, being an employee or director of the Company and/or the Company’s subsidiaries
+who the Board or its delegate(s) considers, in their sole discretion, to have contributed or will contribute to
+the business performance of the Group. However, no individual who is a resident in a place where the grant,
+acceptance or exercise of options pursuant to the Post-IPO Share Option Scheme is not permitted under the laws
+and regulations of such place or where, in the view of the Board or its delegate(s), compliance with applicable laws
+and regulations in such place makes it necessary or expedient to exclude such individual from the grant or offer of
+such options.
+The total number of Shares which may be issued upon exercise of all options to be granted under the Post-IPO
+Share Option Scheme is 39,539,079, being 10% of the Shares in issue on the date the Shares commence trading
+on the Stock Exchange (the “Option Scheme Mandate Limit”) (excluding any Shares which may be issued
+pursuant to the exercise of the outstanding options granted under the Pre-IPO Share Option Schemes). Options
+which have lapsed in accordance with the terms of the rules of the Post-IPO Share Option Scheme (or any other
+share option schemes of the Company) shall not be counted for the purpose of calculating the Option Scheme
+Mandate Limit.
+Unless approved by the Shareholders, the total number of Shares issued and to be issued upon exercise of
+the options granted and to be granted under the Post-IPO Share Option Scheme and any other share option
+scheme(s) of the Company to each selected participant (including both exercised and outstanding options) in
+any 12-month period shall not exceed 1% of the total number of Shares in issue (the “Individual Limit”). Any
+further grant of options to a selected participant which would result in the aggregate number of Shares issued
+and to be issued upon exercise of all options granted and to be granted to such selected participant (including
+exercised, canceled and outstanding options) in the 12-month period up to and including the date of such further
+grant exceeding the Individual Limit shall be subject to separate approval of the Shareholders (with such selected
+participant and his associates abstaining from voting). There was no option granted under such circumstances
+during the Reporting Period.
+
+YesAsia Holdings Limited Interim Report 2024
+
+27
+
+OTHER INFORMATION
+
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for exercising
+each outstanding option granted under the Post-IPO Share Option Scheme.
+The subscription price, being the amount payable for each Share to be subscribed for under an option, in the
+event of the option being exercised shall be determined by the Board but shall not be less than the greater of:
+(i)
+
+the closing price of the Shares as stated in the daily quotations sheet issued by the Stock Exchange on the
+date of grant;
+
+(ii)
+
+the average closing price of the Shares as stated in the daily quotations sheets issued by the Stock
+Exchange for the five business days immediately preceding the date of grant; and
+
+(iii)
+
+the nominal value of the Shares on the date of grant.
+
+An option is personal to the grantee and shall not be transferable or assignable and no grantee shall in any way
+sell, transfer, charge, mortgage, encumber or otherwise dispose of or create any interest in favor of or enter into
+any agreement with any other person over or in relation to any option.
+Each grant of options to any director, chief executive or substantial shareholder of the Company (or any of
+their respective associates) must first be approved by the independent non-executive Directors (excluding any
+independent non-executive Director who is a proposed recipient of the grant of options).
+In addition, where any grant of options to a substantial shareholder or an independent non-executive Director
+of the Company (or any of their respective associates) would result in the number of Shares issued and to be
+issued upon exercise of all options already granted and to be granted (including options exercised, canceled and
+outstanding) to such person in the 12-month period up to and including the date of such grant:
+(i)
+
+representing in aggregate over 0.1% (or such other higher percentage as may from time to time be specified
+by the Stock Exchange) of the Shares in issue; and
+
+(ii)
+
+having an aggregate value, based on the closing price of the Shares as stated in the daily quotations sheets
+issued by the Stock Exchange on the date of grant, in excess of HK$5,000,000 (or such other higher
+amount as may from time to time be specified by the Stock Exchange),
+
+such further grant of options must also be first approved by the Shareholders (voting by way of poll) in a general
+meeting. In obtaining the approval, the Company shall send a circular to the Shareholders in accordance with and
+containing such information as is required under the Listing Rules. All core connected persons of the Company
+shall abstain from voting at such general meeting, except that any core connected person may vote against the
+relevant resolution at the general meeting provided that his intention to do so has been stated in the circular to be
+sent to the Shareholders in connection therewith. There was no option granted under such circumstances during
+the Reporting Period.
+
+28
+
+YesAsia Holdings Limited Interim Report 2024
+
+OTHER INFORMATION
+
+During the Reporting Period, 309,000 options carrying rights to subscribe for a maximum of an aggregate of
+3,090,000 Shares have been granted by the Company under the Post-IPO Share Option Scheme. Movements of
+the share options under the Post-IPO Share Option Scheme during the Reporting Period are as follows:
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2024
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2024
+
+Executive Directors
+Lau Kwok Chu
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+Chu Lai King
+
+10,000
+
+–
+
+–
+
+–
+
+Chu Kin Hang
+
+10,000
+
+–
+
+–
+
+Subtotal
+
+30,000
+
+–
+
+Non-Executive Directors
+Lui Pak Shing Michael
+
+10,000
+
+Hui Yat Yan Henry
+
+Exercise
+price
+per option
+HK$
+
+Closing
+share price
+immediately
+before the
+date of grant
+HK$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+–
+
+30,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Poon Chi Ho
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Subtotal
+
+30,000
+
+–
+
+–
+
+–
+
+–
+
+30,000
+
+Independent NonExecutive Directors
+Chan Yu Cheong
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Sin Pak Cheong Philip
+Charles
+
+10,000
+
+–
+
+(3,750)
+
+–
+
+–
+
+6,250
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Wong Chee Chung
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Subtotal
+
+30,000
+
+–
+
+(3,750)
+
+–
+
+–
+
+26,250
+
+Fair value
+at the
+date of grant
+for options
+granted during
+the Reporting
+Period
+US$’000
+
+YesAsia Holdings Limited Interim Report 2024
+
+29
+
+OTHER INFORMATION
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2024
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2024
+
+Other Employees*
+3 Grantees
+
+35,000
+
+–
+
+–
+
+–
+
+–
+
+2 Grantees
+
+10,000
+
+–
+
+–
+
+–
+
+57 Grantees
+
+195,500
+
+–
+
+(22,950)
+
+6 Grantees
+
+40,000
+
+–
+
+69 Grantees
+
+196,000
+
+3 Grantees
+
+71 Grantees
+
+Exercise
+price
+per option
+HK$
+
+Closing
+share price
+immediately
+before the
+date of grant
+HK$
+
+Fair value
+at the
+date of grant
+for options
+granted during
+the Reporting
+Period
+US$’000
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+35,000
+
+30 August 2021
+
+30 August 2021 to
+29 August 2025
+
+30 August 2022 to
+29 August 2031
+
+24.48
+
+2.16
+
+–
+
+10,000
+
+29 October 2021
+
+29 October 2021 to
+28 October 2025
+
+29 October 2022 to
+28 October 2031
+
+14.28
+
+1.40
+
+(15,000)
+
+–
+
+157,550
+
+21 April 2022
+
+21 April 2022 to
+20 April 2026
+
+21 April 2023 to
+20 April 2032
+
+11.60
+
+1.16
+
+(3,750)
+
+–
+
+–
+
+36,250
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+(15,225)
+
+–
+
+–
+
+180,775
+
+21 April 2023
+
+21 April 2023 to
+20 April 2027
+
+21 April 2024 to
+20 April 2033
+
+5.10
+
+0.52
+
+25,000
+
+–
+
+–
+
+–
+
+–
+
+25,000
+
+27 October 2023
+
+27 October 2023 to
+26 October 2027
+
+27 October 2024 to
+26 October 2033
+
+4.70
+
+0.47
+
+–
+
+309,000(1)
+
+–
+
+(5,000)
+
+–
+
+304,000
+
+26 April 2024
+
+26 April 2024 to
+25 April 2028
+
+26 April 2025 to
+25 April 2034
+
+7.90
+
+0.79
+
+Subtotal
+
+501,500
+
+309,000
+
+(41,925)
+
+(20,000)
+
+–
+
+748,575
+
+98
+
+Total
+
+591,500
+
+309,000
+
+(45,675)(2)
+
+(20,000)
+
+–
+
+834,825
+
+98
+
+*
+
+98
+
+Represents number of grantees as at 30 June 2024.
+
+Notes:
+(1)
+
+On 26 April 2024, 309,000 options were granted under Post-IPO Share Option Scheme at nil consideration
+and the total estimated fair value of these options on the date of grant was US$98,000. Please refer to the Note
+18 to the Interim Condensed Consolidated Financial Information for the accounting policy adopted for share
+options. The Share closing price immediately before the date of grant of the aforementioned 309,000 options was
+HK$0.79.
+
+(2)
+
+During the six months ended 30 June 2024, a total of 45,675 options were exercised under the Post-IPO Share
+Option Scheme. The weighted average closing price of Shares immediately before 8 May 2024 (the exercise date
+of 200 Share options), 5 June 2024 (the exercise date of 9,575 Share options), 6 June 2024 (the exercise date
+of 2,400 Share options) and 24 June 2024 (the exercise date of 33,500 Share options) were HK$0.79, HK$1.07,
+HK$1.19 and HK$2.99 respectively.
+
+30
+
+YesAsia Holdings Limited Interim Report 2024
+
+OTHER INFORMATION
+
+As at 1 January 2024, the total number of Shares that could be issued upon exercise of all outstanding options
+granted under the Post-IPO Share Option Scheme were 5,915,000 Shares, which represented about 1.49% of the
+total number of issued Shares as at 1 January 2024. As at 30 June 2024, the total number of Shares that could be
+issued upon exercise of all outstanding options granted under the Post-IPO Share Option Scheme were 8,348,250
+Shares, which represented about 2.09% of the total number of issued Shares as at 30 June 2024.
+The default vesting schedule of the Post-IPO Share Option Scheme is as follows: (i) 25% of the options granted will
+become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of the options granted will become
+vested as at the end of each three month period after the Vesting Start Date. The Post-IPO Share Option Scheme
+does not demand payment on application or acceptance of the option.
+The total proceeds of approximately US$50,000 received from the exercise of share options under the Post-IPO
+Share Option Scheme during the Reporting Period were used as general working capital of the Company.
+Please refer to Note 18 to the Interim Condensed Consolidated Financial Information for the methodology and
+assumptions used in the calculation of the fair value of Options granted.
+Further details of the Share Option Schemes are set out as follows:
+2016 Share
+Option Scheme
+
+Post-IPO Share
+Option Scheme
+
+Number of share options available for grant
+As at 1 January 2024
+As at 30 June 2024
+
+–
+–
+
+3,362,407
+3,073,407
+
+Number of Shares that may be issued in respect of share options
+granted during the Reporting Period divided by the weighted
+average number of Shares during the Reporting Period (2)
+
+–
+
+0.43%
+
+Remaining life of the share option schemes
+as at 30 June 2024
+
+–(1)
+
+7.02 years
+
+As at the date of interim report
+Total number of Shares available for issue under the option scheme
+in respect of share options granted
+% of the total number of issued Shares
+
+10,920,787
+2.70%
+
+1,262,704
+0.31%
+
+Total number of Shares available for issue upon exercise of all share
+options that could be granted
+% of the total number of issued Shares
+
+–(1)
+–
+
+30,134,079
+7.45%
+
+(1)
+
+As the Company became listed on the Stock Exchange on 9 July 2021, no further options can be granted under
+the 2016 Share Option Scheme.
+
+(2)
+
+Please refer to Note 10 to the Interim Condensed Consolidated Financial Information for the weighted average
+number of Shares during the Reporting Period.
+
+YesAsia Holdings Limited Interim Report 2024
+
+31
+
+OTHER INFORMATION
+
+MATERIAL LITIGATION
+During the Reporting Period, the Group was not involved in any material litigation or arbitration, nor were the
+Directors aware of any material litigation or claims that were pending or threatened against the Group.
+
+AUDIT COMMITTEE
+The Board has established the Audit Committee, comprising one non-executive Director, namely Mr. Hui Yat
+Yan Henry and three independent non-executive Directors, namely Mr. Wong Chee Chung (Chairman), Mr. Sin
+Pak Cheong Philip Charles and Mr. Chan Yu Cheong. The primary duties of the Audit Committee are to review
+and supervise our financial reporting process and the internal control system of the Group, manage risk, perform
+internal audit, provide advice and comments to the Board and perform other duties and responsibilities as may be
+assigned by the Board.
+The interim condensed consolidated financial information for the six months ended 30 June 2024 have not been
+audited by the auditors of the Company but have been reviewed by the Audit Committee.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES OF THE COMPANY
+During the Reporting Period, neither the Company nor any of its subsidiaries has purchased, sold or redeemed
+any of the Company’s listed securities, save for the grant of 309,000 options (each option shall entitle the holder to
+subscribe for 10 Shares) under the Post-IPO Share Option Scheme on 26 April 2024.
+
+CORPORATE GOVERNANCE
+Our Company has complied with code provisions stated in the Corporate Governance Code in Appendix C1 to
+the Listing Rules (the “Corporate Governance Code”) during the Reporting Period. As of 30 June 2024 and
+to the best of the knowledge, information and belief of our Directors, having made all reasonable enquiries, our
+Directors are not aware of any deviation from the code provisions of the Corporate Governance Code during the
+Reporting Period, apart from the deviation from Code Provision D.2.5 of the Corporate Governance Code during
+the Reporting Period. Under Code Provision D.2.5, issuers should have an internal audit function.
+The Group does not have an internal audit function and the Board is of the view that there is no immediate need to
+set up an internal audit function within the Group having reviewed the size, nature and complexity of the Group’s
+business during the Reporting Period. It was decided that the Board would be directly responsible for internal
+control of the Group and for reviewing its effectiveness. Procedures have been designed for safeguarding assets
+against unauthorised use or disposition, ensuring the maintenance of proper accounting records for the provision
+of reliable financial information for internal use or for publication, and ensuring compliance with applicable laws,
+rules and regulations. The situation will be reviewed by the Board on an annual basis.
+Save as disclosed above, none of the Directors is aware of any information which would reasonably indicate that
+the Company had not, throughout the Reporting Period, fully complied with the Code Provisions.
+Our Directors will review our corporate governance policies and compliance with the Corporate Governance Code
+each financial year and comply with the “comply or explain” principle in our corporate governance report, which will
+be included in our annual reports.
+
+32
+
+YesAsia Holdings Limited Interim Report 2024
+
+OTHER INFORMATION
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code as its own code of conduct regarding Directors’ securities
+transactions.
+Specific enquiries have been made with all Directors and all of them confirmed their compliance with the
+required standard set out in the Model Code and the Company’s code of conduct regarding Directors’ securities
+transactions during the Reporting Period.
+
+EMPLOYEES AND REMUNERATION POLICY
+As of 30 June 2024, we had 485 employees (31 December 2023: 454 employees) mainly based in Hong Kong,
+Japan and South Korea.
+Our success depends on our ability to attract, retain and motivate qualified personnel. As part of our human
+resources strategy, we offer employees competitive remuneration packages, which generally include basic wages,
+variable wages, bonuses and other benefits granted in accordance with the business performance. In order to
+promote overall efficiency, employee loyalty and employee retention, we provide our employees with technical
+and operational on-the-job training as well as people development programs. Share options are also available
+to employees of the Group under the Post-IPO Share Option Scheme at the sole discretion of the Board or its
+delegate(s).
+
+TRANSACTIONS IN SANCTIONED COUNTRIES OR WITH SANCTIONED PERSONS
+During the Reporting Period, proper internal control and risk management measures relating to sanction laws, as
+disclosed in the Prospectus, had been implemented and the Group did not have any transactions in Sanctioned
+Countries or with Sanctioned Persons. As of 30 June 2024, the Group did not anticipate any plans for any new
+activities in Sanctioned Countries or with Sanctioned Persons.
+During the Reporting Period, the Group derived revenue of approximately US$2,264,000 (Prior Period:
+US$872,000) from the Balkans region (including Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Greece, North
+Macedonia, Romania, Serbia and Slovenia), which is not subject to comprehensive sanctions that are territorial in
+nature.
+
+SUBSEQUENT EVENTS AFTER THE REPORTING PERIOD
+Save as disclosed in Note 21 of the Interim Condensed Consolidated Financial Information, there is no significant
+event that requires additional disclosures or might affect the Group after the Reporting Period.
+
+YesAsia Holdings Limited Interim Report 2024
+
+33
+
+OTHER INFORMATION
+
+DIRECTORS’ INFORMATION
+During the Reporting Period, the Company has not been advised by its Directors of any change in the information
+required to be disclosed pursuant to paragraphs (a) to (e) and (g) of Rule 13.51(2) of the Listing Rules since its last
+update to Shareholders.
+
+APPRECIATION
+On behalf of the Board, I would like to take this opportunity to express gratitude to our employees for their
+contribution and dedication to the Group, and our Shareholders, customers and business partners for their
+continuous support.
+On behalf of the Board
+Chu Lai King
+Chairperson
+Hong Kong, 29 August 2024
+
+34
+
+YesAsia Holdings Limited Interim Report 2024
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+For the six months ended 30 June 2024
+
+Six months ended 30 June
+Note
+
+REVENUE
+Cost of sales
+
+4
+
+Gross profit
+Other income and other gains and losses
+Selling expenses
+Administrative expenses
+Reversal of impairment losses for trade receivables
+
+5
+
+PROFIT FROM OPERATIONS
+Finance costs
+Profit before tax
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+163,348
+(113,156)
+
+90,657
+(62,475)
+
+50,192
+
+28,182
+
+711
+(18,642)
+(18,234)
+–
+
+50
+(11,146)
+(14,563)
+1
+
+14,027
+
+2,524
+
+(504)
+
+(642)
+
+13,523
+
+1,882
+
+Income tax expenses
+
+7
+
+(2,416)
+
+(319)
+
+Profit for the period
+
+8
+
+11,107
+
+1,563
+
+11,110
+(3)
+
+1,563
+–
+
+11,107
+
+1,563
+
+2.80
+
+0.39
+
+2.78
+
+0.39
+
+Attributable to:
+Equity shareholders of the Company
+Non-controlling interests
+
+Earnings per share
+Basic (US cents per share)
+
+Diluted (US cents per share)
+
+10
+
+YesAsia Holdings Limited Interim Report 2024
+
+35
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF
+PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+For the six months ended 30 June 2024
+
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+11,107
+
+1,563
+
+Other comprehensive income:
+Item that may be reclassified to profit or loss:
+Exchange differences on translating foreign operations
+
+(185)
+
+(37)
+
+Other comprehensive income for the period, net of tax
+
+(185)
+
+(37)
+
+Total comprehensive income for the period
+
+10,922
+
+1,526
+
+Attributable to:
+Equity shareholders of the Company
+Non-controlling interests
+
+10,925
+(3)
+
+1,526
+–
+
+10,922
+
+1,526
+
+Profit for the period
+
+36
+
+YesAsia Holdings Limited Interim Report 2024
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+As at 30 June 2024
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+3,716
+8,909
+49
+1,441
+1,797
+
+4,320
+10,595
+–
+1,732
+1,623
+
+15,912
+
+18,270
+
+49,590
+5,316
+8,353
+53
+1,674
+6,868
+
+20,849
+4,678
+4,197
+53
+1,257
+25,181
+
+71,854
+
+56,215
+
+18,437
+10,794
+440
+5,005
+2,445
+
+12,606
+12,735
+371
+4,715
+434
+
+Total current liabilities
+
+37,121
+
+30,861
+
+Net current assets
+
+34,733
+
+25,354
+
+Total assets less current liabilities
+
+50,645
+
+43,624
+
+1,220
+5,491
+
+1,101
+7,469
+
+Total non-current liabilities
+
+6,711
+
+8,570
+
+Net assets
+
+43,934
+
+35,054
+
+21,409
+22,529
+
+20,640
+14,415
+
+Equity attributable to shareholders of the Company
+Non-controlling interests
+
+43,938
+(4)
+
+35,055
+(1)
+
+Total equity
+
+43,934
+
+35,054
+
+Note
+
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+Intangible asset
+Financial assets at fair value through profit or loss (“FVTPL”)
+Prepayments, deposit and other receivables
+
+11
+
+13
+
+Total non-current assets
+Current assets
+Inventories
+Trade receivables
+Prepayments, deposits and other receivables
+Current tax assets
+Pledged bank fixed deposits
+Bank and cash balances
+
+12
+13
+
+Total current assets
+Current liabilities
+Trade and other payables and accruals
+Contract liabilities
+Provisions
+Lease liabilities
+Current tax liabilities
+
+Non-current liabilities
+Provisions
+Lease liabilities
+
+Capital and reserves
+Share capital
+Reserves
+
+14
+15
+16
+
+16
+
+17
+
+YesAsia Holdings Limited Interim Report 2024
+
+37
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+For the six months ended 30 June 2024
+
+Attributable to shareholders of the Company
+
+At 1 January 2024 (Audited)
+
+Share
+capital
+US$’000
+
+Sharebased
+payments
+reserve
+US$’000
+
+Foreign (Accumulated
+currency
+losses)/
+translation
+retained
+reserve
+earnings
+US$’000
+US$’000
+
+Capital
+reserve
+US$’000
+
+Merger
+reserve
+US$’000
+
+20,640
+
+2,740
+
+14,342
+
+2,271
+
+(45)
+
+Sub-total
+US$’000
+
+Non–
+controlling
+interests
+US$’000
+
+Total
+equity
+US$’000
+
+(4,893)
+
+35,055
+
+(1)
+
+35,054
+
+Total comprehensive income
+for the period
+Issue of shares under
+share option scheme
+Recognition of share-based
+payments
+Dividend (Note 9)
+
+–
+
+–
+
+–
+
+–
+
+(185)
+
+11,110
+
+10,925
+
+(3)
+
+10,922
+
+769
+
+(339)
+
+–
+
+–
+
+–
+
+–
+
+430
+
+–
+
+430
+
+–
+–
+
+106
+–
+
+–
+–
+
+–
+–
+
+–
+–
+
+–
+(2,578)
+
+106
+(2,578)
+
+–
+–
+
+106
+(2,578)
+
+Changes in equity for the period
+
+769
+
+(233)
+
+–
+
+–
+
+(185)
+
+8,532
+
+8,883
+
+(3)
+
+8,880
+
+At 30 June 2024 (Unaudited)
+
+21,409
+
+2,507
+
+14,342
+
+2,271
+
+(230)
+
+3,639
+
+43,938
+
+(4)
+
+43,934
+
+Total
+equity
+US$’000
+
+Attributable to shareholders of the Company
+
+Merger
+reserve
+US$’000
+
+Foreign
+currency
+translation
+reserve
+US$’000
+
+Accumulated
+losses
+US$’000
+
+Sub-total
+US$’000
+
+Non–
+controlling
+interests
+US$’000
+
+14,342
+
+2,271
+
+(66)
+
+(12,466)
+
+27,137
+
+–
+
+27,137
+
+–
+
+–
+
+–
+
+(37)
+
+1,563
+
+1,526
+
+–
+
+1,526
+
+20
+
+(8)
+
+–
+
+–
+
+–
+
+–
+
+12
+
+–
+
+12
+
+–
+
+240
+
+–
+
+–
+
+–
+
+–
+
+240
+
+–
+
+240
+
+Changes in equity for the period
+
+20
+
+232
+
+–
+
+–
+
+(37)
+
+1,563
+
+1,778
+
+–
+
+1,778
+
+At 30 June 2023 (Unaudited)
+
+20,514
+
+2,794
+
+14,342
+
+2,271
+
+(103)
+
+(10,903)
+
+28,915
+
+–
+
+28,915
+
+At 1 January 2023 (Audited)
+Total comprehensive income
+for the period
+Issue of shares under
+share option scheme
+Recognition of share-based
+payments
+
+38
+
+Share
+capital
+US$’000
+
+Sharebased
+payments
+reserve
+US$’000
+
+Capital
+reserve
+US$’000
+
+20,494
+
+2,562
+
+–
+
+YesAsia Holdings Limited Interim Report 2024
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+For the six months ended 30 June 2024
+
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+(15,148)
+
+(7,993)
+
+(Increase)/decrease in non-pledged bank fixed deposits
+Interest received
+Purchases of property, plant and equipment
+Purchase of intangible asset
+
+(16)
+151
+(168)
+(50)
+
+1,950
+60
+(252)
+–
+
+NET CASH (USED IN)/GENERATED FROM INVESTING ACTIVITIES
+
+(83)
+
+1,758
+
+Principal elements of lease payments
+Proceeds from issuance of shares
+(Increase)/decrease in pledged bank fixed deposits
+
+(2,863)
+430
+(417)
+
+(2,208)
+12
+1,535
+
+NET CASH USED IN FINANCING ACTIVITIES
+
+(2,850)
+
+(661)
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS
+Effect of foreign exchange rate changes
+
+(18,081)
+(248)
+
+(6,896)
+(62)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING
+OF THE PERIOD
+
+25,088
+
+16,659
+
+CASH AND CASH EQUIVALENT AT END OF PERIOD
+
+6,759
+
+9,701
+
+ANALYSIS OF CASH AND CASH EQUIVALENTS
+Bank and cash balances
+
+6,868
+
+9,885
+
+Less: Bank fixed deposits with original maturity beyond three months
+Restricted bank balances
+
+(109)
+–
+
+(167)
+(17)
+
+6,759
+
+9,701
+
+NET CASH USED IN OPERATING ACTIVITIES
+
+YesAsia Holdings Limited Interim Report 2024
+
+39
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+1
+
+CORPORATE AND GROUP INFORMATION
+The Company was incorporated in Hong Kong with limited liability. The registered office and principal place
+of business in Hong Kong is 5/F, KC100, 100 Kwai Cheong Road, Kwai Chung, New Territories, Hong
+Kong.
+The Group is principally engaged in trading of fashion wear, cosmetics and accessories and entertainment
+products through the Group’s own e-commerce platforms (including websites and mobile app).
+The Company has no ultimate holding company, and ultimate controlling shareholders of the Company are
+Mr. Lau Kwok Chu and Ms. Chu Lai King respectively.
+This condensed consolidated interim financial information is presented in United State dollars (“US$”),
+unless otherwise stated.
+The financial information relating to the year ended 31 December 2023 that is included in the condensed
+consolidated interim financial information for the six months ended 30 June 2024 as comparative
+information does not constitute the Company’s statutory annual consolidated financial statements for that
+year but is derived from those financial statements. Further information relating to these statutory financial
+statements required to be disclosed in accordance with section 436 of the Companies Ordinance (Cap.
+622 of the Laws of Hong Kong) is as follows:
+The Company has delivered the financial statements for the year ended 31 December 2023 to the Registrar
+of Companies as required by section 662(3) of, and Part 3 of Schedule 6 to, the Companies Ordinance (Cap.
+622 of the Laws of Hong Kong).
+The Company’s auditor has reported on those financial statements. The auditor’s report was unqualified;
+did not include a reference to any matters to which the auditor drew attention by way of emphasis without
+qualifying its report; and did not contain a statement under sections 406(2), 407(2) or (3) of the Companies
+Ordinance (Cap. 622 of the Laws of Hong Kong).
+
+40
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+2
+
+BASIS OF PREPARATION AND CHANGES TO THE GROUP’S ACCOUNTING
+POLICIES
+The unaudited interim condensed financial information for the six months ended 30 June 2024 has been
+prepared in accordance with Hong Kong Accounting Standard 34 (“HKAS 34”) Interim Financial Reporting
+issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”), as well as with the
+applicable disclosures required by the Listing Rules.
+The interim condensed financial information does not include all of the information and disclosures required
+in the annual financial statements, and should be read in conjunction with the Group’s annual financial
+statements for the year ended 31 December 2023, which have been prepared in accordance with the Hong
+Kong Financial Reporting Standards (“HKFRSs”).
+The preparation of interim condensed financial information requires management to make judgements,
+estimates and assumptions that affect the application of accounting policies and the reported amounts of
+assets and liabilities, income and expense. Actual results may differ from these estimates.
+The accounting policies applied in the preparation of the unaudited interim condensed financial information
+are consistent with those applied to the consolidated financial statements for the year ended 31 December
+2023.
+In the current period, the Group has adopted all the new and revised Hong Kong Financial Reporting
+Standards issued by the HKICPA that are relevant to its operations and effective for its accounting year
+beginning on 1 January 2024 but they do not have a material effect on the Group’s financial statements.
+A number of new standards and amendments to standards are effective for annual periods beginning
+after 1 January 2024 and earlier application is permitted. The Group has not adopted in advance any of
+the forthcoming new or amended standards in preparing these condensed consolidated interim financial
+statements.
+
+YesAsia Holdings Limited Interim Report 2024
+
+41
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+3
+
+FAIR VALUE MEASUREMENTS
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. The following disclosures of fair value
+measurements use a fair value hierarchy that categorises into three levels the inputs to valuation techniques
+used to measure fair value:
+Level 1 inputs:
+
+quoted prices (unadjusted) in active markets for identical assets or liabilities that the
+Group can access at the measurement date.
+
+Level 2 inputs:
+
+inputs other than quoted prices included within level 1 that are observable for the
+asset or liability, either directly or indirectly.
+
+Level 3 inputs:
+
+unobservable inputs for the asset or liability.
+
+The Group’s policy is to recognise transfers into and transfers out of any of the three levels as of the date of
+the event or change in circumstances that caused the transfer.
+Disclosures of level in fair value hierarchy:
+
+Description
+
+Recurring fair value measurements:
+Financial assets at FVTPL
+Investment in a life insurance policy
+An equity security listed in Hong Kong
+
+Description
+
+Recurring fair value measurements:
+Financial assets at FVTPL
+Investment in a life insurance policy
+An equity security listed in Hong Kong
+
+Fair value measurements as at 30 June 2024
+Level 1
+Level 2
+Level 3
+Total
+(Unaudited)
+(Unaudited)
+(Unaudited)
+(Unaudited)
+US$’000
+US$’000
+US$’000
+US$’000
+
+–
+553
+
+888
+–
+
+–
+–
+
+888
+553
+
+553
+
+888
+
+–
+
+1,441
+
+Fair value measurements as at 31 December 2023
+Level 1
+Level 2
+Level 3
+Total
+(Audited)
+(Audited)
+(Audited)
+(Audited)
+US$’000
+US$’000
+US$’000
+US$’000
+
+–
+863
+
+869
+–
+
+–
+–
+
+869
+863
+
+863
+
+869
+
+–
+
+1,732
+
+The fair value of investment in life insurance policies is determined by reference to Cash Surrender Value as
+provided by the insurance company.
+
+42
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+4
+
+REVENUE
+Disaggregation of revenue from contracts with customers by business and the timing of revenue recognition
+for the period are as follow:
+Six months ended 30 June
+
+Sales of merchandise, recognised at point in time
+Shipping revenue recognised over time
+Logistic income recognised over time
+Consignment sales recognised at point in time
+
+5
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+145,778
+17,324
+245
+1
+
+79,884
+10,167
+605
+1
+
+163,348
+
+90,657
+
+OTHER INCOME AND OTHER GAINS AND LOSSES
+Six months ended 30 June
+
+Cash rebates
+Dividend income
+Fair value loss on financial assets at FVTPL
+Marketing income
+Interest income from:
+Bank deposits
+Financial assets at FVTPL
+Sundry income
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+15
+2
+(311)
+825
+
+22
+14
+(72)
+7
+
+151
+21
+
+60
+19
+
+172
+8
+
+79
+–
+
+711
+
+50
+
+YesAsia Holdings Limited Interim Report 2024
+
+43
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+6
+
+SEGMENT INFORMATION
+Information about operating segment results:
+
+Six months ended 30 June 2024
+
+Revenue from external customers
+Segment results
+
+Six months ended 30 June 2023
+
+Fashion &
+lifestyle
+and beauty Entertainment
+products
+products
+(Unaudited)
+(Unaudited)
+US$’000
+US$’000
+
+Unallocated
+(Unaudited)
+US$’000
+
+Total
+(Unaudited)
+US$’000
+
+162,083
+16,851
+
+1,020
+24
+
+245
+(5,768)
+
+163,348
+11,107
+
+Fashion &
+lifestyle
+and beauty
+products
+(Unaudited)
+US$’000
+
+Entertainment
+products
+(Unaudited)
+US$’000
+
+Unallocated
+(Unaudited)
+US$’000
+
+Total
+(Unaudited)
+US$’000
+
+88,873
+4,711
+
+1,179
+(236)
+
+605
+(2,912)
+
+90,657
+1,563
+
+Revenue from external customers
+Segment results
+
+Reconciliations of segment results:
+Six months ended 30 June
+
+Revenue
+Total revenue of reportable segments
+
+Segment results
+Total segment results of reportable segments
+Unallocated amounts:
+Unallocated income
+Unallocated corporate expenses
+Non-reportable segments
+Profit for the period
+
+44
+
+YesAsia Holdings Limited Interim Report 2024
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+163,348
+
+90,657
+
+16,875
+
+4,475
+
+197
+(5,970)
+5
+
+115
+(3,105)
+78
+
+11,107
+
+1,563
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+6
+
+SEGMENT INFORMATION (CONTINUED)
+Geographical information:
+The Group’s revenue from external customers by port of destinations and information about its non-current
+assets by location of assets are detailed below:
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+57,803
+
+40,581
+
+17,019
+10,423
+3,840
+3,194
+2,469
+1,808
+11,031
+
+7,489
+5,949
+1,742
+1,334
+1,191
+671
+4,882
+
+United Kingdom
+Canada
+Hong Kong
+Australia
+United Arab Emirates
+Mexico
+Others (Note 2)
+
+49,784
+11,807
+9,736
+8,591
+5,269
+3,762
+3,265
+13,331
+
+23,258
+6,990
+4,532
+3,894
+3,915
+1,407
+105
+5,975
+
+Consolidated Total
+
+163,348
+
+90,657
+
+United States
+European Union (“EU”)
+France
+Germany
+Italy
+Netherlands
+Spain
+Belgium
+Other EU Countries (Note 1)
+
+Note 1: Other EU countries include sales to EU countries that individually contributed less than 1.0% of our total
+revenue for the six months ended 30 June 2024 and 2023.
+Note 2: Others include sales to countries individually contributed less than 2.0% (Prior Period: 1.0%) of our total
+revenue for the six months ended 30 June 2024.
+
+95.2% and 98.0% of the Group’s non-current assets are located in Hong Kong as at 30 June 2024 and
+2023 respectively.
+Revenue about major customers
+No revenue from a single customer of the Group contributed over 10% of the total revenue of the Group
+during the six months ended 30 June 2024 and 2023 respectively.
+
+YesAsia Holdings Limited Interim Report 2024
+
+45
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+7
+
+INCOME TAX EXPENSE
+Six months ended 30 June
+
+Current tax
+– Hong Kong Profits Tax
+– Overseas Corporate Income Tax
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+1,758
+658
+
+(2)
+321
+
+2,416
+
+319
+
+Under the two-tiered profits tax regime, profits tax rate for the first HK$2,000,000 of assessable profits of
+qualifying group entities established in Hong Kong will be taxed at 8.25% and profits above that amount will
+be subject to the tax rate of 16.5%. The profits of the group entities not qualifying the two-tiered profits tax
+rate regime will continue to be taxed at a rate of 16.5%.
+YesAsia.com (Korea) Limited (“YAKR”) is subject to Korean Corporate Income Tax which comprised
+national and local taxes (collectively “Korean Corporate Income Tax”). Korean Corporate Income Tax
+is generally charged at the progressive rate from 9.9% to 26.4% on the estimated assessable profits. The
+progressive tax rate applicable to YAKR was 9.9% to 20.9% based on the estimated assessable profits for
+the period.
+Tax charge on profits assessable elsewhere have been calculated at the rates of tax prevailing in the
+countries in which the Group operates, based on existing legislation, interpretation and practices in respect
+thereof.
+
+46
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+8
+
+PROFIT FOR THE PERIOD
+The Group’s profit for the period is stated after charging the following:
+Six months ended 30 June
+
+Auditor’s remuneration
+Cost of inventories sold
+Depreciation
+– Property, plant and equipment
+– Right-of-use assets
+
+Employee benefits expenses (including directors’ emoluments)
+Foreign exchange losses, net
+Expenses relating to short-term lease
+– Leased properties
+– Leased equipment
+
+Write down of inventories, net
+(included in cost of inventories sold)
+
+9
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+85
+77,296
+
+77
+41,963
+
+770
+2,407
+
+830
+2,291
+
+3,177
+
+3,121
+
+13,362
+1,369
+
+10,592
+923
+
+6
+1
+
+49
+2
+
+7
+
+51
+
+98
+
+187
+
+DIVIDEND
+Six months ended 30 June
+
+Final dividend of US$0.0064 (equivalent to HK$0.05)
+(2023: nil) per ordinary share
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+2,578
+
+–
+
+The Board has resolved not to declare any interim dividend for the six months ended 30 June 2024 (Prior
+Period : Nil).
+The final dividend of HK0.5 cents per share amounting to approximately US$2,578,000 for the year ended
+31 December 2023 has been approved on 21 June 2024 and paid on 15 July 2024.
+
+YesAsia Holdings Limited Interim Report 2024
+
+47
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+10
+
+EARNINGS PER SHARE
+The calculation of the basic and diluted earnings per share is based on the following:
+Six months ended 30 June
+
+Profit for the purpose of calculating basic and
+diluted earnings per share
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+11,110
+
+1,563
+
+(Unaudited)
+’000
+
+(Unaudited)
+’000
+
+397,269
+
+396,013
+
+2,617
+
+–
+
+399,886
+
+396,013
+
+Number of shares
+Weighted average number of ordinary shares for
+the purpose of calculating basic earnings per share
+Effect of dilutive potential ordinary shares arising
+from share options issued by the Company
+Weighted average number of ordinary shares for
+the purpose of calculating diluted earnings per share
+
+During the six months ended 30 June 2024, the computation of diluted earnings per share did not assume
+the exercise of the Company’s outstanding share options as the exercise prices of those options were
+higher than the average market price for shares. The effect of all potential ordinary shares are anti-dilutive
+for the six months ended 30 June 2023.
+
+11
+
+PROPERTY, PLANT AND EQUIPMENT
+During the Reporting Period, the Group acquired property, plant and equipment of approximately
+US$168,000 (Prior Period: US$252,000).
+
+48
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+12
+
+TRADE RECEIVABLES
+The Group’s turnover comprises mainly E-commerce sales, offline wholesale of products and income from
+logistic and ancillary services. No credit terms have been granted to E-commerce sales and certain offline
+wholesales and logistic and ancillary services are granted credit terms ranging from 0–180 days.
+The balance of trade receivables represents the outstanding amounts receivable from the payment gateway
+companies who involved to process the customers’ E-commerce transactions, offline wholesale and logistic
+customers. No default of settlement is expected by reference to past experience.
+The aging analysis of trade receivables, based on the revenue recognition date (i.e. invoice date) at the end
+of each reporting period and net of allowance, is as follows:
+
+0 to 30 days
+31 to 60 days
+61 to 90 days
+over 90 days
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+5,274
+38
+1
+3
+
+4,616
+57
+1
+4
+
+5,316
+
+4,678
+
+YesAsia Holdings Limited Interim Report 2024
+
+49
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+13
+
+PREPAYMENTS, DEPOSITS AND OTHER RECEIVABLES
+
+Prepayments
+Prepayment to suppliers
+Prepaid rental
+Prepaid selling expenses
+Prepaid administrative expenses
+
+Deposits
+Deposit paid for property, plant and equipment
+Rental deposits
+Trade deposits
+Utilities deposits
+
+Other receivables
+Export tax refundable
+Others
+
+Analysed as:
+Current assets
+Non-current assets
+
+50
+
+YesAsia Holdings Limited Interim Report 2024
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+3,773
+447
+321
+635
+
+1,769
+7
+198
+461
+
+5,176
+
+2,435
+
+29
+1,953
+227
+97
+
+33
+1,832
+273
+68
+
+2,306
+
+2,206
+
+2,561
+107
+
+1,080
+99
+
+2,668
+
+1,179
+
+10,150
+
+5,820
+
+8,353
+1,797
+
+4,197
+1,623
+
+10,150
+
+5,820
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+14
+
+TRADE AND OTHER PAYABLES AND ACCRUALS
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+Trade payables
+
+7,893
+
+5,827
+
+Other payables
+Indirect tax payables
+Dividend payables
+
+3,102
+2,914
+
+3,266
+336
+
+6,016
+
+3,602
+
+2,243
+1,725
+560
+
+1,483
+1,155
+539
+
+4,528
+
+3,177
+
+18,437
+
+12,606
+
+Accruals
+Accrued staff costs
+Accrued selling expenses
+Accrued administrative expenses
+
+The aging analysis of the Group’s trade payables, based on the invoice date, is as follows:
+
+0 to 30 days
+31 to 60 days
+61 to 90 days
+Over 90 days
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+7,494
+394
+2
+3
+
+5,349
+404
+22
+52
+
+7,893
+
+5,827
+
+YesAsia Holdings Limited Interim Report 2024
+
+51
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+15
+
+CONTRACT LIABILITIES
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+6,269
+2,638
+1,887
+
+8,976
+2,288
+1,471
+
+10,794
+
+12,735
+
+Sales of good through online platform (Note (i))
+Deferred revenue for customer loyalty programme (Note (ii))
+Store credits (Note (iii))
+
+Notes:
+(i)
+
+When the Group receives the payment in full before the goods is shipped/delivered, this will give rise
+to contract liabilities at the start of a contract, until the revenue recognised when the goods is shipped/
+delivered to the customers.
+
+(ii)
+
+Contract liabilities relating to deferred revenue for loyalty programme are a portion of the transaction price
+allocated to the memberships based on the relative stand-alone selling price.
+
+(iii)
+
+Store credit is a type of refund offered by the Group to a customer who returns an item that allows them
+to purchase something in the Group up to the value of a returned item. Store credit would be valid for 2
+years upon the grant date. As at 30 June 2024, store credits granted to customers of US$189,000 were
+unused and expired in accordance with the terms of use of the Group. Such expired and unused store
+credits were written back. Accordingly, the Group recognised revenue of US$189,000 for the six months
+ended 30 June 2024 (31 December 2023: US$2,522,000) arising from the written back of the expired and
+unused store credits.
+
+The significant changes in the contract liabilities balances during the six months ended 30 June 2024 were
+mainly due to the Group’s fulfilment efficiency has been increased as compared to the year ended 31
+December 2023, resulting in a decrease in contract liabilities for the period ended 30 June 2024.
+Except the store credits which would be valid for 2 years upon the grant date, all of the remaining contract
+liabilities are expected to be recognised as revenue within one year.
+
+52
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+16
+
+LEASE LIABILITIES
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+10,362
+134
+
+12,042
+142
+
+10,496
+
+12,184
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+Within one year
+In the second year
+In the third to fifth years, inclusive
+
+5,005
+4,603
+888
+
+4,715
+4,754
+2,715
+
+Present value of lease obligations
+Less: Amount due for settlement within 12 months
+(shown under current liabilities)
+
+10,496
+
+12,184
+
+(5,005)
+
+(4,715)
+
+Amount due for settlement after 12 months
+
+5,491
+
+7,469
+
+Leased properties
+Office equipment
+
+As at 30 June 2024, the Group has leased certain of its office equipment (31 December 2023: office
+equipment) under finance leases. The average lease term is 5 years.
+On 17 May 2024, the YA Logistics Limited, a wholly-owned subsidiary of the Company, as tenant received
+the letter of offer which was accepted by the landlord in respect of the leasing of the premises at Warehouse
+Unit 1, 2 and 3, SIXTEEN (16) carpark lots L101 to L112, P101 to P104 on 1st Floor, Mapletree Logistics
+Hub Tsing Yi, 30 Tsing Yi Road, Tsing Yi, New Territories, Hong Kong for a term of five years commencing
+on 23 September 2024 and expiring on 22 September 2029 (both days inclusive) together with an option to
+renew for a further term of five years.
+Pursuant to HKFRS 16, the Group will be required to recognise the value of the right-of-use asset in
+connection with the letter of offer in its consolidated statement of financial position. It is estimated that the
+unaudited value of the right-of-use asset to be recognised by the Company under the letter of offer will be
+approximately US$14,337,000.
+Details of the transaction contemplated under the letter of offer are set out in the Company’s
+announcements and circular dated 17 May 2024, 13 June 2024, 21 June 2024 and 15 July 2024.
+
+YesAsia Holdings Limited Interim Report 2024
+
+53
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+17
+
+SHARE CAPITAL
+Number
+of shares
+
+18
+
+Amount
+US$’000
+
+Ordinary shares
+Issued and fully paid:
+At 1 January 2023 (Audited)
+Issue of shares under share option schemes
+
+395,961,910
+1,162,000
+
+20,494
+146
+
+At 31 December 2023 and 1 January 2024 (Audited)
+Issue of shares under share option schemes
+
+397,123,910
+2,617,230
+
+20,640
+769
+
+At 30 June 2024 (Unaudited)
+
+399,741,140
+
+21,409
+
+SHARE-BASED PAYMENTS
+2016 Share Option Scheme
+The Company adopted a share option scheme on 30 June 2016 (the “2016 Share Option Scheme”) for
+the purpose of enabling the Company to attract and retain qualified employees by providing them with an
+opportunity for investment in the Company.
+The 2016 Share Option Plan will expire on 30 June 2026. However, as the Company became listed on the
+Stock Exchange on 9 July 2021, no further options can be granted under the 2016 Share Option Scheme.
+The default vesting schedule of the 2016 Share Option Scheme is as follows: (i) 25% of all the options
+granted will become vested on the first anniversary of the vesting start date as specified in the option
+agreement and (ii) 6.25% of the options granted will become vested as at the end of each three month
+period after the vesting start date.
+
+54
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+18
+
+SHARE-BASED PAYMENTS (CONTINUED)
+At 30 June 2024 and 31 December 2023, details of the specific categories of options outstanding under
+the 2016 Share Option Scheme are as follows:
+No. of outstanding options
+Exercise
+price per
+option
+US$
+
+As at
+30 June
+2024
+
+As at
+31 December
+2023
+
+Grant date
+
+Expiry date
+
+Directors
+
+28 July 2016
+15 August 2019
+
+28 July 2026
+15 August 2029
+
+0.80
+1.55
+
+140,000
+180,000
+
+140,000
+180,000
+
+Employees
+
+28 July 2016
+27 April 2017
+10 August 2017
+27 April 2018
+26 July 2018
+24 January 2019
+25 April 2019
+15 August 2019
+6 February 2020
+23 April 2020
+30 July 2020
+29 October 2020
+28 January 2021
+29 April 2021
+
+28 July 2026
+27 April 2027
+10 August 2027
+27 April 2028
+26 July 2028
+24 January 2029
+25 April 2029
+15 August 2029
+6 February 2030
+23 April 2030
+30 July 2030
+29 October 2030
+28 January 2031
+29 April 2031
+
+0.80
+0.80
+0.80
+1.20
+1.20
+1.20
+1.55
+1.55
+1.55
+2.01
+2.01
+2.01
+2.01
+2.01
+
+2,451
+625
+1,250
+29,688
+37,500
+68,125
+71,195
+33,000
+95,200
+199,000
+30,000
+222,500
+116,175
+355,000
+
+2,451
+625
+1,250
+48,488
+53,125
+78,175
+73,443
+33,000
+133,200
+248,000
+50,000
+240,000
+140,000
+418,000
+
+1,581,709
+
+1,839,757
+
+Total for the 2016 Share Option Scheme
+
+Post-IPO Share Option Scheme
+A Post-IPO share option scheme was adopted by the Company on 13 March 2021, which was conditional
+upon the listing of the Shares on the Stock Exchange and came into effect on the Listing Date (the “PostIPO Share Option Scheme”). The Post-IPO Share Option Scheme will expire on 8 July 2031. The purpose
+of the Post-IPO Share Option Scheme is to advance the interests of the Company and its shareholders
+by enabling the Company to attract and retain qualified employees or directors of the Company and/or its
+subsidiaries through providing them with an opportunity for investment in the shares of the Company.
+The total number of Shares which may be issued upon exercise of all options to be granted under the PostIPO Share Option Scheme is 39,539,079 (equivalent to 3,953,908 options), being 10% of the ordinary
+Shares in issue on the Listing Date.
+The default vesting schedule of the Post-IPO Share Option Scheme is as follows: (i) 25% of all the options
+granted will become vested on the first anniversary of the vesting start date as specified in the option
+agreement and (ii) 6.25% of the options granted will become vested as at the end of each three month
+period after the vesting start date.
+
+YesAsia Holdings Limited Interim Report 2024
+
+55
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+18
+
+SHARE-BASED PAYMENTS (CONTINUED)
+Post-IPO Share Option Scheme (Continued)
+Details of the specific categories of options outstanding under the Post-IPO Share Option Scheme as at 30
+June 2024 and 31 December 2023 are as follows:
+No. of outstanding options
+Exercise
+price per
+option
+US$
+
+As at
+30 June
+2024
+
+As at
+31 December
+2023
+
+Grant date
+
+Expiry date
+
+Directors
+
+31 October 2022
+
+30 October 2032
+
+0.75(i)
+
+86,250
+
+90,000
+
+Employees
+
+30 August 2021
+29 October 2021
+21 April 2022
+31 October 2022
+21 April 2023
+27 October 2023
+26 April 2024
+
+29 August 2031
+28 October 2031
+20 April 2032
+30 October 2032
+20 April 2033
+26 October 2033
+25 April 2034
+
+3.16(ii)
+1.84(iii)
+1.50(iv)
+0.75(i)
+0.66(v)
+0.61(vi)
+1.02(vii)
+
+35,000
+10,000
+157,550
+36,250
+180,775
+25,000
+304,000
+
+35,000
+10,000
+195,500
+40,000
+196,000
+25,000
+–
+
+834,825
+
+591,500
+
+Total for the Post-IPO Share Option Scheme
+
+56
+
+(i)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$5.80.
+
+(ii)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$24.48.
+
+(iii)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$14.28.
+
+(iv)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$11.60.
+
+(v)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$5.10.
+
+(vi)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$4.70.
+
+(vii)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$7.90.
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+18
+
+SHARE-BASED PAYMENTS (CONTINUED)
+Details of the movement of share options during the period/year are as follows:
+Six months ended
+30 June 2024
+Weighted
+Number of
+average
+share
+exercise
+options
+price
+US$
+
+Year ended
+31 December 2023
+Weighted
+Number of
+average
+share
+exercise
+options
+price
+US$
+
+Outstanding at 1 January
+Granted during the period/year
+Exercised during the period/year
+Forfeited during the period/year
+
+2,431,257
+309,000
+(261,723)
+(62,000)
+
+1.58
+1.02
+1.64
+1.81
+
+2,455,819
+223,500
+(116,200)
+(131,862)
+
+1.64
+0.65
+0.80
+1.75
+
+Outstanding at end of period/year
+
+2,416,534
+
+1.50
+
+2,431,257
+
+1.58
+
+Exercisable at end of period/year
+
+1,596,597
+
+1.66
+
+1,658,132
+
+1.67
+
+Note: Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 ordinary shares
+for each outstanding share option granted under the share option scheme exercised. Therefore, the
+weighted average exercisable price per share under share options granted as at 30 June 2024 is US$0.17
+(31 December 2023: US$0.17).
+
+The options outstanding at the end of the period/year have a weighted average remaining contractual life of
+approximately 6.70 years as at 30 June 2024 (31 December 2023: 6.75 years).
+During the Reporting Period, 309,000 options were granted under Post-IPO Share Option Scheme on
+21 April 2023 and the total estimated fair value of these options on the date of grant was approximately
+US$98,000.
+During the year ended 31 December 2023, 198,500 and 25,000 share options were granted under PostIPO Share Option Scheme on 21 April 2023 and 27 October 2023 respectively and the total estimated fair
+value of these share options on the date of grant was US$56,000.
+During the Reporting Period, the number of exercised options granted under the 2016 Share Option
+Scheme and the Post-IPO Share Option Scheme was 216,048 and 45,675 respectively. The weighted
+average closing price of Shares immediately before 8 May 2024 (the exercise date of 200 Share options),
+5 June 2024 (the exercise date of 39,375 Share options), 6 June 2024 (the exercise date of 2,400 Share
+options) and 24 June 2024 (the exercise date of 219,748 Share options) were HK$0.79, HK$1.07, HK$1.19
+and HK$2.99 respectively.
+
+YesAsia Holdings Limited Interim Report 2024
+
+57
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+18
+
+SHARE-BASED PAYMENTS (CONTINUED)
+The fair value was calculated using the Binomial Option pricing model on the date on which the options
+were granted. The inputs into the model are as follows:
+For the six months ended 30 June 2024
+Share option
+granted on
+26 April
+2024
+US$0.097(*)
+US$0.102
+49.05%
+10 years
+3.96%
+6.67%
+
+Stock price
+Exercise price per option
+Expected volatility
+Expected life
+Risk free rate
+Expected dividend yield
+(*)
+
+Equivalent to the stock price denominated in HK$ of HK$0.75.
+
+For the year ended 31 December 2023
+Share option granted on
+21 April
+27 October
+2023
+2023
+Stock price
+Exercise price per option
+Expected volatility
+Expected life
+Risk free rate
+Expected dividend yield
+(*)
+
+US$0.066(*)
+US$0.658
+50.01%
+10 years
+3.15%
+4.13%
+
+US$0.058(*)
+US$0.606
+52.65%
+10 years
+4.31%
+4.13%
+
+Equivalent to the stock price denominated in HK$ of HK$0.51 and HK$0.45 respectively.
+
+Average of industry annualised historical share price volatility is deemed to be the expected volatility of the
+share price of the Company. The expected life used in the model has been adjusted, based on the Group’s
+best estimate, for the effects of non-transferability, exercise restrictions and behavioural considerations.
+Expected dividend yield is based on historical dividends paid to the shareholders of the Company.
+
+58
+
+YesAsia Holdings Limited Interim Report 2024
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+18
+
+SHARE-BASED PAYMENTS (CONTINUED)
+Risk-free rates adopted in the valuation model are the yield-to-maturities in continuous compounding of the
+Hong Kong Government Bonds with the time-to-maturities similar to that of the options as at the date of
+grant.
+Where a share option is cancelled or forfeited prior to the expiry date, it is treated as if it had vested on
+the date of cancellation or forfeiture, and any expense not yet recognised for the option is recognised
+immediately.
+The Group recorded total expenses of approximately US$106,000 during the Reporting Period (Prior
+Period: US$240,000) in respect of the share option schemes.
+Note: The calculation results of the values of the share options are subject to a number of assumptions of the
+parameters used herein and the limitation of the model adopted. Therefore, the estimated values of the
+share options may be subjective and uncertain.
+
+During the six months ended 30 June 2024 and 30 June 2023 respectively, the accounting policy adopted
+for the share options are as follow:
+The Group issues share options to certain directors and employees.
+Share options granted to directors and employees are measured at the fair value (excluding the effect
+of non-market-based vesting conditions) of the equity instruments at the date of grant. The fair value
+determined at the grant date of the share options is expensed on a straight-line basis over the vesting
+period, based on the Group’s estimate of shares that will eventually vest and adjusted for the effect of nonmarket-based vesting conditions.
+
+19
+
+RELATED PARTY TRANSACTIONS
+(a)
+
+Key management personnel remuneration
+Remuneration for key management personnel of the Group, including amounts paid to the Company’s
+executive directors and certain of the highest paid employees, is as follows:
+
+Six months ended 30 June
+
+Salaries and allowances
+Discretionary bonus
+Equity-settled share-based payments
+Retirement benefits scheme contributions
+
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+755
+281
+13
+42
+
+659
+–
+31
+27
+
+1,091
+
+717
+
+YesAsia Holdings Limited Interim Report 2024
+
+59
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2024
+
+19
+
+RELATED PARTY TRANSACTIONS (CONTINUED)
+(b)
+
+Other related party transactions
+In addition to those related party transactions and balances disclosed elsewhere in the consolidated
+financial statements, the Group had the following transactions with its related parties during the period:
+
+Six months ended 30 June
+2024
+(Unaudited)
+US$’000
+
+2023
+(Unaudited)
+US$’000
+
+(1)
+
+(1)
+
+As at
+30 June
+2024
+(Unaudited)
+US$’000
+
+As at
+31 December
+2023
+(Audited)
+US$’000
+
+76
+
+33
+
+Return merchandise authorization service fee to
+Ms. Chu Po King (Note)
+
+Note: Ms. Chu Po King is a sister of a director and shareholder of the Company.
+
+20
+
+CAPITAL COMMITMENTS
+
+Property, plant and equipment
+
+21
+
+EVENTS AFTER THE REPORTING PERIOD
+On 29 July 2024, the Board approved the grant of 65,000 share options of the Company carrying rights
+to subscribe for a maximum of an aggregate of 650,000 ordinary shares of the Company to 5 selected
+grantees who are employees of the Group. Details of the grant are set out in the Company’s announcement
+dated 29 July 2024.
+
+22
+
+APPROVAL OF INTERIM CONDENSED CONSOLIDATED FINANCIAL
+INFORMATION
+The interim condensed consolidated financial information were approved and authorised for issue by the
+Board on 29 August 2024.
+
+60
+
+YesAsia Holdings Limited Interim Report 2024
+
+

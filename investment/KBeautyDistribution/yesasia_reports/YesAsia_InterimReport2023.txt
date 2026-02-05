@@ -1,0 +1,5775 @@
+CONTENTS
+1
+
+Contents
+
+2
+
+Corporate Information
+
+3
+
+Definitions and Glossary
+
+6
+
+Key Highlights
+
+7
+
+Management Discussion and Analysis
+
+17
+
+Other Information
+
+33
+
+Interim Condensed Consolidated Statement of
+Profit or Loss and Other Comprehensive Income
+
+34
+
+Interim Condensed Consolidated Statement of
+Financial Position
+
+35
+
+Interim Condensed Consolidated Statement of
+Changes in Equity
+
+36
+
+Interim Condensed Consolidated Statement of
+Cash Flows
+
+37
+
+Notes to Interim Condensed Consolidated Financial
+Information
+
+CORPORATE INFORMATION
+
+BOARD OF DIRECTORS
+
+AUDITOR
+
+Executive Directors
+
+RSM Hong Kong
+Certified Public Accountants
+Registered Public Interest Entity Auditor
+29th Floor
+Lee Garden Two
+28 Yun Ping Road
+Causeway Bay
+Hong Kong
+
+Mr. Lau Kwok Chu (劉國柱) (Chief Executive Officer)
+Ms. Chu Lai King (朱麗琼) (Chairperson)
+Mr. Chu Kin Hang (朱健恒)
+Non-executive Directors
+Mr. Lui Pak Shing Michael (雷百成)
+Mr. Hui Yat Yan Henry (許日昕)
+Mr. Poon Chi Ho (潘智豪)
+Independent Non-executive Directors
+Mr. Chan Yu Cheong (陳汝昌)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+Mr. Wong Chee Chung (王子聰)
+
+HEAD OFFICE AND REGISTERED
+OFFICE IN HONG KONG
+5/F., KC100, 100 Kwai Cheong Road
+Kwai Chung, New Territories, Hong Kong
+
+LEGAL ADVISOR AS TO HONG KONG
+LAWS
+
+AUDIT COMMITTEE
+Ronald Tong & Co
+Mr. Wong Chee Chung (王子聰) (Chairman)
+Mr. Hui Yat Yan Henry (許日昕)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+Mr. Chan Yu Cheong (陳汝昌)
+
+REMUNERATION COMMITTEE
+Mr. Chan Yu Cheong (陳汝昌) (Chairman)
+Mr. Poon Chi Ho (潘智豪)
+Mr. Wong Chee Chung (王子聰)
+Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+
+NOMINATION COMMITTEE
+Mr. Sin Pak Cheong Philip Charles (冼栢昌) (Chairman)
+Mr. Chu Kin Hang (朱健恒)
+Mr. Chan Yu Cheong (陳汝昌)
+Mr. Wong Chee Chung (王子聰)
+
+COMPANY SECRETARY
+
+SHARE REGISTRAR
+Computershare Hong Kong Investor Services Limited
+Shops 1712-1716, 17th Floor, Hopewell Centre
+183 Queen’s Road East, Wan Chai
+Hong Kong
+
+PRINCIPAL BANKS
+The Hongkong and Shanghai Banking
+Corporation Limited
+DBS Bank (Hong Kong) Limited
+
+STOCK CODE
+2209
+
+CORPORATE WEBSITE
+www.yesasiaholdings.com
+
+Mr. Ng Sai Cheong (伍世昌)
+
+AUTHORISED REPRESENTATIVES
+Mr. Lau Kwok Chu (劉國柱)
+Mr. Ng Sai Cheong (伍世昌)
+
+2
+
+YesAsia Holdings Limited Interim Report 2023
+
+SHOPPING WEBSITES
+www.yesstyle.com
+www.asianbeautywholesale.com
+www.yesasia.com
+
+DEFINITIONS AND GLOSSARY
+
+“AsianBeautyWholesale”
+
+the AsianBeautyWholesale platform with its website at www.AsianBeautyWholesale.com
+
+“Audit Committee”
+
+the audit committee of our Company
+
+“Board”
+
+the board of directors of our Company
+
+“Company”, “our Company”
+or “the Company”
+
+YesAsia Holdings Limited (喆麗控股有限公司), a company incorporated with
+limited liability in Hong Kong on 11 March 2005, or, where the context requires
+(as the case may be), its predecessor, YesAsia.com, Inc. (formerly known as Asia
+CD, Inc.), a company incorporated in California, the US on 18 December 1997,
+and except where the context indicates otherwise (i) our subsidiaries and (ii) with
+respect to the period before our Company became the holding company of our
+present subsidiaries, the business operated by our present subsidiaries or (as the
+case may be) their predecessors
+
+“CN Logistics”
+
+CN Logistics International Holdings Limited (嘉泓物流國際控股有限公司) (a
+company incorporated in the Cayman Islands with limited liability, whose shares are
+listed on the Main Board of the Stock Exchange (stock code: 2130))
+
+“Directors” or “our Directors”
+
+the directors of our Company
+
+“Group”, “our Group”,
+“we” or “us”
+
+our Company and its subsidiaries or, where the context requires, in respect of
+the period prior to our Company becoming the holding company of its present
+subsidiaries, such subsidiaries as if they were subsidiaries of our Company at the
+relevant time
+
+“HK$” or “Hong Kong dollars” Hong Kong dollars, the lawful currency of Hong Kong
+“Hong Kong”
+
+the Hong Kong Special Administrative Region of the People’s Republic of China
+
+“Listing”
+
+the listing of the Shares on the Main Board of the Stock Exchange
+
+“Listing Date”
+
+9 July 2021, on which the Shares are first listed and from which dealings in the
+Shares are permitted to take place on the Main Board of the Stock Exchange
+
+“Listing Rules”
+
+the Rules Governing the Listing of Securities on the Stock Exchange, as amended
+or supplemented from time to time
+
+“Main Board”
+
+the stock exchange (excluding the option market) operated by the Stock Exchange
+which is independent from and operated in parallel with the GEM of the Stock
+Exchange. For the avoidance of doubt, the Main Board excludes the GEM
+
+“Model Code”
+
+Model Code for Securities Transactions by Directors of Listed Issuers as contained
+in Appendix 10 to the Listing Rules
+
+YesAsia Holdings Limited Interim Report 2023
+
+3
+
+DEFINITIONS AND GLOSSARY
+
+4
+
+“pp”
+
+percentage point
+
+“Pre-IPO Share Option
+Schemes”
+
+YesAsia Holdings 2005 General Stock Option Plan and YesAsia Holdings 2016
+General Stock Option Plan, being the two pre-IPO share option schemes of the
+Company approved and adopted by the Company on 2 June 2005 and 30 June
+2016, respectively, particulars of which are set out in “Other Information — Share
+Option Scheme” to this interim report
+
+“Prior Period”
+
+the six months ended 30 June 2022
+
+“Prospectus”
+
+prospectus of the Company dated 28 June 2021
+
+“Relevant Jurisdiction”
+
+any jurisdiction that is relevant to the Company and has sanctions related law or
+regulation restricting, among other things, its nationals and/or entities which are
+incorporated or located in that jurisdiction from directly or indirectly making assets
+or services available to or otherwise dealing in certain countries, governments,
+person or entities targeted by such law or regulation
+
+“Reporting Period”
+
+the six months ended 30 June 2023
+
+“Sanctioned Countries”
+
+Any country or territory subject to a general and comprehensive export, import,
+financial or investment embargo under sanctions related laws or regulation of
+the Relevant Jurisdiction, namely Cuba, Iran, North Korea, Syria, and the Crimea
+Region of Russia/Ukraine
+
+“Sanctioned Person(s)”
+
+certain person(s) and entity(ies) listed on The US Department of Treasury’s Office
+of Foreign Assets Control’s Specially Designated Nationals and Blocked Persons
+List or other restricted parties lists maintained by the US, the European Union, the
+United Nations or Australia
+
+“SFO”
+
+the Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong)
+
+“Share(s)”
+
+ordinary share(s) in the share capital of our Company
+
+“Share Split”
+
+the subdivision of one Share into ten Shares pursuant to the resolutions passed by
+the Shareholders on 9 June 2021
+
+“Shareholder(s)”
+
+holder(s) of Shares
+
+YesAsia Holdings Limited Interim Report 2023
+
+DEFINITIONS AND GLOSSARY
+
+“Smart Robotics Warehouse” the smart warehouse located at the warehouse at Goodman Interlink in Tsing Yi
+equipped with 161 physical autonomous mobile robots, which was fully deployed
+in October 2022
+“Stock Exchange”
+
+The Stock Exchange of Hong Kong Limited
+
+“Subsidiary(ies)”
+
+has the meaning ascribed to it under the Listing Rules
+
+“US$”
+
+United States dollar, the lawful currency of the US
+
+“US” or “United States”
+
+the United States of America, its territories and possessions, any state of the United
+States and the District of Columbia
+
+“YesAsia” or “YesAsia
+Platform”
+
+the YesAsia platform with its website at www.YesAsia.com
+
+“YesStyle” or “YesStyle
+Platforms”
+
+the YesStyle platforms, which include the website at www.YesStyle.com and the
+YesStyle Mobile apps
+
+YesAsia Holdings Limited Interim Report 2023
+
+5
+
+KEY HIGHLIGHTS
+
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+Change
+(%)
+
+90,657
+28,182
+31.1%
+1,563
+
+62,905
+21,778
+34.6%
+(2,264)
+
+44.1%
+29.4%
+(3.5pp)
+169.0%
+
+Revenue
+Gross profit
+Gross profit margin(1)
+Profit/(Loss) for the period
+
+Note:
+(1)
+Gross profit margin is calculated based on gross profit divided by revenue and multiplied by 100%.
+
+Six months ended 30 June
+E-commerce Platforms(1)
+Number of E-commerce platforms customers(2)
+Average order size(3) (US$)
+Acquisition cost per new customer(4) (US$)
+Revenue generated from fashion and lifestyle products (US$’000)
+Revenue generated from beauty products (US$’000)
+Revenue generated from entertainment products on
+E-commerce platform (US$’000)
+Return rate (YesStyle)
+Return rate (AsianBeautyWholesale)
+Return rate (YesAsia)
+
+2023
+
+2022
+
+796,000
+$78.9
+$9.6
+$19,040
+$69,833
+
+570,000
+$63.4
+$12.0
+$26,813
+$31,507
+
+$1,179
+0.79%
+0.27%
+0.07%
+
+$3,878
+1.18%
+0.25%
+0.19%
+
+Notes:
+(1)
+E-commerce platforms include YesStyle (website and mobile apps), AsianBeautyWholesale (website) and YesAsia
+(website).
+(2)
+A person is considered as customer of our E-commerce platform during a reporting period if the invoice of his/
+her/its order has been issued within the reporting period. A person who made his/her/its purchases on different
+E-commerce platforms is accounted as a separate E-commerce customer of each E-commerce platform and
+any anonymous person can register multiple accounts on each of the E-commerce platforms and be counted as
+multiple E-commerce customers.
+(3)
+The average order size is equal to the total order amount divided by the number of orders (excluding canceled
+orders). Total order amount represents the amount paid by our customers for the value of products purchased,
+and before indirect tax payment, effects on foreign exchange, post-sale order refund and adjustments, and other
+accounting adjustments.
+(4)
+This represents marketing and promotion fees per new customer across all E-commerce platforms of the Group.
+A new customer is a customer where the first invoice of his/her/its first ever order has been issued within the
+reporting periods. A guest visitor who made his/her purchase during different reporting periods without specific
+customer identification data is counted as a new customer for each of the reporting periods.
+
+Six months ended 30 June
+YesStyle Platforms
+Number of YesStyle Mobile apps downloads
+(Includes IOS and Android)
+Influencer Program expenses (US$’000)
+Revenue generated by the YesStyle Mobile apps (US$’000)
+Revenue generated by influencers (US$’000)
+
+6
+
+YesAsia Holdings Limited Interim Report 2023
+
+2023
+
+2022
+
+1,683,000
+$1,352
+$31,548
+$15,769
+
+488,000
+$515
+$20,808
+$9,349
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS OVERVIEW
+During the Reporting Period, the Group recorded revenue of approximately US$90,657,000 (Prior Period:
+US$62,905,000), a historical high for our first-half revenue representing an increase of approximately 44.1% as
+compared to the Prior Period, which was mainly driven by the rise in sales of beauty products via both YesStyle
+Platforms and AsianBeautyWholesale. With revenue growth on track, we achieved a turnaround from net losses
+in year 2021 and 2022 to a net profit of approximately US$1,563,000 for the Reporting Period (Prior Period:
+US$2,264,000 loss).
+Fashion & Lifestyle and Beauty Products
+Business-to-Consumer (B2C) platforms (YesStyle Platforms)
+Since January 2023, YesStyle Platforms have introduced a new front page and a beauty products-focused
+promotion strategy. Revenue from YesStyle Platforms was approximately US$71,450,000 during the Reporting
+Period (Prior Period: US$54,146,000), representing an increase of approximately 32.0% as compared to the Prior
+Period, which was driven by rising sales of beauty products.
+Business-to-Business (B2B) platform (AsianBeautyWholesale)
+AsianBeautyWholesale continued to grow quickly during the Reporting Period. With the growth of number of
+customers, number of orders and average order size by approximately 174.8%, 212.7% and 34.3% respectively
+during the Reporting Period as compared to the Prior Period, revenue from AsianBeautyWholesale during the
+Reporting Period rose to approximately US$17,423,000 (Prior Period: US$4,174,000), representing an increase of
+approximately 317.4% as compared to the Prior Period.
+Products
+Beauty products, in particular Korean beauty (“K-Beauty”) products, were also a main driver of revenue growth
+during the Reporting Period. The revenue contributed from beauty products as a percentage of the total revenue
+earned increased from approximately 50.1% during the Prior Period to approximately 77.0% during the Reporting
+Period. We continued to foster closer relationships with our K-Beauty partners. As of 30 June 2023, we have
+partnered with 452 K-Beauty brands (31 December 2022: 430), representing an increase of approximately
+5.1%. In addition, we further strengthened our partnerships with two popular K-Beauty companies, Amorepacific
+Corporation and CJ Olive Young Corporation. We added to our E-commerce platforms one more brand from
+Amorepacific Corporation, espoir, and 5 more brands under CJ Olive Young Corporation, namely IDEAL FOR
+MEN, fillimilli, colorgram, ROUND A’ROUND and BIOHEAL BOH.
+YesStyle Influencer Program
+The YesStyle Influencer Program showed strong growth during the Reporting Period. With the launch of a new
+loyalty program for influencers in May 2022, and more programs and incentives offered to motivate influencer
+performance, the total number of unique influencers grew to approximately 311,000 by the end of June 2023 (31
+December 2022: 279,000), representing an increase of approximately 11.4% as compared to 31 December 2022.
+In particular, the number of YesStyle TikTok Influencers reached 60,000 at the end of June 2023 (31 December
+2022: 44,000), representing a rapid growth of approximately 36.4% since 31 December 2022.
+
+YesAsia Holdings Limited Interim Report 2023
+
+7
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+We continued to partner with influencers to create interesting videos and posts on various platforms, including
+Instagram, TikTok and YouTube, etc., which increased YesStyle’s exposure and drove revenue. During the
+Reporting Period, revenue generated from influencer referrals amounted to approximately US$15,769,000
+(Prior Period: US$9,349,000), representing an increase of approximately 68.7% as compared to the Prior
+Period. Revenue generated from influencer referrals as a percentage of YesStyle Platforms revenue increased to
+approximately 22.1% during the Reporting Period from approximately 17.3% for the Prior Period, demonstrating
+the continuous success of the YesStyle Influencer Program.
+Customer Relationship Management (“CRM”) System
+The CRM System was effective at enhancing the customer retention rate, increasing a sustainable source
+of revenue from existing customers. Revenue facilitated by the CRM System amounted to approximately
+US$11,524,000 during the Reporting Period (Prior Period: US$5,640,000). In addition, the number of YesStyle
+loyalty program members grew to approximately 9,749,000 as at 30 June 2023 (31 December 2022: 8,272,000),
+representing an increase of approximately 17.9% during the Reporting Period.
+Entertainment Products
+For YesAsia, revenue contributed from our entertainment products for the Reporting Period fell by approximately
+69.6% as compared to the Prior Period. The decrease was mainly due to a lack of popular new releases during the
+Reporting Period.
+The Group has ceased its offline wholesale of entertainment products since January 2023 and has since refocused
+its resources on the development of its online platform business.
+Logistics Services
+With written contracts secured with two external customers, the revenue contributed from our logistics services
+amounted to approximately US$605,000 during the Reporting Period (Prior Period: US$325,000).
+Cost Saving Measures
+While we have devoted much effort to support revenue growth, expenses grew correspondingly with increasing
+sales during the Reporting Period. In line with previous periods, we have continued to monitor our expenditure
+growth during the Reporting Period. Our selling expenses, excluding payment gateway charges, amounted to
+approximately US$8,844,000 for the Reporting Period (Prior Period: US$7,454,000), representing an increase of
+18.6% with a growth rate of 44.1% during the Reporting Period which is lower than the growth rate of the revenue
+of the Group during the same period.
+In addition, our administrative staff costs decreased to approximately US$8,107,000 during the Reporting Period
+(Prior Period: US$9,073,000), falling by approximately 10.6% as compared to the Prior Period. This was the result
+of an administrative headcount reduction to 373 team members as at 30 June 2023 (30 June 2022: 401), as part
+of our cost saving measures.
+
+OUTLOOK
+Despite the uncertainties and challenges from the macroeconomic and political factors, the Group will continue
+to adjust its strategies and review new business opportunities with the goal towards improving the Shareholders’
+returns.
+
+8
+
+YesAsia Holdings Limited Interim Report 2023
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+After the COVID pandemic, beauty products reverted to being a daily essential for people. Besides their quality,
+K-Beauty products have grown in demand due to the influence of Korea’s cultural exports. With the combination
+of these two factors, the growing K-Beauty product market globally remains an opportunity and a key driver to the
+Group’s business.
+With the increasing revenue growth, operational efficiency will continue to be one of the priorities for the Group.
+Due to the deployment of autonomous mobile robots (AMRs) in the Smart Robotics Warehouse in October 2022,
+we expect to gain cost-saving benefits from increasing order volume in the coming years.
+As mentioned previously in our “Letter to Shareholders” in the Company’s 2022 annual report, our team is
+determined and dedicated to revive the growth of and achieve profitability for the Company. We are pleased to
+report that we made good progress in the first half of 2023, and will continue to execute the business strategy
+diligently.
+
+FINANCIAL REVIEW
+REVENUE
+Our Group’s revenue grew to approximately US$90,657,000 by approximately US$27,752,000 or 44.1% as
+compared to approximately US$62,905,000 for the Prior Period, which was mainly driven by a rise in sales of
+beauty products via both YesStyle Platforms and AsianBeautyWholesale. The increase was mainly attributable to
+(i) the introduction of a new front page and a beauty products-focused promotion strategy for YesStyle Platforms
+since January 2023, (ii) an enhancement of YesStyle Platforms’ marketing efforts to promote the sale of beauty
+products, and (iii) the expansion of AsianBeautyWholesale to serve more business-to-business (B2B) customers
+looking to source Asian beauty products globally.
+During the Reporting Period, the revenue of AsiaBeautyWholesale grew by approximately US$13,249,000 or
+317.4% to approximately US$17,423,000 (Prior Period: US$4,174,000). The rise in revenue of AsiaBeautyWholesale
+during the Reporting Period was mainly due to increases in (i) average order size by approximately 34.3%; (ii)
+number of orders by approximately 212.7%; and (iii) number of customers by approximately 174.8% during the
+Reporting Period as compared to the Prior Period.
+During the Reporting Period, the revenue of YesAsia Platform decreased by approximately US$2,699,000 or
+69.6% to approximately US$1,179,000 (Prior Period: US$3,878,000). The fall in entertainment product revenue
+during the Reporting Period was mainly due to the lack of popular new releases during the Reporting Period.
+During the Reporting Period, the logistics services business contributed approximately US$605,000 to the Group’s
+revenue (Prior Period: US$325,000). The Group expects that the new business can diversify the customer base
+and better utilise the Group’s warehouse labour after the launch of the Smart Robotics Warehouse to generate
+revenue from new sources.
+
+YesAsia Holdings Limited Interim Report 2023
+
+9
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+The following table sets forth the breakdown of our revenue by business:
+Six months ended 30 June
+2023
+(Unaudited) As % of total
+US$’000
+revenue
+Fashion & lifestyle and
+beauty products
+– YesStyle Platforms
+– AsianBeautyWholesale
+
+Entertainment products
+– YesAsia Platform
+– Offline wholesale
+
+Change
+(%)
+
+71,450
+17,423
+
+78.8
+19.2
+
+54,146
+4,174
+
+86.1
+6.6
+
+32.0
+317.4
+
+88,873
+
+98.0
+
+58,320
+
+92.7
+
+52.4
+
+1,179
+–
+
+1.3
+–
+
+3,878
+382
+
+6.2
+0.6
+
+(69.6)
+(100.0)
+
+1,179
+
+1.3
+
+4,260
+
+6.8
+
+(72.3)
+
+605
+
+0.7
+
+325
+
+0.5
+
+86.2
+
+90,657
+
+100
+
+62,905
+
+100
+
+44.1
+
+Logistics services
+Total
+
+2022
+(Unaudited)
+As % of total
+US$’000
+revenue
+
+COST OF SALES
+Cost of sales of the Group during the Reporting Period was approximately US$62,475,000, representing an
+increase of approximately US$21,348,000 or 51.9%, as compared to approximately US$41,127,000 during the
+Prior Period. The increase in cost of sales was mainly due to the increase in revenue during the Reporting Period.
+With the recovery of logistics capacity and availability of flights after the COVID pandemic, coupled with the
+increase in use of ocean shipments rather than air freights for inwards deliveries, freight charges as a percentage
+of revenue dropped to 22.0% for the Reporting Period (Prior Period: 25.1%).
+The following table sets forth the breakdown of our cost of sales:
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+10
+
+As % of
+revenue
+
+2022
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+Product costs
+Freight charges
+Packing materials
+Direct labour cost
+
+41,963
+19,986
+464
+62
+
+46.3
+22.0
+0.5
+0.1
+
+24,907
+15,772
+448
+–
+
+39.6
+25.1
+0.7
+–
+
+68.5
+26.7
+3.6
+100.0
+
+Total
+
+62,475
+
+68.9
+
+41,127
+
+65.4
+
+51.9
+
+YesAsia Holdings Limited Interim Report 2023
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+GROSS PROFIT AND GROSS MARGIN
+The gross profit margin of the Group decreased by approximately 3.5 percentage points to approximately 31.1%
+(Prior Period: approximately 34.6%). It was mainly due to an increase in the weighting of revenue from (i) products
+of AsianBeautyWholesale, which had lower markups due to AsianBeautyWholesale’s B2B nature; and (ii) beauty
+products of YesStyle Platforms, which had lower margins as compared to fashion and lifestyle products. The
+decrease in gross margin for YesAsia Platform to approximately 5.4% during the Reporting Period (Prior Period:
+20.8%) was mainly due to the charging of allowance for inventories of approximately US$173,000 for certain Bluray products identified as slow-moving in accordance with our inventory provision policy.
+Moreover, the gross profit of the Group for the Reporting Period was approximately US$28,182,000, representing
+an increase of approximately US$6,404,000 or 29.4% as compared to approximately US$21,778,000 for the Prior
+Period.
+The following table sets forth the breakdown of our gross profit by business:
+Six months ended 30 June
+2023
+
+Fashion & lifestyle and
+beauty products
+– YesStyle Platforms
+– AsianBeautyWholesale
+
+Entertainment products
+– YesAsia Platform
+– Offline wholesale
+
+Logistics services
+Total
+
+2022
+
+(Unaudited)
+US$’000
+
+Gross Profit
+Margin
+(%)
+
+(Unaudited)
+US$’000
+
+Gross Profit
+Margin
+(%)
+
+Change
+(%)
+
+23,058
+4,525
+
+32.3
+26.0
+
+19,510
+1,124
+
+36.0
+26.9
+
+18.2
+302.6
+
+27,583
+
+31.0
+
+20,634
+
+35.4
+
+33.7
+
+64
+–
+
+5.4
+–
+
+806
+24
+
+20.8
+6.3
+
+(92.1)
+(100.0)
+
+64
+
+5.4
+
+830
+
+19.5
+
+(92.3)
+
+535
+
+88.4
+
+314
+
+96.6
+
+70.4
+
+28,182
+
+31.1
+
+21,778
+
+34.6
+
+29.4
+
+OTHER INCOME AND OTHER GAINS AND LOSSES
+Our other income and other gains decreased by 79.0% from approximately US$582,000 during the Prior Period to
+approximately US$122,000 during the Reporting Period. The decrease was primarily attributable to (i) the absence
+of one-off government subsidy from the Employment Support Scheme received during the Reporting Period (Prior
+Period: US$421,000); and (ii) cash rebate income received decreased by approximately US$43,000 or 66.2% to
+approximately US$22,000 during the Reporting Period (Prior Period: US$65,000), partially offset by an increase in
+interest income to approximately US$79,000 during the Reporting Period (Prior Period: US$59,000).
+
+YesAsia Holdings Limited Interim Report 2023
+
+11
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+SELLING EXPENSES
+The Group devoted much effort to support revenue growth and expansion in scale with sales of the Group during
+the Reporting Period, which is expected to increase its unaudited selling expenses by approximately US$2,072,000
+or 22.8% to approximately US$11,146,000 during the Reporting Period as compared to approximately
+US$9,074,000 during the Prior Period. The increase mainly comprised (i) marketing and promotion fees increased
+by approximately US$1,042,000 or 32.0% to approximately US$4,296,000 (Prior Period: US$3,254,000) which
+was mainly due to more marketing campaigns and promotional activities to acquire new customers and repeat
+orders; (ii) payment gateway charges increased by approximately US$682,000 or 42.1% to approximately
+US$2,302,000 (Prior Period: US$1,620,000) which was in line with revenue growth; and (iii) outsourced warehouse
+labour cost increased by approximately US$309,000 or 29.5% to approximately US$1,358,000 (Prior Period:
+US$1,049,000) which was due to an increase in outsourced labour for fulfilling the substantial growth in orders.
+Despite the increase in the amount of outsourced warehouse labour charges and warehouse wages during the
+Reporting Period as compared to the Prior Period, the percentage of outsourced warehouse labour charges
+and warehouse wages in aggregate to revenue was approximately 3.9% (Prior Period: 5.1%), which was lower
+than the Prior Period by approximately 1.2 percentage points. This is mainly attributable to the deployment of the
+AMR since October 2022 that lowered both the outsourced warehouse labour charges and warehouse wages,
+in particular for the fulfillments of orders for YesStyle Platforms, during the Reporting Period. The Group has
+continued to fine-tune the AMR system to further enhance its efficiency and bring in more benefits to the Group’s
+operations.
+The following table sets forth the breakdown of our selling expenses:
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+Marketing and promotion
+fees
+Payment gateway charges
+Warehouse wages
+Outsourced warehouse
+labour charges
+IT networking fee
+Custom duties
+Web content and
+translation fee
+Total
+
+12
+
+As % of
+revenue
+
+2022
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+4,296
+2,302
+2,126
+
+4.7
+2.5
+2.4
+
+3,254
+1,620
+2,114
+
+5.2
+2.6
+3.4
+
+32.0
+42.1
+0.6
+
+1,358
+705
+288
+
+1.5
+0.8
+0.3
+
+1,049
+705
+80
+
+1.7
+1.1
+0.0
+
+29.5
+0.0
+260.0
+
+71
+
+0.1
+
+252
+
+0.4
+
+(71.8)
+
+11,146
+
+12.3
+
+9,074
+
+14.4
+
+22.8
+
+YesAsia Holdings Limited Interim Report 2023
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+ADMINISTRATIVE EXPENSES
+The Group’s administrative expenses for the Reporting Period were approximately US$14,563,000 (Prior
+Period: US$15,147,000), representing a decrease of approximately 3.9% as compared to the Prior Period. The
+decrease was mainly due to (i) a decrease of approximately US$966,000 or 10.6% in staff costs as the number of
+administrative employees was reduced from 401 as at 30 June 2022 to 373 as at 30 June 2023; (ii) a decrease in
+depreciation of right-of-use assets by approximately US$396,000 or 14.7% to approximately US$2,291,000 (Prior
+Period: US$2,687,000); and (iii) a decrease in operating lease charges by approximately US$119,000 or 70.0%
+to approximately US$51,000 (Prior Period: US$170,000) which was due to lease modification, partially offset by (i)
+approximately US$648,000 or a 235.6% increase in net exchange losses which was mainly due to more payments
+settled by our payment gateway as a result of revenue growth during the Reporting Period; and (ii) approximately
+US$76,000 or a 271.4% increase in staff training and recruitment expenses.
+The following table sets forth the breakdown of our administrative expenses:
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+2022
+(Unaudited)
+US$’000
+
+As % of
+revenue
+
+Change
+(%)
+
+Staff costs
+Depreciation of right-ofuse assets
+Exchange losses, net
+Depreciation of property,
+plant and equipment
+Rates and management
+fee
+Legal and professional fees
+Utilities expenses
+Directors’ remuneration
+Staff training and
+recruitment expenses
+Auditor’s remuneration
+Operating lease charges
+Others
+
+8,107
+
+8.9
+
+9,073
+
+14.4
+
+(10.6)
+
+2,291
+923
+
+2.5
+1.0
+
+2,687
+275
+
+4.3
+0.4
+
+(14.7)
+235.6
+
+830
+
+0.9
+
+757
+
+1.2
+
+9.6
+
+628
+535
+430
+359
+
+0.7
+0.6
+0.5
+0.4
+
+556
+583
+418
+309
+
+0.9
+0.9
+0.7
+0.5
+
+12.9
+(8.2)
+2.9
+16.2
+
+104
+77
+51
+228
+
+0.1
+0.1
+0.1
+0.3
+
+28
+77
+170
+214
+
+0.0
+0.1
+0.3
+0.4
+
+271.4
+0.0
+(70.0)
+6.5
+
+Total
+
+14,563
+
+16.1
+
+15,147
+
+24.1
+
+(3.9)
+
+YesAsia Holdings Limited Interim Report 2023
+
+13
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+FINANCE COSTS
+The Group’s finance costs for the Reporting Period were approximately US$642,000 (Prior Period: US$225,000),
+representing an increase of approximately 185.3% as compared to the Prior Period, reflecting a full six months
+lease interest expensed during the Reporting Period for the new warehouse whose lease started in the Prior
+Period.
+INCOME TAX EXPENSE
+Income tax expense for the Reporting Period was approximately US$319,000 (Prior Period: US$37,000),
+representing an increase of approximately US$282,000 or 762.2% as compared to the Prior Period. The increase
+was mainly due to the higher taxable profit generated during the Reporting Period.
+PROFIT/(LOSS) FOR THE PERIOD
+As a result of the foregoing, a profit of approximately US$1,563,000 was recorded for the Reporting Period (Prior
+Period: US$2,264,000 loss). The turnaround was mainly attributable to (i) the introduction of a new front page and
+the beauty products-focused promotion strategy of YesStyle Platforms since January 2023; (ii) an enhancement
+of the marketing efforts of YesStyle Platforms to promote the sale of beauty products; (iii) the expansion of
+AsianBeautyWholesale to serve more business-to-business (B2B) customers looking to source Asian beauty
+products globally; and (iv) the results yielded from our enhanced cost saving measures, in particular, the labour
+cost savings and improvement in operational efficiency gained after the deployment of the AMRs.
+
+CAPITAL EXPENDITURE
+During the Reporting Period, the Group acquired plant and equipment of approximately US$252,000 (Prior Period:
+US$76,000), representing an increase of approximately US$176,000 or 231.6% as compared to that for the Prior
+Period.
+
+LIQUIDITY AND CAPITAL RESOURCES
+Our principal source of liquidity was cash from operations and the proceeds from Listing. As of 30 June
+2023, the Group’s bank and cash balances amounted to approximately US$9,885,000 (31 December 2022:
+US$18,797,000).
+Our bank and cash balance were mainly denominated in US Dollar, Hong Kong Dollar, Korean Won, British
+Pound Sterling, Japanese Yen, Euro and Renminbi which decreased by approximately US$8,912,000 during the
+Reporting Period which was attributable to (i) net cash used in operating activities of approximately US$7,993,000;
+(ii) principal elements of lease payments of approximately US$2,208,000; and (iii) purchase of property, plant and
+equipment of approximately US$252,000, partially offset by decrease in pledged bank deposits approximately
+US$1,535,000.
+The net cash used in operating activities was mainly due to operating profit before working capital changes of
+approximately US$6,050,000 during the Reporting Period, offset by (i) an increase in inventories by approximately
+US$8,445,000; (ii) an increase in prepayments, deposits and other receivables by approximately US$2,358,000;
+(iii) a decrease in trade and other payables and accruals by approximately US$1,819,000; and (iv) a decrease in
+contract liabilities by approximately US$1,417,000.
+As at 30 June 2023, the Group had no bank borrowing (31 December 2022: Nil).
+
+14
+
+YesAsia Holdings Limited Interim Report 2023
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+We believe that our liquidity requirements and our expected source of funding going forward will be satisfied by using
+a combination of cash generated from our operations and net proceeds from Listing.
+
+TREASURY AND FOREIGN EXCHANGE POLICIES
+The Group’s treasury management policy is to avoid any investment in highly-leveraged or speculative derivative
+products. The Group continued to be conservative in managing financial risk during the Reporting Period.
+Consistent with the aforesaid treasury objectives and policy, the Group undertakes treasury management activities
+with respect to its surplus cash assets. The selection criteria of investments include the relative risk profile
+involved, the liquidity of an investment, the after-tax equivalent yield of an investment and investments that are not
+speculative in nature.
+Most business transactions, assets and liabilities of the Group were denominated either in US Dollar, Hong Kong
+Dollar, Korean Won, British Pound Sterling, Japanese Yen, Euro or Renminbi. The E-commerce customers of
+the Group generally settle their invoices using their designated currencies upon checkout via secure payment
+gateways, and the fund is generally transferred to the Group’s account in Hong Kong Dollar and US Dollar upon
+currency conversion. As Hong Kong Dollar is pegged to US Dollar, our Group does not expect any significant
+movements in the exchange rate between US Dollars and Hong Kong Dollars. Besides, our Group has certain
+exposure to foreign currency risk as some of our business transactions, assets and liabilities are denominated
+in currencies (i.e. Korean Won, Japanese Yen, British Pound Sterling, Renminbi and Euro, etc) other than the
+functional currency of our Group (i.e. US Dollar).
+Currently, we do not have a formal foreign currency hedging policy. However, our management monitors the
+Group’s foreign exchange exposure constantly and will consider engaging in derivatives markets or foreign
+exchange hedging measures to minimise the foreign exchange risk when it is foreseen to be significant.
+
+GEARING RATIO
+Our gearing ratio, calculated by the total interest-bearing liabilities (including lease liabilities) divided by total equity,
+decreased from approximately 57.0% as at 31 December 2022 to approximately 47.9% as at 30 June 2023,
+primarily due to amortisation of lease liabilities during the Reporting Period.
+
+CONTINGENT LIABILITIES
+As at 30 June 2023, the Group did not have any material contingent liabilities (31 December 2022: Nil).
+
+CAPITAL COMMITMENTS
+Saved for those disclosed in Note 19 to the Interim Condensed Consolidated Financial Information, the Group did
+not have any significant capital commitments as at 30 June 2023.
+
+YesAsia Holdings Limited Interim Report 2023
+
+15
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+SIGNIFICANT INVESTMENTS HELD
+During the Reporting Period, we did not hold any significant investments, save for the 1,100,000 shares in CN
+Logistics, representing approximately 0.40% of the issued share capital of CN Logistics as at 30 June 2023, with
+a fair value amounted to approximately US$1,121,000 as at 30 June 2023 (31 December 2022: US$1,191,000).
+The investment represents approximately 1.8% of the total consolidated asset of the Group as at 30 June 2023 (31
+December 2022: 1.9%). The aforementioned 1,100,000 shares in CN Logistics were subscribed by the Company
+at a total cash consideration of HK$10,120,000. The principal activity of CN Logistics is investment holding, which
+through its subsidiaries, is principally engaged in the provision of air freight forwarding services and distribution and
+logistics services in relation to fashion products and fine wine, primarily focusing on high-end fashion (including
+luxury and affordable luxury) products. CN Logistics is a strategic logistics partner of the Group for delivery of our
+customers’ products to the US, Europe and other overseas markets.
+As at 30 June 2023, the unrealised fair value loss of such investment was approximately US$70,000 due to the
+decrease in share price of CN Logistics during the Reporting Period from our subscription price of HK$9.20 per
+share. A dividend of approximately US$14,000 had been recognised from the investment during the Reporting
+Period. In view of the expected positive impact to the business of both CN Logistics and the Group through the
+strategic logistics partnership and the deepened collaboration during the Reporting Period, the investment in
+CN Logistics is expected to be strategic and enable the Group to foster a closer business partnership with CN
+Logistics for a longer term and result in potential investment returns to the Shareholders.
+
+INTERIM DIVIDEND
+The Board has resolved not to declare any interim dividend for the six months ended 30 June 2023 (Prior Period:
+Nil).
+
+FUTURE PLANS FOR MATERIAL INVESTMENTS AND CAPITAL ASSETS
+Except as disclosed herein and apart from investment for operation purposes which may be made in the ordinary
+and usual course of business, as of the date of this report, the Group did not have any concrete immediate
+future plans for material investments or capital assets but the Group may explore potential opportunities to make
+investment and/or acquire capital assets for sustainable growth.
+
+MATERIAL ACQUISITIONS, DISPOSALS AND FUTURE PLANS FOR SUBSIDIARIES
+During the Reporting Period and as of the date of this interim report, we did not have any material acquisition or
+disposal of subsidiaries, associates and joint ventures nor any future plans in relation to such actions.
+
+CHARGE ON ASSETS
+As at 30 June 2023, the banking facilities of the Group mainly comprised corporate credit cards and letters of
+guarantee issued to the Group and Group’s suppliers for products purchased by the Group and securing the
+payments to the Group’s suppliers respectively. The banking facilities were secured by the pledged deposit of the
+Group of approximately US$1,644,000 as of 30 June 2023 (31 December 2022: US$3,179,000).
+
+16
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS IN
+SHARES, UNDERLYING SHARES AND DEBENTURES
+As of 30 June 2023, interests and short positions of the Directors and the chief executives of the Company in the
+Shares, underlying Shares and debentures of the Company and its associated corporations (within the meaning of
+Part XV of the SFO) which have been notified to the Company and the Stock Exchange pursuant to Divisions 7 and
+8 of Part XV of the SFO (including interests and short positions which were taken or deemed to have taken under
+such provisions of the SFO), or which were recorded in the register required to be kept pursuant to section 352 of
+the SFO or as otherwise notified to the Company and the Stock Exchange pursuant to the Model Code were as
+follows:
+
+Number of Shares
+and underlying
+Shares
+
+Approximate
+percentage
+of the issued
+share capital of
+the Company
+(%)
+
+Name of Director
+
+Capacity
+
+Nature of interest
+
+Mr. Lau Kwok Chu (劉國柱)(1)
+
+Beneficial interest
+Interest of Spouse
+
+Long position
+Long position
+
+124,670,980
+29,935,550
+
+31.47%
+7.56%
+
+Ms. Chu Lai King (朱麗琼)(1)
+
+Beneficial interest
+Interest of Spouse
+
+Long position
+Long position
+
+29,935,550
+124,670,980
+
+7.56%
+31.47%
+
+Mr. Chu Kin Hang (朱健恒)(2)
+
+Beneficial interest
+
+Long position
+
+4,842,120
+
+1.22%
+
+Mr. Lui Pak Shing Michael
+(雷百成)(3)
+
+Beneficial interest
+
+Long position
+
+35,283,210
+
+8.91%
+
+Mr. Hui Yat Yan Henry (許日昕)(4)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Poon Chi Ho (潘智豪)(5)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Chan Yu Cheong (陳汝昌)(6)
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Sin Pak Cheong Philip Charles Beneficial interest
+(冼柏昌)(7)
+
+Long position
+
+100,000
+
+0.03%
+
+Beneficial interest
+
+Long position
+
+100,000
+
+0.03%
+
+Mr. Wong Chee Chung (王子聰)(8)
+
+YesAsia Holdings Limited Interim Report 2023
+
+17
+
+OTHER INFORMATION
+
+(1)
+
+As at 30 June 2023, Mr. Lau Kwok Chu directly held 120,970,980 Shares, and held options under the 2016
+Share Option Scheme and Post-IPO Share Option Scheme which entitled him to subscribe for 3,600,000 Shares
+and 100,000 Shares respectively.
+As at 30 June 2023, Ms. Chu Lai King directly held 29,235,550 Shares, and held options under the 2016 Share
+Option Scheme and Post-IPO Share Option Scheme which entitled her to subscribe for 600,000 Shares and
+100,000 Shares respectively.
+As Mr. Lau Kwok Chu is the spouse of Ms. Chu Lai King and vice versa, and they are each deemed under the
+SFO to be interested in the Shares and underlying Shares directly held by each other, they are therefore both
+interested in the combined number of Shares (being 154,606,530 Shares as at 30 June 2023, representing
+approximately 39.03% of the issued share capital of the Company as at 30 June 2023).
+
+(2)
+
+Mr. Chu Kin Hang is the brother of Ms. Chu Lai King and brother-in-law of Mr. Lau Kwok Chu. As at 30 June
+2023, Mr. Chu Kin Hang directly held 4,742,120 Shares, and held options under the Post-IPO Share Option
+Scheme which entitled him to subscribe for 100,000 Shares.
+
+(3)
+
+As at 30 June 2023, Mr. Lui Pak Shing Michael directly held 35,183,210 Shares, and held options under the
+Post-IPO Share Option Scheme which entitled him to subscribe for 100,000 Shares.
+
+(4)
+
+As at 30 June 2023, Mr. Hui Yat Yan Henry directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(5)
+
+As at 30 June 2023, Mr. Poon Chi Ho directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(6)
+
+As at 30 June 2023, Mr. Chan Yu Cheong directly held options under the Post-IPO Share Option Scheme which
+entitled him to subscribe for 100,000 Shares.
+
+(7)
+
+As at 30 June 2023, Mr. Sin Pak Cheong Philip Charles directly held options under the Post-IPO Share Option
+Scheme which entitled him to subscribe for 100,000 Shares.
+
+(8)
+
+As at 30 June 2023, Mr. Wong Chee Chung directly held options under the Post-IPO Share Option Scheme
+which entitled him to subscribe for 100,000 Shares.
+
+Mr. Lau Kwok Chu holds one share, representing 10% of the issued share capital of YesAsia.com Limited as
+a trustee for the Company, which is the beneficial owner of the share in YesAsia.com Limited held by Mr. Lau
+Kwok Chu. YesAsia.com Limited was incorporated on 7 December 1998 and was subject to the requirement of
+a minimum of two shareholders set out in the predecessor Companies Ordinance (Cap. 32 of the Laws of Hong
+Kong). Accordingly, Mr. Lau Kwok Chu holds the share in YesAsia.com Limited upon trust for the Company for
+nominee shareholding purpose to comply with the aforesaid requirement.
+
+18
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+As of 30 June 2023, to the best knowledge of the Directors, the following persons (other than a Director or chief
+executive of the Company) had interests or short positions in the Shares or underlying Shares which were required
+to be disclosed to the Company under the provisions of Divisions 2 and 3 of Part XV of the SFO, or recorded in the
+register required to be kept by the Company under section 336 of the SFO:
+
+Number of Shares
+
+Approximate
+percentage
+of the issued
+share capital of
+the Company
+(%)
+
+Name of Shareholder
+
+Capacity
+
+Nature of interest
+
+PCCW e-Ventures Limited(1)
+
+Beneficial interest
+
+Long Position
+
+39,704,030
+
+10.02%
+
+CyberWorks Ventures Limited(1)
+
+Interest in controlled
+corporation
+
+Long Position
+
+39,704,030
+
+10.02%
+
+PCCW Limited(1)(4)
+
+Interest in controlled
+corporation
+
+Long Position
+
+39,704,030
+
+10.02%
+
+Pacven Walden
+Management II, L.P.(2)
+
+Interest in controlled
+corporation
+
+Long Position
+
+29,408,590
+
+7.42%
+
+Pacven Walden Ventures
+IV, L.P.(2)
+
+Beneficial interest
+
+Long Position
+
+29,408,590
+
+7.42%
+
+Stonepath Group, Inc.(3)
+
+Beneficial interest
+
+Long Position
+
+26,000,000
+
+6.56%
+
+YesAsia Holdings Limited Interim Report 2023
+
+19
+
+OTHER INFORMATION
+
+Notes:
+(1)
+
+PCCW e-Ventures Limited is held as to 50% by CyberWorks Ventures Limited and 50% by PCCW Nominees
+Limited (acting as a bare trustee for and on behalf of CyberWorks Ventures Limited as the beneficiary).
+CyberWorks Ventures Limited is a wholly-owned subsidiary of PCCW Limited (being a company listed on the
+Stock Exchange with stock code 0008). Therefore, each of CyberWorks Ventures Limited and PCCW Limited is
+deemed to be interested in the 39,704,030 Shares held by PCCW e-Ventures Limited for the purpose of Part XV
+of the SFO.
+
+(2)
+
+Pacven Walden Ventures IV, L.P. is a Cayman Islands registered limited partnership, which is controlled by its
+general partner, Pacven Walden Management II, L.P. Therefore, Pacven Walden Management II, L.P. is deemed
+to be interested in the 29,408,590 Shares held by Pacven Walden Ventures IV, L.P. for the purpose of Part XV of
+the SFO.
+
+(3)
+
+Based on information available to the Company, Stonepath Group, Inc., a US company incorporated in the State
+of Delaware, directly held 26,000,000 Shares. As far as our Directors are aware, Stonepath Group, Inc. is held by
+various shareholders, and none of which is deemed to be interested in the Shares held by Stonepath Group, Inc.
+for the purpose of Part XV of the SFO.
+
+(4)
+
+As at 30 June 2023, the following Directors were directors/employees of a company who had an interest in the
+Shares which would fall to be disclosed to the Company under the provisions of Division 2 and 3 of Part XV of the
+SFO:
+(a)
+
+Mr. HUI Yat Yan Henry served as senior vice president of the business development unit of PCCW Limited
+and served as a director in a number of subsidiaries of PCCW Limited and HKT Limited.
+
+(b)
+
+Mr. POON Chi Ho held a number of positions within the PCCW Limited, including as director in a number
+of subsidiaries of both PCCW Limited and HKT Limited.
+
+Save as disclosed above, as of 30 June 2023, the Company is not aware of any other person (other than the
+Directors or chief executives of the Company) who had an interest or short position in the Shares or underlying
+Shares of the Company as recorded in the register required to be kept by the Company pursuant to section 336 of
+the SFO.
+
+SHARE OPTION SCHEME
+2005 Share Option Scheme
+The Company adopted a share option scheme on 2 June 2005 (“2005 Share Option Scheme”) for the purpose
+of providing incentives and rewards to eligible participants who contributed to the success of the Group’s
+operation. The 2005 Share Option Scheme expired in 2015 and the Company can no longer grant any further
+options under the 2005 Share Option Scheme.
+However, the terms of the 2005 Share Option Scheme allow the options to have a maximum exercise period of
+ten (10) years from the date of grant of the respective options and all outstanding options granted prior to the
+expiration of the scheme would remain effective, and the expiration of the 2005 Share Option Scheme would not
+result in the termination of any options already granted.
+
+20
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+There is no maximum entitlement of each participant specified under the 2005 Share Option Scheme. The exercise
+price of options granted under the 2005 Share Option Scheme shall be determined by the Board but shall not be
+less than 85% of the fair market value of the Shares as at the grant date.
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for exercising
+each outstanding option granted under the 2005 Share Option Scheme.
+Movements of the share options under the 2005 Share Option Scheme during the Reporting Period are as follows:
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2023
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Lapsed
+during
+the
+Reporting
+Period
+
+Outstanding
+as at
+30 June
+2023
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+Executive
+Director
+Lau Kwok Chu
+
+10,000
+
+–
+
+(10,000)(1)
+
+–
+
+–
+
+–
+
+25 July 2013
+
+25 July 2013 to
+25 July 2017
+
+25 July 2014 to
+25 July 2023
+
+Exercise
+price per
+option
+US$
+
+US$0.50
+
+The default vesting schedule of the 2005 Share Option Scheme is as follows: (i) 25% of all the options granted will
+become vested on the first anniversary of the vesting start date as specified in the option agreement (the “Vesting
+Start Date”) and (ii) 6.25% of the options granted will become vested as at the end of each three month period
+after the Vesting Start Date.
+The total proceeds of US$5,000 received from the exercise of share options under the 2005 Share Option Scheme
+during the Reporting Period were used as general working capital of the Company.
+Note:
+(1)
+
+During the six months ended 30 June 2023, a total of 10,000 options were exercised under the 2005 Share
+Option Scheme. The weighted average closing price of Shares immediately before 28 June 2023 (the exercise
+date of 10,000 Share options) was HK$0.49.
+
+2016 Share Option Scheme
+The Company adopted a share option scheme on 30 June 2016 (“2016 Share Option Scheme”) for the purpose
+of enabling the Company to attract and retain qualified employees by providing them with an opportunity for
+investment in the Company. As the Company became listed on the Stock Exchange on 9 July 2021, no further
+options can be granted under the 2016 Share Option Scheme.
+However, the terms of the 2016 Share Option Scheme allow the options to have a maximum exercise period of
+ten (10) years from the date of grant of the respective options and the all outstanding options granted prior to the
+expiration of the scheme would remain effective, and the expiration of the 2016 Share Option Scheme would not
+result in the termination of any options already granted.
+
+YesAsia Holdings Limited Interim Report 2023
+
+21
+
+OTHER INFORMATION
+
+There is no maximum entitlement of each participant specified under the 2016 Share Option Scheme. The exercise
+price of options granted under the 2016 Share Option Scheme shall be determined by the Board but shall not be
+less than 85% of the fair market value of the Shares as at the grant date.
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for exercising
+each outstanding option granted under the 2016 Share Option Scheme.
+Movements of the share options under the 2016 Share Option Scheme during the Reporting Period are as follows:
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2023
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Executive Directors
+Lau Kwok Chu
+
+180,000
+
+–
+
+–
+
+–
+
+–
+
+180,000
+
+–
+
+–
+
+–
+
+Chu Lai King
+
+60,000
+
+–
+
+–
+
+Subtotal
+
+420,000
+
+–
+
+3,000
+
+2 Grantees
+
+Exercise
+price
+per option
+US$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+180,000
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+28 July 2017 to
+28 July 2026
+
+–
+
+180,000
+
+15 August 2019
+
+15 August 2019 to 15 August 2020
+15 August 2023 to 15 August 2029
+
+US$1.55
+
+–
+
+–
+
+60,000
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+28 July 2017 to
+28 July 2026
+
+US$0.80
+
+–
+
+–
+
+–
+
+420,000
+
+–
+
+–
+
+–
+
+–
+
+3,000
+
+23 April 2020
+
+23 April 2020 to
+23 April 2024
+
+23 April 2021 to
+23 April 2030
+
+US$2.01
+
+2,451
+
+–
+
+–
+
+–
+
+–
+
+2,451
+
+28 July 2016
+
+28 July 2016 to
+28 July 2020
+
+28 July 2017 to
+28 July 2026
+
+US$0.80
+
+1 Grantee
+
+625
+
+–
+
+–
+
+–
+
+–
+
+625
+
+27 April 2017
+
+1 April 2017 to
+1 April 2021
+
+1 April 2018 to
+27 April 2027
+
+US$0.80
+
+1 Grantee
+
+1,250
+
+–
+
+–
+
+–
+
+–
+
+1,250
+
+10 August 2017
+
+1 August 2017 to 1 August 2018 to
+1 August 2021
+10 August 2027
+
+US$0.80
+
+1 Grantee
+
+1,875
+
+–
+
+–
+
+–
+
+–
+
+1,875
+
+27 April 2018
+
+1 November 2017 1 November 2018
+to 1 November
+to 27 April 2028
+2021
+
+US$1.20
+
+1 Grantee
+
+625
+
+–
+
+–
+
+–
+
+–
+
+625
+
+27 April 2018
+
+1 December 2017 1 December 2018
+to 1 December
+to 27 April 2028
+2021
+
+US$1.20
+
+2 Grantees
+
+5,700
+
+–
+
+–
+
+(2,500)
+
+–
+
+3,200
+
+27 April 2018
+
+1 January 2018 to 1 January 2019 to
+1 January 2022 27 April 2028
+
+US$1.20
+
+Other Employees*
+Chu Pui King
+(Associate of
+Director – Sister of
+Ms. Chu Lai King and
+Mr. Chu Kin Hang)
+
+22
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2023
+
+YesAsia Holdings Limited Interim Report 2023
+
+US$0.80
+
+OTHER INFORMATION
+
+Outstanding
+as at
+1 January
+2023
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+9 Grantees
+
+36,538
+
+–
+
+–
+
+–
+
+–
+
+1 Grantee
+
+6,250
+
+–
+
+–
+
+–
+
+4 Grantees
+
+43,750
+
+–
+
+–
+
+1 Grantee
+
+15,625
+
+–
+
+1 Grantee
+
+1,250
+
+7 Grantees
+
+Name of category/
+participant
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2023
+
+Exercise
+price
+per option
+US$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+36,538
+
+27 April 2018
+
+1 April 2018 to
+1 April 2022
+
+1 April 2019 to
+27 April 2028
+
+US$1.20
+
+–
+
+6,250
+
+27 April 2018
+
+1 May 2018 to
+1 May 2022
+
+1 May 2019 to
+27 April 2028
+
+US$1.20
+
+–
+
+–
+
+43,750
+
+26 July 2018
+
+1 April 2018 to
+1 April 2022
+
+1 April 2019 to
+26 July 2028
+
+US$1.20
+
+–
+
+–
+
+–
+
+15,625
+
+26 July 2018
+
+1 May 2018 to
+1 May 2022
+
+1 May 2019
+to 26 July 2028
+
+US$1.20
+
+–
+
+(1,200)(1)
+
+–
+
+–
+
+50
+
+26 July 2018
+
+1 June 2018 to
+1 June 2022
+
+1 June 2019 to
+26 July 2028
+
+US$1.20
+
+83,175
+
+–
+
+(5,000)(1)
+
+–
+
+–
+
+78,175
+
+24 January 2019
+
+1 January 2019 to 1 January 2020
+1 January 2023 to 24 January
+2029
+
+US$1.20
+
+26 Grantees
+
+74,005
+
+–
+
+–
+
+–
+
+–
+
+74,005
+
+25 April 2019
+
+25 April 2019 to
+25 April 2023
+
+25 April 2020 to
+25 April 2029
+
+US$1.55
+
+5 Grantees
+
+33,000
+
+–
+
+–
+
+–
+
+–
+
+33,000
+
+15 August 2019
+
+15 August 2019 to 15 August 2020 to
+15 August 2023 15 August 2029
+
+US$1.55
+
+11 Grantees
+
+155,700
+
+–
+
+–
+
+–
+
+–
+
+155,700
+
+6 February 2020
+
+6 February 2020
+to 6 February
+2024
+
+6 February 2021
+to 6 February
+2030
+
+US$1.55
+
+42 Grantees
+
+260,000
+
+–
+
+–
+
+–
+
+–
+
+260,000
+
+23 April 2020
+
+23 April 2020 to
+23 April 2024
+
+23 April 2021 to
+23 April 2030
+
+US$2.01
+
+3 Grantees
+
+50,000
+
+–
+
+–
+
+–
+
+–
+
+50,000
+
+30 July 2020
+
+30 July 2020 to
+30 July 2024
+
+30 July 2021 to
+30 July 2030
+
+US$2.01
+
+15 Grantees
+
+240,000
+
+–
+
+–
+
+–
+
+–
+
+240,000
+
+29 October 2020 29 October 2020 29 October 2021
+to 29 October
+to 29 October
+2024
+2030
+
+US$2.01
+
+12 Grantees
+
+140,000
+
+–
+
+–
+
+–
+
+–
+
+140,000
+
+28 January 2021
+
+28 January 2021
+to 28 January
+2025
+
+28 January 2022
+to 28 January
+2031
+
+US$2.01
+
+73 Grantees
+
+465,000
+
+–
+
+–
+
+(31,000)
+
+–
+
+434,000
+
+29 April 2021
+
+29 April 2021 to
+29 April 2025
+
+29 April 2022 to
+29 April 2031
+
+US$2.01
+
+Subtotal
+
+1,619,819
+
+–
+
+(6,200)
+
+(33,500)
+
+–
+
+1,580,119
+
+Total
+
+2,039,819
+
+–
+
+(6,200)
+
+(33,500)
+
+–
+
+2,000,119
+
+*
+
+Represents number of grantees as at 30 June 2023.
+
+YesAsia Holdings Limited Interim Report 2023
+
+23
+
+OTHER INFORMATION
+
+As at 1 January 2023, the total number of Shares of the Company that could be issued upon exercise of all
+outstanding options granted under the 2016 Share Option Scheme were 20,398,190 Shares, which represented
+about 5.15% of the total number of issued Shares of the Company as at 1 January 2023. As at 30 June 2023,
+the total number of Shares of the Company that could be issued upon exercise of all outstanding options granted
+under the 2016 Share Option Scheme were 20,001,190 Shares, which represented about 5.05% of the total
+number of issued Shares of the Company as at 30 June 2023.
+The default vesting schedule of the 2016 Share Option Scheme is as follows: (i) 25% of all the options granted will
+become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of the options granted will become
+vested as at the end of each three month period after the Vesting Start Date.
+The total proceeds of US$7,440 received from the exercise of share options under the 2016 Share Option Scheme
+during the Reporting Period were used as general working capital of the Company.
+Please refer to Note 17 to the Interim Condensed Consolidated Financial Information for the methodology and
+assumptions used in the calculation of the fair value of Options granted.
+Note:
+(1)
+
+During the six months ended 30 June 2023, a total of 6,200 options were exercised under the 2016 Share Option
+Scheme. The weighted average closing price of Shares immediately before 8 February 2023 (the exercise date of
+6,200 Share options) was HK$0.61.
+
+Post-IPO Share Option Scheme
+A post-IPO share option scheme was adopted by the Company on 13 March 2021, which was conditional upon
+the listing of the Shares on the Stock Exchange and came into effect on 9 July 2021 (the “Post-IPO Share
+Option Scheme”). The Post-IPO Share Option Scheme shall be valid and effective for the period of ten years from
+the Listing Date until 8 July 2031. The purpose of the Post-IPO Share Option Scheme is to advance the interests of
+the Company and its shareholders by enabling the Company to attract and retain qualified employees or directors
+of the Company and/or its subsidiaries through providing them with an opportunity for investment in the shares
+of the Company. Participants of the Post-IPO Share Option Scheme include any individual, being an employee or
+director of the Company and/or the Company’s subsidiaries who the Board or its delegate(s) considers, in their
+sole discretion, to have contributed or will contribute to the business performance of the Group. However, no
+individual who is a resident in a place where the grant, acceptance or exercise of options pursuant to the PostIPO Share Option Scheme is not permitted under the laws and regulations of such place or where, in the view of
+the Board or its delegate(s), compliance with applicable laws and regulations in such place makes it necessary or
+expedient to exclude such individual from the grant or offer of such options.
+The total number of Shares which may be issued upon exercise of all options to be granted under the Post-IPO
+Share Option Scheme is 39,539,079, being 10% of the Shares in issue on the date the Shares commence trading
+on the Stock Exchange (the “Option Scheme Mandate Limit”) (excluding any Shares which may be issued
+pursuant to the exercise of the outstanding options granted under the Pre-IPO Share Option Schemes). Options
+which have lapsed in accordance with the terms of the rules of the Post-IPO Share Option Scheme (or any other
+share option schemes of the Company) shall not be counted for the purpose of calculating the Option Scheme
+Mandate Limit.
+
+24
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+Unless approved by the Shareholders, the total number of Shares issued and to be issued upon exercise of
+the options granted and to be granted under the Post-IPO Share Option Scheme and any other share option
+scheme(s) of the Company to each selected participant (including both exercised and outstanding options) in
+any 12-month period shall not exceed 1% of the total number of Shares in issue (the “Individual Limit”). Any
+further grant of options to a selected participant which would result in the aggregate number of Shares issued
+and to be issued upon exercise of all options granted and to be granted to such selected participant (including
+exercised, canceled and outstanding options) in the 12 month period up to and including the date of such further
+grant exceeding the Individual Limit shall be subject to separate approval of the Shareholders (with such selected
+participant and his associates abstaining from voting). There was no option granted under such circumstances
+during the Reporting Period.
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for exercising
+each outstanding option granted under the Post-IPO Share Option Scheme.
+The subscription price, being the amount payable for each Share to be subscribed for under an option, in the
+event of the option being exercised shall be determined by the Board but shall be not less than the greater of:
+(i)
+
+the closing price of a Share as stated in the daily quotations sheet issued by the Stock Exchange on the
+date of grant;
+
+(ii)
+
+the average closing price of the Shares as stated in the daily quotations sheets issued by the Stock
+Exchange for the five business days immediately preceding the date of grant; and
+
+(iii)
+
+the nominal value of a Share on the date of grant.
+
+An option is personal to the grantee and shall not be transferable or assignable and no grantee shall in any way
+sell, transfer, charge, mortgage, encumber or otherwise dispose of or create any interest in favor of or enter into
+any agreement with any other person over or in relation to any option.
+Each grant of options to any director, chief executive or substantial shareholder of the Company (or any of
+their respective associates) must first be approved by the independent non-executive Directors (excluding any
+independent non-executive Director who is a proposed recipient of the grant of options).
+
+YesAsia Holdings Limited Interim Report 2023
+
+25
+
+OTHER INFORMATION
+
+In addition, where any grant of options to a substantial shareholder or an independent non-executive Director
+of the Company (or any of their respective associates) would result in the number of Shares issued and to be
+issued upon exercise of all options already granted and to be granted (including options exercised, canceled and
+outstanding) to such person in the 12-month period up to and including the date of such grant:
+(i)
+
+representing in aggregate over 0.1% (or such other higher percentage as may from time to time be specified
+by the Stock Exchange) of the Shares in issue; and
+
+(ii)
+
+having an aggregate value, based on the closing price of the Shares as stated in the daily quotations sheets
+issued by the Stock Exchange on the date of grant, in excess of HK$5,000,000 (or such other higher
+amount as may from time to time be specified by the Stock Exchange),
+
+such further grant of options must also be first approved by the Shareholders (voting by way of poll) in a general
+meeting. In obtaining the approval, the Company shall send a circular to the Shareholders in accordance with and
+containing such information as is required under the Listing Rules. All core connected persons of the Company
+shall abstain from voting at such general meeting, except that any core connected person may vote against the
+relevant resolution at the general meeting provided that his intention to do so has been stated in the circular to be
+sent to the Shareholders in connection therewith. There was no option granted under such circumstances during
+the Reporting Period.
+During the Reporting Period, 198,500 options carrying rights to subscribe for a maximum of an aggregate of
+1,985,000 Shares have been granted by the Company under the Post-IPO Share Option Scheme. Movements of
+the share options under the Post-IPO Share Option Scheme during the Reporting Period are as follows:
+
+26
+
+Name of category/
+participant
+
+Outstanding
+as at
+1 January
+2023
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Executive Directors
+Lau Kwok Chu
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+Chu Lai King
+
+10,000
+
+–
+
+–
+
+–
+
+Chu Kin Hang
+
+10,000
+
+–
+
+–
+
+Subtotal
+
+30,000
+
+–
+
+–
+
+YesAsia Holdings Limited Interim Report 2023
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2023
+
+Exercise
+price
+per option
+HK$
+
+Closing
+share price
+immediately
+before the
+date of grant
+HK$
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+30,000
+
+Fair value
+at the
+date of grant
+for options
+granted during
+the Reporting
+Period
+US$’000
+
+OTHER INFORMATION
+
+Outstanding
+as at
+1 January
+2023
+
+Granted
+during
+the
+Reporting
+Period
+
+Exercised
+during
+the
+Reporting
+Period
+
+Cancelled
+during
+the
+Reporting
+Period
+
+Non-Executive Directors
+Lui Pak Shing, Michael
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+Hui Yat Yan Henry
+
+10,000
+
+–
+
+–
+
+–
+
+Poon Chi Ho
+
+10,000
+
+–
+
+–
+
+Subtotal
+
+30,000
+
+–
+
+Independent NonExecutive Directors
+Chan Yu Cheong
+
+10,000
+
+Sin Pak Cheong Philip
+Charles
+
+Name of category/
+participant
+
+Lapsed
+during Outstanding
+the
+as at
+Reporting
+30 June
+Period
+2023
+
+Exercise
+price
+per option
+HK$
+
+Closing
+share price
+immediately
+before the
+date of grant
+HK$
+
+Fair value
+at the
+date of grant
+for options
+granted during
+the Reporting
+Period
+US$’000
+
+Date of grant
+
+Vesting period
+
+Exercise period
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+–
+
+–
+
+–
+
+30,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Wong Chee Chung
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+Subtotal
+
+30,000
+
+–
+
+–
+
+–
+
+–
+
+30,000
+
+Other Employees*
+3 grantees
+
+40,000
+
+–
+
+–
+
+(5,000)
+
+–
+
+35,000
+
+30 August 2021
+
+30 August 2021 to
+29 August 2025
+
+30 August 2022 to
+29 August 2031
+
+24.48
+
+2.16
+
+2 grantees
+
+10,000
+
+–
+
+–
+
+–
+
+–
+
+10,000
+
+29 October 2021
+
+29 October 2021 to
+28 October 2025
+
+29 October 2022 to
+28 October 2031
+
+14.28
+
+1.40
+
+60 grantees
+
+221,000
+
+–
+
+–
+
+(20,000)
+
+–
+
+201,000
+
+21 April 2022
+
+21 April 2022 to
+20 April 2026
+
+21 April 2023 to
+20 April 2032
+
+11.60
+
+1.16
+
+7 grantees
+
+45,000
+
+–
+
+–
+
+–
+
+–
+
+45,000
+
+31 October 2022
+
+31 October 2022 to
+30 October 2026
+
+31 October 2023 to
+30 October 2032
+
+5.80
+
+0.56
+
+72 grantees
+
+–
+
+198,500(1)
+
+–
+
+–
+
+–
+
+198,500
+
+21 April 2023
+
+21 April 2023 to
+20 April 2027
+
+21 April 2024 to
+20 April 2033
+
+5.10
+
+0.52
+
+Subtotal
+
+316,000
+
+198,500
+
+–
+
+(25,000)
+
+–
+
+489,500
+
+50
+
+Total
+
+406,000
+
+198,500
+
+–
+
+(25,000)
+
+579,500
+
+50
+
+*
+
+50
+
+Represents number of grantees as at 30 June 2023.
+
+YesAsia Holdings Limited Interim Report 2023
+
+27
+
+OTHER INFORMATION
+
+Note:
+(1)
+
+On 21 April 2023, 198,500 options were granted under Post-IPO Share Option Scheme at nil consideration
+and the total estimated fair value of these options on the date of grant was US$50,000. Please refer to the Note
+17 to the Interim Condensed Consolidated Financial Information for the accounting policy adopted for share
+options. The Share closing price immediately before the date of grant of the aforementioned 198,500 options was
+HK$0.52.
+
+As at 1 January 2023, the total number of Shares of the Company that could be issued upon exercise of all
+outstanding options granted under the Post-IPO Share Option Scheme were 4,060,000 Shares, which represented
+about 1.03% of the total number of issued Shares of the Company as at 1 January 2023. As at 30 June 2023,
+the total number of Shares of the Company that could be issued upon exercise of all outstanding options granted
+under the Post-IPO Share Option Scheme were 5,795,000 Shares, which represented about 1.46% of the total
+number of issued Shares of the Company as at 30 June 2023.
+The default vesting schedule of the Post-IPO Share Option Scheme is as follows: (i) 25% of all the options granted
+will become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of the options granted will
+become vested as at the end of each three month period after the Vesting Start Date. The Post-IPO Share Option
+Scheme does not demand payment on application or acceptance of the option.
+Please refer to Note 17 to the Interim Condensed Consolidated Financial Information for the methodology and
+assumptions used in the calculation of the fair value of Options granted.
+
+28
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+Further details of the Share Option Schemes are set out as follows:
+2005 Share
+Option Scheme
+
+2016 Share
+Option Scheme
+
+Post-IPO Share
+Option Scheme
+
+Number of share options available for grant
+As at 1 January 2023
+As at 30 June 2023
+
+–
+–
+
+–
+–
+
+3,547,907
+3,374,407
+
+Number of Shares that may be issued in respect
+of share options granted during the Reporting
+Period divided by the weighted average number
+of Shares during the Reporting Period (3)
+
+–
+
+–
+
+0.50%
+
+Remaining life of the share option schemes
+as at 30 June 2023
+
+–(1)
+
+–(2)
+
+8.03 years(4)
+
+As at the date of interim report
+Total number of Shares available for issue under the
+option scheme in respect of share options granted
+% of the total number of issued Shares
+
+–
+–
+
+15,740,595
+3.97%
+
+807,792
+0.20%
+
+Total number of Shares available for issue upon
+exercise of all share options that could be granted
+% of the total number of issued Shares
+
+–(1)
+–
+
+–(2)
+–
+
+33,864,079
+8.55%
+
+(1)
+
+The 2005 Share Option Scheme expired in 2015 and no further options can be granted under the 2005 Share
+Option Scheme.
+
+(2)
+
+As the Company became listed on the Stock Exchange on 9 July 2021, no further options can be granted under
+the 2016 Share Option Scheme.
+
+(3)
+
+Please refer to Note 9 to the Interim Condensed Consolidated Financial Information for the weighted average
+number of Shares during the Reporting Period.
+
+(4)
+
+In force until 8 July 2031 unless otherwise terminated.
+
+MATERIAL LITIGATION
+During the Reporting Period, the Group was not involved in any material litigation or arbitration, nor were the
+Directors aware of any material litigation or claims that were pending or threatened against the Group.
+
+YesAsia Holdings Limited Interim Report 2023
+
+29
+
+OTHER INFORMATION
+
+AUDIT COMMITTEE
+The Board has established the Audit Committee, comprising one non-executive Director, namely Mr. Hui Yat
+Yan Henry and three independent non-executive Directors, namely, Mr. Wong Chee Chung (Chairman), Mr. Sin
+Pak Cheong Philip Charles and Mr. Chan Yu Cheong. The primary duties of the Audit Committee are to review
+and supervise our financial reporting process and the internal control system of the Group, manage risk, perform
+internal audit, provide advice and comments to the Board and perform other duties and responsibilities as may be
+assigned by the Board.
+The interim condensed consolidated financial information for the six months ended 30 June 2023 have not been
+audited by the auditors of the Company but have been reviewed by the Audit Committee.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES OF THE COMPANY
+During the Reporting Period, neither the Company nor any of its subsidiaries has purchased, sold or redeemed
+any of the Company’s listed securities, save for the grant of 198,500 options (each option shall entitle the holder to
+subscribe for 10 Shares) under the Post-IPO Share Option Scheme on 21 April 2023.
+
+CORPORATE GOVERNANCE
+Our Company has complied with code provisions stated in the Corporate Governance Code in Appendix 14 to
+the Listing Rules (the “Corporate Governance Code”) during the Reporting Period. As of 30 June 2023 and
+to the best of the knowledge, information and belief of our Directors, having made all reasonable enquiries, our
+Directors are not aware of any deviation from the code provisions of the Corporate Governance Code during the
+Reporting Period, apart from the deviation from Code Provision D.2.5 of the Corporate Governance Code during
+the Reporting Period. Under Code Provision D.2.5, issuers should have an internal audit function.
+The Group does not have an internal audit function and the Board is of the view that there is no immediate need to
+set up an internal audit function within the Group having reviewed the size, nature and complexity of the Group’s
+business during the Reporting Period. It was decided that the Board would be directly responsible for internal
+control of the Group and for reviewing its effectiveness. Procedures have been designed for safeguarding assets
+against unauthorised use or disposition, ensuring the maintenance of proper accounting records for the provision
+of reliable financial information for internal use or for publication, and ensuring compliance with applicable laws,
+rules and regulations. The situation will be reviewed by the Board on an annual basis.
+Save as disclosed above, none of the Directors is aware of any information which would reasonably indicate that
+the Company had not, throughout the Reporting Period, fully complied with the Code Provisions.
+Our Directors will review our corporate governance policies and compliance with the Corporate Governance Code
+each financial year and comply with the “comply or explain” principle in our corporate governance report, which will
+be included in our annual reports.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code as its own code of conduct regarding Directors’ securities
+transactions.
+Specific enquiries have been made with all Directors and all of them confirmed their compliance with the
+required standard set out in the Model Code and the Company’s code of conduct regarding Directors’ securities
+transactions during the Reporting Period.
+
+30
+
+YesAsia Holdings Limited Interim Report 2023
+
+OTHER INFORMATION
+
+USE OF PROCEEDS FROM LISTING
+During the Reporting Period, the Company utilised net proceeds from the Listing, after deducting underwriting
+commissions and relevant expenses, in accordance with the intended purpose disclosed under section headed
+“Future Plans and Use of Proceeds” of the Prospectus as set out below:
+
+Use of proceeds
+
+1. Increase our marketing efforts for customer
+acquisition and retention
+2. Enhance our platform content and IT
+capabilities and create satisfactory user
+experience to promote benefits and
+uniqueness of Korean beauty and fashion
+products
+3. Expand our logistics fulfillment capacity
+and enhance our warehouse efficiency
+4. General working capital
+
+Total
+
+Planned use
+HK$ million
+
+Net proceeds
+Net proceeds
+utilised up to Net proceeds
+utilised Net proceeds Expected timeline for
+31 December unutilised as at
+during the unutilised as at full utilisation of the
+2022 1 January 2023 Reporting Period 30 June 2023 unutilised proceeds
+HK$ million
+HK$ million
+HK$ million
+HK$ million
+
+49.9
+
+41.1
+
+8.8
+
+8.8
+
+–
+
+18.5
+
+9.5
+
+9.0
+
+3.8
+
+5.2 By the end of first quarter
+of 2024(1)
+
+14.9
+
+3.3
+
+11.6
+
+1.7
+
+9.0
+
+9.0
+
+–
+
+–
+
+9.9 By the end of first quarter
+of 2024(2)
+–
+
+92.3
+
+62.9
+
+29.4
+
+14.3
+
+15.1
+
+Notes:
+1.
+
+Since the Listing Date up to 30 June 2023, the Company had utilised the proceeds for (i) developing our cloudbased E-commerce platform; (ii) enhancing our technology infrastructure and integrating up-to-date E-commerce
+technology infrastructure from third-party technology service providers such as Amazon Web Services, Google
+Cloud Platform and Microsoft Azure, etc; (iii) expanding our IT task force; and (iv) enhancing and enriching content
+quality and layout of our E-commerce platforms, websites, mobile apps, blog and social media pages.
+
+In particular, we hired a total of 13 new positions since the Listing Date up to 30 June 2023 to expand our
+IT task force.
+2.
+
+Since the Listing Date up to 30 June 2023, we hired a total of 11 full-time and 1 part-time positions for receiving
+and packaging goods and other logistics fulfillment purposes.
+
+Unutilised net proceeds that were not immediately applied to the purposes disclosed in the Prospectus, were
+applied to short-term demand deposited with authorised financial institutions and/or reputable licensed banks, and
+will be utilised according to the manner and proportions as disclosed in the Prospectus.
+
+YesAsia Holdings Limited Interim Report 2023
+
+31
+
+OTHER INFORMATION
+
+EMPLOYEES AND REMUNERATION POLICY
+As of 30 June 2023, we had 478 employees (31 December 2022: 489 employees) mainly based in Hong Kong,
+Japan and South Korea.
+Our success depends on our ability to attract, retain and motivate qualified personnel. As part of our human
+resources strategy, we offer employees competitive remuneration packages, which generally include basic wages,
+variable wages, bonuses and other benefits granted in accordance with the business performance. In order to
+promote overall efficiency, employee loyalty and employee retention, we provide our employees with technical
+and operational on-the-job training as well as people development programs. Share options are also available
+to employees of the Group under the Post-IPO Share Option Scheme at the sole discretion of the Board or its
+delegate(s).
+
+TRANSACTIONS IN SANCTIONED COUNTRIES OR WITH SANCTIONED PERSONS
+During the Reporting Period, proper internal control and risk management measures relating to sanction laws, as
+disclosed in the Prospectus, had been implemented and the Group did not have any transactions in Sanctioned
+Countries or with Sanctioned Persons. As of 30 June 2023, the Group did not anticipate any plans for any new
+activities in Sanctioned Countries or with Sanctioned Persons.
+During the Reporting Period, the Group derived revenue from the Balkans region (including Albania, Bosnia and
+Herzegovina, Bulgaria, Croatia, Greece, North Macedonia, Romania, Serbia and Slovenia), which is not subject to
+comprehensive sanctions that are territorial in nature, which amounted to approximately US$872,000 (Prior Period:
+US$280,000).
+
+SUBSEQUENT EVENTS AFTER THE REPORTING PERIOD
+Save as disclosed in Note 20 of the Interim Condensed Consolidated Financial Information, there is no significant
+event that requires additional disclosures or might affect the Group after the Reporting Period.
+
+DIRECTORS’ INFORMATION
+During the Reporting Period, the Company has not been advised by its Directors of any change in the information
+required to be disclosed pursuant to paragraphs (a) to (e) and (g) of Rule 13.51(2) of the Listing Rules since its last
+update to Shareholders.
+
+APPRECIATION
+On behalf of the Board, I would like to take this opportunity to express gratitude to our employees for their
+contribution and dedication to the Group, and our Shareholders, customers and business partners for their
+continuous support.
+On behalf of the Board
+Chu Lai King
+Chairperson
+Hong Kong, 25 August 2023
+
+32
+
+YesAsia Holdings Limited Interim Report 2023
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF
+PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+For the six months ended 30 June 2023
+
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+90,657
+(62,475)
+
+62,905
+(41,127)
+
+28,182
+
+21,778
+
+122
+(11,146)
+(14,563)
+1
+
+582
+(9,074)
+(15,147)
+3
+
+(72)
+
+(144)
+
+PROFIT/(LOSS) FROM OPERATIONS
+
+2,524
+
+(2,002)
+
+Finance costs
+
+(642)
+
+(225)
+
+Profit/(loss) before tax
+
+1,882
+
+(2,227)
+
+Note
+
+REVENUE
+Cost of sales
+
+4
+
+Gross profit
+Other income and other gains and losses
+Selling expenses
+Administrative expenses
+Reversal of impairment losses for trade receivables
+Fair value loss on financial assets at fair value through
+profit or loss (“FVTPL”)
+
+5
+
+Income tax expense
+
+7
+
+(319)
+
+(37)
+
+PROFIT/(LOSS) FOR THE PERIOD ATTRIBUTABLE TO
+THE OWNERS OF THE COMPANY
+
+8
+
+1,563
+
+(2,264)
+
+OTHER COMPREHENSIVE INCOME:
+Item that may be reclassified to profit or loss:
+Exchange differences on translating foreign operations
+
+(37)
+
+(103)
+
+OTHER COMPREHENSIVE INCOME FOR THE PERIOD,
+NET OF TAX
+
+(37)
+
+(103)
+
+TOTAL COMPREHENSIVE INCOME/(LOSS) FOR THE
+PERIOD ATTRIBUTABLE TO THE OWNERS OF THE
+COMPANY
+
+1,526
+
+(2,367)
+
+0.39
+
+(0.57)
+
+EARNING/(LOSS) PER SHARE
+Basic and diluted (US cents per share)
+
+9
+
+YesAsia Holdings Limited Interim Report 2023
+
+33
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+As at 30 June 2023
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+4,689
+12,150
+1,973
+1,672
+
+5,267
+14,458
+2,026
+1,698
+
+20,484
+
+23,449
+
+20,155
+2,390
+6,051
+56
+1,644
+9,885
+
+11,897
+2,148
+3,668
+584
+3,179
+18,797
+
+40,181
+
+40,273
+
+7,828
+7,974
+1,145
+4,528
+288
+
+9,647
+9,391
+1,362
+3,903
+78
+
+Total current liabilities
+
+21,763
+
+24,381
+
+NET CURRENT ASSETS
+
+18,418
+
+15,892
+
+TOTAL ASSETS LESS CURRENT LIABILITIES
+
+38,902
+
+39,341
+
+673
+9,314
+
+643
+11,561
+
+Total non-current liabilities
+
+9,987
+
+12,204
+
+NET ASSETS
+
+28,915
+
+27,137
+
+20,514
+8,401
+
+20,494
+6,643
+
+28,915
+
+27,137
+
+Note
+
+NON-CURRENT ASSETS
+Property, plant and equipment
+Right-of-use assets
+Financial assets at FVTPL
+Prepayments, deposit and other receivables
+
+10
+
+12
+
+Total non-current assets
+CURRENT ASSETS
+Inventories
+Trade receivables
+Prepayments, deposits and other receivables
+Current tax assets
+Pledged bank deposits
+Bank and cash balances
+
+11
+12
+
+Total current assets
+CURRENT LIABILITIES
+Trade and other payables and accruals
+Contract liabilities
+Provisions
+Lease liabilities
+Current tax liabilities
+
+NON-CURRENT LIABILITIES
+Provisions
+Lease liabilities
+
+CAPITAL AND RESERVES
+Share capital
+Reserves
+TOTAL EQUITY
+
+34
+
+YesAsia Holdings Limited Interim Report 2023
+
+13
+14
+15
+
+15
+
+16
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+For the six months ended 30 June 2023
+
+At 1 January 2023 (Audited)
+
+Foreign
+currency
+translation Accumulated
+reserve
+losses
+US$’000
+US$’000
+
+Share
+capital
+US$’000
+
+Share-based
+payments
+reserve
+US$’000
+
+Capital
+reserve
+US$’000
+
+Merger
+reserve
+US$’000
+
+20,494
+
+2,562
+
+14,342
+
+2,271
+
+(66)
+
+(12,466)
+
+27,137
+
+Total
+US$’000
+
+Total comprehensive income
+for the period
+Issue of shares under share option
+scheme
+Recognition of share-based payments
+
+–
+
+–
+
+–
+
+–
+
+(37)
+
+1,563
+
+1,526
+
+20
+–
+
+(8)
+240
+
+–
+–
+
+–
+–
+
+–
+–
+
+–
+–
+
+12
+240
+
+Changes in equity for the period
+
+20
+
+232
+
+–
+
+–
+
+(37)
+
+1,563
+
+1,778
+
+At 30 June 2023 (Unaudited)
+
+20,514
+
+2,794
+
+14,342
+
+2,271
+
+(103)
+
+(10,903)
+
+28,915
+
+Accumulated
+losses
+US$’000
+
+Total
+US$’000
+
+At 1 January 2022 (Audited)
+
+Share
+capital
+US$’000
+
+Share-based
+payments
+reserve
+US$’000
+
+Capital
+reserve
+US$’000
+
+Merger
+reserve
+US$’000
+
+Foreign
+currency
+translation
+reserve
+US$’000
+
+20,482
+
+2,351
+
+14,342
+
+2,271
+
+(30)
+
+(3,129)
+
+36,287
+
+Total comprehensive loss
+for the period
+Issue of shares under share option
+scheme
+Recognition of share-based payments
+Dividend paid
+
+–
+
+–
+
+–
+
+–
+
+(103)
+
+(2,264)
+
+(2,367)
+
+12
+–
+–
+
+(5)
+515
+–
+
+–
+–
+–
+
+–
+–
+–
+
+–
+–
+–
+
+–
+–
+(2,555)
+
+7
+515
+(2,555)
+
+Changes in equity for the period
+
+12
+
+510
+
+–
+
+–
+
+(103)
+
+(4,819)
+
+(4,400)
+
+At 30 June 2022 (Unaudited)
+
+20,494
+
+2,861
+
+14,342
+
+2,271
+
+(133)
+
+(7,948)
+
+31,887
+
+YesAsia Holdings Limited Interim Report 2023
+
+35
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+For the six months ended 30 June 2023
+
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+NET CASH USED IN OPERATING ACTIVITIES
+
+(7,993)
+
+(6,521)
+
+Decrease in non-pledged bank deposits
+Interest received
+Purchases of property, plant and equipment
+Dividend received from listed securities
+
+1,950
+60
+(252)
+–
+
+2,190
+59
+(76)
+30
+
+NET CASH GENERATED FROM INVESTING ACTIVITIES
+
+1,758
+
+2,203
+
+Principal elements of lease payments
+Proceeds from issuance of shares
+Decrease/(increase) in pledged bank deposits
+
+(2,208)
+12
+1,535
+
+(2,202)
+7
+(1,152)
+
+(661)
+
+(3,347)
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS
+Effect of foreign exchange rate changes
+
+(6,896)
+(62)
+
+(7,665)
+(85)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING
+OF THE PERIOD
+
+16,659
+
+29,063
+
+CASH AND CASH EQUIVALENT AT END OF PERIOD
+
+9,701
+
+21,313
+
+ANALYSIS OF CASH AND CASH EQUIVALENTS
+Bank and cash balances
+
+9,885
+
+26,501
+
+Less: Bank deposits with original maturity beyond three months
+Restricted bank balances
+
+(167)
+(17)
+
+(5,169)
+(19)
+
+9,701
+
+21,313
+
+NET CASH USED IN FINANCING ACTIVITIES
+
+36
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+1
+
+CORPORATE AND GROUP INFORMATION
+The Company was incorporated in Hong Kong with limited liability. The registered office and principal place
+of business in Hong Kong is 5/F, KC100, 100 Kwai Cheong Road, Kwai Chung, New Territories, Hong
+Kong.
+The Group is principally engaged in trading of fashion wear, cosmetics and accessories and entertainment
+products through the Group’s own e-commerce platforms (including websites and mobile app).
+The Company has no ultimate holding company, and ultimate controlling shareholders of the Company are
+Mr. Lau Kwok Chu and Ms. Chu Lai King respectively.
+The Company was successfully listed on the Main Board of the Stock Exchange on the Listing Date.
+This condensed consolidated interim financial information is presented in United State dollars (“US$”),
+unless otherwise stated.
+The financial information relating to the year ended 31 December 2022 that is included in the condensed
+consolidated interim financial information for the six months ended 30 June 2023 as comparative
+information does not constitute the Company’s statutory annual consolidated financial statements for that
+year but is derived from those financial statements. Further information relating to these statutory financial
+statements required to be disclosed in accordance with section 436 of the Companies Ordinance (Cap.
+622 of the Laws of Hong Kong) is as follows:
+The Company has delivered the financial statements for the year ended 31 December 2022 to the Registrar
+of Companies as required by section 662(3) of, and Part 3 of Schedule 6 to, the Companies Ordinance (Cap.
+622 of the Laws of Hong Kong).
+The Company’s auditor has reported on those financial statements. The auditor’s report was unqualified;
+did not include a reference to any matters to which the auditor drew attention by way of emphasis without
+qualifying its report; and did not contain a statement under sections 406(2), 407(2) or (3) of the Companies
+Ordinance (Cap. 622 of the Laws of Hong Kong).
+
+YesAsia Holdings Limited Interim Report 2023
+
+37
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+2
+
+BASIS OF PREPARATION AND CHANGES TO THE GROUP’S ACCOUNTING
+POLICIES
+The unaudited interim condensed financial information for the six months ended 30 June 2023 has been
+prepared in accordance with Hong Kong Accounting Standard 34 (“HKAS 34”) Interim Financial Reporting
+issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”), as well as with the
+applicable disclosures required by the Listing Rules.
+The interim condensed financial information does not include all of the information and disclosures required
+in the annual financial statements, and should be read in conjunction with the Group’s annual financial
+statements for the year ended 31 December 2022, which have been prepared in accordance with the Hong
+Kong Financial Reporting Standards (“HKFRSs”).
+The preparation of interim condensed financial information requires management to make judgements,
+estimates and assumptions that affect the application of accounting policies and the reported amounts of
+assets and liabilities, income and expense. Actual results may differ from these estimates.
+The accounting policies applied in the preparation of the unaudited interim condensed financial information
+are consistent with those applied to the consolidated financial statements for the year ended 31 December
+2022.
+In the current period, the Group has adopted all the new and revised Hong Kong Financial Reporting
+Standards issued by the HKICPA that are relevant to its operations and effective for its accounting year
+beginning on 1 January 2023 but they do not have a material effect on the Group’s financial statements.
+A number of new standards and amendments to standards are effective for annual periods beginning
+after 1 January 2023 and earlier application is permitted. The Group has not adopted in advance any of
+the forthcoming new or amended standards in preparing these condensed consolidated interim financial
+statements.
+
+38
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+3
+
+FAIR VALUE MEASUREMENTS
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. The following disclosures of fair value
+measurements use a fair value hierarchy that categorises into three levels the inputs to valuation techniques
+used to measure fair value:
+Level 1 inputs:
+
+quoted prices (unadjusted) in active markets for identical assets or liabilities that the
+Group can access at the measurement date.
+
+Level 2 inputs:
+
+inputs other than quoted prices included within level 1 that are observable for the
+asset or liability, either directly or indirectly.
+
+Level 3 inputs:
+
+unobservable inputs for the asset or liability.
+
+The Group’s policy is to recognise transfers into and transfers out of any of the three levels as of the date of
+the event or change in circumstances that caused the transfer.
+Disclosures of level in fair value hierarchy:
+
+Description
+
+Recurring fair value measurements:
+Financial assets at FVTPL
+Investment in a life insurance policy
+An equity security listed in Hong Kong
+
+Description
+
+Recurring fair value measurements:
+Financial assets at FVTPL
+Investment in a life insurance policy
+An equity security listed in Hong Kong
+
+Fair value measurements as at 30 June 2023
+Level 1
+Level 2
+Level 3
+Total
+(Unaudited)
+(Unaudited)
+(Unaudited)
+(Unaudited)
+US$’000
+US$’000
+US$’000
+US$’000
+
+–
+1,121
+
+852
+–
+
+–
+–
+
+852
+1,121
+
+1,121
+
+852
+
+–
+
+1,973
+
+Fair value measurements as at 31 December 2022
+Level 1
+Level 2
+Level 3
+Total
+(Unaudited)
+(Unaudited)
+(Unaudited)
+(Unaudited)
+US$’000
+US$’000
+US$’000
+US$’000
+
+–
+1,191
+
+835
+–
+
+–
+–
+
+835
+1,191
+
+1,191
+
+835
+
+–
+
+2,026
+
+The fair value of investment in life insurance policies is determined by reference to Cash Surrender Value as
+provided by the insurance company.
+
+YesAsia Holdings Limited Interim Report 2023
+
+39
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+4
+
+REVENUE
+Disaggregation of revenue from contracts with customers by business and the timing of revenue recognition
+for the period are as follow:
+Six months ended 30 June
+
+Sales of merchandise, recognised at point in time
+Shipping revenue recognised over time
+Logistic income recognised over time
+Consignment sales recognised at point in time
+
+5
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+79,884
+10,167
+605
+1
+
+55,566
+7,013
+325
+1
+
+90,657
+
+62,905
+
+OTHER INCOME AND OTHER GAINS AND LOSSES
+Six months ended 30 June
+
+Cash rebates
+Dividend income
+Government subsidies income
+Interest income from:
+Bank deposits
+Financial assets at FVTPL
+Sundry income
+
+40
+
+YesAsia Holdings Limited Interim Report 2023
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+22
+14
+–
+
+65
+30
+421
+
+60
+19
+
+45
+14
+
+79
+7
+
+59
+7
+
+122
+
+582
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+6
+
+SEGMENT INFORMATION
+Information about operating segment results:
+
+Six months ended 30 June 2023
+
+Fashion &
+lifestyle
+and beauty Entertainment
+products
+products
+(Unaudited)
+(Unaudited)
+US$’000
+US$’000
+
+Revenue from external customers
+Segment results
+
+Six months ended 30 June 2022
+
+Unallocated
+(Unaudited)
+US$’000
+
+Total
+(Unaudited)
+US$’000
+
+88,873
+4,711
+
+1,179
+(236)
+
+605
+(2,912)
+
+90,657
+1,563
+
+Fashion &
+lifestyle
+and beauty
+products
+(Unaudited)
+US$’000
+
+Entertainment
+products
+(Unaudited)
+US$’000
+
+Unallocated
+(Unaudited)
+US$’000
+
+Total
+(Unaudited)
+US$’000
+
+58,320
+721
+
+4,260
+27
+
+325
+(3,012)
+
+62,905
+(2,264)
+
+Revenue from external customers
+Segment results
+
+Reconciliations of segment results:
+Six months ended 30 June
+
+Revenue
+Total revenue of reportable segments
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+90,657
+
+62,905
+
+Segment results
+Total segment results of reportable segments
+Unallocated amounts:
+Unallocated income
+Unallocated corporate expenses
+Non-reportable segments
+
+4,475
+
+748
+
+115
+(3,105)
+78
+
+576
+(3,667)
+79
+
+Profit/(loss) for the period attributable to
+the owners of the Company
+
+1,563
+
+(2,264)
+
+YesAsia Holdings Limited Interim Report 2023
+
+41
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+6
+
+SEGMENT INFORMATION (CONTINUED)
+Geographical information:
+The Group’s revenue from external customers by port of destinations and information about its non-current
+assets by location of assets are detailed below:
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+40,581
+
+31,465
+
+7,489
+5,949
+1,742
+1,334
+1,191
+5,553
+
+3,442
+3,305
+792
+798
+850
+2,506
+
+United Kingdom
+Canada
+Australia
+Hong Kong
+United Arab Emirates
+Saudi Arabia
+Switzerland
+Cambodia
+New Zealand
+Others (Note 2)
+
+23,258
+6,990
+4,532
+3,915
+3,894
+1,407
+896
+706
+601
+554
+3,323
+
+11,693
+3,917
+3,288
+4,329
+3,736
+388
+332
+412
+445
+435
+2,465
+
+Consolidated Total
+
+90,657
+
+62,905
+
+United States
+European Union (“EU”)
+France
+Germany
+Italy
+Netherlands
+Spain
+Other EU Countries (Note 1)
+
+Note 1: Other EU countries include sales to EU countries that individually contributed less than 1.0% of our total
+revenue for the six months ended 30 June 2023 and 2022.
+Note 2: Others include sales to countries individually contributed less than 0.5% (Prior Period: 1.0%) of our total
+revenue for the six months ended 30 June 2023.
+
+98.0% and 99.1% of the Group’s non-current assets are located in Hong Kong as at 30 June 2023 and
+2022 respectively.
+Revenue about major customers
+No revenue from a single customer of the Group contributed over 10% of the total revenue of the Group
+during the six months ended 30 June 2023 and 2022 respectively.
+
+42
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+7
+
+INCOME TAX EXPENSE
+Six months ended 30 June
+
+Current tax
+– Hong Kong Profits Tax
+– Overseas Corporate Income Tax
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+(2)
+321
+
+20
+17
+
+319
+
+37
+
+Under the two-tiered profits tax regime, profits tax rate for the first HK$2,000,000 of assessable profits of
+qualifying group entities established in Hong Kong will be taxed at 8.25% and profits above that amount will
+be subject to the tax rate of 16.5%. The profits of the group entities not qualifying the two-tiered profits tax
+rate regime will continue to be taxed at a rate of 16.5%.
+YesAsia.com (Korea) Limited (“YAKR”) is subject to Korean Corporate Income Tax which comprised
+national and local taxes (collectively “Korean Corporate Income Tax”). Korean Corporate Income Tax is
+generally charged at the progressive rate from 11% to 27.5% (Prior Period: 11% to 27.5%) on the estimated
+assessable profits. The Korean Corporate Income Tax rates applicable to YAKR was 11% (Prior Period:
+11%) based on the estimated assessable profits.
+Tax charge on profits assessable elsewhere have been calculated at the rates of tax prevailing in the
+countries in which the Group operates, based on existing legislation, interpretation and practices in respect
+thereof.
+
+YesAsia Holdings Limited Interim Report 2023
+
+43
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+8
+
+PROFIT/(LOSS) FOR THE PERIOD
+The Group’s profit/(loss) for the period is stated after charging the following:
+Six months ended 30 June
+
+Auditor’s remuneration
+Cost of inventories sold
+Depreciation
+– Property, plant and equipment
+– Right-of-use assets
+
+Employee benefits expenses (including directors’ emoluments)
+Foreign exchange losses, net
+Expenses relating to short-term lease
+– Leased properties
+– Leased equipment
+
+Allowance for inventories, net
+(included in cost of inventories sold)
+
+44
+
+YesAsia Holdings Limited Interim Report 2023
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+77
+41,963
+
+77
+24,907
+
+830
+2,291
+
+757
+2,687
+
+3,121
+
+3,444
+
+10,592
+923
+
+11,504
+275
+
+49
+2
+
+151
+19
+
+51
+
+170
+
+187
+
+350
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+9
+
+EARNINGS/(LOSS) PER SHARE
+The calculation of the basic and diluted earnings/(loss) per share is based on the following:
+Six months ended 30 June
+
+Profit/(loss) for the period attributable to owners of the Company
+
+Number of shares
+Weighted average number of ordinary shares for the purpose
+of calculating basic earnings/(loss) per share
+
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+1,563
+
+(2,264)
+
+(Unaudited)
+’000
+
+(Unaudited)
+’000
+
+396,013
+
+397,605
+
+The diluted earnings/(loss) per share is equal to the basic earnings/(loss) per share as the potential ordinary
+shares in issue during the six months ended 30 June 2023 and 2022 are anti-dilutive.
+
+10
+
+PROPERTY, PLANT AND EQUIPMENT
+During the Reporting Period, the Group acquired property, plant and equipment of approximately
+US$252,000 (Prior Period: US$76,000).
+
+YesAsia Holdings Limited Interim Report 2023
+
+45
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+11
+
+TRADE RECEIVABLES
+The Group’s turnover comprises mainly E-commerce sales, offline wholesale of products and logistic and
+ancillary services. No credit terms have been granted to E-commerce sales and certain offline wholesales
+and logistic and ancillary services are granted credit terms ranging from 0–90 days.
+The balance of trade receivables represents the outstanding amounts receivable from the payment gateway
+companies who involved to process the customers’ E-commerce transactions, offline wholesale and logistic
+customers. No default of settlement is expected by reference to past experience.
+The aging analysis of trade receivables, based on the revenue recognition date (i.e. invoice date) at the end
+of each reporting period and net of allowance, is as follows:
+
+0 to 30 days
+31 to 60 days
+61 to 90 days
+over 90 days
+
+46
+
+YesAsia Holdings Limited Interim Report 2023
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+2,342
+48
+–
+–
+
+2,097
+30
+7
+14
+
+2,390
+
+2,148
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+12
+
+PREPAYMENTS, DEPOSITS AND OTHER RECEIVABLES
+
+Prepayments
+Prepayment to suppliers
+Prepaid rental
+Prepaid selling expenses
+Prepaid administrative expenses
+
+Deposits
+Rental deposits
+Trade deposits
+Utilities deposits
+
+Other receivables
+Export tax refundable
+Others
+
+Analysed as:
+Current assets
+Non-current assets
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+3,374
+7
+255
+678
+
+1,297
+7
+252
+521
+
+4,314
+
+2,077
+
+1,687
+256
+109
+
+1,938
+268
+60
+
+2,052
+
+2,266
+
+1,270
+87
+
+860
+163
+
+1,357
+
+1,023
+
+7,723
+
+5,366
+
+6,051
+1,672
+
+3,668
+1,698
+
+7,723
+
+5,366
+
+YesAsia Holdings Limited Interim Report 2023
+
+47
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+13
+
+TRADE AND OTHER PAYABLES AND ACCRUALS
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+Trade payables
+
+3,892
+
+4,143
+
+Other payables
+Indirect tax payables
+Dividend payables
+
+2,230
+336
+
+3,492
+336
+
+2,566
+
+3,828
+
+176
+691
+503
+
+340
+715
+621
+
+1,370
+
+1,676
+
+7,828
+
+9,647
+
+Accruals
+Accrued staff costs
+Accrued selling expenses
+Accrued administrative expenses
+
+The aging analysis of the Group’s trade payables, based on the invoice date, is as follows:
+
+0 to 30 days
+31 to 60 days
+61 to 90 days
+
+48
+
+YesAsia Holdings Limited Interim Report 2023
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+3,681
+178
+33
+
+4,009
+131
+3
+
+3,892
+
+4,143
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+14
+
+CONTRACT LIABILITIES
+
+Advance payments from customers
+Deferred revenue for customer loyalty programme
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+7,021
+953
+
+8,767
+624
+
+7,974
+
+9,391
+
+Contract liabilities in respect of advance payments from customers mainly involve the sales of merchandise
+and shipping revenue.
+Contract liabilities in respect of deferred revenue for loyalty programme are the relevant portion of the
+transaction price allocated to the memberships based on the relative stand-alone selling price.
+During the Reporting Period, the contract liabilities decreased by approximately US$1,417,000 or 15.1%
+to approximately US$7,974,000 (31 December 2022: US$9,391,000), mainly due to more sales revenue
+recognised as a result of recognising revenue during the Reporting Period which was included in the
+contract liabilities at the beginning of the period.
+
+YesAsia Holdings Limited Interim Report 2023
+
+49
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+15
+
+LEASE LIABILITIES
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+13,657
+185
+
+15,234
+230
+
+13,842
+
+15,464
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+Within one year
+In the second year
+In the third to fifth years, inclusive
+
+4,528
+4,469
+4,845
+
+3,903
+5,556
+6,005
+
+Present value of lease obligations
+Less: Amount due for settlement within 12 months
+(shown under current liabilities)
+
+13,842
+
+15,464
+
+(4,528)
+
+(3,903)
+
+Amount due for settlement after 12 months
+
+9,314
+
+11,561
+
+Leased properties
+Office equipment
+
+As at 30 June 2023, the Group has leased certain of its office equipment (31 December 2022: office
+equipment) under finance leases. The average lease term is 5 years.
+
+50
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+16
+
+SHARE CAPITAL
+Number
+of shares
+
+Amount
+US$’000
+
+Ordinary shares
+Issued and fully paid:
+At 1 January 2022 (Audited)
+Issue of shares under share option scheme
+
+395,905,910
+56,000
+
+20,482
+12
+
+At 31 December 2022 and 1 January 2023 (Audited)
+Issue of shares under share option schemes
+
+395,961,910
+162,000
+
+20,494
+20
+
+At 30 June 2023 (Unaudited)
+
+396,123,910
+
+20,514
+
+YesAsia Holdings Limited Interim Report 2023
+
+51
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS
+2005 Share Option Scheme
+The Company adopted a share option scheme on 2 June 2005 (the “2005 Share Option Scheme”) for the
+purpose of providing incentives and rewards to eligible participants who contributed to the success of the
+Group’s operation. The 2005 Share Option Scheme expired in 2015 and no further options can be granted
+under the 2005 Share Option Scheme.
+However, the terms of the 2005 Share Option Scheme allow the options to have a maximum exercise
+period of ten years from the date of grant of the respective options and all outstanding options granted prior
+to the expiration of the 2005 Share Option Scheme would remain effective, and the expiration of the 2005
+Share Option Scheme would not result in the termination of any options already granted.
+The default vesting schedule of the 2005 Share Option Scheme is as follows: (i) 25% of all the options
+granted will become vested on the first anniversary of the vesting start date as specified in the option
+agreement and (ii) 6.25% of the options granted will become vested as at the end of each three months
+period after the vesting start date.
+At 30 June 2023 and 31 December 2022, details of the specific categories of options outstanding under
+the 2005 Share Option Scheme are as follows:
+No. of outstanding options
+
+Director
+
+Grant date
+
+Expiry date
+
+25 July 2013
+
+25 July 2023
+
+Total for 2005 Share Option Scheme
+
+52
+
+YesAsia Holdings Limited Interim Report 2023
+
+Exercise
+price per
+option
+US$
+
+As at
+30 June
+2023
+
+As at
+31 December
+2022
+
+0.50
+
+–
+
+10,000
+
+–
+
+10,000
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS (CONTINUED)
+2016 Share Option Scheme
+The Company adopted a share option scheme on 30 June 2016 (the “2016 Share Option Scheme”) for
+the purpose of enabling the Company to attract and retain qualified employees by providing them with an
+opportunity for investment in the Company.
+The 2016 Share Option Plan will expire on 30 June 2026. However, as the Company became listed on the
+Stock Exchange on 9 July 2021, no further options can be granted under the 2016 Share Option Scheme.
+The default vesting schedule of the 2016 Share Option Scheme is as follows: (i) 25% of all the options
+granted will become vested on the first anniversary of the vesting start date as specified in the option
+agreement and (ii) 6.25% of the options granted will become vested as at the end of each three month
+period after the vesting start date.
+At 30 June 2023 and 31 December 2022, details of the specific categories of options outstanding under
+the 2016 Share Option Scheme are as follows:
+No. of outstanding options
+Exercise
+price per
+option
+US$
+
+As at
+30 June
+2023
+
+As at
+31 December
+2022
+
+Grant date
+
+Expiry date
+
+Directors
+
+28 July 2016
+15 August 2019
+
+28 July 2026
+15 August 2029
+
+0.80
+1.55
+
+240,000
+180,000
+
+240,000
+180,000
+
+Employees
+
+28 July 2016
+27 April 2017
+10 August 2017
+27 April 2018
+26 July 2018
+24 January 2019
+25 April 2019
+15 August 2019
+6 February 2020
+23 April 2020
+30 July 2020
+29 October 2020
+28 January 2021
+29 April 2021
+
+28 July 2026
+27 April 2027
+10 August 2027
+27 April 2028
+26 July 2028
+24 January 2029
+25 April 2029
+15 August 2029
+6 February 2030
+23 April 2030
+30 July 2030
+29 October 2030
+28 January 2031
+29 April 2031
+
+0.80
+0.80
+0.80
+1.20
+1.20
+1.20
+1.55
+1.55
+1.55
+2.01
+2.01
+2.01
+2.01
+2.01
+
+2,451
+625
+1,250
+48,488
+59,425
+78,175
+74,005
+33,000
+155,700
+263,000
+50,000
+240,000
+140,000
+434,000
+
+2,451
+625
+1,250
+50,988
+60,625
+83,175
+74,005
+33,000
+155,700
+263,000
+50,000
+240,000
+140,000
+465,000
+
+2,000,119
+
+2,039,819
+
+Total for the 2016 Share Option Scheme
+
+YesAsia Holdings Limited Interim Report 2023
+
+53
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS (CONTINUED)
+A Post-IPO share option scheme was adopted by the Company on 13 March 2021, which was conditional
+upon the listing of the Shares on the Stock Exchange and came into effect on the Listing Date (the “PostIPO Share Option Scheme”). The Post-IPO Share Option Scheme will expire on 8 July 2031. The purpose
+of the Post-IPO Share Option Scheme is to advance the interests of the Company and its shareholders
+by enabling the Company to attract and retain qualified employees or directors of the Company and/or its
+subsidiaries through providing them with an opportunity for investment in the shares of the Company.
+The total number of Shares which may be issued upon exercise of all options to be granted under the PostIPO Share Option Scheme is 39,539,079 (equivalent to 3,953,908 options), being 10% of the ordinary
+Shares in issue on the Listing Date.
+The default vesting schedule of the Post-IPO Share Option Scheme is as follows: (i) 25% of all the options
+granted will become vested on the first anniversary of the vesting start date as specified in the option
+agreement and (ii) 6.25% of the options granted will become vested as at the end of each three month
+period after the vesting start date.
+Details of the specific categories of options outstanding under the Post-IPO Share Option Scheme as at 30
+June 2023 and 31 December 2022 are as follows:
+
+No. of outstanding options
+Exercise
+price per
+option
+US$
+
+As at
+30 June
+2023
+
+As at
+31 December
+2022
+
+Grant date
+
+Expiry date
+
+Directors
+
+31 October 2022
+
+30 October 2032
+
+0.75(i)
+
+90,000
+
+90,000
+
+Employees
+
+30 August 2021
+29 October 2021
+21 April 2022
+31 October 2022
+21 April 2023
+
+29 August 2031
+28 October 2031
+20 April 2032
+30 October 2032
+20 April 2033
+
+3.16(ii)
+1.84(iii)
+1.50(iv)
+0.75(i)
+0.66(v)
+
+35,000
+10,000
+201,000
+45,000
+198,500
+
+40,000
+10,000
+221,000
+45,000
+–
+
+579,500
+
+406,000
+
+Total for the Post-IPO Share Option Scheme
+
+54
+
+(i)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$5.80.
+
+(ii)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$24.48.
+
+(iii)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$14.28.
+
+(iv)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$11.60.
+
+(v)
+
+Equivalent to the exercise price per option denominated in HK$ of HK$5.10.
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS (CONTINUED)
+Details of the movement of share options during the period/year are as follows:
+Six months ended
+30 June 2023
+Weighted
+Number of
+average
+share
+exercise
+options
+price
+US$
+
+Year ended
+31 December 2022
+Weighted
+Number of
+average
+share
+exercise
+options
+price
+US$
+
+Outstanding at 1 January
+Granted during the period/year
+Exercised during the period/year
+Forfeited during the period/year
+
+2,455,819
+198,500
+(16,200)
+(58,500)
+
+1.64
+0.66
+0.77
+1.90
+
+2,392,881
+377,500
+(5,600)
+(308,962)
+
+1.75
+1.22
+1.20
+1.95
+
+Outstanding at end of period/year
+
+2,579,619
+
+1.56
+
+2,455,819
+
+1.64
+
+Exercisable at end of period/year
+
+1,566,057
+
+1.61
+
+1,321,069
+
+1.56
+
+The options outstanding at the end of the period/year have a weighted average remaining contractual life of
+approximately 7.07 years as at 30 June 2023 (31 December 2022: 7.33 years).
+During the Reporting Period, 198,500 options were granted under Post-IPO Share Option Scheme on
+21 April 2023 and the total estimated fair value of these options on the date of grant was approximately
+US$50,000.
+During the year ended 31 December 2022, 237,500 and 140,000 options were granted under Post-IPO
+Share Option Scheme on 21 April 2022 and 31 October 2022 respectively and the total estimated fair value
+of these options on the date of grant was approximately US$180,000.
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for each
+outstanding option granted under the 2016 Share Option Scheme exercised. Therefore, the weighted
+average exercisable price per share under options granted as at 30 June 2023 is US$0.16 (31 December
+2022: US$0.16).
+During the Reporting Period, the number of exercised options granted under the 2005 Share Option
+Scheme and the 2016 Share Option Scheme was 10,000 and 6,200 respectively. The weighted average
+closing price of Shares immediately before 28 June 2023 (the exercise date of 10,000 Share options) and 8
+February 2023 (the exercise date of 6,200 Share options) was HK$0.49 and HK$0.61 respectively.
+
+YesAsia Holdings Limited Interim Report 2023
+
+55
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS (CONTINUED)
+The fair value was calculated using the Binomial Option pricing model on the date on which the options
+were granted. The inputs into the model are as follows:
+For the six months ended 30 June 2023
+Share option
+granted on
+21 April
+2023
+US$0.07(*)
+US$0.66
+50.01%
+10 years
+3.15%
+4.13%
+
+Stock price
+Exercise price per option
+Expected volatility
+Expected life
+Risk free rate
+Expected dividend yield
+(*)
+
+Equivalent to the stock price denominated in HK$ of HK$0.52.
+
+For the year ended 31 December 2022
+Share option granted on
+21 April
+31 October
+2022
+2022
+Stock price
+Exercise price per option
+Expected volatility
+Expected life
+Risk free rate
+Expected dividend yield
+(*)
+
+US$0.15(*)
+US$1.50
+50.08%
+10 years
+2.71%
+4.13%
+
+US$0.07(*)
+US$0.75
+50.81%
+10 years
+3.93%
+4.13%
+
+Equivalent to the stock price denominated in HK$ of HK$1.16 and HK$0.56 respectively.
+
+Average of industry annualised historical share price volatility is deemed to be the expected volatility of the
+share price of the Company. The expected life used in the model has been adjusted, based on the Group’s
+best estimate, for the effects of non-transferability, exercise restrictions and behavioural considerations.
+Expected dividend yield is based on historical dividends paid to the shareholders of the Company.
+
+56
+
+YesAsia Holdings Limited Interim Report 2023
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+17
+
+SHARE-BASED PAYMENTS (CONTINUED)
+Risk-free rates adopted in the valuation model are the yield-to-maturities in continuous compounding of the
+Hong Kong Government Bonds with the time-to-maturities similar to that of the options as at the date of
+grant.
+Where a share option is cancelled or forfeited prior to the expiry date, it is treated as if it had vested on
+the date of cancellation or forfeiture, and any expense not yet recognised for the option is recognised
+immediately.
+The Group recorded total expenses of approximately US$240,000 during the Reporting Period (Prior
+Period: US$515,000) in respect of the share option schemes.
+Note: The calculation results of the values of the share options are subject to a number of assumptions of the
+parameters used herein and the limitation of the model adopted. Therefore, the estimated values of the
+share options may be subjective and uncertain.
+
+During the six months ended 30 June 2023 and 30 June 2022 respectively, the accounting policy adopted
+for the share options are as follow:
+The Group issues share options to certain directors and employees.
+Share options granted to directors and employees are measured at the fair value (excluding the effect
+of non-market-based vesting conditions) of the equity instruments at the date of grant. The fair value
+determined at the grant date of the share options is expensed on a straight-line basis over the vesting
+period, based on the Group’s estimate of shares that will eventually vest and adjusted for the effect of nonmarket-based vesting conditions.
+
+YesAsia Holdings Limited Interim Report 2023
+
+57
+
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+30 June 2023
+
+18
+
+RELATED PARTY TRANSACTIONS
+The Group had the following transactions with its related parties during the Reporting Period:
+Six months ended 30 June
+2023
+(Unaudited)
+US$’000
+
+2022
+(Unaudited)
+US$’000
+
+–
+
+(136)
+
+(1)
+
+(1)
+
+Customer relationship management and contact centre service
+fees to HKT Teleservices International Limited (Note (i))
+Return merchandise authorisation service fee to
+Ms. Chu Po King (Note (ii))
+
+Notes:
+
+19
+
+(i)
+
+HKT Teleservices International Limited is a fellow subsidiary of a shareholder of the Company.
+
+(ii)
+
+Ms. Chu Po King is a sister of a director and shareholder of the Company.
+
+CAPITAL COMMITMENTS
+
+Property, plant and equipment
+
+20
+
+As at
+30 June
+2023
+(Unaudited)
+US$’000
+
+As at
+31 December
+2022
+(Audited)
+US$’000
+
+23
+
+11
+
+EVENTS AFTER THE REPORTING PERIOD
+There were no significant events after the Reporting Period up to the date of this report.
+
+21
+
+APPROVAL OF INTERIM CONDENSED CONSOLIDATED FINANCIAL
+INFORMATION
+The interim condensed consolidated financial information were approved and authorised for issue by the
+Board on 25 August 2023.
+
+58
+
+YesAsia Holdings Limited Interim Report 2023
+
+
