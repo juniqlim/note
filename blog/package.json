@@ -1,0 +1,14 @@
+{
+  "name": "note-blog",
+  "version": "1.0.0",
+  "description": "Blog server that serves markdown notes from GitHub via API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "marked": "^15.0.0"
+  }
+}
