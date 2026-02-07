@@ -15,10 +15,13 @@ const CATEGORIES = [
   { id: "investment", label: "Investment", path: "investment" },
 ];
 
+const POSTS_ORDER_PATH = "posts-order.json"; // repo root
+
 // --- In-memory cache ---
 const cache = {
   posts: null, // { data, fetchedAt }
   contents: new Map(), // path -> { data, fetchedAt }
+  postsOrder: null, // { data, fetchedAt }
 };
 
 function isFresh(entry) {
@@ -90,6 +93,22 @@ function parsePostFromFile(item, categoryId) {
   return { slug, title, date, category: categoryId, path: item.path };
 }
 
+// --- Fetch post order config ---
+async function getPostsOrder() {
+  if (isFresh(cache.postsOrder)) return cache.postsOrder.data;
+  try {
+    const url = `${API_BASE}/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${POSTS_ORDER_PATH}`;
+    const data = await ghFetch(url);
+    const content = Buffer.from(data.content, "base64").toString("utf-8");
+    const order = JSON.parse(content);
+    cache.postsOrder = { data: order, fetchedAt: Date.now() };
+    return order;
+  } catch (err) {
+    console.error("Failed to load posts-order.json:", err.message);
+    return [];
+  }
+}
+
 // --- Fetch all posts ---
 async function getAllPosts() {
   if (isFresh(cache.posts)) return cache.posts.data;
@@ -128,8 +147,18 @@ async function getAllPosts() {
     console.error("Failed to scan investment subdirs:", err.message);
   }
 
-  // Sort: dated posts first (newest), then undated alphabetically
+  // Apply manual ordering from posts-order.json
+  const order = await getPostsOrder();
+  const orderIndex = new Map(order.map((path, i) => [path, i]));
+
   allPosts.sort((a, b) => {
+    const aIdx = orderIndex.has(a.path) ? orderIndex.get(a.path) : Infinity;
+    const bIdx = orderIndex.has(b.path) ? orderIndex.get(b.path) : Infinity;
+
+    // Pinned posts come first, in specified order
+    if (aIdx !== bIdx) return aIdx - bIdx;
+
+    // Rest: dated posts first (newest), then undated alphabetically
     if (a.date && b.date) return b.date.localeCompare(a.date);
     if (a.date) return -1;
     if (b.date) return 1;
@@ -324,6 +353,7 @@ app.get("/post/*", async (req, res) => {
 app.post("/api/refresh", (req, res) => {
   cache.posts = null;
   cache.contents.clear();
+  cache.postsOrder = null;
   res.json({ ok: true, message: "Cache cleared" });
 });
 
