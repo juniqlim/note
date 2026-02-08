@@ -100,14 +100,35 @@
 | DRAM 대체 | 불가 | **불가** |
 
 ### 에이전트의 추론량
-- 챗봇 1회: ~1,000 토큰
-- 에이전트 1회: ~50,000~500,000 토큰 (**50~500배**)
-- 3억 에이전트 상시 사용 시 현재 대비 추론량: **100~1,000배**
+
+| | 토큰/작업 | 출처 |
+|--|----------|------|
+| 챗봇 1회 | ~1,000 토큰 | |
+| 에이전트 1회 | ~10,000~50,000 토큰 (**10~50배**) | Galileo, Capgemini |
+| 멀티 에이전트 | 싱글 에이전트의 **26배** | Capgemini |
+| Claude Code 세션 | ~30,000 토큰 (파일 5개 참조) | Anthropic |
+
+- Jensen Huang: 추론 모델(reasoning)은 1세대 GenAI 대비 **100배 연산량** (BigDataWire)
+- 글로벌 일일 추론량: **50조 토큰/일** (Fireworks AI, 2026 기준)
+- AI 컴퓨트 수요 성장: **연 4~5배** (2030까지, Deloitte)
+- 추론 비중: 전체 AI 컴퓨트의 ~50%(2025) → **~66%(2026)** → 75~80%(2030)
+
+### 효율 개선 vs 수요 성장
+
+| | 속도 | 출처 |
+|--|------|------|
+| 수요 성장 | 연 4~5배 + 에이전트 확산(10~50배 배수) | Deloitte |
+| 효율 개선 (프론티어 모델) | 연 3~10배 | Epoch AI, arXiv |
+| 효율 개선 (구세대 모델) | 연 50~200배 | Epoch AI |
+
+**핵심**: 구세대 모델의 효율은 급격히 개선되지만, 프론티어 추론 모델(에이전트가 사용하는)은 연 3~10배 수준. 수요 성장(연 4~5배)이 효율 개선을 따라잡거나 초과 → **메모리 수요 > 공급 구조 지속**.
 
 ### 메모리 수요 현황
-- AI가 글로벌 DRAM의 **20%** 소비 (2026)
-- 마이크론: **HBM 2026년까지 전량 매진**
-- DRAM 공급이 수요를 따라가지 못하는 구조
+- AI가 글로벌 DRAM의 **20%** 소비 (2026, TrendForce)
+- HBM 시장: 2026년 **$546억** (YoY +58%, BofA)
+- **2026년 HBM은 진짜 매진**: 이미 2026년 2월이고, 올해 납품분은 생산 중 or 생산 완료. 가격도 대부분 확정
+- **2027년 HBM "매진"은 예약에 가까움**: 물량 배정은 됐지만 가격은 미정. 수요 꺾이면 연기·축소 가능
+- 인텔 CEO: 메모리 업체들로부터 "**2028년까지 나아질 기미 없다**"고 전해 들음 (머니투데이)
 
 ### 추론 인프라 수혜 순서
 1. **HBM** — 대체 불가, 독과점, 수요 폭증
@@ -435,6 +456,16 @@ SK하이닉스 테제의 핵심 전제는 **"추론은 클라우드에서 일어
 
 SK하이닉스 2023년 영업손실 7.7조 (적자 전환).
 
+#### 2022년 CapEx 19조의 원인 (DART 사업보고서)
+
+2022년 CapEx가 전년(12.5조) 대비 52% 급증한 핵심 이유:
+
+1. **M16 신공장 장착**: 2021년 2월 이천 M16 건물 준공 → 2022년 장비 대량 투입 (기계장치 12.8조, 건설중인자산 5.7조)
+2. **DDR5/1anm 공정 전환**: 차세대 제품 양산을 위한 신규 장비 도입
+3. **투자 결정의 시차**: 2020~2021년 호황기에 결정된 투자가 2022년에 집행. 발주한 장비는 취소 불가
+
+회사가 사이클을 막고 싶어도 구조적으로 못 막는다. 반도체 장비는 발주→납품 12~18개월, 설치→수율 안정 6~12개월. **의사결정부터 생산까지 2~3년 시차**가 있어서, 수요가 꺾일 때 이미 공급은 올라가고 있다.
+
 **패턴 동일**: 호황에 수요 폭발 + 3사 증설 → 수요 꺾이면 늘린 공급이 과잉 = **수요-공급 시차에 의한 사이클**
 
 ### AI 시대 당겨쓰기 리스크
@@ -554,11 +585,84 @@ MarketScreener 수치는 국내 증권사 대비 높음. 집계 시점·메모�
 
 ### 컨센서스 신뢰도가 높은 이유
 
-1. **HBM 2027년까지 전량 매진** → 물량 확보됨
+1. **2026년 HBM은 진짜 매진** → 이미 생산 중, 가격 대부분 확정
 2. **미집행 약정액 8.0조** (2025 Q3말) → 장비 이미 발주, 취소 불가
 3. **빅테크 CapEx $600B+** → 수요처 건재
 4. **사이클 하락 트리거(AI 매출 정체) 미발동** → 빨라야 2027~2028
 5. 변수(환율, HBM4 ASP 상승)는 오히려 **상방 요인**
+
+---
+
+## 11. 이익 고점(Peak Earnings) 리스크와 매도 시점
+
+### 시장이 fPER 5~6배만 주는 이유
+
+시장은 **"2026년이 이익 고점이고, 2027년부터 내려간다"**고 보고 있다.
+
+| 시장의 시각 | 의미 |
+|------------|------|
+| fPER 5~6배 | 이익이 지속되지 않을 것 (사이클 고점) |
+| PER 15배+ | 이익이 유지·성장할 것 (구조적 성장) |
+
+### 2027년 EPS가 2026년과 비슷해질 수 있는 시나리오
+
+매출은 올라가지만 마진이 내려서 이익이 비슷해지는 구조:
+
+| | 2026E | 2027 시나리오 |
+|--|------|-------------|
+| 매출 | ~175조 | ~200조 (+15%) |
+| OPM | ~64% | ~50~55% (마진 압축) |
+| 영업이익 | ~112조 | ~100~110조 (비슷하거나 하락) |
+
+마진 압축 요인: 삼성·마이크론 추격, HBM 세대 전환 초기 수율 불안정, 수요-공급 갭 축소.
+
+### 주가 고점은 실적 고점보다 먼저 온다
+
+메모리 주가는 역사적으로 **실적 고점 6~12개월 전에 먼저 꺾인다**. 시장이 "다음 분기부터 내려간다"를 선반영.
+
+| | 실적 고점 | 주가 고점 |
+|--|----------|----------|
+| 2018 사이클 | 2018 Q3~Q4 | 2018 Q1~Q2 |
+
+### 핵심 판단
+
+| 판단 | 행동 |
+|------|------|
+| 사이클이다 (이익 고점 = 2026) | 26년 H1에 매도 |
+| 구조적 성장이다 (이익 고점 아님) | 보유. fPER 5배 → PER 15~20배 리레이팅 대기 |
+
+**에이전트 가설(3~5억 유료 사용자)이 현실이 되면**: 수요 성장이 마진 압축을 압도 → 2026년은 고점이 아니라 초입 → 절대 팔면 안 됨. 점유율이 70%→50%로 떨어져도 시장이 5배 커지면 하이닉스 매출은 3.5배.
+
+---
+
+## 12. 유사 분석 — 같은 방향을 보는 사람들
+
+### 가장 유사한 분석
+
+| 소스 | 핵심 주장 | 유사 테제 |
+|------|----------|----------|
+| **대구의현인** (오렌지보드) | 에이전트 스웜 → KV 캐시 폭증 → 메모리 부하 극단적 | 에이전트, 추론량, 메모리 병목 |
+| **Seeking Alpha** | SK하이닉스 fPER 7배, 시장이 사이클 디스카운트 과도 적용 | 독과점, 저평가 |
+| **SemiAnalysis** (Dylan Patel) | Memory Wall — GPU 성능 2년 3배 vs DRAM 대역폭 1.6배. 모델이 커져서 HBM 여유가 생기지 않음 | 메모리 병목, 효율<수요 |
+| **Jensen Huang** (NVIDIA CEO) | 추론 모델은 100배 연산량, 에이전트가 DC 설계를 바꿀 것 | 에이전트, 추론량 |
+| **Introl Blog** | 수요 CAGR 40% > 생산 확장 속도 → 2027년 이후까지 프리미엄 | 독과점, 효율<수요 |
+| **Morgan Stanley** | SK하이닉스 근본적 저평가, 2026/2027 이익 전망 56%/63% 상향 | 저평가 |
+| **BofA** | 1990년대급 슈퍼사이클, SK하이닉스 글로벌 Top Pick | 구조적 성장 |
+| **인텔 CEO** | 메모리 업체들로부터 "2028년까지 나아질 기미 없다" | 수요>공급 지속 |
+| **Vikram Sekar** (반도체 엔지니어) | 메모리가 commodity에서 고마진 성능 핵심 부품으로 구조 전환 | 독과점, 구조적 성장 |
+
+### 테제별 지지자
+
+| 테제 | 지지자 |
+|------|--------|
+| 1. 에이전트 시대 | 대구의현인, Jensen Huang |
+| 2. 추론량 폭증 | Jensen Huang(100배), 대구의현인(에이전트 스웜), Capgemini(26배) |
+| 3. 병목은 메모리 | SemiAnalysis, The Forward Thesis, TrendForce, Introl |
+| 4. 3사 독과점 | Introl(3사 95%), The Forward Thesis, Seeking Alpha |
+| 5. fPER 저평가 | Seeking Alpha, Morgan Stanley, BofA |
+| 6. 효율 < 수요 | SemiAnalysis(모델이 커져서 여유 없음), Introl(CAGR 40% > 생산확장) |
+
+6가지 축 전체를 포괄하는 단일 분석은 없음. SemiAnalysis + Seeking Alpha + 대구의현인을 합치면 가장 유사.
 
 ---
 
@@ -597,3 +701,20 @@ MarketScreener 수치는 국내 증권사 대비 높음. 집계 시점·메모�
 - [대신증권: 영업이익 100.8조](https://www.globalepic.co.kr/view.php?ud=2026010514553647765ebfd494dd_29)
 - [UBS: 영업이익 124.5조](https://magazine.hankyung.com/business/article/202601016775b)
 - [MarketScreener: SK Hynix 컨센서스](https://www.marketscreener.com/quote/stock/SK-HYNIX-INC-6494929/finances/)
+- [Fireworks AI: 50 Trillion Tokens Per Day](https://fireworks.ai/blog/state-of-agent-environments)
+- [Galileo: Hidden Costs of Agentic AI](https://galileo.ai/blog/hidden-cost-of-agentic-ai)
+- [Capgemini: Efficient Use of Tokens for Multi-Agent Systems](https://www.capgemini.com/insights/expert-perspectives/ai-lab-the-efficient-use-of-tokens-for-multi-agent-systems/)
+- [Epoch AI: LLM Inference Price Trends](https://epoch.ai/data-insights/llm-inference-price-trends)
+- [Deloitte: More Compute for AI, Not Less](https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html)
+- [BigDataWire: NVIDIA 100x Inference](https://www.bigdatawire.com/2025/03/19/nvidia-preps-for-surge-in-inference-workloads-thanks-to-reasoning-ai-agents/)
+- [BofA: HBM $546억 시장](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/)
+- [머니투데이: 인텔 CEO 2028년까지 메모리 부족](https://www.mt.co.kr/world/2026/02/04/2026020408093453360)
+- [오렌지보드 대구의현인: 에이전트 AI 메모리 수요 폭발](https://orangeboard.co.kr/@firetiger580/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-ai-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%88%98%EC%9A%94-%ED%8F%AD%EB%B0%9C)
+- [Seeking Alpha: SK Hynix Trading At A Mere 7x](https://seekingalpha.com/article/4837148-sk-hynix-trading-7x-growing-hbm-complexity)
+- [SemiAnalysis: Scaling the Memory Wall](https://newsletter.semianalysis.com/p/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm)
+- [SemiAnalysis: The Memory Wall](https://newsletter.semianalysis.com/p/the-memory-wall)
+- [Vik's Newsletter: Multi-Year Memory Supercycle](https://www.viksnewsletter.com/p/how-ai-demand-is-driving-a-memory-supercycle)
+- [The Forward Thesis: The AI Memory Wall](https://theforwardthesis.com/p/the-ai-memory-wall)
+- [Introl: AI Memory Supercycle HBM 2026](https://introl.com/blog/ai-memory-supercycle-hbm-2026)
+- [Morgan Stanley: SK Hynix Undervalued](https://www.investing.com/news/stock-market-news/sk-hynix-undervalued-as-hbm-pricing-tightens-into-2026-ms-bumps-target-4427763)
+- [Claude Code Docs: Manage Costs](https://code.claude.com/docs/en/costs)
