@@ -94,3 +94,39 @@ LLM의 특성을 알고 나면, 대응법을 정리할 수 있다.
 - 테스트로 검증하라 → 모든 특성의 한계에 대한 최종 안전망
 
 LLM의 작동원리를 이해하면, 이 조언들이 왜 맞는지 더 깊이 납득할 수 있다.
+
+## 참고문헌
+
+### 아키텍처 & 학습
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Transformer 아키텍처 원논문
+- [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165) - 자기회귀 생성, 학습 데이터 구성
+- [Training language models to follow instructions (InstructGPT)](https://arxiv.org/abs/2203.02155) - RLHF 기반 정렬
+
+### 토큰화
+- [What are tokens and how to count them (OpenAI)](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+- [tiktoken - BPE 토크나이저](https://github.com/openai/tiktoken)
+
+### Reasoning 모델
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948) - 강화학습 기반 추론 모델
+- [OpenAI reasoning tokens 설명](https://platform.openai.com/docs/guides/reasoning/use-case-examples)
+
+### 내부 표현 & 계획
+- [Future Lens: Anticipating Subsequent Tokens from a Single Hidden State](https://arxiv.org/abs/2311.04897) - 히든 스테이트가 미래 토큰 정보를 담고 있음을 보인 연구
+
+### 편향 & 행동 특성
+- [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172) - 중간 손실 현상
+- [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) - 동의 편향
+- [RLHF와 다양성 트레이드오프](https://arxiv.org/abs/2310.06452)
+- [모드/선호 붕괴 관련](https://arxiv.org/abs/2402.04477)
+
+### 코드 & 다언어 성능
+- [코드 다언어 편향](https://arxiv.org/abs/2404.19368)
+- [MultiPL-E: 언어별 성능 차이와 예외](https://arxiv.org/abs/2208.08227)
+
+### 상태 추적 취약성
+- [LLM 카운팅 취약성](https://arxiv.org/abs/2412.18626)
+
+### 컨텍스트 윈도우 & 학습 데이터
+- [Anthropic Context Windows](https://docs.anthropic.com/en/docs/build-with-claude/context-windows)
+- [Anthropic Transparency](https://www.anthropic.com/transparency)
+- [OpenAI Training Data](https://openai.com/business-data/)
