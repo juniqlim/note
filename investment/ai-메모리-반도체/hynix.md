@@ -12,6 +12,8 @@
 6. **리스크 2**: 온디바이스 AI가 클라우드 추론을 대체 = HBM 프리미엄 축소
 7. **리스크 3**: NVIDIA 매출 집중도 27% (Q1~Q3 2025) — 단일 고객 의존
 8. **리스크 4**: HBM 마진 프리미엄 고점 리스크 — 삼성·마이크론 추격으로 2027~2028년 가격 결정력 약화 가능
+9. **리스크 5**: HBM4 퀄테스트 지연 — 삼성이 세계 첫 양산 출하(2026.02), SK하이닉스는 샘플 재수정 후 1Q26 중 퀄 통과 목표. 계약 물량 60%는 퀄 통과 전제 조건이라 확정이 아님
+10. **리스크 6**: 중국 메모리 (CXMT/YMTC) — HBM은 못 건드리지만 범용 DRAM/NAND 저가 공세로 commodity 수익 잠식 가능. 장기적으로 R&D 투자 여력 약화 경로
 
 ---
 
@@ -875,6 +877,76 @@ HBM 증설이 오히려 **conventional DRAM 공급을 줄이는 효과**:
 
 ---
 
+## 14. HBM4 경쟁 구도 팩트체크 (2026.02.10)
+
+### 삼성 HBM4 "세계 첫 양산" — 반쯤 맞다
+
+- 삼성이 엔비디아 퀄테스트 통과 → 2026.02 셋째 주 양산 출하 확정
+- 1c DRAM(6세대) + 4nm 자체 파운드리 로직다이 — 공정 세대에서 확실히 앞섬
+- 속도 11.7Gbps, 대역폭 3TB/s, 12단 36GB
+
+### SK하이닉스 — 퀄테스트 미통과 (2026.02 기준)
+
+- 원래 2025년 말 퀄 통과 목표 → 샘플 재수정으로 지연
+- 1Q26 중 퀄 통과 예상
+- NVIDIA HBM4 물량 ~60~70% 계약 — 단, 퀄 통과 전제 조건이라 **확정은 아님**
+
+### 핵심 포인트
+
+| 항목 | 삼성 | SK하이닉스 |
+|------|------|-----------|
+| 퀄테스트 | 통과 완료 | 미통과 (1Q26 목표) |
+| DRAM 공정 | 1c (6세대) | 1b (5세대) |
+| 로직다이 | 4nm 자체 파운드리 | TSMC 위탁 |
+| 물량 배정 | ~30~40% | ~60~70% |
+
+### 투자 시사점
+
+- 삼성에게는 HBM3E 실패 디스카운트 해소 모멘텀
+- 하이닉스 퀄 지연이 2Q로 밀리면 초기 물량 삼성으로 이동 가능성
+- 다만 하이닉스가 HBM 세대마다 퀄 1등이었고, 유상 샘플 이미 납품 중이라 근본적 실패 가능성은 낮음
+
+---
+
+## 15. 중국 메모리 위협 분석 (2026.02.10)
+
+### CXMT (창신메모리) — DRAM
+
+| 항목 | 현황 |
+|------|------|
+| 점유율 | DRAM 4~5% (2025), 14% 목표 (2027) |
+| 기술 | DDR5, LPDDR5X 양산 가능. HBM3 2026년 목표 |
+| 수율 | ~50% (상용화 기준 80~90% 대비 부족) |
+| 실적 | 2025년 첫 연간 흑자 (매출 55~58B 위안, 순이익 2~3.5B 위안) |
+| 확장 | 상하이 신공장 (허페이의 2~3배 규모), 2027년 양산. 월 30만장 웨이퍼 목표 |
+| 고객 | 샤오미, OPPO, 알리바바, 텐센트, 바이트댄스 |
+| IPO | 1Q26 추진, 밸류에이션 ~$42B |
+
+### YMTC (양쯔메모리) — NAND
+
+| 항목 | 현황 |
+|------|------|
+| 점유율 | NAND 8.1% (1Q25) → 5% 미만으로 하락 (2Q25, 미국 제재 영향) → 15% 목표 (2026) |
+| 기술 | 270단 3D NAND (삼성 286단, SK하이닉스 321단) |
+| 수율 | 미국 장비 제재로 양산 전환 시간 증가, 수율 확보 어려움 |
+| 확장 | 우한 3공장 2026 하반기 가동 (당초 2027), 신규 용량 50%를 DRAM에 할당 예정 |
+| 제재 | 미국 첨단장비 통제로 장비 엔지니어 지원 불가 → 자체 R&D 인력이 대체 |
+
+### SK하이닉스에 대한 영향
+
+- **HBM**: 중국이 못 건드리는 영역. CXMT의 HBM3 목표는 2026년이지만 현실적 양산은 불투명
+- **범용 DRAM**: CXMT가 DDR5/LPDDR5 저가 물량 공세 → 가격 하방 압력. 단, SK하이닉스는 HBM 비중이 높아 직접 타격 제한적
+- **NAND**: SK하이닉스 NAND 영업이익 2026년 5조원 전망 (전체 80조 중 ~6%). YMTC 확장이 NAND 가격을 누를 수 있으나 비중이 작아 실적 영향 제한적
+- **핵심 리스크**: 3사가 HBM에 집중하는 사이 commodity DRAM/NAND 수익이 중국에 잠식 → 장기적으로 R&D 투자 여력 약화 가능성
+
+### 제한 요인
+
+- 미국 제재: 첨단 장비 조달 차단 → 기술 세대 격차 유지
+- 수율: CXMT 50%, YMTC도 양산 전환 지연
+- HBM 기술 격차: 3~4년 이상
+
+---
+
 ## Sources
 
 - [Menlo Ventures: State of Generative AI 2025](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)
@@ -927,3 +999,11 @@ HBM 증설이 오히려 **conventional DRAM 공급을 줄이는 효과**:
 - [Introl: AI Memory Supercycle HBM 2026](https://introl.com/blog/ai-memory-supercycle-hbm-2026)
 - [Morgan Stanley: SK Hynix Undervalued](https://www.investing.com/news/stock-market-news/sk-hynix-undervalued-as-hbm-pricing-tightens-into-2026-ms-bumps-target-4427763)
 - [Claude Code Docs: Manage Costs](https://code.claude.com/docs/en/costs)
+- [삼성, 설 직후 HBM4 세계 첫 양산 - 서울신문](https://www.seoul.co.kr/news/economy/industry/2026/02/09/20260209031001)
+- [SK하이닉스 HBM4 최종 샘플 재수정, 퀄 1분기 중 - 딜사이트](https://dealsite.co.kr/articles/155817)
+- [TrendForce: SK hynix ~2/3 of NVIDIA HBM4](https://www.trendforce.com/news/2026/01/28/news-sk-hynix-reportedly-to-supply-about-two-thirds-of-nvidia-hbm4-samsung-targets-early-delivery/)
+- [엔비디아 HBM3E 퀄테스트 벽 높은 이유 - 뉴시스](https://www.newsis.com/view/NISX20241011_0002917057)
+- [中 CXMT·YMTC, 공급난 틈타 맹추격 - 글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/02/2026020317444472570c8c1c064d_1)
+- [CXMT 첫 연간 흑자 - 글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/01/202601030657471559fbbec65dfb_1)
+- [YMTC 미국 장비 통제 생산 족쇄 - 글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2025/09/202509300426421812fbbec65dfb_1)
+- [YMTC Fast-Tracks Wuhan Fab Phase III - WCCFTech](https://wccftech.com/china-ymtc-plans-to-fast-track-nand-production/)
