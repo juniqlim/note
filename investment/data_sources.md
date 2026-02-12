@@ -55,12 +55,60 @@ curl -s 'https://www.whynotsellreport.com/api/reports/from/2026-01-11/to/2026-02
   | jq '[.[] | select(.company_name == "코스맥스")]'
 ```
 
-## 3. DART OpenAPI
+## 3. 네이버증권 리서치 (애널리스트 리포트 PDF)
+
+로그인 필요. PDF 무료 다운로드 가능.
+
+### URL
+
+```
+# 리서치 메인
+https://finance.naver.com/research/
+
+# 종목분석 리포트 목록
+https://finance.naver.com/research/company_list.naver
+
+# 산업분석 리포트 목록
+https://finance.naver.com/research/industry_list.naver
+```
+
+### PDF URL 패턴
+
+```
+# PDF 호스팅 도메인
+https://ssl.pstatic.net/imgstock/upload/research/company/{문서ID}.pdf
+
+# 예시
+https://ssl.pstatic.net/imgstock/upload/research/company/1707109813424.pdf
+```
+
+## 4. 미래에셋증권 리서치 (애널리스트 리포트 PDF)
+
+로그인 불필요. PDF 무료 다운로드 가능.
+
+### URL
+
+```
+# 리서치 리포트 목록 (전체)
+https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521
+```
+
+### PDF URL 패턴
+
+```
+# PDF 직접 다운로드
+https://securities.miraeasset.com/bbs/download/{attachmentId}.pdf?attachmentId={attachmentId}
+
+# 예시
+https://securities.miraeasset.com/bbs/download/2142568.pdf?attachmentId=2142568
+```
+
+## 5. DART OpenAPI
 
 - **API Key**: `~/.dart_api_key`
 - 공시 조회, 재무제표 등
 
-## 4. SEC EDGAR (미국 상장사)
+## 6. SEC EDGAR (미국 상장사)
 
 미국 상장사 10-K(연간), 10-Q(분기), 8-K(수시) 등 공시 보고서. 인증 불필요.
 
@@ -96,7 +144,7 @@ https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231
 - `netflix/report/` → 10-K, 10-Q, 8-K(주주서한) txt 저장
 - `DoorDash/report/` → 10-K, 10-Q txt 저장
 
-## 5. HKEX (홍콩 상장사)
+## 7. HKEX (홍콩 상장사)
 
 홍콩거래소 공시 시스템. 인증 불필요.
 
