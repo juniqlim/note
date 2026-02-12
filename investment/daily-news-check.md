@@ -4,16 +4,21 @@
 
 ## 종목 리스트
 
-| 종목 | 검색 키워드 (한글) | 검색 키워드 (영문) |
-|---|---|---|
-| SK하이닉스 | SK하이닉스 | SK Hynix 000660 |
-| 실리콘투 | 실리콘투 | Silicon2 257720 |
-| YesAsia | 예스아시아홀딩스 | YesAsia Holdings 2209.HK |
-| Google | 구글 알파벳 | Google Alphabet GOOGL |
-| Netflix | 넷플릭스 | Netflix NFLX |
-| Apple | 애플 | Apple AAPL |
-| 삼양식품 | 삼양식품 | Samyang Foods 003230 |
-| DoorDash | 도어대시 | DoorDash DASH |
+| 테마 | 종목 | 검색 키워드 (한글) | 검색 키워드 (영문) |
+|---|---|---|---|
+| AI | SK하이닉스 | SK하이닉스 | SK Hynix 000660 |
+| AI | Google | 구글 알파벳 | Google Alphabet GOOGL |
+| K-Beauty | 실리콘투 | 실리콘투 | Silicon2 257720 |
+| K-Beauty | 코스맥스 | 코스맥스 | Cosmax 192820 |
+| K-Beauty | 펌텍코리아 | 펌텍코리아 | Pumtech Korea 251970 |
+| K-Beauty | 브이티 | 브이티 | VT Cosmetics 018290 |
+| K-Beauty | 에스엠씨지 | 에스엠씨지 | SMCG 460870 |
+| K-Beauty | 달바글로벌 | 달바글로벌 | d'Alba Global 483650 |
+| K-Beauty | YesAsia | 예스아시아홀딩스 | YesAsia Holdings 2209.HK |
+| OTT | Netflix | 넷플릭스 | Netflix NFLX |
+| 기타 | Apple | 애플 | Apple AAPL |
+| K-Food | 삼양식품 | 삼양식품 | Samyang Foods 003230 |
+| 기타 | DoorDash | 도어대시 | DoorDash DASH |
 
 ## 실행 프롬프트
 

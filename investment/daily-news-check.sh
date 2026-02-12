@@ -19,10 +19,15 @@ cat <<PROMPT | /Users/juniq/.local/bin/claude -p \
 검색 방법:
 1. 각 종목별로 "종목명 news today" 또는 "종목명 뉴스 오늘" 형태로 검색해.
 2. 추가로 "major corporate news today bonds M&A SEC regulation" 그리고 "오늘 주요 기업 뉴스 채권 인수합병 규제" 로 포괄 검색을 1회씩 해서, 종목 리스트에 해당하는 뉴스가 있으면 해당 종목에 추가해.
+3. 테마별로 아래 키워드로 추가 검색해서, 보유 종목에 영향을 줄 수 있는 산업 전체 뉴스를 찾아:
+   - AI: "AI semiconductor HBM news today" / "AI 반도체 HBM 뉴스 오늘"
+   - K-Beauty: "K-Beauty cosmetics export news today" / "K뷰티 화장품 수출 뉴스 오늘"
+   - OTT: "streaming OTT industry news today" / "OTT 스트리밍 뉴스 오늘"
+   - K-Food: "K-Food ramen export news today" / "K푸드 라면 수출 뉴스 오늘"
 
 출력 형식:
 1. 가장 상단에 "## 진짜 알아야됨" 섹션을 만들어. 여기에는 전 종목 뉴스 중에서 매수/매도 판단에 직접 영향을 주는 것만 넣어. 기준: 실적 서프라이즈/미스, 규제/법적 리스크, M&A, 대규모 자금조달(채권발행 등), 대규모 투자 변경, 경영권 이슈, 목표가 대폭 변경. 해당 없으면 "오늘은 없음"으로 표시.
-2. 그 아래에 종목별로 정리하고 뉴스가 없으면 특이사항 없음으로 표시해.
+2. 그 아래에 테마별로 묶어서 정리해. 각 테마 섹션 상단에 "### 테마 동향"으로 산업 전체 뉴스를 먼저 넣고, 그 아래에 개별 종목 뉴스를 정리해. 뉴스가 없으면 특이사항 없음으로 표시해.
 마크다운 형식으로 출력해.
 PROMPT
 
