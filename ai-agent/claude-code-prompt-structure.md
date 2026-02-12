@@ -1,5 +1,8 @@
 # Claude Code 프롬프트 구성
 
+> 검증 기준: 2026-02-12
+> 수치(토큰/줄 수/단어 수/컷오프)는 문서/리포지토리 업데이트에 따라 변동될 수 있음.
+
 Claude Code는 단일 프롬프트가 아닌 110개 이상의 모듈형 컴포넌트를 환경과 설정에 따라 동적으로 조합한다. 2026.02.10 측정 기준(`/context`, MCP 미사용), 시스템 프롬프트+도구 정의가 **~20.5K 토큰**이었으며 그 중 도구 정의(~16.7K)가 대부분을 차지했다. 이 수치는 버전·설정에 따라 변동한다.
 
 ## 주요 구성 요소 (조합 순서)
@@ -9,7 +12,7 @@ Claude Code는 단일 프롬프트가 아닌 110개 이상의 모듈형 컴포�
 | 0 | 모델 기초 프롬프트 (추정 수천 토큰) | Anthropic이 모델에 내장한 기본 지시 (안전, 톤, 정체성 등) |
 | 1 | 메인 시스템 프롬프트 | Claude Code의 핵심 정체성. 변수(`${SECURITY_POLICY}` 등) 확장 포함 |
 | 2 | 환경별 조건 섹션 | 로컬/클라우드 등 실행 환경에 따라 추가 |
-| 3 | 도구 정의 (20개 내외 내장 도구) | Write, Bash, Read, Edit, Glob, Grep 등 각 도구의 사용법. 버전마다 변동 |
+| 3 | 도구 정의 (공개 아카이브 기준 18개 내장 도구) | Write, Bash, Read, Edit, Glob, Grep 등 각 도구의 사용법. 버전마다 변동 |
 | 4 | 시스템 리마인더 (~40개) | 상태 변화에 따라 삽입되는 컨텍스트 지시 |
 | 5 | CLAUDE.md 지시사항 | 3단계 스코프에서 로드 |
 | 6 | MCP 도구 정의 | 연결된 MCP 서버의 도구들 (컨텍스트 비용 큼) |
@@ -81,19 +84,19 @@ Claude Code 프롬프트와 별개로, Anthropic이 모델 자체에 내장하�
 | 모델 | 지식 커트오프 |
 |------|-------------|
 | Opus 4.6 | 2025년 5월 |
-| Sonnet 4.5 | 2025년 4월 |
+| Sonnet 4.5 | 출처 버전별 표기 상이 (재확인 필요) |
 | Haiku 4.5 | 2025년 1월 |
 
-- Anthropic이 [공식 문서](https://platform.claude.com/docs/en/release-notes/system-prompts)에서 모델별 기초 프롬프트를 공개하고 있음
+- Anthropic이 [공식 문서](https://docs.anthropic.com/en/release-notes/system-prompts)에서 모델별 기초 프롬프트를 공개하고 있음
 - 모델 버전이 올라갈 때마다 기초 프롬프트도 함께 업데이트됨
 
 ### 토큰 규모 추정
 
-- 정확한 토큰 수는 미공개이나, claude.ai에서 도구 포함 전체 시스템 프롬프트가 **~24,000 토큰**이라는 측정치가 있음 ([HN](https://news.ycombinator.com/item?id=43909409))
+- 정확한 토큰 수는 미공개이며, claude.ai의 **~24,000 토큰**은 HN 커뮤니티 측정/언급 기반 수치다 (공식 확정 수치 아님) ([HN](https://news.ycombinator.com/item?id=43909409))
 - 이 중 검색 도구 지시사항만 **6,471 토큰** ([Simon Willison](https://simonwillison.net/2025/May/25/claude-4-system-prompt/))
 - 순수 기초 프롬프트(안전, 톤, 정체성)는 **수천 토큰 수준**으로 추정
 - 비교: OpenAI Codex도 상황별로 여러 프롬프트를 조합하는 구조 ([GitHub에 공개](https://github.com/openai/codex))
-  - 메인 프롬프트: ~24KB, 약 520줄/5,800단어 (약 6,000토큰). 코드 리뷰(6KB), 권한/샌드박스, 모델별 변형 등 별도 파일 존재
+  - 메인 프롬프트: ~24KB. 2026-02-12 확인본 `gpt_5_1_prompt.md` 기준 331줄/3,935단어. 코드 리뷰(6KB), 권한/샌드박스, 모델별 변형 등 별도 파일 존재
   - 참고: Claude Code는 메인 시스템 프롬프트 자체는 짧고, 도구 정의·리마인더 등을 별도 모듈로 분리한 구조. Codex 메인 프롬프트가 훨씬 길지만, 구조가 다르므로 단순 비교에 주의
 
 ### 실측 비교 (2026.02.10)
@@ -115,7 +118,7 @@ Claude Code 프롬프트와 별개로, Anthropic이 모델 자체에 내장하�
 ## 출처
 
 - Claude Code 시스템 프롬프트 버전별 변경 이력: [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
-- 모델 기초 프롬프트 공식 공개: [Anthropic System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- 모델 기초 프롬프트 공식 공개: [Anthropic System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)
 - Claude Code 메인 시스템 프롬프트 원문: [system-prompt-main-system-prompt.md](https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-main-system-prompt.md)
 - claude.ai 전체 시스템 프롬프트 ~24,000 토큰 측정: [Hacker News](https://news.ycombinator.com/item?id=43909409)
 - Claude 4 시스템 프롬프트 분석 (검색 도구 6,471토큰): [Simon Willison](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
