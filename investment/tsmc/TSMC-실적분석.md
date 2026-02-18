@@ -1,5 +1,8 @@
 # Taiwan Semiconductor Manufacturing (TSM / 2330.TW) 실적 분석
 
+> **핵심: DCF Base Case 적정가 $289, 현재가 $366 대비 -21% 고평가. 시장 내재 WACC ~9.5%.**
+> **같은 AI CapEx 시클리컬 노출인 하이닉스(fPER 5~6x)는 비대칭 리스크/리워드에서 우위.**
+
 > 출처: TSMC IR (investor.tsmc.com), Stockrow GraphQL, StockAnalysis, 각종 언론 보도
 > 작성일: 2026-02-18
 > 2026E: 애널리스트 컨센서스 + TSMC 가이던스
