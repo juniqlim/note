@@ -266,26 +266,32 @@ def run(years=None, limit=None):
     companies_df = fetch_company_list(dart)
     save_companies(conn, companies_df)
 
-    # stock_code → corp_code는 불필요 (finstate는 stock_code로 직접 조회 가능)
-    stock_codes = companies_df["stock_code"].str.strip().tolist()
-    if limit:
-        stock_codes = stock_codes[:limit]
+    dart_codes = set(companies_df["stock_code"].str.strip().tolist())
 
     for year in years:
         print(f"\n===== {year}년 데이터 수집 =====")
 
-        # 2) 시가총액 + 상장주식수
+        # 2) 시가총액 + 상장주식수 → 양쪽 모두 있는 종목만 대상
         print(f"[2] 시가총액/상장주식수 수집 ({year})...")
         market_caps = fetch_market_caps(f"{year}1230")
         save_market_caps(conn, year, market_caps)
         shares = fetch_shares_outstanding(year)
         save_shares(conn, year, shares)
 
+        # DART에도 있고 KRX에도 있는 종목, 시가총액 큰 순서로
+        targets = sorted(
+            [sc for sc in market_caps if sc in dart_codes],
+            key=lambda sc: market_caps[sc], reverse=True,
+        )
+        if limit:
+            targets = targets[:limit]
+        print(f"  대상 종목: {len(targets)}개")
+
         # 3) 재무데이터 (finstate + finstate_all 개별 호출)
-        print(f"[3] 재무데이터 수집 ({year}, {len(stock_codes)}개 종목)...")
+        print(f"[3] 재무데이터 수집 ({year}, {len(targets)}개 종목)...")
         all_data = {}
         errors = 0
-        for i, sc in enumerate(stock_codes):
+        for i, sc in enumerate(targets):
             # 주요 항목
             info = fetch_finstate(dart, sc, int(year))
             if info is None:
@@ -298,7 +304,7 @@ def run(years=None, limit=None):
             all_data[sc] = info
 
             if (i + 1) % 100 == 0:
-                print(f"    {i+1}/{len(stock_codes)} ({len(all_data)}개 성공, {errors}개 실패)")
+                print(f"    {i+1}/{len(targets)} ({len(all_data)}개 성공, {errors}개 실패)")
 
         save_financials(conn, year, all_data)
         print(f"  최종: {len(all_data)}개 성공, {errors}개 실패")
