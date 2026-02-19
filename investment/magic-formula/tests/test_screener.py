@@ -6,6 +6,7 @@ from screener import (
     calculate_fcf,
     calculate_dcf_value,
     backtest_dcf,
+    dcf_from_financials,
 )
 
 
@@ -144,3 +145,83 @@ class TestBacktestDCF:
             assert "dcf_price" in r
             assert "actual_price" in r
             assert "upside" in r  # (dcf_price - actual_price) / actual_price
+
+
+class TestDCFFromFinancials:
+    """DB에서 읽은 재무데이터 dict로 DCF 적정 주가를 구하는 통합 함수 테스트."""
+
+    def test_basic(self):
+        # 삼성전자 2024 스케일 축소 (단위: 억원)
+        financial = {
+            "operating_income": 1000,   # EBIT
+            "tax_expense": 250,         # 유효세율 25%
+            "depreciation": 300,
+            "capex": 400,
+            "current_assets": 5000,
+            "current_liabilities": 2000,
+            "cash": 1000,
+            "total_debt": 3000,
+            "shares_outstanding": 100,
+            "market_cap": 50000,
+        }
+        result = dcf_from_financials(financial, growth_rate=0.05, wacc=0.10, terminal_growth=0.02)
+
+        assert "dcf_price" in result
+        assert "current_price" in result
+        assert "upside" in result
+        assert "fcf" in result
+        assert result["dcf_price"] > 0
+        assert result["current_price"] == 50000 / 100  # market_cap / shares
+
+    def test_negative_fcf(self):
+        """FCF가 음수면 DCF가 의미 없으므로 표시."""
+        financial = {
+            "operating_income": 100,
+            "tax_expense": 25,
+            "depreciation": 10,
+            "capex": 500,  # CAPEX >> EBIT → FCF 음수
+            "current_assets": 1000,
+            "current_liabilities": 200,
+            "cash": 100,
+            "total_debt": 300,
+            "shares_outstanding": 100,
+            "market_cap": 10000,
+        }
+        result = dcf_from_financials(financial, growth_rate=0.05, wacc=0.10, terminal_growth=0.02)
+        assert result["fcf"] < 0
+
+    def test_zero_shares_returns_none(self):
+        financial = {
+            "operating_income": 100,
+            "tax_expense": 25,
+            "depreciation": 30,
+            "capex": 40,
+            "current_assets": 500,
+            "current_liabilities": 200,
+            "cash": 50,
+            "total_debt": 200,
+            "shares_outstanding": 0,
+            "market_cap": 10000,
+        }
+        result = dcf_from_financials(financial, growth_rate=0.05, wacc=0.10, terminal_growth=0.02)
+        assert result is None
+
+    def test_wc_change_from_two_years(self):
+        """2개년 데이터가 있으면 운전자본 변동을 계산."""
+        prev = {
+            "current_assets": 4000, "current_liabilities": 1800, "cash": 800,
+        }
+        curr = {
+            "operating_income": 1000, "tax_expense": 250,
+            "depreciation": 300, "capex": 400,
+            "current_assets": 5000, "current_liabilities": 2000, "cash": 1000,
+            "total_debt": 3000, "shares_outstanding": 100, "market_cap": 50000,
+        }
+        result = dcf_from_financials(curr, growth_rate=0.05, wacc=0.10, terminal_growth=0.02, prev_financial=prev)
+
+        # WC = (유동자산-현금) - 유동부채
+        # prev WC = (4000-800) - 1800 = 1400
+        # curr WC = (5000-1000) - 2000 = 2000
+        # wc_change = 2000 - 1400 = 600
+        expected_fcf = 1000 * 0.75 + 300 - 400 - 600  # = 50
+        assert pytest.approx(result["fcf"]) == expected_fcf

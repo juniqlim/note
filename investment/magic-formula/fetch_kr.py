@@ -40,6 +40,7 @@ def init_db(db_path=DB_PATH):
             tangible_assets    INTEGER,
             total_debt         INTEGER,
             market_cap         INTEGER,
+            operating_cash_flow INTEGER,
             depreciation       INTEGER,
             capex              INTEGER,
             tax_expense        INTEGER,
@@ -203,6 +204,8 @@ def fetch_detail_accounts(dart, stock_code, bsns_year):
             detail["tangible_assets"] = amt
         elif "감가상각비" in acnt:
             detail.setdefault("depreciation", amt)
+        elif acnt == "영업활동현금흐름" and sj == "현금흐름표":
+            detail["operating_cash_flow"] = amt
         elif "유형자산의 취득" in acnt or "유형자산의취득" in acnt:
             detail["capex"] = abs(amt)  # 투자활동은 음수일 수 있음
         elif "법인세비용" == acnt or "법인세비용(수익)" == acnt:
@@ -222,28 +225,30 @@ def save_financials(conn, bsns_year, financials_data):
                 stock_code, bsns_year, revenue, operating_income,
                 total_assets, current_assets, current_liabilities,
                 cash, tangible_assets, total_debt,
-                depreciation, capex, tax_expense, interest_expense
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                operating_cash_flow, depreciation, capex, tax_expense, interest_expense
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON CONFLICT(stock_code, bsns_year) DO UPDATE SET
                 revenue=?, operating_income=?,
                 total_assets=?, current_assets=?, current_liabilities=?,
                 cash=?, tangible_assets=?, total_debt=?,
-                depreciation=?, capex=?, tax_expense=?, interest_expense=?
+                operating_cash_flow=?, depreciation=?, capex=?, tax_expense=?, interest_expense=?
         """, (
             stock_code, bsns_year,
             info.get("revenue", 0), info.get("operating_income", 0),
             info.get("total_assets", 0), info.get("current_assets", 0),
             info.get("current_liabilities", 0), info.get("cash", 0),
             info.get("tangible_assets", 0), info.get("total_debt", 0),
-            info.get("depreciation", 0), info.get("capex", 0),
-            info.get("tax_expense", 0), info.get("interest_expense", 0),
+            info.get("operating_cash_flow", 0), info.get("depreciation", 0),
+            info.get("capex", 0), info.get("tax_expense", 0),
+            info.get("interest_expense", 0),
             # UPDATE values
             info.get("revenue", 0), info.get("operating_income", 0),
             info.get("total_assets", 0), info.get("current_assets", 0),
             info.get("current_liabilities", 0), info.get("cash", 0),
             info.get("tangible_assets", 0), info.get("total_debt", 0),
-            info.get("depreciation", 0), info.get("capex", 0),
-            info.get("tax_expense", 0), info.get("interest_expense", 0),
+            info.get("operating_cash_flow", 0), info.get("depreciation", 0),
+            info.get("capex", 0), info.get("tax_expense", 0),
+            info.get("interest_expense", 0),
         ))
     conn.commit()
     print(f"  → {len(financials_data)}개 재무데이터 저장 ({bsns_year})")

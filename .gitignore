@@ -1,4 +1,5 @@
 .idea
 *.iml
 .venv/
+__pycache__/
 magic_formula.db
