@@ -1,6 +1,4 @@
 .idea
 *.iml
-telegram_venv/
-telegram_*_result*.txt
-telegram_*_deep*.txt
-telegram_*_recent*.txt
+.venv/
+magic_formula.db
