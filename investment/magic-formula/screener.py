@@ -8,6 +8,7 @@ DB_PATH = os.path.join(os.path.dirname(__file__), "magic_formula.db")
 # 금융업종 키워드 — sector 또는 종목명에서 필터
 FINANCIAL_SECTORS = {"은행", "증권", "보험", "카드", "캐피탈", "저축은행", "금융"}
 FINANCIAL_NAME_KEYWORDS = {"금융", "은행", "보험", "증권", "캐피탈", "저축", "파이낸셜", "지주"}
+HOLDING_NAME_KEYWORDS = {"홀딩스", "홀딩", "지주"}
 
 
 # --- Magic Formula 계산 ---
@@ -285,9 +286,128 @@ def print_dcf(stock_code, bsns_year, growth_rate=0.05, wacc=0.10):
         print(f"\n ⚠ FCF가 음수이므로 DCF 결과는 참고용입니다.")
 
 
+def load_all_stocks_for_dcf(bsns_year, db_path=DB_PATH):
+    """DCF 분석용 전 종목 재무데이터 로드. 금융주 제외, 필수 데이터 필터."""
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute("""
+        SELECT c.corp_name AS name, c.sector, f.*
+        FROM financials f
+        JOIN companies c ON c.stock_code = f.stock_code
+        WHERE f.bsns_year = ?
+          AND f.operating_income > 0
+          AND f.market_cap > 0
+          AND f.shares_outstanding > 0
+    """, (bsns_year,)).fetchall()
+    conn.close()
+
+    stocks = []
+    for r in rows:
+        name = r["name"] or ""
+        sector = r["sector"] or ""
+        if any(kw in sector for kw in FINANCIAL_SECTORS):
+            continue
+        if any(kw in name for kw in FINANCIAL_NAME_KEYWORDS):
+            continue
+        if any(kw in name for kw in HOLDING_NAME_KEYWORDS):
+            continue
+        stocks.append(dict(r))
+    return stocks
+
+
+def screen_dcf(bsns_year, top_n=50, growth_rate=0.05, wacc=0.10,
+               db_path=DB_PATH):
+    """전 종목 DCF 분석 후 upside 상위 종목 반환."""
+    stocks = load_all_stocks_for_dcf(bsns_year, db_path=db_path)
+    prev_year = str(int(bsns_year) - 1)
+
+    results = []
+    for s in stocks:
+        stock_code = s["stock_code"]
+        # 전년도 데이터 로드
+        prev = load_stock_financials(stock_code, prev_year, db_path=db_path)
+
+        dcf = dcf_from_financials(s, growth_rate=growth_rate, wacc=wacc,
+                                  prev_financial=prev)
+        if dcf is None:
+            continue
+        # FCF 음수인 종목은 제외 (의미 없는 DCF)
+        if dcf["fcf"] <= 0:
+            continue
+
+        results.append({
+            "stock_code": stock_code,
+            "name": s["name"],
+            "revenue": s.get("revenue", 0),
+            "operating_income": s["operating_income"],
+            "market_cap": s["market_cap"],
+            "fcf": dcf["fcf"],
+            "dcf_price": dcf["dcf_price"],
+            "current_price": dcf["current_price"],
+            "upside": dcf["upside"],
+            "fcf_method": dcf["fcf_method"],
+        })
+
+    # upside 높은 순 정렬
+    results.sort(key=lambda x: x["upside"], reverse=True)
+    return results[:top_n]
+
+
+def print_dcf_screen(bsns_year, top_n=50, growth_rate=0.05, wacc=0.10):
+    """DCF 스크리닝 결과 출력."""
+    results = screen_dcf(bsns_year, top_n=top_n, growth_rate=growth_rate,
+                         wacc=wacc)
+
+    print(f"\n{'='*100}")
+    print(f" DCF Top {top_n} — {bsns_year} (growth={growth_rate:.0%}, WACC={wacc:.0%})")
+    print(f"{'='*100}")
+    print(f"{'순위':>4} {'종목코드':>8} {'종목명':<16} {'매출(억)':>10} {'영업이익(억)':>12} "
+          f"{'FCF(억)':>10} {'적정가':>10} {'현재가':>10} {'괴리율':>8}")
+    print("-" * 100)
+
+    for i, r in enumerate(results, 1):
+        print(f"{i:>4} {r['stock_code']:>8} {r['name']:<16} "
+              f"{r['revenue']/1e8:>10,.0f} {r['operating_income']/1e8:>12,.0f} "
+              f"{r['fcf']/1e8:>10,.0f} {r['dcf_price']:>10,.0f} "
+              f"{r['current_price']:>10,.0f} {r['upside']:>8.1%}")
+
+
+def save_dcf_screen_md(bsns_year, top_n=50, growth_rate=0.05, wacc=0.10):
+    """DCF 스크리닝 결과를 마크다운 파일로 저장."""
+    results = screen_dcf(bsns_year, top_n=top_n, growth_rate=growth_rate,
+                         wacc=wacc)
+
+    lines = [
+        f"# DCF Top {top_n} — {bsns_year}",
+        f"",
+        f"> 가정: 성장률 {growth_rate:.0%}, WACC {wacc:.0%}, 영구성장률 2%, 예측기간 5년",
+        f"",
+        "| 순위 | 종목코드 | 종목명 | 매출(억) | 영업이익(억) | FCF(억) | 적정가 | 현재가 | 괴리율 |",
+        "|-----:|:------:|:------|--------:|-----------:|-------:|------:|------:|------:|",
+    ]
+    for i, r in enumerate(results, 1):
+        lines.append(
+            f"| {i} | {r['stock_code']} | {r['name']} "
+            f"| {r['revenue']/1e8:,.0f} | {r['operating_income']/1e8:,.0f} "
+            f"| {r['fcf']/1e8:,.0f} | {r['dcf_price']:,.0f} "
+            f"| {r['current_price']:,.0f} | {r['upside']:.1%} |"
+        )
+
+    path = os.path.join(os.path.dirname(__file__), f"dcf_{bsns_year}.md")
+    with open(path, "w") as f:
+        f.write("\n".join(lines) + "\n")
+    print(f"저장: {path}")
+    return path
+
+
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) >= 3 and sys.argv[1] == "dcf":
+    if len(sys.argv) >= 2 and sys.argv[1] == "dcf-screen":
+        year = sys.argv[2] if len(sys.argv) > 2 else "2024"
+        top_n = int(sys.argv[3]) if len(sys.argv) > 3 else 50
+        print_dcf_screen(year, top_n=top_n)
+        save_dcf_screen_md(year, top_n=top_n)
+    elif len(sys.argv) >= 3 and sys.argv[1] == "dcf":
         stock_code = sys.argv[2]
         year = sys.argv[3] if len(sys.argv) > 3 else "2024"
         print_dcf(stock_code, year)
