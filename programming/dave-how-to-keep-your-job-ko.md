@@ -2,7 +2,8 @@
 
 - 발표자: Dave Thomas
 - 자료 공동 제작: Dave Thomas, Andy Hunt
-- 원문 기반: [How-To-Keep-Your-Job-archived-reconstruction.pdf](/Users/juniq/ai-agent/How-To-Keep-Your-Job-archived-reconstruction.pdf)
+- 번역문: [dave-how-to-keep-your-job-ko.md](https://github.com/juniqlim/note/blob/master/programming/dave-how-to-keep-your-job-ko.md)
+- 원문 기반 PDF: [dave-how-to-keep-your-job-archived-reconstruction.pdf](https://github.com/juniqlim/note/blob/master/programming/dave-how-to-keep-your-job-archived-reconstruction.pdf)
 - 주의: 이 문서는 웹 아카이브에서 복원한 슬라이드 HTML과 발표자 노트(speaker notes)를 바탕으로 한국어 번역본을 정리한 것입니다.
 - 발표 맥락: 이 자료는 2003년 3월 24일 기준으로 이미 Slashdot에서 소개된 공개 발표 자료입니다. 다만 현재 공개적으로 확인 가능한 자료만으로는 이 발표가 처음 어디 행사/어느 장소에서 이루어졌는지는 특정되지 않습니다.
 - 관련 정황: 슬라이드 노트에는 `Jay's symposium` 언급이 남아 있고, 자료 소개문도 단수 발표가 아니라 여러 발표(presentations)를 바탕으로 한 슬라이드라고 설명합니다. 따라서 특정 단일 행사 자료라기보다 여러 자리에서 사용된 강연 자료일 가능성이 있습니다.
