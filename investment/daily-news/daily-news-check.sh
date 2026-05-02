@@ -41,6 +41,7 @@ PROMPT
 cd /Users/juniq/develop/code/juniqlim/note
 git add "investment/daily-news/${TODAY}.md"
 git commit -m "daily-news: ${TODAY}" || true
+git pull --rebase origin master 2>>"${NEWS_DIR}/error.log" || true
 git push origin master 2>>"${NEWS_DIR}/error.log" || true
 
 # 일주일치 쌓이면 weekly 생성
@@ -84,6 +85,7 @@ if [ "$DOW" -eq 7 ]; then
     # weekly도 push
     git add "investment/daily-news/weekly-${WEEK_START}_${WEEK_END}.md"
     git commit -m "weekly-news: ${WEEK_START} ~ ${WEEK_END}" || true
+    git pull --rebase origin master 2>>"${NEWS_DIR}/error.log" || true
     git push origin master 2>>"${NEWS_DIR}/error.log" || true
   fi
 fi
