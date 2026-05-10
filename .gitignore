@@ -4,3 +4,4 @@
 .venv/
 __pycache__/
 magic_formula.db
+investment/daily-news/error.log
