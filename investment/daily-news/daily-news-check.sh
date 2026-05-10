@@ -17,9 +17,11 @@ OUTPUT_FILE="${NEWS_DIR}/${TODAY}.md"
 mkdir -p "$NEWS_DIR"
 
 # Claude Code CLI로 뉴스 검색 실행 (stdin으로 프롬프트 전달)
+# atomic write: 임시파일에 쓰고 성공시에만 교체 (실패해도 기존 파일 보존)
+TMP_OUTPUT="${OUTPUT_FILE}.tmp"
 cat <<PROMPT | /Users/juniq/.local/bin/claude -p \
   --allowedTools "WebSearch Read Glob" \
-  > "$OUTPUT_FILE" 2>>"${NEWS_DIR}/error.log"
+  > "$TMP_OUTPUT" 2>>"${NEWS_DIR}/error.log"
 오늘은 ${TODAY}이다. /Users/juniq/develop/code/juniqlim/note/investment/daily-news-check.md 의 종목 리스트에 있는 각 종목에 대해 어제와 오늘 투자에 영향을 줄 수 있는 뉴스를 검색해줘.
 
 검색 방법:
@@ -37,12 +39,35 @@ cat <<PROMPT | /Users/juniq/.local/bin/claude -p \
 마크다운 형식으로 출력해.
 PROMPT
 
-# git commit & push
+# atomic write 마무리: 비어있지 않을 때만 실제 파일로 교체
+if [ -s "$TMP_OUTPUT" ]; then
+  mv "$TMP_OUTPUT" "$OUTPUT_FILE"
+else
+  rm -f "$TMP_OUTPUT"
+  echo "[$(date)] daily-news 생성 실패 (빈 출력) — push 건너뜀" >> "${NEWS_DIR}/error.log"
+fi
+
+# git 단계는 별도 claude -p에 위임
+# - autostash로 사용자 unstaged 변경 보존
+# - rebase 자동 머지 가능하면 진행, 충돌이 사람 판단을 요구하면 abort 후 알림
 cd /Users/juniq/develop/code/juniqlim/note
-git add "investment/daily-news/${TODAY}.md"
-git commit -m "daily-news: ${TODAY}" || true
-git pull --rebase origin master 2>>"${NEWS_DIR}/error.log" || true
-git push origin master 2>>"${NEWS_DIR}/error.log" || true
+GIT_TARGET="investment/daily-news/${TODAY}.md"
+GIT_MSG="daily-news: ${TODAY}"
+cat <<GITPROMPT | /Users/juniq/.local/bin/claude -p \
+  --allowedTools "Bash(git:*)" \
+  >> "${NEWS_DIR}/error.log" 2>&1
+다음 git 작업을 수행해. 작업 디렉토리는 /Users/juniq/develop/code/juniqlim/note 이다.
+
+1. \`${GIT_TARGET}\` 파일을 stage하고 "${GIT_MSG}" 메시지로 커밋해. 변경이 없으면 커밋은 건너뛰어.
+2. \`git pull --rebase --autostash origin master\` 로 원격을 당겨와.
+3. rebase 도중 충돌이 발생하면:
+   a. 충돌이 같은 줄을 양쪽에서 다르게 수정한 "사람 판단이 필요한" 충돌이면 \`git rebase --abort\` 하고 종료해. push 시도하지 마.
+   b. 한 쪽만 변경된 add/add 또는 modify/delete 같은 명백한 케이스면 자동으로 해결하고 \`git rebase --continue\`로 진행해.
+4. rebase 끝나면 \`git push origin master\` 해.
+5. 모든 단계의 결과를 한 줄씩 stdout에 적어줘. 실패하면 어디서 왜 실패했는지 명시해.
+
+위험한 명령 금지: --force, --force-with-lease, reset --hard, push -f, branch -D 등은 절대 쓰지 마.
+GITPROMPT
 
 # 일주일치 쌓이면 weekly 생성
 DOW=$(date +%u)  # 1=월 ... 7=일
@@ -80,13 +105,29 @@ if [ "$DOW" -eq 7 ]; then
       done
     } | /Users/juniq/.local/bin/claude -p \
         --allowedTools "Read Glob" \
-        > "$WEEKLY_FILE" 2>>"${NEWS_DIR}/error.log"
+        > "${WEEKLY_FILE}.tmp" 2>>"${NEWS_DIR}/error.log"
 
-    # weekly도 push
-    git add "investment/daily-news/weekly-${WEEK_START}_${WEEK_END}.md"
-    git commit -m "weekly-news: ${WEEK_START} ~ ${WEEK_END}" || true
-    git pull --rebase origin master 2>>"${NEWS_DIR}/error.log" || true
-    git push origin master 2>>"${NEWS_DIR}/error.log" || true
+    if [ -s "${WEEKLY_FILE}.tmp" ]; then
+      mv "${WEEKLY_FILE}.tmp" "$WEEKLY_FILE"
+
+      # weekly git 단계도 동일하게 위임
+      WEEKLY_TARGET="investment/daily-news/weekly-${WEEK_START}_${WEEK_END}.md"
+      WEEKLY_MSG="weekly-news: ${WEEK_START} ~ ${WEEK_END}"
+      cat <<GITPROMPT | /Users/juniq/.local/bin/claude -p \
+        --allowedTools "Bash(git:*)" \
+        >> "${NEWS_DIR}/error.log" 2>&1
+다음 git 작업을 수행해. 작업 디렉토리는 /Users/juniq/develop/code/juniqlim/note 이다.
+
+1. \`${WEEKLY_TARGET}\` 파일을 stage하고 "${WEEKLY_MSG}" 메시지로 커밋해. 변경이 없으면 커밋은 건너뛰어.
+2. \`git pull --rebase --autostash origin master\` 로 원격을 당겨와.
+3. rebase 충돌이 사람 판단을 요구하는 경우(같은 줄을 양쪽이 다르게 수정)면 \`git rebase --abort\` 후 종료. 명백한 케이스면 자동 해결 후 \`git rebase --continue\`.
+4. \`git push origin master\` 해.
+5. 결과를 stdout에 한 줄씩 적어. --force류 위험 명령은 금지.
+GITPROMPT
+    else
+      rm -f "${WEEKLY_FILE}.tmp"
+      echo "[$(date)] weekly 생성 실패 (빈 출력) — push 건너뜀" >> "${NEWS_DIR}/error.log"
+    fi
   fi
 fi
 
