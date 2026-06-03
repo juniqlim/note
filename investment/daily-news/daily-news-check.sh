@@ -20,6 +20,7 @@ mkdir -p "$NEWS_DIR"
 # atomic write: 임시파일에 쓰고 성공시에만 교체 (실패해도 기존 파일 보존)
 TMP_OUTPUT="${OUTPUT_FILE}.tmp"
 cat <<PROMPT | /Users/juniq/.local/bin/claude -p \
+  --effort medium \
   --allowedTools "WebSearch Read Glob" \
   > "$TMP_OUTPUT" 2>>"${NEWS_DIR}/error.log"
 오늘은 ${TODAY}이다. /Users/juniq/develop/code/juniqlim/note/investment/daily-news-check.md 의 종목 리스트에 있는 각 종목에 대해 어제와 오늘 투자에 영향을 줄 수 있는 뉴스를 검색해줘.
@@ -54,6 +55,7 @@ cd /Users/juniq/develop/code/juniqlim/note
 GIT_TARGET="investment/daily-news/${TODAY}.md"
 GIT_MSG="daily-news: ${TODAY}"
 cat <<GITPROMPT | /Users/juniq/.local/bin/claude -p \
+  --effort medium \
   --allowedTools "Bash(git:*)" \
   >> "${NEWS_DIR}/error.log" 2>&1
 다음 git 작업을 수행해. 작업 디렉토리는 /Users/juniq/develop/code/juniqlim/note 이다.
@@ -104,6 +106,7 @@ if [ "$DOW" -eq 7 ]; then
         echo ""
       done
     } | /Users/juniq/.local/bin/claude -p \
+        --effort medium \
         --allowedTools "Read Glob" \
         > "${WEEKLY_FILE}.tmp" 2>>"${NEWS_DIR}/error.log"
 
@@ -114,6 +117,7 @@ if [ "$DOW" -eq 7 ]; then
       WEEKLY_TARGET="investment/daily-news/weekly-${WEEK_START}_${WEEK_END}.md"
       WEEKLY_MSG="weekly-news: ${WEEK_START} ~ ${WEEK_END}"
       cat <<GITPROMPT | /Users/juniq/.local/bin/claude -p \
+        --effort medium \
         --allowedTools "Bash(git:*)" \
         >> "${NEWS_DIR}/error.log" 2>&1
 다음 git 작업을 수행해. 작업 디렉토리는 /Users/juniq/develop/code/juniqlim/note 이다.
