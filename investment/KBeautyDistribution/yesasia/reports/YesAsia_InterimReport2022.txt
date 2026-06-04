@@ -1,0 +1,2988 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+                       YesAsia Holdings Limited
+                          麗控股有限公司
+                     (Incorporated in Hong Kong with limited liability)
+                                  (Stock Code: 2209)
+
+               INTERIM RESULTS ANNOUNCEMENT
+             FOR THE SIX MONTHS ENDED 30 JUNE 2022
+
+The board (the “Board”) of directors (the “Directors”) of YesAsia Holdings Limited (the
+“Company”) is pleased to announce the unaudited consolidated results of the Company
+and its subsidiaries (collectively referred to as the “Group”) for the six months ended
+30 June 2022. This announcement, containing the full text of the interim report of the
+Company for the six months ended 30 June 2022 (the “Interim Report”), complies
+with the relevant requirements of the Rules Governing the Listing of Securities on The
+Stock Exchange of Hong Kong Limited (the “Listing Rules”) in relation to information
+to accompany preliminary announcements of interim results. Interim Report will be
+dispatched to the shareholders of the Company and available for viewing on the websites
+of Hong Kong Exchanges and Clearing Limited at https://www.hkexnews.hk and of the
+Company at https://www.yesasiaholdings.com on or before 30 September 2022.
+
+                                                                On behalf of the Board
+                                                                   Chu Lai King
+                                                                    Chairperson
+Hong Kong, 26 August 2022
+
+As at the date of this announcement, the executive Directors are Mr. LAU Kwok Chu,
+Ms. CHU Lai King, and Mr. CHU Kin Hang; the non-executive Directors are Mr. HUI
+Yat Yan Henry, Mr. LUI Pak Shing Michael, and Mr. POON Chi Ho; the independent
+non-executive Directors are Mr. CHAN Yu Cheong, Mr. SIN Pak Cheong Philip Charles,
+and Mr. WONG Chee Chung.
+CONTENTS
+
+1    Contents
+
+2    Corporate Information
+
+4    Key Highlights
+
+5    Management Discussion and Analysis
+
+16   Other Information
+
+26   Interim Condensed Consolidated Statement of
+     Profit or Loss and Other Comprehensive Income
+
+27   Interim Condensed Consolidated Statement of
+     Financial Position
+
+28   Interim Condensed Consolidated Statement of
+     Changes in Equity
+
+29   Interim Condensed Consolidated Statement of
+     Cash Flows
+
+30   Notes to Interim Condensed Consolidated Financial
+     Information
+
+52   Definitions and Glossary
+    CORPORATE INFORMATION
+
+
+
+
+    BOARD OF DIRECTORS                                   AUTHORISED REPRESENTATIVES
+    Executive Directors                                  Mr. Lau Kwok Chu (劉國柱)
+                                                         Mr. Ng Sai Cheong (伍世昌)
+    Mr. Lau Kwok Chu (劉國柱) (Chief Executive Officer)
+    Ms. Chu Lai King (朱麗琼) (Chairperson)
+                                                         AUDITOR
+    Mr. Chu Kin Hang (朱健恒)
+      (Appointed on 23 June 2022)                        RSM Hong Kong
+    Ms. Wong Shuet Ha (黃雪夏)                              Certified Public Accountants
+      (Retired on 23 June 2022)                          Registered Public Interest Entity Auditor
+                                                         29th Floor
+    Non-executive Directors                              Lee Garden Two
+                                                         28 Yun Ping Road
+    Mr. Lui Pak Shing Michael (雷百成)
+                                                         Causeway Bay
+    Mr. Hui Yat Yan Henry (許日昕)
+                                                         Hong Kong
+    Mr. Poon Chi Ho (潘智豪)
+
+                                                         HEAD OFFICE AND REGISTERED
+    Independent Non-executive Directors
+                                                          OFFICE IN HONG KONG
+    Mr. Chan Yu Cheong (陳汝昌)
+                                                         5/F., KC100
+    Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+                                                         100 Kwai Cheong Road
+    Mr. Wong Chee Chung (王子聰)
+                                                         Kwai Chung
+                                                         New Territories
+    AUDIT COMMITTEE
+                                                         Hong Kong
+    Mr. Wong Chee Chung (王子聰) (Chairman)
+    Mr. Hui Yat Yan Henry (許日昕)
+    Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+    Mr. Chan Yu Cheong (陳汝昌)
+
+    REMUNERATION COMMITTEE
+    Mr. Chan Yu Cheong (陳汝昌) (Chairman)
+    Mr. Poon Chi Ho (潘智豪)
+    Mr. Wong Chee Chung (王子聰)
+    Mr. Sin Pak Cheong Philip Charles (冼栢昌)
+
+    NOMINATION COMMITTEE
+    Mr. Sin Pak Cheong Philip Charles (冼栢昌) (Chairman)
+    Mr. Chu Kin Hang (朱健恒)
+      (Appointed on 23 June 2022)
+    Ms. Wong Shuet Ha (黃雪夏)
+      (Retired on 23 June 2022)
+    Mr. Chan Yu Cheong (陳汝昌)
+    Mr. Wong Chee Chung (王子聰)
+
+    COMPANY SECRETARY
+    Mr. Ng Sai Cheong (伍世昌)
+
+
+
+
+2    YesAsia Holdings Limited Interim Report 2022
+                                                               CORPORATE INFORMATION
+
+
+
+
+LEGAL ADVISOR AS TO HONG KONG                       PRINCIPAL BANKERS
+LAWS
+                                                    The Hongkong and Shanghai Banking
+Ronald Tong & Co                                      Corporation Limited
+Room 501, 5/F.,                                     DBS Bank (Hong Kong) Limited
+Sun Hung Kai Centre,
+30 Harbour Road,                                    STOCK CODE
+Hong Kong
+                                                    2209
+
+COMPLIANCE ADVISOR
+                                                    CORPORATE WEBSITE
+UOB Kay Hian (Hong Kong) Limited
+                                                    www.yesasiaholdings.com
+6/F Harcourt House
+39 Gloucester Road, Hong Kong
+                                                    SHOPPING WEBSITES
+SHARE REGISTRAR                                     www.yesstyle.com
+                                                    www.asianbeautywholesale.com
+Computershare Hong Kong Investor Services Limited
+                                                    www.yesasia.com
+17M Floor, Hopewell Centre
+183 Queen’s Road East, Wan Chai
+Hong Kong
+
+
+
+
+                                                              YesAsia Holdings Limited Interim Report 2022   3
+    KEY HIGHLIGHTS
+
+
+
+
+                                                                      Six months ended 30 June
+                                                                2022                      2021                   Change
+                                                          (Unaudited)               (Unaudited)                     (%)
+                                                             US$’000                   US$’000
+
+    Revenue                                                      62,905                 88,368                    -28.8%
+    Gross profit                                                 21,778                 30,800                    -29.3%
+    Gross profit margin(1)                                       34.6%                   34.9%                     -0.3%
+    (Loss)/profit for the period                                 (2,264)                   515                   -539.6%
+    Proposed interim dividend (per Share)                           N/A            HK 5.0 cents
+
+    Note:
+
+    (1)     Gross profit margin is calculated based on gross profit divided by revenue and multiplied by 100%.
+
+                                                                                       Six months ended 30 June
+    E-commerce Platforms         (1)
+                                                                                             2022             2021
+
+    Number of E-commerce platforms customers(2) (Million)                                        0.6                  1.0
+    Average order size(3) (US$)                                                                $63.4                $74.4
+    Acquisition cost per new customer(4) (US$)                                                 $12.0                $10.7
+    Revenue generated from fashion and lifestyle products (US$ Million)                        $26.8                $42.0
+    Revenue generated from beauty products (US$ Million)                                       $31.5                $42.6
+    Revenue generated from entertainment products on
+      E-commerce platform (US$ Million)                                                         $3.9                 $3.0
+    Return rate (YesStyle)                                                                    1.18%                1.08%
+    Return rate (AsianBeautyWholesale)                                                        0.25%                0.57%
+    Return rate (YesAsia)                                                                     0.19%                0.13%
+
+    Note:
+    (1)     E-commerce Platforms include YesStyle (website and mobile app), AsianBeautyWholesale (website) and
+            YesAsia (website).
+
+    (2)     A person is considered as customer of our E-commerce platform during a reporting period if the first invoice
+            of his/her/its order has been issued within the reporting period. A person who made his/her/its purchases on
+            different E-commerce platforms is accounted as a separate E-commerce customer of each E-commerce
+            platform and any anonymous person can register multiple accounts on each of the E-commerce platforms
+            and be counted as multiple E-commerce customers.
+
+    (3)     The average order size is equal to the total order amount divided by the number of orders (excluding
+            canceled orders). Total order amount represents the amount paid by our customers for the value of products
+            purchased, and before indirect tax payment, effects on foreign exchange, post-sale order refund and
+            adjustments, and other accounting adjustments.
+
+    (4)     This represents marketing and promotion fees per new customer across all E-commerce platforms of the
+            Group. A new customer is a customer if the first invoice of his/her/its first ever order has been issued within
+            the reporting period. A guest visitor who made his/her purchase during different reporting periods without
+            specific customer identification data is counted as a new customer for each of the reporting periods.
+
+                                                                                       Six months ended 30 June
+    YesStyle Platform                                                                        2022             2021
+
+    Number of YesStyle Mobile App downloads
+      (Includes IOS and Android)                                                            488,000              816,000
+    Influencer Program expenses (US$ Million)                                                  $0.5                 $0.9
+    Revenue generated by the YesStyle Mobile App (US$ Million)                                $20.8                $29.1
+    Revenue generated by influencers (US$ Million)                                             $9.4                $13.8
+
+
+
+4     YesAsia Holdings Limited Interim Report 2022
+                                              MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+BUSINESS OVERVIEW
+The year 2022 has been strenuous compared to 2021. Unaudited consolidated revenue of the Group for
+the six months ended 30 June 2022 (“Reporting Period”) was approximately US$62.9 million,
+representing a decrease of approximately US$25.5 million or 28.8% compared to approximately
+US$88.4 million for the six months ended 30 June 2021 (“Prior Period”).
+
+The lower revenue was mainly attributable to a decrease in the number of sale orders by approximately
+205,000 or 17.5% in the Reporting Period, particularly from online retail customers of fashion, beauty
+and lifestyle products in the United States, European countries, Australia, and the United Kingdom, and
+surging energy prices and increased cost of living in those countries, as evidenced by the highest
+inflation rate on record in the past four decades, greatly reduced consumers’ discretionary spending,
+leading to lower sales. Also, the impact of the war in Ukraine lowered consumers’ confidence of the
+economic outlook in the relevant regions, further impacting consumers’ online consumption.
+
+                                       Revenue by Regions
+                  2021 | 2022                                      European Countries
+                                                                   30.4% | 18.6%
+
+
+                                                                         Australia
+                                                                         6.5% | 6.9%
+                  United States
+                  43.5% | 50.0%                                         United Kingdom
+                                                                        6.0% | 6.2%
+
+                                                                    Hong Kong
+                                                                    1.9% | 5.9%
+                                                                Canada
+                                                                5.1% | 5.2%
+                                            Other        Japan
+                                       5.4% | 6.3%       1.2% | 0.9%
+
+
+In terms of product category distribution, fashion and lifestyle products recorded revenue of
+approximately US$26.8 million (Prior Period: US$42.0 million), accounting for 42.6% (Prior Period:
+47.6%) of our Group’s total revenue during the Reporting Period.
+
+Beauty products delivered approximately US$31.5 million (Prior Period: US$42.6 million) in revenue
+                                     Revenue
+during the Reporting Period, representing      by Regions
+                                          approximately 50.1% (Prior Period: 48.2%) of our Group’s
+total revenue.
+                 2021 | 2022
+                                                                  European
+Entertainment products recorded revenue of approximately US$4.3 million       Countries
+                                                                           (Prior Period: US$3.7 million)
+                                                                  30.4%  | 18.6%
+during the Reporting Period. The increase in entertainment product revenue during the Reporting Period
+is mainly due to the concert Blu-ray of a popular Hong Kong boy band, “MIRROR” being made available
+on YesAsia.com.
+                   United States
+                   43.5% | 50.0%
+                                                                      Australia
+                                                                      6.5% | 6.9%
+                                                                       United Kingdom
+                                                                       6.0% | 6.2%
+                                                            Hong Kong
+                                     Other           Canada 1.9% | 5.9%
+                                5.4% | 6.2% Japan 5.1% | 5.2% YesAsia Holdings Limited Interim Report 2022   5
+                                            1.2% | 0.9%
+    MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+                                       Revenue by Product Categories
+                         2021 | 2022                                  Entertainment Products
+                                                                      4.2% | 6.8%
+                       Beauty Products
+                         48.2% | 50.1%                                      Logistics Services
+                                                                            0.0% | 0.5%
+
+
+
+
+                                                                           Fashion and
+                                                                     Lifestyle Products
+                                                                     47.6% | 42.6%
+
+
+
+    Reaching New Heights in Number of YesStyle Elite Club members and Influencers
+
+    Despite the fierce competition in the retail market, YesStyle achieved an increase in the number of
+    YesStyle Elite Club members of approximately 2.1 million or 42.3% during the Reporting Period. As at
+    30 June 2022, the number of YesStyle Elite Club members reached a record high of approximately 7.2
+    million.
+
+    The customer relationship management system deployed in October 2021 generated approximately
+    US$5.6 million revenue during the Reporting Period. The Group continues to offer tailored user journeys
+    based on customer behavior to further increase the revenue contribution from repeat customers.
+
+    The YesStyle Influencer Program continued to expand during the Reporting Period. Along with the
+    launch of a series of promotional campaigns and initiatives, approximately 36,000 new influencers
+    joined the Program during the Reporting Period, with a total of approximately 253,000 influencers as at
+    30 June 2022, representing a growth of 16.4% since the beginning of the Reporting Period.
+
+    Breakthrough in logistics cost management amid soaring fuel prices
+
+    Since the global outbreak of the COVID-19 pandemic in early 2020, product delivery costs and,
+    particularly freight charges have steadily increased.
+
+    The Group worked closely with our strategic logistics partner, CN Logistics, on logistics solutions for the
+    Company’s delivery of products to the United States, Europe and other overseas markets at rates better
+    than our other service providers.
+
+    The Group achieved a reduction in freight cost as a percentage of revenue to approximately 25.1% in
+    the Reporting Period as compared to 26.0% in the Prior Period.
+
+
+
+
+6    YesAsia Holdings Limited Interim Report 2022
+                                             MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+OUTLOOK
+Online consumption level has been boosted by the emergence of COVID-19. Still, the Group remains
+cautiously optimistic about the business development and overall performance of the Group in the
+future. The recent rising levels of food and fuel inflation, particularly in the Group’s major sales
+countries, will continue to affect customer spending in the near term. The increasing freight costs and
+fuel prices add further challenges to the Group’s operation.
+
+In order to deal with the challenges and maintain the Group’s competitiveness, the Group has focused
+and will continue to focus on cost savings and increasing operational efficiency by proactively taking on
+new initiatives.
+
+On 31 January 2022, YA Logistics Limited, a wholly-owned subsidiary of the Group, entered into a lease
+agreement for an approximately 137,525 square feet warehouse at Goodman Interlink which suits our
+need for a smart warehousing with artificial intelligence, robotics and automation technology (“Smart
+Robotics Warehouse”). Subsequently, the Group entered into a contract for the supply and installation
+of the Smart Robotics Warehouse, including the deployment of 145 innovative Autonomous Mobile
+Robots (AMRs) in February 2022 and a renovation contract for the warehouse at Goodman Interlink with
+Geek Plus International Company Limited in April 2022.
+
+We hope that with implementation of the Smart Robotics Warehouse will enable the Group to reduce
+fulfilment labor cost, and increase fulfilment capacity to cope with the future growth of our online
+business. The Smart Robotics Warehouse is expected to commence operations in the third quarter of
+2022.
+
+
+
+
+                                                                  YesAsia Holdings Limited Interim Report 2022   7
+    MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+    REVENUE
+    Our Group’s revenue decreased by 28.8% from approximately US$88.4 million during the six months
+    ended 30 June 2021 to approximately US$62.9 million during the six months ended 30 June 2022. The
+    decrease in the Group’s revenue was primarily attributable to the decrease of approximately US$26.9
+    million in revenue generated from sales of our fashion & lifestyle and beauty products on our YesStyle
+    platform (website and mobile app). The decrease of our Group’s revenue during the Reporting Period
+    was also resulted from (i) a decrease in number of E-commerce platforms customers by approximately
+    400,000 on a year-on-year basis; (ii) a decrease in average order size to approximately US$63.4 from
+    US$74.4 in the Prior Period; and (iii) a decrease in revenue generated from the United States and
+    European Union countries, which showed an approximately US$7.0 million or 18.2% year-on-year
+    decline and US$15.1 million or 56.4% year-on-year decline, respectively.
+
+    During the Reporting Period, AsiaBeautyWholesale’s revenue increased by approximately US$0.6
+    million or 17.6% to approximately US$4.2 million (six months ended 30 June 2021: US$3.6 million). The
+    increase in AsiaBeautyWholesale’s revenue during the Reporting Period is mainly due to increase in
+    average order size by approximately 32.8% during the Reporting Period compared to that in Prior
+    Period.
+
+    During the Reporting Period, the YesAsia platform’s revenue increased by approximately US$0.8 million
+    or 27.5% to approximately US$3.9 million (six months ended 30 June 2021: US$3.0 million). The
+    increase in entertainment product revenue during the Reporting Period was mainly due to the concert
+    Blu-ray of a popular Hong Kong boy band, “MIRROR”, being made available on YesAsia.com.
+
+    During the Reporting Period, the Group started up a new business segment which provides logistics
+    and fulfillment services to external corporate customers by YA Logistics Limited, a wholly-owned
+    subsidiary of the Group. During the Reporting Period, the logistics services business segment
+    contributed a revenue of approximately US$0.3 million to the Group’s revenue (six months ended 30
+    June 2021: Nil). The Group expects that the new business segment can diversify the customer base
+    and achieve a better utilise of the Group’s warehouse labour after the launch of the Smart Robotics
+    Warehouse to generate revenue from a new source.
+
+
+
+
+8    YesAsia Holdings Limited Interim Report 2022
+                                            MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+Revenue by Business Segments
+
+The following table sets forth the breakdown of our revenue by business segments:
+
+                                          Six months ended 30 June
+                                     2022                            2021
+                           (Unaudited) As % of total       (Unaudited)   As % of total              Change
+                              US$’000      revenue            US$’000        revenue                   (%)
+
+
+Fashion & lifestyle and
+  beauty products
+– YesStyle Platforms             54,146            86.1         81,082               91.8            (33.2%)
+– AsianBeautyWholesale            4,174             6.6          3,549                4.0             17.6%
+
+
+                                 58,320            92.7         84,631               95.8            (31.1%)
+
+Entertainment products
+– YesAsia Platform                3,878             6.2          3,041                 3.4            27.5%
+– Offline wholesale                 382             0.6            696                 0.8           (45.1%)
+
+
+                                  4,260             6.8          3,737                 4.2            14.0%
+
+Logistics services                  325             0.5               –                  –             100%
+
+
+Total                            62,905            100          88,368                100            (28.8%)
+
+
+
+
+                                                                YesAsia Holdings Limited Interim Report 2022   9
+   MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+   COST OF SALES
+   Cost of sales of the Group during the six months ended 30 June 2022 was approximately US$41.1
+   million, representing a decrease of approximately US$16.4 million or 28.6%, as compared to
+   approximately US$57.6 million during the six months ended 30 June 2021. The decrease in cost of
+   sales was mainly due to the decrease in revenue during the six months ended 30 June 2022.
+
+   The following table sets forth the breakdown of our cost of sales:
+
+                                                    Six months ended 30 June
+                                              2022                          2021
+                                    (Unaudited)         As% of    (Unaudited)          As% of     Change
+                                       US$’000         revenue       US$’000          revenue        (%)
+
+   Product costs                          24,907           39.6         33,895            38.3    (26.5%)
+   Freight charges                        15,772           25.1         22,974            26.0    (31.3%)
+   Packing materials                         448            0.7            699             0.8    (35.9%)
+
+   Total                                  41,127           65.4         57,568            65.1    (28.6%)
+
+   GROSS PROFIT AND GROSS MARGIN
+   Gross profit of the Group during the six months ended 30 June 2022 was approximately US$21.8
+   million, representing a decrease of approximately US$9.0 million or 29.3% as compared to
+   approximately US$30.8 million for the six months ended 30 June 2021. The gross profit margin during
+   the six months ended 30 June 2022 remained stable at approximately 34.6% (six months ended 30
+   June 2021: 34.9%).
+
+   The following table sets forth the breakdown of our gross profit by business segments:
+
+                                                    Six months ended 30 June
+                                              2022                          2021
+                                                  Gross Profit                     Gross Profit
+                                    (Unaudited)       Margin      (Unaudited)          Margin     Change
+                                       US$’000            (%)        US$’000              (%)        (%)
+
+   Fashion & lifestyle and
+     beauty products
+   – YesStyle Platforms                   19,510           36.0         29,372            36.2    (33.6%)
+   – AsianBeautyWholesale                  1,124           26.9            769            21.7     46.2%
+
+                                          20,634           35.4         30,141            35.6    (31.5%)
+
+   Entertainment products
+   – YesAsia Platform                         806          20.8           622             20.5     29.6%
+   – Offline wholesale                         24           6.3            37              5.3    (35.1%)
+
+                                              830          19.5           659             17.6     25.9%
+
+   Logistics services                         314          96.6              –               –     100%
+
+   Total                                  21,778           34.6         30,800            34.9    (29.3%)
+
+
+
+
+10 YesAsia Holdings Limited Interim Report 2022
+                                             MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+OTHER INCOME AND OTHER GAINS AND LOSSES
+Our other income and other gains increased by 64.8% from approximately US$0.4 million during the six
+months ended 30 June 2021 to approximately US$0.6 million during the six months ended 30 June
+2022. The increase was primarily attributable to (i) the approximately US$0.4 million one-off government
+subsidy from the Employment Support Scheme 2022 received during the six months ended 30 June
+2022 (six months ended 30 June 2021: US$5,000); and (ii) the receipt of interest income from bank
+deposits of approximately US$45,000 during the six months ended 30 June 2022 (six months ended 30
+June 2021: US$5,000), partially offset by a decrease in credit card rebate reward to approximately
+US$65,000 during the six months ended 30 June 2022 (six months ended 30 June 2021: US$0.3
+million).
+
+SELLING EXPENSES
+The Group’s selling expenses for the Reporting Period were approximately US$9.1 million (six months
+ended 30 June 2021: US$13.3 million), representing a decrease of approximately 31.9% as compared
+to that for the corresponding period in 2021. As the Group further enhanced its cost control measures
+during the Reporting Period, (i) marketing and promotion fees decreased by approximately US$1.5
+million or 30.8% to approximately US$3.3 million (six months ended 30 June 2021: US$4.7 million)
+mainly due to reduced marketing expenses under the enhanced cost control measures implemented by
+the Group; (ii) outsourced warehouse labour cost decreased by approximately US$1.6 million or 59.7%
+to approximately US$1.1 million (six months ended 30 June 2021: US$2.6 million) due to reduced
+outsourced labour cost under the enhanced cost control measures implemented by the Group; (iii)
+warehouse wages decreased by approximately US$0.3 million or 14.0% to approximately US$2.1 million
+(six months ended 30 June 2021: US$2.5 million) mainly due to less overtime charges incurred and
+paid during the Reporting Period; and (iv) payment gateway charges decreased by approximately
+US$0.5 million or 22.2% to approximately US$1.6 million (six months ended 30 June 2021: US$2.1
+million) due to decrease in sales during the six months ended 30 June 2022. Moreover, as the Group
+started to charge tax and duties to customers in accordance with the applicable law during the
+Reporting Period, custom duties expenses decreased by approximately US$0.5 million or 86.5% to
+approximately US$80,000 (six months ended 30 June 2021: US$0.6 million). However, our IT networking
+expenses increased by approximately US$0.2 million or 31.3% to approximately US$0.7 million (six
+months ended 30 June 2021: US$0.5 million) due to higher spending in cloud and security services
+expenses and IT outsourcing expenses.
+
+The following table sets forth the breakdown of our selling expenses:
+
+                                            Six months ended 30 June
+                                      2022                            2021
+                            (Unaudited)          As% of     (Unaudited)             As% of            Change
+                               US$’000          revenue        US$’000             revenue               (%)
+
+Marketing and promotion
+  fees                             3,254             5.2           4,704                 5.3           (30.8%)
+Warehouse wages                    2,114             3.4           2,459                 2.8           (14.0%)
+Payment gateway charges            1,620             2.6           2,083                 2.4           (22.2%)
+Outsourced warehouse
+  labor charges                    1,049             1.7           2,605                 2.9           (59.7%)
+IT networking fee                    705             1.1             537                 0.6            31.3%
+Web content and
+  translation fee                    252             0.4                334              0.4           (24.6%)
+Custom duties                         80             0.0                593              0.7           (86.5%)
+
+Total                              9,074            14.4          13,315               15.1            (31.9%)
+
+                                                                  YesAsia Holdings Limited Interim Report 2022   11
+   MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+   ADMINISTRATIVE EXPENSES
+   The Group’s administrative expenses for the Reporting Period were approximately US$15.1 million (six
+   months ended 30 June 2021: US$16.6 million), representing a decrease of approximately 9.0% as
+   compared to that in the Prior Period. The decrease was mainly due to the absence in listing expenses
+   incurred during the Reporting Period as compared to approximately US$1.3 million in the Prior Period
+   and the decrease in staff costs, staff training and recruitment expenses, utilities expenses and office
+   consumable expenses in the Reporting Period, partially offset by (i) an increase in depreciation of
+   right-of-use assets by approximately US$0.5 million or 21.8% to approximately US$2.7 million (six
+   months ended 30 June 2021: US$2.2 million); and (ii) an increase in rates and management fee by
+   approximately US$0.2 million or 58.9% to approximately US$0.6 million (six months ended 30 June
+   2021: US$0.4 million). The increases in depreciation of right-of-use assets and rates and management
+   fee were resulted from the new warehouse at Goodman Interlink for Smart Robotics Warehouse during
+   the Reporting Period.
+
+                                                    Six months ended 30 June
+                                              2022                          2021
+                                    (Unaudited)         As% of    (Unaudited)       As% of        Change
+                                       US$’000         revenue       US$’000       revenue           (%)
+
+   Staff costs                              9,073          14.4        9,367          10.6          (3.1%)
+   Depreciation of
+     right-of-use assets                    2,687           4.3        2,206           2.5         21.8%
+   Depreciation of property,
+     plant and equipment                      757           1.2          636           0.7         19.0%
+   Legal and professional
+     fees                                     583           0.9          636           0.7          (8.3%)
+   Rates and management
+     fee                                      556           0.9          350           0.4         58.9%
+   Utilities expenses                         418           0.7          509           0.6        (17.9%)
+   Directors’ remuneration                    309           0.5          276           0.3         12.0%
+   Exchange (gains)/losses,
+     net                                      275           0.4          848           1.0         (67.6%)
+   Operating lease charges                    170           0.3          152           0.2          11.8%
+   Auditor’s remuneration                      77           0.1           77           0.1           0.0%
+   Staff training and
+     recruitment expenses                      28           0.0          129           0.1        (78.3%)
+   Listing expenses                             –             –        1,303           1.5       (100.0%)
+   Others                                     214           0.4          155           0.1         38.1%
+
+   Total                                  15,147           24.1       16,644          18.8          (9.0%)
+
+   FINANCE COSTS
+   The Group’s finance costs for the Reporting Period were approximately US$225,000 (six months ended 30
+   June 2021: US$205,000), representing an increase of approximately 9.8% as compared to that of the Prior
+   Period, reflecting an increase in lease interest for new warehouse leased during the Reporting Period.
+
+   INCOME TAX EXPENSE
+   Income tax expense for the Reporting Period was approximately US$37,000 (six months ended 30 June
+   2021: US$478,000), representing a decrease of approximately US$441,000 or 92.3% as compared to
+   that of the Prior Period. The decrease was mainly due to the lower taxable profit during the six months
+   ended 30 June 2022.
+
+
+
+12 YesAsia Holdings Limited Interim Report 2022
+                                            MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+(LOSS)/PROFIT FOR THE PERIOD
+As a result of the foregoing, a net loss of approximately US$2.3 million was recorded during the
+Reporting Period (six months ended 30 June 2021: US$515,000 profit) The decrease was mainly
+attributable to the decrease in sales in our major sales countries including United States, the United
+Kingdom and European countries during the Reporting Period.
+
+CAPITAL EXPENDITURE
+During the Reporting Period, the Group acquired plant and equipment of approximately US$76,000 (six
+months ended 30 June 2021: US$1.1 million), representing a decrease of approximately US$1.0 million
+or 93.1% as compared to that for the Prior Period.
+
+LIQUIDITY AND CAPITAL RESOURCES
+Our principal source of liquidity was cash from operations and the proceeds from the Global Offering.
+As of 30 June 2022, the Group’s bank and cash balances amounted to approximately US$26.5 million
+(31 December 2021: US$36.5 million).
+
+Our bank and cash balance were mainly denominated in the US Dollar, Hong Kong Dollar and Korean
+Won which decreased by approximately US$9.9 million during the Reporting Period which was
+attributable to (i) net cash used in operating activities of approximately US$6.5 million; (ii) lease
+payments of approximately US$2.2 million; and (iii) an increase in pledged bank deposits by
+approximately US$1.2 million.
+
+The net cash used in operating activities was mainly due to net loss for the Reporting Period of US$2.3
+million and progress payments made for the equipment and renovation of Smart Robotics Warehouse of
+approximately US$2.0 million, and an increase in inventories by approximately US$1.4 million from our
+increase in bulk purchase to reduce inward shipping cost.
+
+The increase in pledged bank deposits was made to obtain bank guarantee for a service provider under
+the import-one-stop-shop scheme.
+
+As at 30 June 2022 and 2021, the Group had no bank borrowing (31 December 2021: Nil).
+
+Going forward, we believe that our liquidity requirements and our expected source of funding in the
+coming year will be satisfied by using a combination of cash generated from our operations and net
+proceeds from the Global Offering.
+
+TREASURY AND FOREIGN EXCHANGE POLICIES
+The Group’s treasury management policy is to avoid any investment in highly leveraged or speculative
+derivative products. The Group continued to be conservative in managing financial risk during the
+Reporting Period. Consistent with the aforesaid treasury objectives and policy, the Group undertakes
+treasury management activities with respect to its surplus cash assets. The criteria for selection of
+investments include the relative risk profile involved, the liquidity of an investment, the after tax
+equivalent yield of an investment and, investments that are not speculative in nature.
+
+Most business transactions, assets and liabilities of the Group were denominated either in the US
+Dollar, Hong Kong Dollar, Korean Won, British Pound Sterling, Japanese Yen, Euro or Renminbi. The
+E-commerce customers of the Group generally settle their invoices using their designated currencies
+upon checkout via secure payment gateways, and the fund is generally transferred to the Group’s
+account in Hong Kong Dollar and the U.S. Dollar upon conversion. As Hong Kong Dollar is pegged to
+US Dollar, our Group does not expect any significant movements in the exchange rate between US
+Dollars and Hong Kong Dollars. Besides, our Group has certain exposure to foreign currency risk as
+some of our business transactions, assets and liabilities are denominated in currencies other than the
+functional currency of our Group such as Korean Won, Japanese Yen, British Pound Sterling, Renminbi
+and Euro.
+
+
+
+                                                                 YesAsia Holdings Limited Interim Report 2022   13
+   MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+   Currently, we do not have a formal foreign currency hedging policy. However, our management
+   monitors foreign exchange exposure constantly and will consider to engage in derivatives markets or
+   foreign exchange hedging measures to minimize the foreign exchange risk when it is foreseen to be
+   significant.
+
+   GEARING RATIO
+   Our gearing ratio, calculated by the total interest-bearing liabilities (including lease liabilities) divided
+   by total equity, increased from approximately 35.2% as at 31 December 2021 to approximately 71.4%
+   as at 30 June 2022, primarily due to lease liabilities recognised for the new warehouse leased during
+   the Reporting Period.
+
+   As of 30 June 2022, the Group has no outstanding bank borrowings (31 December 2021: Nil).
+
+   CONTINGENT LIABILITIES
+   Saved from the contingent liabilities disclosed in Note 21 to the Interim Condensed Consolidated
+   Financial Information in this report, the Group does not have other material contingent liabilities at 30
+   June 2022 (At 31 December 2021: Nil).
+
+   CAPITAL COMMITMENTS
+   Save for the approximately US$332,000, US$1,554,000 and US$244,000 capital commitments provided
+   for the renovation and acquisitions of robots for the Smart Robotics Warehouse as well as other
+   renovation and equipment purchases respectively disclosed in Note 22 to the Interim Condensed
+   Consolidated Financial Information, the Group did not have any significant capital commitments as at
+   30 June 2022.
+
+   SIGNIFICANT INVESTMENTS HELD
+   During the Reporting Period, we did not hold any significant investments, save for 1,100,000 shares in
+   CN Logistics (being listed equity securities, 2130.HK), representing approximately 0.40% of the issued
+   share capital of the CN Logisitcs as at 30 June 2022, with fair value amounted to approximately US$1.3
+   million as at 30 June 2022 (31 December 2021: US$1.4 million). The investment represents
+   approximately 1.76% of the total asset of the Company as at 30 June 2022 (31 December 2021: 2.05%).
+   The aforementioned 1,100,000 shares in CN Logistics were subscribed by the Company at a total cash
+   consideration of HK$10,120,000. The principal activity of CN Logistics is investment holding, and
+   through its subsidiaries, principally engages in the provision of air freight forwarding services and
+   distribution and logistics services in relation to fashion products and fine wine, primarily focusing on
+   high-end fashion (including luxury and affordable luxury) products.
+
+   As at 30 June 2022, the unrealised fair value loss of such investment was approximately US$0.1 million
+   due to the decrease in share price in CN Logistics. We have received dividend of approximately
+   US$30,000 from the investment during the Reporting Period. In view of the expected positive impact to
+   the business of both CN Logistics and the Group through the strategic logistics partnership, the
+   investment in CN Logistics is expected to be strategic and enable the Group to foster a closer business
+   partnership with CN Logistics for a longer term and result in potential investment returns to the
+   Shareholders.
+
+
+
+
+14 YesAsia Holdings Limited Interim Report 2022
+                                              MANAGEMENT DISCUSSION AND ANALYSIS
+
+
+
+
+INTERIM DIVIDEND
+The Board does not recommend the payment of an interim dividend for the six months ended 30 June
+2022 (six months ended 30 June 2021: HK$5.0 cents per Share).
+
+FUTURE PLANS FOR MATERIAL INVESTMENTS AND CAPITAL ASSETS
+Except as disclosed herein, as of the date of this report, the Group did not have any future plans for
+material investments or capital assets in the coming year.
+
+MATERIAL ACQUISITIONS, DISPOSALS AND FUTURE PLANS FOR
+SUBSIDIARIES
+During the Reporting Period and as of the date of this interim report, we did not have any material
+acquisition or disposal of subsidiaries, associates and joint ventures nor any future plans in relation to
+such actions.
+
+CHARGE ON ASSETS
+As at 30 June 2022, the banking facilities of the Group mainly comprised corporate credit cards and
+letters of guarantee issued to the Group and Group’s suppliers, respectively for products purchased by
+the Group. The banking facilities were secured by the pledged deposit of the Group of approximately
+US$3.6 million as of 30 June 2022 (31 December 2021: US$ 2.0 million).
+
+EMPLOYEES AND REMUNERATION POLICY
+As of 30 June 2022, we had 522 employees (six months ended 30 June 2021: 637 employees), all of
+whom were based in Hong Kong, Japan and South Korea. For the six months ended 30 June 2022, total
+staff costs amounted to approximately US$11.5 million (six months ended 30 June 2021: approximately
+US$12.1 million).
+
+Our success depends on our ability to attract, retain and motivate qualified personnel. As part of our
+human resources strategy, we offer employees competitive remuneration packages, which generally
+include basic wages, variable wages, bonuses and other benefits granted in accordance with the
+business performance. In order to promote overall efficiency, employee loyalty and employee retention,
+we provide our employees with technical and operational on-the-job training as well as people
+development programs. Share options are also available to employees of the Group under the Post-IPO
+Share Option Scheme at the sole discretion of the Board or its delegate(s).
+
+
+
+
+                                                                   YesAsia Holdings Limited Interim Report 2022   15
+      OTHER INFORMATION
+
+
+
+
+DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES
+As of 30 June 2022, interests and short positions of the Directors and the chief executives of the
+Company in the Shares, underlying Shares and debentures of the Company and its associated
+corporations (within the meaning of Part XV of the SFO) which have been notified to the Company and
+the Stock Exchange pursuant to Divisions 7 and 8 of Part XV of the SFO (including interests and short
+positions which were taken or deemed to have taken under such provisions of the SFO), or which were
+recorded in the register required to be kept pursuant to section 352 of the SFO or as otherwise notified
+to the Company and the Stock Exchange pursuant to the Model Code were as follows:
+
+(i)      Interests in Shares
+
+                                                                                                      Approximate
+                                                                                                       percentage
+                                                                                                     of the issued
+                                                                                                   share capital of
+Name of Director             Capacity                 Nature of interest       Number of Shares      the Company
+                                                                                                               (%)
+
+Mr. Lau Kwok Chu (劉國柱)(1)    Beneficial interest      Long position                  123,047,980           31.08%
+                             Interest of Spouse       Long position                   29,835,550            7.53%
+
+Ms. Chu Lai King (朱麗琼)(1)    Beneficial interest      Long position                   29,835,550            7.53%
+                             Interest of Spouse       Long position                  123,047,980           31.08%
+
+Mr. Chu Kin Hang (朱健恒)(2)    Beneficial interest      Long position                    4,742,120            1.20%
+
+Mr. Lui Pak Shing Michael    Beneficial interest      Long position                   35,183,210            8.89%
+ (雷百成)
+
+
+Notes:
+
+(1)      As at 30 June 2022, Mr. Lau directly held 119,347,980 Shares, and held options under the Pre-IPO Share
+         Option Schemes which entitled him to subscribe for 3,700,000 Shares.
+
+         As at 30 June 2022, Ms. Chu directly held 29,235,550 Shares, and held options under the Pre-IPO Share
+         Option Schemes which entitled her to subscribe for 600,000 Shares.
+
+         As Mr. Lau is the spouse of Ms. Chu and vice versa, and they are each deemed under the SFO to be
+         interested in the Shares directly held by each other, they are therefore both interested in the combined
+         number of Shares (being 152,883,530 Shares as at 30 June 2022, representing approximately 38.61% of the
+         issued share capital of the Company as at 30 June 2022).
+
+(2)      Mr. Chu Kin Hang is the brother of Ms. Chu and brother-in-law of Mr. Lau.
+
+
+Mr. Lau holds one share, representing 10% of the issued share capital of YesAsia.com Limited as a
+trustee for the Company, which is the beneficial owner of the shares in YesAsia.com Limited held by
+Mr. Lau. YesAsia.com Limited was incorporated in Hong Kong on 7 December 1998 and was subject to
+the requirement for a minimum of two shareholders set out in the predecessor Companies Ordinance
+(Cap. 32 of the Laws of Hong Kong). Mr. Lau Kwok Chu holds the share in YesAsia.com Limited upon
+trust for the Company for nominee shareholding purpose.
+
+
+
+16 YesAsia Holdings Limited Interim Report 2022
+                                                                                     OTHER INFORMATION
+
+
+
+
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+As of 30 June 2022, to the best knowledge of the Directors, the following persons (other than a Director
+or chief executive of the Company) had interests or short positions in the Shares or underlying Shares
+which were required to be disclosed to the Company under the provisions of Divisions 2 and 3 of Part
+XV of the SFO, or recorded in the register required to be kept by the Company under section 336 of the
+SFO:
+
+                                                                                                            Approximate
+                                                                                                             percentage
+                                                                                                           of the issued
+                                                                                                         share capital of
+Name of Shareholder          Capacity                 Nature of interest       Number of Shares            the Company
+                                                                                                                     (%)
+
+PCCW e-Ventures Limited(1)   Beneficial interest      Long Position                    39,704,030                10.03%
+
+
+CyberWorks Ventures          Interest in controlled   Long Position                    39,704,030                10.03%
+ Limited(1)                    corporation
+
+PCCW Limited(1)(4)           Interest in controlled   Long Position                    39,704,030                10.03%
+                               corporation
+
+Pacven Walden                Interest in controlled   Long Position                    32,458,590                  8.20%
+  Management II, L.P. (2)      corporation
+
+Pacven Walden Ventures       Beneficial interest      Long Position                    32,458,590                  8.20%
+  IV, L.P. (2)
+
+Stonepath Group, Inc. (3)    Beneficial interest      Long Position                    26,000,000                  6.57%
+
+Notes:
+
+(1)      PCCW e-Ventures Limited is 50% held by CyberWorks Ventures Limited and 50% held by PCCW Nominees
+         Limited (acting as a bare trustee for and on behalf of CyberWorks Ventures Limited as the beneficiary).
+         CyberWorks Ventures Limited is a wholly-owned subsidiary of PCCW Limited (being a company listed on the
+         Stock Exchange with stock code 0008). Therefore, each of CyberWorks Ventures Limited and PCCW Limited
+         is deemed to be interested in the 39,704,030 Shares held by PCCW e-Ventures Limited under the SFO.
+
+(2)      Pacven Walden Ventures IV, L.P. is a Cayman registered limited partnership, which is controlled by its
+         general partner, Pacven Walden Management II, L.P. Therefore, Pacven Walden Management II, L.P. is
+         deemed to be interested in the 32,458,590 Shares held by Pacven Walden Ventures IV, L.P. under the SFO.
+
+(3)      As at 30 June 2022, Stonepath Group, Inc., a U.S. company incorporated in the State of Delaware, directly
+         held 26,000,000 Shares. As far as our Directors are aware, Stonepath Group, Inc. is held by various
+         shareholders, and none of which is deemed to be interested in the Shares held by Stonepath Group, Inc. by
+         virtue of the SFO.
+
+
+
+
+                                                                           YesAsia Holdings Limited Interim Report 2022   17
+   OTHER INFORMATION
+
+
+
+
+   (4)           As at 30 June 2022, the following Directors were directors/employees of a company who had an interest in
+                 the Shares which would fall to be disclosed to the Company under the provisions of Division 2 and 3 of Part
+                 XV of the SFO:
+
+                 (a)   Mr. HUI Yat Yan Henry served as senior vice president of the business development unit of PCCW
+                       and served as a director in a number of subsidiaries in the PCCW Group and HKT Limited.
+
+                 (b)   Mr. POON Chi Ho held a number of positions within the PCCW Group, including as director in a
+                       number of subsidiaries in both the PCCW Group and the HKT Group.
+
+   Save as disclosed above, as of 30 June 2022, the Company is not aware of any other person (other
+   than the Directors or chief executives of the Company) who had an interest or short position in the
+   Shares or underlying Shares of the Company as recorded in the register required to be kept by the
+   Company pursuant to section 336 of the SFO.
+
+   SHARE OPTION SCHEME
+   2005 Share Option Scheme
+   The Company adopted a share option scheme on 2 June 2005 (“2005 Share Option Scheme”) for the
+   purpose of providing incentives and rewards to eligible participants who contribute to the success of
+   the Group’s operation. The 2005 Share Option Scheme expired in 2015 and the Company can no longer
+   grant any further options under the 2005 Share Option Scheme.
+
+   However, the terms of the 2005 Share Option Scheme allow the options to have a maximum exercise
+   period of ten (10) years from the date of grant of the respective options and the all outstanding options
+   granted prior to the expiration of the scheme would remain effective, and the expiration of the 2005
+   Share Option Scheme would not result in the termination of any options already granted.
+
+   Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for
+   exercising each outstanding option granted under the 2005 Share Option Scheme.
+
+   Movements of the share options under the 2005 Share Option Scheme during the Reporting Period are
+   as follows:
+
+                       Outstanding     Granted    Exercised    Cancelled     Lapsed    Outstanding
+                              as at     during       during       during      during          as at
+   Name of               1 January          the          the         the         the       30 June                                                        Exercise
+   category/                  2022    Reporting   Reporting    Reporting   Reporting          2022    Date of        Vesting           Exercise               price
+   participant           (Audited)      Period       Period       Period      Period   (Unaudited)    grant          period            period            per option
+                                                                                                                                                               US$
+
+   Director
+   Lau Kwok Chu             10,000            –           –            –           –        10,000    25 July 2013   25 July 2013 to   25 July 2014 to     US$0.5
+                                                                                                                       25 July 2017      25 July 2023
+
+
+   The default vesting schedule of the 2005 Share Option Scheme is as follows: (i) 25% of all the options
+   granted will become vested on the first anniversary of the vesting start date as specified in the option
+   agreement (the “Vesting Start Date”) and (ii) 6.25% of the options granted will become vested as at the
+   end of each three month period after the Vesting Start Date.
+
+   2016 Share Option Scheme
+   The Company adopted a share option scheme on 30 June 2016 (“2016 Share Option Scheme”) for the
+   purpose of enabling the Company to attract and retain qualified employees of providing them with an
+   opportunity for investment in the Company. As the Company became listed on the Stock Exchange on 9
+   July 2021, no further options can be granted under the 2016 Share Option Scheme.
+
+
+
+
+18 YesAsia Holdings Limited Interim Report 2022
+                                                                                                                       OTHER INFORMATION
+
+
+
+
+Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares for
+exercising each outstanding option granted under the 2016 Share Option Scheme.
+
+Movements of the share options under the 2016 Share Option Scheme during the Reporting Period are
+as follows:
+
+                   Outstanding     Granted    Exercised       Cancelled      Lapsed    Outstanding
+                          as at     during       during          during       during          as at
+Name of              1 January          the          the            the          the       30 June                                                               Exercise
+category/                 2022    Reporting   Reporting       Reporting    Reporting          2022    Date of         Vesting              Exercise                  price
+participant          (Audited)      Period       Period          Period       Period   (Unaudited)    grant           period               period               per option
+                                                                                                                                                                      US$
+
+Directors
+Lau Kwok Chu           180,000            –            –              –            –       180,000    28 July 2016    28 July 2016 to      28 July 2017 to        US$0.8
+                                                                                                                        28 July 2020         28 July 2026
+
+                       180,000            –            –              –            –       180,000    15 August 2019 15 August 2019 to     15 August 2020 to     US$1.55
+                                                                                                                       15 August 2023        15 August 2029
+
+Chu Lai King            60,000            –            –              –            –        60,000    28 July 2016    28 July 2016 to      28 July 2017 to        US$0.8
+                                                                                                                        28 July 2020         28 July 2026
+
+Subtotal               420,000            –            –              –            –       420,000
+
+Associate of
+ Director
+Chu Pui King             3,000            –            –              –            –         3,000    23 April 2020   23 April 2020 to     23 April 2021 to      US$2.01
+ (Sister of                                                                                                             23 April 2024        23 April 2030
+ Chu Lai King)
+
+
+Subtotal                 3,000            –            –              –            –         3,000
+
+Other Employees*
+2 grantees               2,451            –            –              –            –         2,451    28 July 2016    28 July 2016 to      28 July 2017 to       US$0.80
+                                                                                                                        28 July 2020         28 July 2026
+
+1 grantee                  625            –            –              –            –           625    27 April 2017   27 April 2017 to     27 April 2018 to      US$0.80
+                                                                                                                        27 April 2021        27 April 2027
+
+1 grantee                1,250            –            –              –            –         1,250    10 August 2017 10 August 2017 to     10 August 2018 to     US$0.80
+                                                                                                                       10 August 2021        10 August 2027
+
+15 grantees             50,988            –            –              –            –        50,988    27 April 2018   27 April 2018 to     27 April 2019 to      US$1.20
+                                                                                                                        27 April 2022        27 April 2028
+
+7 grantees              69,375            –      (2,500)(1)           –            –        66,875    26 July 2018    26 July 2018 to      26 July 2019 to       US$1.20
+                                                                                                                        26 July 2022         26 July 2028
+
+8 grantees              88,175            –      (3,100)(1)      (1,900)           –        83,175    24 January 2019 24 January 2019 to   24 January 2020 to    US$1.20
+                                                                                                                        24 January 2023      24 January 2029
+
+27 grantees             74,567            –            –              –            –        74,567    25 April 2019   25 April 2019 to     25 April 2020 to      US$1.55
+                                                                                                                        25 April 2023        25 April 2029
+
+5 grantees              39,250            –            –         (6,250)           –        33,000    15 August 2019 15 August 2019 to     15 August 2020 to     US$1.55
+                                                                                                                       15 August 2023        15 August 2029
+
+12 grantees            178,200            –            –         (7,500)           –       170,700    6 February 2020 6 February 2020 to   6 February 2021 to    US$1.55
+                                                                                                                        6 February 2024      6 February 2030
+
+
+
+
+                                                                                                       YesAsia Holdings Limited Interim Report 2022                     19
+   OTHER INFORMATION
+
+
+
+
+                       Outstanding     Granted    Exercised    Cancelled      Lapsed    Outstanding
+                              as at     during       during       during       during          as at
+   Name of               1 January          the          the         the          the       30 June                                                                  Exercise
+   category/                  2022    Reporting   Reporting    Reporting    Reporting          2022    Date of          Vesting               Exercise                   price
+   participant           (Audited)      Period       Period       Period       Period   (Unaudited)    grant            period                period                per option
+                                                                                                                                                                          US$
+
+   47 grantees             262,000            –           –       (2,000)           –       260,000    23 April 2020    23 April 2020 to      23 April 2021 to       US$2.01
+                                                                                                                          23 April 2024         23 April 2030
+
+   3 grantees               50,000            –           –            –            –        50,000    30 July 2020     30 July 2020 to       30 July 2021 to        US$2.01
+                                                                                                                          30 July 2024          30 July 2030
+
+   15 grantees             240,000            –           –            –            –       240,000    29 October 2020 29 October 2020 to     29 October 2021 to     US$2.01
+                                                                                                                         29 October 2024        29 October 2030
+
+   12 grantees             140,000            –           –            –            –       140,000    28 January 2021 28 January 2021 to     28 January 2022 to     US$2.01
+                                                                                                                         28 January 2025        28 January 2031
+
+   Nil grantee             100,000            –           –     (100,000)           –             –    25 February 2021 25 February 2021 to   25 February 2022 to    US$2.01
+                                                                                                                          25 February 2025      25 February 2031
+
+   77 grantees             593,000            –           –      (81,000)           –       512,000    29 April 2021    29 April 2021 to      29 April 2022 to       US$2.01
+                                                                                                                          29 April 2025         29 April 2031
+
+   Subtotal              1,889,881            –      (5,600)    (198,650)           –     1,685,631
+
+   Total                 2,312,881            –      (5,600)    (198,650)           –     2,108,631
+
+
+   *       Represents number of grantees as at 30 June 2022.
+
+   The default vesting schedule of the 2016 Share Option Scheme is as follows: (i) 25% of all the options
+   granted will become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of the
+   options granted will become vested as at the end of each three month period after the Vesting Start
+   Date.
+
+   The total proceed of US$ 6,720 received from exercised share options under 2016 Share Option
+   Scheme during the Reporting Period was used for general working capital of the Company.
+
+   Note:
+
+   (1)           During the six months ended 30 June 2022, the number of exercised options under the 2016 Share Option
+                 Scheme was 5,600. The weighted average closing prices of Shares immediately before 8 February 2022 (the
+                 exercise date of 2,500 Share options), 22 March 2022 (the exercise date of 2,500 Share options), 3 May 2022
+                 (the exercise date of 100 Share options) and 17 May 2022 (the exercise date of 500 Share options) were
+                 HK$1.41, HK$1.16, HK$1.13 and HK$1.12 respectively.
+
+
+
+
+20 YesAsia Holdings Limited Interim Report 2022
+                                                                              OTHER INFORMATION
+
+
+
+
+Post-IPO Share Option Scheme
+A post-IPO share option scheme was adopted by the Company on 13 March 2021, which was
+conditional upon the listing of the Shares on the Stock Exchange and came into effect on 9 July 2021
+(the “Post-IPO Share Option Scheme”). The purpose of the Post-IPO Share Option Scheme is to
+advance the interests of the Company and its shareholders by enabling the Company to attract and
+retain qualified employees or directors of the Company and/or its subsidiaries through providing them
+with an opportunity for investment in the shares of the Company. Participants to the Post-IPO Share
+Option Scheme include any individual, being an employee or director of the Company and/or the
+Company’s subsidiaries who the Board or its delegate(s) considers, in their sole discretion, to have
+contributed or will contribute to the business performance of the Group. However, no individual who is a
+resident in a place where the grant, acceptance or exercise of options pursuant to the Post-IPO Share
+Option Scheme is not permitted under the laws and regulations of such place or where, in the view of
+the Board or its delegate(s), compliance with applicable laws and regulations in such place makes it
+necessary or expedient to exclude such individual from the grant or offer of such options.
+
+The total number of Shares which may be issued upon exercise of all options to be granted under the
+Post-IPO Share Option Scheme is 39,539,079, being the maximum 10% of the Shares in issue on the
+date the Shares commence trading on the Stock Exchange (the “Option Scheme Mandate Limit”)
+(excluding any Shares which may be issued pursuant to the exercise of the outstanding options granted
+under the Pre-IPO Share Option Schemes). Options which have lapsed in accordance with the terms of
+the rules of the Post-IPO Share Option Scheme (or any other share option schemes of the Company)
+shall not be counted for the purpose of calculating the Option Scheme Mandate Limit.
+
+The overall limit on the number of Shares which may be issued upon exercise of all outstanding options
+granted and yet to be exercised under the Post-IPO Share Option Scheme and any other share option
+schemes of the Company at any time must not exceed 30% of the Shares in issue from time to time (the
+“Option Scheme Limit”). No option may be granted under any schemes of the Company (or its
+subsidiaries) if this will result in the Option Scheme Limit being exceeded.
+
+The Option Scheme Mandate Limit may be refreshed at any time by obtaining prior approval of the
+Shareholders in general meeting and/or such other requirements prescribed under the Listing Rules
+from time to time. However, the refreshed Option Scheme Mandate Limit cannot exceed 10% of the
+Shares in issue as at the date of such approval. Options previously granted under the Post-IPO Share
+Option Scheme and any other share option schemes of the Company (and to which provisions of
+Chapter 17 of the Listing Rules are applicable) (including those outstanding, canceled or lapsed in
+accordance with its terms or exercised), shall not be counted for the purpose of calculating the
+refreshed Option Scheme Mandate Limit.
+
+Unless approved by the Shareholders, the total number of Shares issued and to be issued upon
+exercise of the options granted and to be granted under the Post-IPO Share Option Scheme and any
+other share option scheme(s) of the Company to each selected participant (including both exercised
+and outstanding options) in any 12-month period shall not exceed 1% of the total number of Shares in
+issue (the “Individual Limit”). Any further grant of options to a selected participant which would result in
+the aggregate number of Shares issued and to be issued upon exercise of all options granted and to be
+granted to such selected participant (including exercised, canceled and outstanding options) in the 12
+month period up to and including the date of such further grant exceeding the Individual Limit shall be
+subject to separate approval of the Shareholders (with such selected participant and his associates
+abstaining from voting). There was no option granted under such circumstances during the Reporting
+Period.
+
+
+
+
+                                                                    YesAsia Holdings Limited Interim Report 2022   21
+   OTHER INFORMATION
+
+
+
+
+   The amount payable for each Share to be subscribed for under an option (“Subscription Price”) in the
+   event of the option being exercised shall be determined by the Board but shall be not less than the
+   greater of:
+
+   (i)     the closing price of a Share as stated in the daily quotations sheet issued by the Stock Exchange
+           on the date of grant;
+
+   (ii)    the average closing price of the Shares as stated in the daily quotations sheets issued by the
+           Stock Exchange for the five business days immediately preceding the date of grant; and
+
+   (iii)   the nominal value of a Share on the date of grant.
+
+   An option is personal to the grantee and shall not be transferable or assignable and no grantee shall in
+   any way sell, transfer, charge, mortgage, encumber or otherwise dispose of or create any interest in
+   favor of or enter into any agreement with any other person over or in relation to any option.
+
+   Each grant of options to any director, chief executive or substantial shareholder of the Company (or any
+   of their respective associates) must first be approved by the independent non-executive Directors
+   (excluding any independent non-executive Director who is a proposed recipient of the grant of options).
+
+   In addition, where any grant of options to a substantial shareholder or an independent non-executive
+   Director of the Company (or any of their respective associates) would result in the number of Shares
+   issued and to be issued upon exercise of all options already granted and to be granted (including
+   options exercised, canceled and outstanding) to such person in the 12-month period up to and
+   including the date of such grant:
+
+   (i)     representing in aggregate over 0.1% (or such other higher percentage as may from time to time
+           be specified by the Stock Exchange) of the Shares in issue; and
+
+   (ii)    having an aggregate value, based on the closing price of the Shares as stated in the daily
+           quotations sheets issued by the Stock Exchange on the date of grant, in excess of HK$5 million
+           (or such other higher amount as may from time to time be specified by the Stock Exchange),
+
+   such further grant of options must also be first approved by the Shareholders (voting by way of poll) in
+   a general meeting. In obtaining the approval, the Company shall send a circular to the Shareholders in
+   accordance with and containing such information as is required under the Listing Rules. All core
+   connected persons of the Company shall abstain from voting at such general meeting, except that any
+   core connected person may vote against the relevant resolution at the general meeting provided that
+   his intention to do so has been stated in the circular to be sent to the Shareholders in connection
+   therewith. There was no option granted under such circumstances during the Reporting Period.
+
+
+
+
+22 YesAsia Holdings Limited Interim Report 2022
+                                                                                                                       OTHER INFORMATION
+
+
+
+
+During the Reporting Period, 237,500 options carrying rights to subscribe for a maximum of an
+aggregate of 2,375,000 Shares have been granted by the Company under the Post-IPO Share Option
+Scheme. Movements of the share options under the Post-IPO Share Option Scheme during the
+Reporting Period are as follows:
+
+                   Outstanding                                                          Outstanding
+                          as at     Granted      Exercised    Cancelled       Lapsed           as at
+Name of              1 January    during the     during the   during the   during the       30 June                                                             Exercise
+category/                 2022    Reporting      Reporting    Reporting     Reporting          2022    Date of         Vesting             Exercise                 price
+participant          (Audited)        Period         Period       Period       Period   (Unaudited)    grant           period              period              per option
+                                                                                                                                                                     HK$
+
+Employees*
+4 grantees              55,000             –             –      (15,000)            –        40,000    30 August       30 August 2021 to   30 August 2022 to   HK$24.48
+                                                                                                         2021            29 August 2025      29 August 2031
+3 grantees              15,000             –             –            –             –        15,000    29 October      29 October 2021 to 29 October 2022 to HK$14.28
+                                                                                                         2021            28 October 2025    28 October 2031
+67 grantees                  –      237,500(1)           –       (1,000)            –       236,500    21 April 2022   21 April 2022 to    21 April 2023 to     HK$11.6
+                                                                                                                         20 April 2026       20 April 2032
+
+Total                   70,000      237,500              –      (16,000)            –       291,500
+
+
+*       Represents number of grantees as at 30 June 2022.
+
+The default vesting schedule of the Post-IPO Share Option Schemes is as follows: (i) 25% of all the
+options granted will become vested on the first anniversary of the Vesting Start Date and (ii) 6.25% of
+the options granted will become vested as at the end of each three month period after the Vesting Start
+Date. The Post-IPO Share Option Scheme does not demand payment on application or acceptance of
+the option.
+
+Notes:
+
+(1)           During the six months ended 30 June 2022, 237,500 options were granted under Post-IPO Share Option
+              Scheme at nil consideration on 21 April 2022 and the total estimated fair value of these options on the date
+              of grant was US$127,000. Please refer the Note 19 to the Interim Condensed Consolidated Financial
+              Statement for the accounting policy adopted for share options. The Share closing price immediately before
+              the date of grant of the aforementioned 237,500 options was HK$1.16.
+
+MATERIAL LITIGATION
+During the Reporting Period, the Group was not involved in any material litigation or arbitration, nor
+were the Directors aware of any material litigation or claims that were pending or threatened against the
+Group.
+
+AUDIT COMMITTEE
+The Board has established the Audit Committee, comprising one non-executive Director, namely Mr. Hui
+Yat Yan Henry and three independent non-executive Directors, namely, Mr. Wong Chee Chung
+(Chairman), Mr. Sin Pak Cheong Philip Charles and Mr. Chan Yu Cheong. The primary duties of the
+Audit Committee are to review and supervise our financial reporting process and the internal control
+system of the Group, manage risk, perform internal audit, provide advice and comments to the Board
+and perform other duties and responsibilities as may be assigned by the Board.
+
+The unaudited interim results for the six-months period ended 30 June 2022 have not been audited by
+the auditors of the Company but have been reviewed by the Audit Committee.
+
+
+
+
+                                                                                                        YesAsia Holdings Limited Interim Report 2022                   23
+   OTHER INFORMATION
+
+
+
+
+   PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES OF THE COMPANY
+   During the Reporting Period, neither the Company nor any of its subsidiaries has purchased, sold or
+   redeemed any of the Company’s listed securities.
+
+   CORPORATE GOVERNANCE
+   Our Company has complied with code provision stated in the Corporate Governance Code in Appendix
+   14 to the Listing Rules (the “Corporate Governance Code”) during the Reporting Period. As of the 30
+   June 2022 and to the best of the knowledge, information and belief of our Directors, having made all
+   reasonable enquiries, our Directors are not aware of any deviation from the code provisions of the
+   Corporate Governance Code during the Reporting Period.
+
+   Our Directors will review our corporate governance policies and compliance with the Corporate
+   Governance Code each financial year and comply with the “comply or explain” principle in our
+   corporate governance report, which will be included in our annual reports.
+
+   MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+   The Company has adopted the Model Code for Securities Transactions by Directors of Listed Issuers as
+   contained in Appendix 10 to the Listing Rules as its own code of conduct regarding Directors’ securities
+   transactions.
+
+   Specific enquiries have been made with all Directors and all of them confirmed their compliance with
+   the required standard set out in the Model Code and the Company’s code of conduct regarding
+   Directors’ securities transactions during the Reporting Period.
+
+   TRANSACTIONS IN SANCTIONED COUNTRIES OR WITH SANCTIONED PERSONS
+   During the Reporting Period, proper internal control and risk management measures relating to sanction
+   laws, as disclosed in the Prospectus, had been implemented and the Group did not have any
+   transactions in Sanctioned Countries or with Sanctioned Persons. As of 30 June 2022, the Group did not
+   anticipate any plans for any new activities in Sanctioned Countries or with Sanctioned Persons.
+
+   During the Reporting Period, the Group derived revenue from the Balkans region (including Albania,
+   Bosnia and Herzegovina, Bulgaria, Croatia, Greece, North Macedonia, Romania, Serbia and Slovenia),
+   which is not subject to comprehensive sanctions that are territorial in nature, which was amounted to
+   approximately US$280,000 (six months ended 30 June 2021: US$568,000).
+
+   SUBSEQUENT EVENTS AFTER THE REPORTING PERIOD
+   Save as disclosed in Note 23 of the Interim Condensed Consolidated Financial Information, there is no
+   significant event that requires additional disclosures or might affect the Group after the Reporting
+   Period.
+
+
+
+
+24 YesAsia Holdings Limited Interim Report 2022
+                                                                                                 OTHER INFORMATION
+
+
+
+
+USE OF PROCEEDS FROM LISTING
+The shares of the Company were listed on the Stock Exchange on 9 July 2021. The net proceeds from
+the Global Offering and the partial exercise of the Over-allotment Option, after deducting underwriting
+commissions and relevant expenses payable by the Company amounted to approximately HK$92.3
+million. During the six months ended 30 June 2022, the Company utilized the proceeds in accordance
+with the intended purpose and followed the expected implementation timetable as disclosed under
+section headed “Future Plans and Use of Proceeds” of the Prospectus. The balance of the net proceeds
+from the Global Offering will continue to be utilized according to the manner and proportions as
+disclosed in the Prospectus. A summary of the use of proceeds is set out below:
+
+                                                              Net proceeds from the Company’s listing (in HK$ millions)
+                                                                                 Net proceeds
+                                                               Net proceeds            utilised    Net proceeds Expected timeline for
+                                                             unutilised as at       during the unutilised as at full utilisation of the
+Use of proceeds                                Planned use   1 January 2022 Reporting Period       30 June 2022 unutilised proceeds
+
+1. Increase our marketing efforts for                 49.9             36.3              13.8              22.5   By the end of 2023(1)
+    customer acquisition and retention
+2. Enhance our platform content and                   18.5             15.6               2.9              12.7   By the end of first
+    IT capabilities and create satisfactory                                                                         quarter of 2023
+    user experience to promote benefits
+    and uniqueness of Korean beauty
+    and fashion products
+3. Expand our logistics fulfillment capacity          14.9             14.8               1.8              13.0   By the end of first
+    and enhance our warehouse efficiency                                                                            quarter of 2023
+4. General working capital                             9.0                –                 –                 –
+
+Total                                                 92.3             66.7              18.5              48.2
+
+Note:
+
+1.       Marketing expenses during the Reporting Period decreased as compared to the Prior Period as a result of
+         the enhanced cost control measures implemented by the Group. The Group expects that the utilisation plan
+         of 1 above will be behind the original schedule, with the expected timeline for full utilisation adjusted from the
+         end of first quarter of 2023 to end of 2023.
+
+Unutilised net proceeds were applied to short-term demand deposits with authorized financial institution
+and/or licensed bank.
+
+DIRECTORS’ INFORMATION
+Save for the appointment of Mr. Chu Kin Hang as a new Director and retirement of Ms. Wong Shuet Ha
+as a Director on 23 June 2022, the Company has not been advised by its Directors of any change in the
+information required to be disclosed pursuant to paragraphs (a) to (e) and (g) of Rule 13.51(2) of the
+Listing Rules since its last update to Shareholders.
+
+APPRECIATION
+On behalf of the Board, I would like to take this opportunity to express gratitude to our employees for
+their contribution and dedication to the Group, and our Shareholders, customers and business partners
+for their continuous support.
+
+                                                                                                      On behalf of the Board
+                                                                                                          Chu Lai King
+                                                                                                          Chairperson
+
+Hong Kong, 26 August 2022
+
+
+                                                                                      YesAsia Holdings Limited Interim Report 2022        25
+   INTERIM CONDENSED CONSOLIDATED STATEMENT OF
+   PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+   For the six months ended 30 June 2022
+
+
+
+                                                                       Six months ended 30 June
+                                                                             2022           2021
+                                                               Notes   (Unaudited)    (Unaudited)
+                                                                          US$’000        US$’000
+
+
+   REVENUE                                                      4           62,905         88,368
+   Cost of sales                                                           (41,127)       (57,568)
+
+
+   Gross profit                                                             21,778        30,800
+
+   Other income and other gains and losses                      5              582            353
+   Selling expenses                                                         (9,074)       (13,315)
+   Administrative expenses                                                 (15,147)       (16,644)
+   Reversal of impairment losses for trade receivables                           3              6
+   Fair value loss on financial assets at fair value through
+     profit or loss (“FVTPL”)                                                 (144)            (2)
+
+
+   (LOSS)/PROFIT FROM OPERATIONS                                            (2,002)        1,198
+
+   Finance costs                                                              (225)          (205)
+
+
+   (Loss)/profit before tax                                                 (2,227)          993
+
+   Income tax expense                                           7              (37)          (478)
+
+
+   (LOSS)/PROFIT FOR THE PERIOD ATTRIBUTABLE TO
+     THE OWNERS OF THE COMPANY                                  8           (2,264)          515
+
+
+   OTHER COMPREHENSIVE INCOME:
+   Item that may be reclassified to profit or loss:
+   Exchange differences on translating foreign operations                     (103)           (50)
+
+
+   OTHER COMPREHENSIVE INCOME FOR THE PERIOD,
+    NET OF TAX                                                                (103)           (50)
+
+
+   TOTAL COMPREHENSIVE (LOSS)/INCOME FOR THE YEAR
+    ATTRIBUTABLE TO THE OWNERS OF THE COMPANY                               (2,367)          465
+
+
+   (LOSS)/EARNING PER SHARE                                     9
+   Basic (US cents per share)                                                (0.57)          0.31
+
+
+   Diluted (US cents per share)                                              (0.57)          0.14
+
+
+
+
+26 YesAsia Holdings Limited Interim Report 2022
+                                INTERIM CONDENSED CONSOLIDATED STATEMENT OF
+                                                          FINANCIAL POSITION
+                                                                               As at 30 June 2022
+
+
+
+                                                                       As at                  As at
+                                                                    30 June           31 December
+                                                                       2022                   2021
+                                                 Notes           (Unaudited)              (Audited)
+                                                                     US$000                US$000
+
+NON-CURRENT ASSETS
+Property, plant and equipment                     11                     2,050                  2,732
+Right-of-use assets                               12                    21,471                 11,945
+Financial assets at FVTPL                                                2,112                  2,242
+Prepayments, deposit and other receivables        14                     1,635                    763
+
+Total non-current assets                                                27,268                 17,682
+
+CURRENT ASSETS
+Inventories                                                              8,636                  7,593
+Trade receivables                                 13                     1,385                  1,821
+Prepayments, deposits and other receivables       14                     6,587                  3,919
+Current tax assets                                                         529                    404
+Pledged bank deposits                                                    3,155                  2,003
+Bank and cash balances                                                  26,501                 36,465
+
+Total current assets                                                    46,793                 52,205
+
+CURRENT LIABILITIES
+Trade and other payables and accruals             15                    10,360                  9,668
+Contract liabilities                              16                     6,981                  9,303
+Provisions                                                                 935                    875
+Lease liabilities                                 17                     5,780                  3,626
+Current tax liabilities                                                    600                    608
+
+Total current liabilities                                               24,656                 24,080
+
+NET CURRENT ASSETS                                                      22,137                 28,125
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                                   49,405                 45,807
+
+NON-CURRENT LIABILITIES
+Provisions                                                                 530                    388
+Lease liabilities                                 17                    16,988                  9,132
+
+Total non-current liabilities                                           17,518                  9,520
+
+NET ASSETS                                                              31,887                 36,287
+
+CAPITAL AND RESERVES
+Share capital                                     18                    20,494                 20,482
+Reserves                                                                11,393                 15,805
+
+TOTAL EQUITY                                                            31,887                 36,287
+
+
+
+
+                                                         YesAsia Holdings Limited Interim Report 2022   27
+   INTERIM CONDENSED CONSOLIDATED STATEMENT OF
+   CHANGES IN EQUITY
+   For the six months ended 30 June 2022
+
+
+
+                                                      Share-                             Foreign
+                                                       based                            currency
+                                          Share    payments      Capital    Merger    translation    Accumulated
+                                         capital     reserve    reserve    reserve       reserve          losses      Total
+                                        US$’000     US$’000     US$’000    US$’000       US$’000         US$’000    US$’000
+
+
+   At 1 January 2022 (Audited)           20,482        2,351     14,342      2,271            (30)        (3,129)    36,287
+
+
+   Total comprehensive loss
+      for the period                          –            –          –          –           (103)        (2,264)    (2,367)
+   Issue of shares under share option
+      scheme                                 12           (5)         –          –              –              –          7
+   Recognition of share-based
+      payments                                –         515           –          –              –              –        515
+   Dividend paid                              –           –           –          –              –         (2,555)    (2,555)
+
+
+   Changes in equity for the period          12         510           –          –           (103)        (4,819)    (4,400)
+
+
+   At 30 June 2022 (Unaudited)           20,494        2,861     14,342      2,271           (133)        (7,948)    31,887
+
+
+                                                      Share-                              Foreign
+                                                      based                              currency
+                                          Share    payments      Capital    Merger     translation      Retained
+                                         capital     reserve     reserve    reserve       reserve         profits     Total
+                                        US$’000     US$’000     US$’000    US$’000       US$’000        US$’000     US$’000
+
+
+   At 1 January 2021 (Audited)            2,310        1,898     14,342      2,271            142          1,491     22,454
+
+
+   Total comprehensive income
+      for the period                          –            –          –          –            (50)           515       465
+   Issue of shares under share option
+      scheme                              2,271         (852)         –          –              –              –      1,419
+   Recognition of share-based
+      payments                                –         588           –          –              –              –       588
+
+
+   Changes in equity for the period       2,271         (264)         –          –            (50)           515      2,472
+
+
+   At 30 June 2021 (Unaudited)            4,581        1,634     14,342      2,271             92          2,006     24,926
+
+
+
+
+28 YesAsia Holdings Limited Interim Report 2022
+          INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+                                                                 For the six months ended 30 June 2022
+
+
+
+
+                                                                         Six months ended 30 June
+                                                                                2022                   2021
+                                                                          (Unaudited)            (Unaudited)
+                                                                             US$’000                US$’000
+
+
+NET CASH USED IN OPERATING ACTIVITIES                                            (6,521)                (3,988)
+
+
+Decrease in non-pledged bank deposits                                             2,190                      8
+Interest received                                                                    59                      5
+Purchases of property, plant and equipment                                          (76)                (1,104)
+Proceed from disposals of right-of-use assets                                         –                     18
+Dividend received from listed securities                                             30                      –
+
+
+NET CASH GENERATED FROM/(USED IN)
+ INVESTING ACTIVITIES                                                             2,203                 (1,073)
+
+
+Repayment of bank borrowings                                                          –                   (493)
+Principal elements of lease payments                                             (2,202)                (1,930)
+Proceeds from issuance of shares                                                      7                  1,419
+(Increase)/decrease in pledged bank deposits                                     (1,152)                   442
+
+
+NET CASH USED IN FINANCING ACTIVITIES                                            (3,347)                  (562)
+
+
+NET DECREASE IN CASH AND
+  CASH EQUIVALENTS                                                               (7,665)                (5,623)
+Effect of foreign exchange rate changes                                             (85)                   (68)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING
+ OF THE PERIOD                                                                   29,063                 28,264
+
+
+CASH AND CASH EQUIVALENT AT END OF PERIOD                                        21,313                 22,573
+
+
+ANALYSIS OF CASH AND CASH EQUIVALENTS
+Bank and cash balances                                                           26,501                 22,785
+
+Less: Bank deposits with original maturity beyond three months                   (5,169)                  (195)
+      Restricted bank balances                                                      (19)                   (17)
+
+
+                                                                                 21,313                 22,573
+
+
+
+
+                                                                  YesAsia Holdings Limited Interim Report 2022   29
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   1      CORPORATE AND GROUP INFORMATION
+          The Company was incorporated in Hong Kong with limited liability. The registered office and
+          principal place of business in Hong Kong is 5/F, KC100, 100 Kwai Cheong Road, Kwai Chung,
+          New Territories, Hong Kong.
+
+          The Group principally engaged in trading of fashion wear, cosmetics and accessories and
+          entertainment products through the Group’s own e-commerce platforms (including websites and
+          mobile app).
+
+          The Company has no ultimate holding company, and ultimate controlling shareholders of the
+          Company are Mr. Lau Kwok Chu and Ms. Chu Lai King respectively.
+
+          The Company was successfully listed on the Main Board of the Stock Exchange on the Listing
+          Date.
+
+          This condensed consolidated interim financial information is presented in United State dollars
+          (“US$”), unless otherwise stated.
+
+          The financial information relating to the year ended 31 December 2021 that is included in the
+          condensed consolidated interim financial information for the six months ended 30 June 2022 as
+          comparative information does not constitute the Company’s statutory annual consolidated
+          financial statements for that year but is derived from those financial statements. Further
+          information relating to these statutory financial statements required to be disclosed in accordance
+          with section 436 of the Hong Kong Companies Ordinance (Cap. 622) is as follows:
+
+          The Company has delivered the financial statements for the year ended 31 December 2021 to the
+          Registrar of Companies as required by section 662(3) of, and Part 3 of Schedule 6 to, the Hong
+          Kong Companies Ordinance (Cap. 622).
+
+          The Company’s auditor has reported on those financial statements. The auditor’s report was
+          unqualified; did not include a reference to any matters to which the auditor drew attention by way
+          of emphasis without qualifying its report; and did not contain a statement under sections 406(2),
+          407(2) or (3) of the Hong Kong Companies Ordinance (Cap. 622).
+
+
+
+
+30 YesAsia Holdings Limited Interim Report 2022
+    NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                              30 June 2022
+
+
+
+
+2     BASIS OF PREPARATION AND CHANGES TO THE GROUP’S ACCOUNTING
+      POLICIES
+      The unaudited interim condensed financial information for the six months ended 30 June 2022
+      has been prepared in accordance with Hong Kong Accounting Standard 34 (“HKAS 34”) Interim
+      Financial Reporting issued by the Hong Kong Institute of Certified Public Accountants
+      (“HKICPA”), as well as with the applicable disclosures required by the Listing Rules.
+
+      The interim condensed financial information does not include all of the information and
+      disclosures required in the annual financial statements, and should be read in conjunction with
+      the Group’s annual financial statements for the year ended 31 December 2021, which have been
+      prepared in accordance with the Hong Kong Financial Reporting Standards (“HKFRSs”).
+
+      The preparation of interim condensed financial information requires management to make
+      judgements, estimates and assumptions that affect the application of accounting policies and the
+      reported amounts of assets and liabilities, income and expense. Actual results may differ from
+      these estimates.
+
+      The accounting policies applied in the preparation of the unaudited interim condensed financial
+      information is consistent with those applied to the consolidated financial statements for the year
+      ended 31 December 2021.
+
+      In the current period, the Group has adopted all the new and revised Hong Kong Financial
+      Reporting Standards issued by the HKICPA that are relevant to its operations and effective for its
+      accounting year beginning on 1 January 2022 but they do not have a material effect on the
+      Group’s financial statements.
+
+      A number of new standards and amendments to standards are effective for annual periods
+      beginning after 1 January 2022 and earlier application is permitted. The Group has not early
+      adopted any of the forthcoming new or amended standards in preparing these condensed
+      consolidated interim financial statements.
+
+
+
+
+                                                                 YesAsia Holdings Limited Interim Report 2022   31
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   3      FAIR VALUE MEASUREMENTS
+          Fair value is the price that would be received to sell an asset or paid to transfer a liability in an
+          orderly transaction between market participants at the measurement date. The following
+          disclosures of fair value measurements use a fair value hierarchy that categorises into three
+          levels the inputs to valuation techniques used to measure fair value:
+
+          Level 1 inputs:            quoted prices (unadjusted) in active markets for identical assets or
+                                     liabilities that the Group can access at the measurement date.
+
+          Level 2 inputs:            inputs other than quoted prices included within level 1 that are observable
+                                     for the asset or liability, either directly or indirectly.
+
+          Level 3 inputs:            unobservable inputs for the asset or liability.
+
+          The Group’s policy is to recognise transfers into and transfers out of any of the three levels as of
+          the date of the event or change in circumstances that caused the transfer.
+
+          Disclosures of level in fair value hierarchy:
+                                                                   Fair value measurements as at 30 June 2022
+          Description                                           Level 1         Level 2         Level 3           Total
+                                                               US$’000         US$’000         US$’000         US$’000
+                                                            (Unaudited)     (Unaudited)    (Unaudited)      (Unaudited)
+
+          Recurring fair value measurements:
+          Financial assets at FVTPL
+            Investment in a life insurance policy                     –              820                –             820
+            An equity security listed in Hong Kong                1,292                –                –           1,292
+
+                                                                  1,292              820                –           2,112
+
+                                                                  Fair value measurements as at 31 December 2021
+          Description                                            Level 1          Level 2          Level 3           Total
+                                                                US$’000          US$’000          US$’000         US$’000
+                                                               (Audited)        (Audited)        (Audited)       (Audited)
+
+          Recurring fair value measurements:
+          Financial assets at FVTPL
+            Investment in a life insurance policy                     –              808                –             808
+            An equity security listed in Hong Kong                1,434                –                –           1,434
+
+                                                                  1,434              808                –           2,242
+
+          The fair value of investment in life insurance policies is determined by reference to Cash
+          Surrender Value as provided by the insurance company.
+
+          As at 30 June 2022, the fair value loss of such investment was approximately US$0.1 million due
+          to the decrease in share price in CN Logistics (before taking into account of dividend of
+          approximately US$30,000 received during the Reporting Period). In view of the expected positive
+          impact to the business of both CN Logistics and the Group through the strategic logistics
+          partnership, the investment in CN Logistics is expected to be strategic and enable the Group to
+          foster a closer business partnership with CN Logistics for a longer term and result in potential
+          investment returns to the Shareholders.
+
+
+
+32 YesAsia Holdings Limited Interim Report 2022
+    NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                             30 June 2022
+
+
+
+
+4     REVENUE
+      Disaggregation of revenue from contracts with customers by business and the timing of revenue
+      recognition for the period are as follow:
+
+                                                                          Six months ended 30 June
+                                                                                2022                 2021
+                                                                          (Unaudited)          (Unaudited)
+                                                                             US$’000              US$’000
+
+
+      Sales of merchandise, recognised at point in time                          55,566               80,689
+      Shipping revenue recognised over time                                       7,013                7,678
+      Consignment sales recognised at point of time                                   1                    1
+      Logistic and warehouse services, recognised at point in time                  325                    –
+
+
+                                                                                 62,905               88,368
+
+
+5     OTHER INCOME AND OTHER GAINS AND LOSSES
+                                                                          Six months ended 30 June
+                                                                                2022                 2021
+                                                                          (Unaudited)          (Unaudited)
+                                                                             US$’000              US$’000
+
+
+      Cash rebate income                                                              65                 294
+      Marketing program Income                                                         5                   –
+      Dividend income from listed equity security                                     30                   –
+      Gains on disposals of property, plant and equipment                              –                  13
+      Gains on remeasurement upon lease modification                                   –                   8
+      Government subsidies income                                                    421                   5
+      Interest income from:
+        Bank deposits                                                                 45                    5
+        Financial assets at FVTPL                                                     14                   13
+
+                                                                                      59                   18
+      Sundry income                                                                    2                   15
+
+
+                                                                                     582                 353
+
+
+
+
+                                                                YesAsia Holdings Limited Interim Report 2022   33
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   6      SEGMENT INFORMATION
+          Information about reportable segment profit or loss:
+
+
+                                                    Fashion &
+                                                      lifestyle Entertainment       Logistics
+          Six months ended 30 June 2022            and beauty        products        services    Unallocated            Total
+                                                  (Unaudited)     (Unaudited)     (Unaudited)    (Unaudited)      (Unaudited)
+                                                      US$’000         US$’000        US$’000        US$’000          US$’000
+
+
+          Revenue from external customers              58,320            4,260           325                –         62,905
+          Segment results                                 721               27            79          (3,091)         (2,264)
+
+
+                                                               Fashion &
+                                                                 lifestyle   Entertainment
+          Six months ended 30 June 2021                       and beauty          products      Unallocated             Total
+                                                             (Unaudited)      (Unaudited)       (Unaudited)       (Unaudited)
+                                                                US$’000           US$’000          US$’000           US$’000
+
+
+          Revenue from external customers                         84,631            3,737                 –           88,368
+          Segment results                                          5,574              (41)          (5,018)              515
+
+
+          Reconciliations of segment profit or loss:
+
+                                                                                         Six months ended 30 June
+                                                                                               2022                   2021
+                                                                                         (Unaudited)            (Unaudited)
+                                                                                            US$’000                US$’000
+
+
+          Revenue
+          Total revenue of reportable segments                                                  62,905               88,368
+
+
+          Segment results
+          Total segment results of reportable segments                                             827                5,533
+          Unallocated amounts:
+            Unallocated income                                                                     576                  353
+            Unallocated corporate expenses                                                      (3,667)              (5,371)
+
+
+          (Loss)/profit for the year attributable to
+            the owners of the Company                                                           (2,264)                 515
+
+
+
+
+34 YesAsia Holdings Limited Interim Report 2022
+    NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                                      30 June 2022
+
+
+
+
+6     SEGMENT INFORMATION (CONTINUED)
+      Geographical information:
+
+      The Group’s revenue from external customers by port of destinations and information about its
+      non-current assets by location of assets are detailed below:
+
+                                                                                   Six months ended 30 June
+                                                                                         2022                 2021
+                                                                                   (Unaudited)          (Unaudited)
+                                                                                      US$’000              US$’000
+
+      United States                                                                       31,465               38,443
+      European countries
+        France                                                                             3,442                7,819
+        Germany                                                                            3,305                6,835
+        Spain                                                                                850                2,347
+        Italy                                                                                792                1,989
+        Netherlands                                                                          798                1,774
+        Other EU Countries (Note 1)                                                        2,506                6,075
+                                                                                          11,693               26,839
+      Australia                                                                            4,329                5,768
+      United Kingdom                                                                       3,917                5,299
+      Canada                                                                               3,288                4,527
+      Hong Kong                                                                            3,736                1,655
+      Japan                                                                                  554                1,061
+      Others (Note 2)                                                                      3,923                4,776
+
+      Consolidated Total                                                                  62,905               88,368
+
+
+      Note 1:   Other EU countries include sales to EU countries that individually contributed insignificant portion
+                of our total revenue for the six months ended 30 June 2022 and 2021.
+
+      Note 2:   Others include sales to countries individually contributed insignificant portion of our total revenue
+                for the six months ended 30 June 2022 and 2021.
+
+
+      99.1% and 98.4% of the Group’s non-current assets are located in Hong Kong as at 30 June 2022
+      and 2021 respectively.
+
+      Revenue about major customers
+
+      No revenue from a single customer of the Group contributed over 10% of the total revenue of the
+      Group during the six months ended 30 June 2022 and 2021 respectively.
+
+
+
+
+                                                                         YesAsia Holdings Limited Interim Report 2022   35
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   7      INCOME TAX EXPENSE
+                                                                                 Six months ended 30 June
+                                                                                        2022              2021
+                                                                                  (Unaudited)       (Unaudited)
+                                                                                     US$’000           US$’000
+
+          Current tax
+           – Hong Kong Profits Tax                                                          20             423
+           – Overseas Corporate Income Tax                                                  17              55
+
+          Deferred tax                                                                       –                –
+
+                                                                                            37             478
+
+
+          Under the two-tiered profits tax regime, profits tax rate for the first HK$2 million of assessable
+          profits for the six months ended 30 June 2022 and 2021 of qualifying corporations established in
+          Hong Kong was lowered to 8.25% and profits above that amount will be subject to the tax rate of
+          16.5%. For the other Hong Kong established subsidiaries, Hong Kong profits tax has been
+          provided at a rate of 16.5% (six months ended 30 June 2021: 16.5%) on the estimated assessable
+          profits.
+
+          Tax charge on profits assessable elsewhere have been calculated at the rates of tax prevailing in
+          the countries in which the Group operates, based on existing legislation, interpretation and
+          practices in respect thereof.
+
+   8      (LOSS)/PROFIT FOR THE PERIOD
+          The Group’s (loss)/profit for the period is stated after charging/(crediting) the following:
+
+                                                                                 Six months ended 30 June
+                                                                                        2022              2021
+                                                                                  (Unaudited)       (Unaudited)
+                                                                                     US$’000           US$’000
+
+          Auditor’s remuneration                                                           77                77
+          Cost of inventories sold                                                     24,907            33,895
+          Depreciation
+             – Property, plant and equipment                                               757              636
+             – Right-of-use assets                                                       2,687            2,206
+                                                                                         3,444            2,842
+
+          Employee benefits expenses (including directors’ emoluments)                 11,504            12,133
+          Foreign exchange losses, net                                                    275               848
+          Listing expenses                                                                  –             1,303
+          Expenses relating to short-term lease
+             – leased properties                                                           151             133
+             – leased equipment                                                             19              19
+                                                                                           170             152
+          Allowance for inventories, net (included in cost of
+            inventories sold)                                                              350              23
+
+
+
+
+36 YesAsia Holdings Limited Interim Report 2022
+    NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                               30 June 2022
+
+
+
+
+9     (LOSS)/EARNINGS PER SHARE
+      The calculation of the basic and diluted (loss)/earnings per share is based on the following:
+
+                                                                            Six months ended 30 June
+                                                                                  2022                 2021
+                                                                            (Unaudited)          (Unaudited)
+                                                                               US$’000              US$’000
+
+
+      (Loss)/earnings
+      (Loss)/profit for the year attributable to owners of the Company             (2,264)                 515
+
+
+                                                                            (Unaudited)          (Unaudited)
+                                                                                   ’000                 ’000
+
+
+      Number of shares
+      Weighted average number of ordinary shares for the purpose
+        of calculating basic (loss)/earnings per share (Note)                    395,941              166,529
+      Effect of dilutive potential ordinary shares arising from
+        share options issued by the Company                                         1,664               20,879
+      Effect of dilutive potential ordinary shares arising
+        from convertible preferred shares                                                 –           175,985
+
+
+      Weighted average number of ordinary shares for the purpose
+       of calculating diluted (loss)/earnings per share (Note)                   397,605              363,393
+
+
+      The effects of potential ordinary shares are anti-dilutive for the six months ended 30 June 2022
+      and 2021.
+
+      Note: On 9 June 2021, the Company underwent a share subdivision whereby each issued and unissued
+            share in the Company’s share capital shall be subdivided into 10 shares.
+
+
+10    DIVIDEND
+      The Board does not recommend the payment of any dividend for the six months ended 30 June
+      2022 (six months ended 30 June 2021: HK5.0 cents per share).
+
+
+
+
+                                                                  YesAsia Holdings Limited Interim Report 2022   37
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   11     PROPERTY, PLANT AND EQUIPMENT
+          During the six months ended 30 June 2022, the Group acquired property, plant and equipment of
+          approximately US$76,000 (six months ended 30 June 2021: US$1,104,000).
+
+   12     RIGHT-OF USE ASSETS
+          During the six months ended 30 June 2022, the Group entered into a new lease agreement for
+          warehouses for 4 years. The Group will make fixed payments during the contract period. On lease
+          commencement, the Group recognised approximately US$12,077,000 of right-of-use assets and
+          liabilities.
+
+   13     TRADE RECEIVABLES
+          The Group’s turnover comprises mainly e-commerce sales and offline wholesale of products. No
+          credit terms have been granted to e-commerce sales, certain offline wholesales and logistic
+          service income are granted credit terms ranging from 0–90 days.
+
+          The balance of trade receivables represents the outstanding amounts receivable from the
+          payment gateway companies who involved to process the customers’ E-commerce transactions,
+          offline wholesale customers and provision of logistic service income. No default of settlement is
+          expected by reference to past experience.
+
+          The aging analysis of trade receivables, based on the revenue recognition date*, and net of
+          allowance (if any), is as follows:
+
+                                                                                          As at               As at
+                                                                                       30 June        31 December
+                                                                                          2022                2021
+                                                                                    (Unaudited)           (Audited)
+                                                                                       US$’000             US$’000
+
+
+          0 to 30 days                                                                      1,342             1,793
+          31 to 60 days                                                                        36                 9
+          61 to 90 days                                                                         1                12
+          over 90 days                                                                          6                 7
+
+
+                                                                                            1,385             1,821
+
+
+          *      Revenue from E-commerce sales transactions is recognised on a trade date basis when the relevant
+                 transactions are executed. Revenue from offline wholesale is recognised when control of the products
+                 has transferred, being when the products are delivered. Logistics and other service revenue are
+                 recognised over time when the services are performed.
+
+
+
+
+38 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                  30 June 2022
+
+
+
+
+14   PREPAYMENTS, DEPOSITS AND OTHER RECEIVABLES
+                                                                     As at                As at
+                                                                  30 June         31 December
+                                                                     2022                 2021
+                                                               (Unaudited)            (Audited)
+                                                                  US$’000              US$’000
+
+
+     Prepayments
+       Prepayment to suppliers                                           998                1,428
+       Prepaid rental                                                    477                   31
+       Prepaid administrative and selling expenses                     2,926                  638
+
+
+                                                                       4,401                2,097
+
+     Deposits
+      Rental deposits                                                  2,231                1,340
+      Trade deposits                                                     235                  248
+      Utilities deposits                                                 226                  160
+      Other deposits                                                      13                    –
+
+
+                                                                       2,705                1,748
+
+     Other receivables
+       Export tax refundable                                              629                 555
+       Others                                                             487                 282
+
+
+                                                                       1,116                  837
+
+
+                                                                       8,222                4,682
+
+
+     Analysed as:
+     Current assets                                                    6,587                3,919
+     Non-current assets                                                1,635                  763
+
+
+                                                                       8,222                4,682
+
+
+
+
+                                                     YesAsia Holdings Limited Interim Report 2022   39
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   15     TRADE AND OTHER PAYABLES AND ACCRUALS
+                                                                                    As at             As at
+                                                                                 30 June      31 December
+                                                                                    2022              2021
+                                                                              (Unaudited)         (Audited)
+                                                                                 US$’000           US$’000
+
+
+          Trade payables                                                             4,087              5,329
+
+          Other payables
+            Indirect tax payables                                                    2,427              2,610
+            Dividend payables                                                        2,722                168
+
+
+                                                                                     5,149              2,778
+
+
+          Accruals
+            Accrued staff costs                                                        158               313
+            Accrued selling expenses                                                   504               659
+            Accrued administrative expenses                                            462               589
+
+
+                                                                                     1,124              1,561
+
+
+                                                                                    10,360              9,668
+
+
+          The aging analysis of the Group’s trade payables, based on the invoice date, is as follows:
+
+                                                                                    As at             As at
+                                                                                 30 June      31 December
+                                                                                    2022              2021
+                                                                              (Unaudited)         (Audited)
+                                                                                 US$’000           US$’000
+
+
+          0 to 30 days                                                               3,871              5,083
+          31 to 60 days                                                                209                226
+          61 to 90 days                                                                  5                  4
+          Over 90 days                                                                   2                 16
+
+
+                                                                                     4,087              5,329
+
+
+          For product suppliers, we settle our payment either before delivery or within a period up to 14
+          days upon delivery.
+
+          For other suppliers, we settle our payment either on delivery, or within a period up to 30 days
+          upon delivery.
+
+
+
+
+40 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                             30 June 2022
+
+
+
+
+16   CONTRACT LIABILITIES
+                                                                                  As at              As at
+                                                                               30 June       31 December
+                                                                                  2022               2021
+                                                                            (Unaudited)          (Audited)
+                                                                               US$’000            US$’000
+
+
+     Advance payments from customers                                                6,403              8,410
+     Deferred revenue for customer loyalty programme                                  578                893
+
+
+                                                                                    6,981              9,303
+
+
+     Contract liabilities in respect of advance payments from customers mainly involve the sales of
+     merchandise and shipping revenue.
+
+     Contract liabilities in respect of deferred revenue for loyalty programme are the relevant portion
+     of the transaction price allocated to the memberships based on the relative stand-alone selling
+     price.
+
+     During the Reporting Period, the contract liabilities decreased by approximately US$2.3 million or
+     25.0% to approximately US$7.0 million (six months ended 30 June 2021: US$9.3 million), mainly
+     due to lowered deferred revenue recognised as a result of the lower sales revenue recorded
+     during the Reporting Period as compared to that in the Prior Period.
+
+
+
+
+                                                                YesAsia Holdings Limited Interim Report 2022   41
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   17     LEASE LIABILITIES
+                                                                                      As at             As at
+                                                                                   30 June      31 December
+                                                                                      2022              2021
+                                                                                (Unaudited)         (Audited)
+                                                                                   US$’000           US$’000
+
+
+          Leased properties                                                           22,496          12,442
+          Office equipment                                                               272             316
+
+
+                                                                                      22,768          12,758
+
+
+                                                                                      As at             As at
+                                                                                   30 June      31 December
+                                                                                      2022              2021
+                                                                                (Unaudited)         (Audited)
+                                                                                   US$’000           US$’000
+
+
+          Within one year                                                              5,780           3,626
+          In the second year                                                           6,572           3,232
+          In the third to fifth years, inclusive                                      10,416           5,900
+          Over five years                                                                  –               –
+
+
+          Present value of lease obligations                                          22,768          12,758
+          Less:	Amount due for settlement within 12 months
+                    (shown under current liabilities)                                 (5,780)         (3,626)
+
+
+          Amount due for settlement after 12 months                                   16,988           9,132
+
+
+          It is the Group’s policy to lease certain of its office equipment under finance leases. The average
+          lease term is 5 years.
+
+
+
+
+42 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                                                                30 June 2022
+
+
+
+
+18   SHARE CAPITAL
+
+                                                                     Series A                  Series B                  Series C
+                                       Ordinary shares           preferred shares          preferred shares          preferred shares
+                                      Number                    Number                    Number                    Number                    Total
+                                     of shares    Amount       of shares   Amount        of shares   Amount        of shares   Amount       amount
+                                                  US$’000                  US$’000                   US$’000                   US$’000      US$’000
+
+
+     Issued and fully paid:
+     At 1 January 2021 (Audited) 16,433,757              358   1,048,405            11 5,164,737              52 3,381,629        1,889       2,310
+     Effect of Share Split          161,878,977            –   9,435,645             – 46,482,633              – 30,434,661           –           –
+     Issuance of ordinary shares
+       under the Share Offer         39,540,000    15,699              –             –           –             –           –            –    15,699
+     Issuance of ordinary shares
+       under the over-allotment
+       option                           409,000          162           –             –           –             –           –            –      162
+     Issue of shares under Share
+       Option Schemes                 1,658,916     2,311              –             –           –             –           –            –     2,311
+     Conversion of convertible
+       preferred shares to ordinary
+       shares upon the Listing at
+       the different conversion
+       rates                        175,985,260     1,952 (10,484,050)          (11) (51,647,370)         (52) (33,816,290)      (1,889)          –
+
+
+     At 31 December 2021 and
+       1 January 2022 (Audited) 395,905,910        20,482              –             –           –             –           –            –   20,482
+     Issue of shares under Share
+       Option Schemes                56,000               12           –             –           –             –           –            –       12
+
+
+     At 30 June 2022 (Unaudited) 395,961,910       20,494             –              –          –              –          –             –    20,494
+
+
+
+
+                                                                                             YesAsia Holdings Limited Interim Report 2022         43
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   19     SHARE-BASED PAYMENTS
+          2005 Share Option Scheme
+
+          The 2005 Share Option Scheme was expired on 2 June 2015 such that no further option can be
+          granted under the 2005 Share Option Scheme, but all options granted previously will remain
+          exercisable in accordance with the terms of the 2005 Share Option Scheme and the relevant
+          stock option agreements entered with the respective grantees.
+
+          At 30 June 2022 and 31 December 2021, details of the specific categories of options outstanding
+          under the 2005 Share Option Scheme are as follows:
+
+                                                                                                           No. of          No. of
+                                                                                                     outstanding     outstanding
+                                                                                                         options         options
+                                                                                                       under the       under the
+                                                                                                      2005 Share      2005 Share
+                                                                                                          Option          Option
+                                                                                                         Scheme          Scheme
+                                                                                         Exercise           as at           as at
+                                                     Vesting           Exercise          price per       30 June    31 December
+                       Grant date     Expiry date    period            period               option          2022            2021
+                                                                                              US$
+
+
+          Director     25 July 2013   25 July 2023   25 July 2013 to   25 July 2014 to       0.50         10,000          10,000
+                                                       25 July 2017      25 July 2023
+
+
+          Total for 2005 Share Option Scheme                                                              10,000          10,000
+
+
+          Note:
+
+          Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 ordinary shares for
+          each outstanding option granted under the 2005 Share Option Scheme being exercised.
+
+
+
+
+44 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                                                                  30 June 2022
+
+
+
+
+19   SHARE-BASED PAYMENTS (CONTINUED)
+     2016 Share Option Scheme
+     No options can be granted under the 2016 Share Option Scheme on or after the Listing Date, but
+     all options granted previously shall remain exercisable in accordance with the terms of the 2016
+     Share Option Scheme and the relevant stock option agreements entered with the respective
+     grantees.
+     At 30 June 2022 and 31 December 2021, details of the specific categories of options outstanding
+     under the 2016 Share Option Scheme are as follows:
+                                                                                                                                No. of           No. of
+                                                                                                                          outstanding      outstanding
+                                                                                                                        options under    options under
+                                                                                                                             the 2016         the 2016
+                                                                                                                         Share Option     Share Option
+                                                                                                                              Scheme           Scheme
+                                                                                                            Exercise             as at            as at
+                                                                                                                price         30 June     31 December
+                   Grant date             Expiry date        Vesting period        Exercise period         per option            2022             2021
+                                                                                                                 US$
+
+     Directors     28 July 2016           28 July 2026       28 July 2016 to       28 July 2017 to               0.80         240,000          240,000
+                                                               28 July 2020          28 July 2026
+                   15 August 2019         15 August 2029     15 August 2019 to     15 August 2020 to             1.55         180,000          180,000
+                                                               15 August 2023        15 August 2029
+
+     Associate of 23 April 2020           23 April 2030      23 April 2020 to      23 April 2021 to              2.01           3,000            3,000
+       Director                                                23 April 2024         23 April 2030
+
+     Employees     28 July 2016           28 July 2026       28 July 2016 to       28 July 2017 to               0.80           2,451            2,451
+                                                               28 July 2020          28 July 2026
+                   27 April 2017          27 April 2027      27 April 2017 to      27 April 2018 to              0.80             625              625
+                                                               27 April 2021         27 April 2027
+                   10 August 2017         10 August 2027     10 August 2017 to     10 August 2018 to             0.80           1,250            1,250
+                                                               10 August 2021        10 August 2027
+                   27 April 2018          27 April 2028      27 April 2018 to      27 April 2019 to              1.20          50,988           50,988
+                                                               27 April 2022         27 April 2028
+                   26 July 2018           26 July 2028       26 July 2018 to       26 July 2019 to               1.20          66,875           69,375
+                                                               26 July 2022          26 July 2028
+                   24 January 2019        24 January 2029    24 January 2019 to    24 January 2020 to            1.20          83,175           88,175
+                                                               24 January 2023       24 January 2029
+                   25 April 2019          25 April 2029      25 April 2019 to      25 April 2020 to              1.55          74,567           74,567
+                                                               25 April 2023         25 April 2029
+                   15 August 2019         15 August 2029     15 August 2019 to     15 August 2020 to             1.55          33,000           39,250
+                                                               15 August 2023        15 August 2029
+                   6 February 2020        6 February 2030    6 February 2020 to    6 February 2021 to            1.55         170,700          178,200
+                                                               6 February 2024       6 February 2030
+                   23 April 2020          23 April 2030      23 April 2020 to      23 April 2021 to              2.01         260,000          262,000
+                                                               23 April 2024         23 April 2030
+                   30 July 2020           30 July 2030       30 July 2020 to       30 July 2021 to               2.01          50,000           50,000
+                                                               30 July 2024          30 July 2030
+                   29 October 2020        29 October 2030    29 October 2020 to    29 October 2021 to            2.01         240,000          240,000
+                                                               29 October 2024       29 October 2030
+                   28 January 2021        28 January 2031    28 January 2021 to    28 January 2022 to            2.01         140,000          140,000
+                                                               28 January 2025       28 January 2031
+                   25 February 2021       25 February 2031   25 February 2021 to   25 February 2022 to           2.01               –          100,000
+                                                               25 February 2025      25 February 2031
+                   29 April 2021          29 April 2031      29 April 2021 to      29 April 2022 to              2.01         512,000          593,000
+                                                               29 April 2025         29 April 2031
+
+     Total for 2016 Share Option Scheme                                                                                     2,108,631        2,312,881
+
+     Note:
+
+     Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 ordinary shares for
+     each outstanding option granted under the 2016 Share Option Scheme being exercised.
+
+
+                                                                                                 YesAsia Holdings Limited Interim Report 2022         45
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   19     SHARE-BASED PAYMENTS (CONTINUED)
+          A Post-IPO share option scheme was adopted by the Company on 13 March 2021, which was
+          conditional upon the listing of the Shares on the Stock Exchange and came into effect on the
+          Listing Date (the “Post-IPO Share Option Scheme”). The Post-IPO Share Option Scheme will
+          expire on 13 March 2031. The purpose of the Post-IPO Share Option Scheme is to advance the
+          interests of the Company and its shareholders by enabling the Company to attract and retain
+          qualified employees or directors of the Company and/or its subsidiaries through providing them
+          with an opportunity for investment in the shares of the Company.
+
+          The total number of shares which may be issued upon exercise of all options to be granted under
+          the Post-IPO Share Option Scheme is 39,539,079 (equivalent 3,953,907 options), being the
+          maximum 10% of the ordinary shares in issue on the Listing Date.
+
+          Details of the specific categories of options outstanding under the Post-IPO Share Option Scheme
+          as at 30 June 2022 are as follows:
+
+                                                                                                                             No. of           No. of
+                                                                                                                       outstanding      outstanding
+                                                                                                                     options under    options under
+                                                                                                                      the Post-IPO     the Post-IPO
+                                                                                                                      Share Option     Share Option
+                                                                                                                           Scheme           Scheme
+                                                                                                         Exercise             as at            as at
+                                                                                                             price         30 June     31 December
+                        Grant date          Expiry date       Vesting period       Exercise period      per option            2022             2021
+                                                                                                             US$*
+
+
+          Employees     30 August 2021      29 August 2031    30 August 2021 to    30 August 2022 to          3.16          40,000           55,000
+                                                                29 August 2025       29 August 2031
+
+                        29 October 2021     28 October 2031   29 October 2021 to   29 October 2022 to         1.84          15,000           15,000
+                                                                28 October 2025      28 October 2031
+
+                        21 April 2022       20 April 2032     21 April 2022 to     21 April 2023 to           1.50         236,500                –
+                                                                20 April 2026        20 April 2032
+
+
+          Total for Post-IPO Share Option Scheme                                                                           291,500           70,000
+
+
+          *   Equivalent to the exercise price per option denominated in HK$ of HK$24.48, HK$14.28 and HK$11.6
+              respectively.
+
+
+          Note:
+
+          Following the announcement of Company dated on 30 August 2021, 29 October 2021 and 28 April 2022,
+          each grantee shall receive 10 ordinary shares for each option under the Post-IPO Share Option Scheme
+          exercised.
+
+
+
+
+46 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                             30 June 2022
+
+
+
+
+19   SHARE-BASED PAYMENTS (CONTINUED)
+     Details of the movement of share options during the period are as follows:
+
+                                                30 June 2022                   31 December 2021
+                                                          Weighted                         Weighted
+                                            Number of      average                          average
+                                                share      exercise          Number of      exercise
+                                              options         price       share options        price
+                                                               US$                              US$
+
+
+     Outstanding at 1 January                2,392,881             1.75        3,066,064                 1.23
+     Granted during the period/year            237,500             1.50          975,000                 2.08
+     Exercised during the period/year           (5,600)            1.32       (1,563,408)                0.92
+     Forfeited during the period/year         (214,650)            1.59          (84,775)                1.96
+
+
+     Outstanding at end of period/year       2,410,131             1.69        2,392,881                 1.75
+
+
+     Exercisable at end of period/year       1,105,756             1.49           655,523                1.20
+
+
+     The options outstanding at the end of the period/year have a weighted average remaining
+     contractual life of 9.81 years as at 30 June 2022 (31 December 2021: 8.09 years).
+
+     For the six months ended 30 June 2022, 237,500 options were granted under Post-IPO Share
+     Option Scheme on 21 April 2022 and the total estimated fair value of these options on the date of
+     grant was US$127,000.
+
+     For the six months ended 30 June 2021, 150,000, 100,000 and 655,000 options were granted
+     under 2016 Share Option Scheme on 28 January 2021, 25 February 2021 and 29 April 2021
+     respectively and the total estimated fair value of these options on the dates of grant was
+     US$2,019,100. Moreover, 55,000 and 15,000 options were granted under Post-IPO Share Option
+     Scheme on 30 August 2021 and 29 October 2021 respectively and total estimated fair value of
+     these options on the dates of grant was US$2,023,000.
+
+     Following the Share Split which took effect on 9 June 2021, each grantee shall receive 10 Shares
+     for each outstanding option granted under the 2016 Share Option Scheme exercised.
+
+     During the six months ended 30 June 2022, the number of exercised options under the 2016
+     Share Option Scheme was 5,600. The weighted closing prices of Shares immediately before 8
+     February 2022 (the exercise date of 2,500 Share options), 22 March 2022 (the exercise date of
+     2,500 Share options), 3 May 2022 (the exercise date of 100 Share options) and 17 May 2022 (the
+     exercise date of 500 Share options) were HK$1.41, HK$1.16, HK$1.13 and HK$1.12 respectively.
+
+
+
+
+                                                                YesAsia Holdings Limited Interim Report 2022   47
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   19     SHARE-BASED PAYMENTS (CONTINUED)
+          The fair value was calculated using the Binomial Option pricing model on the date on which the
+          options were granted. The inputs into the model are as follows:
+
+          For the six months ended 30 June 2022
+                                                                                                                   Share option
+                                                                                                                     granted on
+                                                                                                                   21 April 2022
+
+          Stock Price(1)                                                                                             US$0.15*
+          Exercise price per option(2)                                                                               US$1.500
+          Expected volatility                                                                                           50.08%
+          Expected life                                                                                               10 years
+          Risk free rate                                                                                                 2.71%
+          Expected dividend yield                                                                                        4.31%
+          Vesting period                                                                                       21 April 2022 to
+                                                                                                                 20 April 2026
+          Exercise period                                                                                      21 April 2023 to
+                                                                                                                 20 April 2032
+
+          Notes:
+
+          (1)      Equivalent to the stock price denominated in HK$ of HK$1.16 on the date of option grant.
+
+          (2)      One option represents 10 shares.
+
+          For the year ended 31 December 2021
+                                                                         Share options granted on
+                                            28 January         25 February            29 April         30 August          29 October
+                                                  2021                2021               2021               2021                2021
+
+          Stock Price                         US$3.110(#)         US$3.290(#)        US$3.480(#)        US$0.265(*)        US$0.184(*)
+          Exercise price per option           US$2.010            US$2.010           US$2.010           US$3.160           US$1.840
+          Expected volatility                    51.14%              51.19%              50.76%            50.06%             50.03%
+          Expected life                         10 years           10 years            10 years          10 years           10 years
+          Risk free rate                          0.63%               1.19%               1.15%             0.86%              1.37%
+          Expected dividend yield                    0%                  0%                  0%             2.43%              3.52%
+          Vesting period              28 January 2021 to 25 February 2021 to    29 April 2021 to 30 August 2021 to 29 October 2021 to
+                                        28 January 2025 25 February 2025          29 April 2025    29 August 2025    28 October 2025
+          Exercise period             28 January 2022 to 25 February 2022 to    29 April 2022 to 30 August 2022 to 29 October 2022 to
+                                        28 January 2031 25 February 2031          29 April 2031    29 August 2031    28 October 2031
+          (#)
+                   Represent the stock price before the Share Split.
+
+          (*)
+                   Equivalent to the stock price denominated in HK$ of HK$2.16 and HK$1.4 respectively.
+
+          Average of industry annualised historical share price volatility is deemed to be the expected
+          volatility of the share price of the Company. The expected life used in the model has been
+          adjusted, based on the Group’s best estimate, for the effects of non-transferability, exercise
+          restrictions and behavioural considerations. Expected dividend yield is based on historical
+          dividends paid to the shareholders of the Company.
+
+
+
+
+48 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                                  30 June 2022
+
+
+
+
+19   SHARE-BASED PAYMENTS (CONTINUED)
+     Risk-free rates adopted in the valuation model are the yield-to-maturities in continuous
+     compounding of the Hong Kong Government Bonds with the time-to-maturities similar to that of
+     the options as at the date of grant.
+
+     Where a share option is cancelled or forfeited prior to the expiry date, it is treated as if it had
+     vested on the date of cancellation or forfeiture, and any expense not yet recognised for the option
+     is recognised immediately.
+
+     The Group recorded total expenses of approximately US$48,000 during the six months ended 30
+     June 2022 (six months ended 30 June 2021: Nil) for in respect of the Post-IPO Share Option
+     Scheme.
+
+     The Group recorded total expenses of approximately US$467,000 during the six months ended
+     30 June 2022 (six months ended 30 June 2021: US$589.000) in respect of the 2016 Share Option
+     Scheme.
+
+     Note: The calculation results of the values of the share options are subject to a number of assumptions of
+           the parameters used herein and the limitation of the model adopted. Therefore, the estimated values
+           of the share options may be subjective and uncertain.
+
+
+     During the six months ended 30 June 2022 and 30 June 2021 respectively, the accounting policy
+     adopted for the share options are as follow:
+
+     The Group issues share options to certain directors, employees and consultant.
+
+     Share options to directors and employees are measured at the fair value (excluding the effect of
+     non-market-based vesting conditions) of the equity instruments at the date of grant. The fair value
+     determined at the grant date of the share options is expensed on a straight-line basis over the
+     vesting period, based on the Group’s estimate of shares that will eventually vest and adjusted for
+     the effect of non-market-based vesting conditions.
+
+
+
+
+                                                                     YesAsia Holdings Limited Interim Report 2022   49
+   NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+   30 June 2022
+
+
+
+
+   20     RELATED PARTY TRANSACTIONS
+          The Group had the following transactions with its related parties during Reporting Period:
+
+                                                                                       Six months ended 30 June
+                                                                                             2022                  2021
+                                                                                       (Unaudited)           (Unaudited)
+                                                                                          US$’000               US$’000
+
+
+          Customer relationship management and contact centre service
+            fees to HKT Teleservices International Limited (“HKT”) (Note i)                       (136)            (226)
+          Return merchandise authorisation service fee to
+            Ms. Chu Po King (Note ii)                                                                (1)              (1)
+          Freight forwarding services and logistics services fee to
+            CN Logistics Limited (Note iii)                                                    (1,339)               (22)
+          Logistics service fee to Cargo Services Far East Limited
+            (Note iv)                                                                               (82)               –
+
+
+          Notes:
+
+          (i)      HKT is a fellow subsidiary of a shareholder of the Company.
+
+          (ii)     Ms. Chu Po King is a sister of a director and shareholder of the Company.
+
+          (iii)    CN Logistics Limited is a fellow subsidiary of a shareholder of the Company.
+
+          (iv)     Cargo Services Far East Limited is a fellow subsidiary of a shareholder of the Company.
+
+
+   21     CONTINGENT LIABILITIES
+          As at 30 June 2022 and 31 December 2021, contingent liabilities not provided for in the
+          consolidated financial statements were as follows:
+
+                                                                                          30 June          31 December
+                                                                                             2022                  2021
+                                                                                       (Unaudited)             (Audited)
+                                                                                          US$’000               US$’000
+
+
+          Guarantees given to banks for
+           – a payment gateway company                                                               10              17
+           – a supplier located in Hong Kong                                                          8               8
+           – a service provider under the import-one-stop-shop scheme                             1,504               –
+
+
+                                                                                                  1,522              25
+
+
+
+
+50 YesAsia Holdings Limited Interim Report 2022
+ NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                                                                                  30 June 2022
+
+
+
+
+21   CONTINGENT LIABILITIES (CONTINUED)
+     Under the guarantees, the Group has pledged its bank deposits of US$1,691,000 (31 December
+     2021: US$94,000) to the bank.
+
+     Apart from above, the Group does not have other material contingent liabilities at 30 June 2022
+     and 31 December 2021.
+
+22   CAPITAL COMMITMENTS
+                                                                                  30 June              30 June
+                                                                                     2022                 2021
+                                                                               (Unaudited)          (Unaudited)
+                                                                                  US$’000              US$’000
+
+
+     Contracted but not provided for:
+      Property, plant and equipment                                                    2,130                  133
+
+
+     Note: As of 30 June 2022, approximately US$332,000, US$1,554,000 and US$244,000 capital commitments
+           were provided for the renovation and acquisitions of robots for the Smart Robotics Warehouse as well
+           as other renovation and equipment purchases respectively.
+
+
+23   EVENTS AFTER THE REPORTING PERIOD
+     (a)   Subsequent to the Reporting Period, the Group entered into a Renewal Offer Letter for the
+           lease of head office in Hong Kong for four years. Upon the lease commencement, the
+           Group will recognise a right-of-use asset with an unaudited value of approximately HK$42.7
+           (approximately US$5.5 million). Details are set out in announcement of the Company dated
+           on 29 July 2022.
+
+     (b)   Subsequent to the Reporting Period, the Group has served a written notice of termination to
+           HKT pursuant to the 2021 HKT Agreement for the early termination of the 2021 HKT
+           Agreement with effect from 11 October 2022. Details are set out in announcement of the
+           Company dated 11 August 2022.
+
+24   APPROVAL OF FINANCIAL STATEMENTS
+     The interim financial statements were approved and authorised for issue by the Board of Directors
+     on 26 August 2022.
+
+
+
+
+                                                                     YesAsia Holdings Limited Interim Report 2022   51
+   DEFINITIONS AND GLOSSARY
+
+
+
+
+   “2021 HKT Agreement”                    a service agreement entered into on 18 October 2021 between the
+                                           Company and HKT
+
+   “‘AsianBeautyWholesale”                 www.AsianBeautyWholesale.com
+
+   “Audit Committee”                       the audit committee of our Company
+
+   “Auditor”                               the external auditor of our Company
+
+   “Board” or “Board of                    the board of directors of our Company
+     Directors”
+
+   “Company”, “our Company”                YesAsia Holdings Limited (喆麗控股有限公司), a company
+     or “the Company”                      incorporated with limited liability in Hong Kong on 11 March 2005, or,
+                                           where the context requires (as the case may be), its predecessor,
+                                           YesAsia.com, Inc. (formerly known as Asia CD, Inc.), a company
+                                           incorporated in California, the United States on 18 December 1997,
+                                           and except where the context indicates otherwise (i) our subsidiaries
+                                           and (ii) with respect to the period before our Company became the
+                                           holding company of our present subsidiaries, the business operated
+                                           by our present subsidiaries or (as the case may be) their
+                                           predecessors
+
+   “Compliance Advisor”                    UOB Kay Hian (Hong Kong) Limited
+
+   “Controlling Shareholder(s)”            has the meaning ascribed thereto under the Listing Rules and, in the
+                                           context of this interim report, refers to Mr. Lau and Ms. Chu
+
+   “CN Logistics”                          CN Logistics International Holdings Limited (嘉泓物流國際控股有限公
+                                           司) (a company incorporated in the Cayman Islands with limited
+                                           liability, whose shares are listed on the Main Board of the Stock
+                                           Exchange (stock code: 2130))
+
+   “Directors” or “our directors”          the directors of our Company
+
+   “EU”                                    the European Union
+
+   “Global Offering”                       the Hong Kong Public Offering and the International Offering
+
+   “Group”, “our Group”,                   our Company and its subsidiaries or, where the context requires, in
+     “we” or “us”                          respect of the period prior to our Company becoming the holding
+                                           company of its present subsidiaries, such subsidiaries as if they were
+                                           subsidiaries of our Company at the relevant time
+
+   “HK$” or “Hong Kong dollars”            Hong Kong dollars, the lawful currency of Hong Kong
+
+   “HKT” or “HKT Limited”                  HKT Teleservices International Limited, a company incorporated in
+                                           Hong Kong with limited liability
+
+
+
+
+52 YesAsia Holdings Limited Interim Report 2022
+                                                       DEFINITIONS AND GLOSSARY
+
+
+
+
+“Hong Kong”               the Hong Kong Special Administrative Region of the PRC
+
+“Landlord”                Golden Master Holdings Limited (金寶集團有限公司), a company
+                          incorporated in Hong Kong with limited liability, whose sole ultimate
+                          beneficial owner is Mr. Li Sau Hung, Eddy
+
+“Listing”                 the listing of the Shares on the Main Board of the Stock Exchange
+
+“Listing Date”            9 July 2021, on which the Shares are first listed and from which
+                          dealings in the Shares are permitted to take place on the Main Board
+                          of the Stock Exchange
+
+“Listing Rules”           the Rules Governing the Listing of Securities on the Stock Exchange,
+                          as amended or supplemented from time to time
+
+“Main Board”              the stock exchange (excluding the option market) operated by the
+                          Stock Exchange which is independent from and operated in parallel
+                          with the GEM of the Stock Exchange. For the avoidance of doubt, the
+                          Main Board excludes the GEM
+
+“Model Code”              Model Code for Securities Transactions by Directors of Listed Issuers
+                          as contained in Appendix 10 to the Listing Rules
+
+“Mr. Lau”                 Mr Lau Kwok Chu, one of the founders of our Group, an executive
+                          Director, the chief executive officer and one of our Controlling
+                          Shareholders
+
+“Ms. Chu”                 Ms. Chu Lai King, one of the founders of our Group, an executive
+                          Director, chair of the Board and one of our Controlling Shareholders
+
+“OFAC”                    The U.S. Department of Treasury’s Office of Foreign Assets Control
+
+“Over-allotment Option”   the option that may be granted by the Company to the Sole Global
+                          Coordinator pursuant to which the Company may be required to
+                          issue up to aggregate of 5,931,000 additional Shares, to cover,
+                          among others, over-allocations in the International Offering
+
+“PCCW Group”              PCCW Limited, together with its subsidiaries
+
+‘‘Pre-IPO Share Option    YesAsia Holdings 2005 General Stock Option Plan and YesAsia
+   Schemes’’              Holdings 2016 General Stock Option Plan, being the two pre-IPO
+                          share option schemes of the Company approved and adopted by the
+                          Company on 2 June 2005 and 30 June 2016, respectively, particulars
+                          of which are set out in ‘‘Other Information — Share Option Scheme’’
+                          to this interim report
+
+“Prior Period”            the six months ended 30 June 2021
+
+“Prospectus”              prospectus of the Company dated 28 June 2021
+
+
+
+                                                         YesAsia Holdings Limited Interim Report 2022   53
+   DEFINITIONS AND GLOSSARY
+
+
+
+
+   “Relevant Jurisdiction”                 any jurisdiction that is relevant to the Company and has sanctions
+                                           related law or regulation restricting, among other things, its nationals
+                                           and/or entities which are incorporated or located in that jurisdiction
+                                           from directly or indirectly making assets or services available to or
+                                           otherwise dealing in assess or certain countries, governments,
+                                           person or entities targeted by such law or regulation
+
+   “Renewal Offer Letter”                  the renewal offer letter entered into between YesAsia.com (as tenant)
+                                           and the Landlord (as landlord) on 29 July 2022 for the renewal of the
+                                           lease of the Premises
+
+   “Reporting Period”                      the six months ended 30 June 2022
+
+   “SFO”                                   the Securities and Futures Ordinance (Chapter 571 of the Laws of
+                                           Hong Kong)
+
+   “Share Registrar”                       Computershare Hong Kong Investor Services Limited
+
+   “Share(s)”                              ordinary share(s) in the share capital of our Company
+
+   “Shareholder(s)”                        holder(s) of Shares
+
+   “Sanctioned Countries”                  Any country or territory subject to a general and comprehensive
+                                           export, import, financial or investment embargo under sanctions
+                                           related laws or regulation of the Relevant Jurisdiction, namely Cuba,
+                                           Iran, North Korea, Syria, and the Crimea Region of Russia/Ukraine
+
+   “Sanctioned Person(s)”                  certain person(s) and identity(ies) listed on OFAC’s Specially
+                                           Designated Nationals and Blocked Persons List or other restricted
+                                           parties lists maintained by the U.S., EU, the United Nations or
+                                           Australia
+
+   “Stock Exchange”                        The Stock Exchange of Hong Kong Limited
+
+   “Share Split”                           the subdivision of one Share of the Company into ten shares of the
+                                           Company pursuant to the resolutions passed by the Shareholders on
+                                           9 June 2021
+
+   “Subsidiary(ies)”                       has the meaning ascribed to it under the Listing Rules
+
+   “US$” or “USD”                          United States dollar, the lawful currency of the United States
+
+   “U.S.”, “US” or “United States”         the United States of America, its territories and possessions, any
+                                           state of the United States and the District of Columbia
+
+   “YesAsia”                               www.YesAsia.com
+
+   “YesStyle”                              www.YesStyle.com
+
+
+
+
+54 YesAsia Holdings Limited Interim Report 2022
+
