@@ -83,14 +83,59 @@ https://finance.naver.com/research/company_list.naver
 https://finance.naver.com/research/industry_list.naver
 ```
 
-### PDF URL 패턴
+### 종목별 리포트 목록
 
 ```
-# PDF 호스팅 도메인
-https://ssl.pstatic.net/imgstock/upload/research/company/{문서ID}.pdf
+# itemCode로 조회 (페이지 인코딩 EUC-KR)
+https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660
+```
+
+### PDF URL 패턴
+
+목록 페이지에는 PDF 링크가 없다. 상세 페이지(`company_read.naver?nid={nid}`)에서 추출한다.
+
+```
+# 현재 패턴 (2026-07 확인)
+https://stock.pstatic.net/stock-research/company/{n}/{YYYYMMDD}_company_{문서ID}.pdf
 
 # 예시
-https://ssl.pstatic.net/imgstock/upload/research/company/1707109813424.pdf
+https://stock.pstatic.net/stock-research/company/15/20260707_company_38726000.pdf
+```
+
+**주의**
+- 구 패턴 `ssl.pstatic.net/imgstock/upload/research/company/{ID}.pdf`는 더 이상 쓰이지 않는다.
+- 리포트 등록은 발행일로부터 **수일 지연**된다. 당일 리포트는 없다.
+- 일부 리포트는 PDF 원문 미제공(목록엔 있으나 상세에 첨부 없음).
+- 짧은 간격으로 반복 요청하면 SSL 핸드셰이크 단계에서 차단된다(curl exit 35). 요청 간 1~2초 간격을 둔다.
+
+## 4-1. 한경컨센서스 (consensus.hankyung.com)
+
+로그인 불필요. 단 증권사 배포 동의분만 올라와 커버리지가 좁다(하이닉스 기준 한 달에 2건 수준).
+
+```
+# 목록 (기업분석)
+https://consensus.hankyung.com/analysis/list?skinType=business&sdate=2026-07-01&edate=2026-07-13&pagenum=100&now_page={n}
+
+# PDF 직접 다운로드
+https://consensus.hankyung.com/analysis/downpdf?report_idx={report_idx}
+```
+
+## 4-2. 증권사 자체 리서치
+
+- **다올투자증권**: 직접 다운로드 가능
+  `https://www.ktb.co.kr/common/download.jspx?cmd=viewPDF&path=/attach_file/RESEARCH/{id}/1/{YYYYMMDD}_{code}_{analyst}_{n}.pdf`
+- **한국투자증권**: `research.koreainvestment.com/streamdocs/view/sd;streamdocsId={JWT}` — Angular SPA 뷰어라 curl로 PDF 취득 불가.
+
+### 대안: 네이버 블로그
+
+증권사 리포트를 이미지/PDF로 올리는 블로그가 있다. 공식 소스가 막혔거나 등록 지연 시 유용.
+
+```
+# 본문 추출 (iframe 우회)
+https://blog.naver.com/PostView.naver?blogId={id}&logNo={logNo}&redirect=Dlog&widgetTypeCall=true&directAccess=false
+
+# 이미지는 postfiles.pstatic.net/... 에서 추출, ?type=w966 붙여 원본 크기로 다운로드
+# Referer: https://blog.naver.com/ 헤더 필요
 ```
 
 ## 5. 미래에셋증권 리서치 (애널리스트 리포트 PDF)
