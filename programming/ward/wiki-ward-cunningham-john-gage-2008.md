@@ -5,6 +5,7 @@
 - 자동 생성 영어 자막을 한국어로 옮긴 것. 화자 표시는 자막에 없어 대화 흐름으로 추정했다.
 - **JG** = 존 게이지(Sun Microsystems 공동창업자, 진행), **WC** = 워드 커닝햄(위키 발명자), **Q** = 청중 질문
 - 번역: Claude Opus 5 (Claude Code), 2026-07-25
+- 오역 대조를 위해 문서 하단에 영어 자막 원문을 파트별로 함께 실었다.
 
 ---
 
@@ -487,3 +488,860 @@ APL이나 J는 **3~5개, 많게는 10개짜리 기호 묶음을 하나의 완결
 ## 마무리
 
 **데이브 앤더슨**: 워드, 존, 정말 감사합니다. 매혹적이었습니다. 앉아서 생각했는데 — 세상에 이런 대화가 오갈 뿐 아니라 청중이 몰입해 앉아서 듣고, 게다가 말한 내용을 거의 다 이해하는 곳이 몇 군데나 될까요. 참고로 저는 리스프를 포기했습니다. 당신은 아직 리스프를 향해 가고 있을지 모르지만, 저는 은퇴하면서 포기했습니다. 골프만으로도 충분히 어렵습니다. 정말 훌륭했습니다. (박수)
+
+---
+
+# English Transcript (원문)
+
+YouTube 자동 생성 자막 원문. 화자 구분·문장부호가 없는 원자료이며, 위 번역의 파트 1~5에 그대로 대응한다.
+
+## Part 1
+
+[Music] hi I'm Dave Anderson I'm uh one of the trustees the the museum um out of curiosity how many people are
+here for the first time wow new members to be we're always recruiting members uh you know me membership in the
+museum is not only about supporting a wonderful Institute but frankly it's also become a social institution I
+think these these events are an excellent example of what I like most about this Museum and that is yes we've
+captured history yes we've captured something that um is really I think going to be preserved forever and be
+seen as one of the great turning points in history but we also capture it every day and that's really what
+today is all about is history is just happening on the topic of wiks and we're going to get to see it really
+as it unfolds not just as it occurred so archaeologically you're here on an archaeological Expedition it just
+has a pretty short time frame before we uh before we launch into that and and by the way I will uh I will at
+the end of this ask you who aren't members to become members and ask those of you who are members to
+contribute even more heavily but be before we launch in one of the things that we want to do is get the people
+in this room to know each other uh a little bit better uh you know we've we've got a bunch of people who are
+famous and a bunch of people who are going to be famous in this room uh you know some that are famous tonight
+we have have one of our fellows with us Doug engelbart Doug you could I guess when you're really famous you
+don't even have to stand [Laughter] up but we have we have another gentleman who comes to every event uh is
+someone that I think everyone ought to get to know I get to know uh Don when he actually did some Consulting
+on the subject of computer security for me at amdall in 1978 um you know you we had no idea that the problems
+were going to get to be what they are today but in that time frame he was even the expert at that time so if
+you would a few minutes from uh Don Parker [Applause] thank you for the short introduction it's uh great to uh
+support the Computer History Museum and there are certainly great benefits and so I think they got an ordinary
+member up here to extol the uh virtues of uh Museum membership to begin with I think we can all agree Among Us
+uh there are members uh that we have really great Wine and Food [Applause] and uh the speaker series is
+certainly uh an attribute of this U Museum a great attribute and before the speakers come on we have a
+wonderful opportunity to um uh have good fellowship and conversation among all of us old geers as well as the
+young whipper snappers maybe you haven't heard that term for a while but it fits amid the the historical
+treasures and Relics and Exhibits that we have in the museum I'm looking forward actually to a new exhibit
+that I hope someday that the museum will have it's on the dark side of computing uh complete with Prison
+inmate mugs of Infamous uh computer criminals from Silicon Valley I think that'd be kind of neat this uh see
+this uh speaker series uh sponsored by Sun Labs is very important and it gives us an idea of what has really
+happened in the past uh 50 years and also of course with great wine from the Mountain Winery and great food
+along with that um and all of this for the ridiculously low price of membership that should encourage enourage
+us all to give even more than the basic membership fee and I think I mentioned the Good Wine and Food um but I
+look forward to tonight's program uh on the world according to Wiki I was um in fact reading the wiki history
+of Sudoku just this morning and uh I've become addicted to Sudoko unfortunately and be happy to discuss
+strategies with anyone else here who is uh addicted but I especially look forward to the program in June when
+uh my old friend Bob Price will be here to talk about his experience with uh Control Data Corporation 52 years
+ago uh Bob and I learned computer programming together at conver San Diego on the univ ER 1103 computer and we
+worked in octal which even today bothers me when I'm doing my income tax and I fall into the octal arithmetic
+but uh it also bothers me as well working on Sudoku uh because I have trouble with the numerals eight and nine
+well here's to a great staff at the Museum a great volunteer PE who work here under the wonderful direction of
+John tulle and Karen Tucker and of course with sun Labs sponsorship so keep up the good work good exhibits
+good Fellowship good speaker series and uh I think I did mention uh Wine and Food that's great thank you
+[Applause] and the primary benefit of membership is good wine and good food and camaraderie well tonight John
+Gage is going to essentially interview Ward Cunningham on the the topic of wikis now the reason this is
+happening is there was a sunf Founders panel that that quite a bit of preparation was done uh for uh some
+month some months ago John Gage would not shut up about using a Wiki to organize everything and put all of
+this together I mean it got to the point that finally Karen turned to him and said okay we'll do a session on
+wikis thus tonight history is sometimes made in some interesting ways uh um John by the way did you actually
+talk to the Press on the way in oh yes okay uh John being one of the founders of sun got to uh do a little do
+a little talk with the the Press uh because of of today's uh today's changes at Sun every every company moves
+on um should should be an interesting change uh in any event uh you know I I've got a list of things here that
+you know this is one of those things that embarrasses you a little bit gee maybe I haven't done enough in my
+life um he's on the Board of Trustees of the United States National Library of Medicine fmy Labs the
+mathematical Sciences Research Institute net day schools online I'm not going to continue uh this is a guy
+that is clearly engaged in uh our environment and really understands uh what's going on in this world and I
+think we'll do we'll do an excellent job of querying m Mr Cunningham as we go so Mr Gage now back Ward on the
+other hand has the most interesting title I have ever encountered that is he is director of committer
+community development of the eclipse Foundation now I can't say I've ever met a director of committer before
+for but I'm I'm sure I'm going to learn tonight exactly what that means having some idea of what wik are about
+I can actually imagine that might be quite important you think we'll we'll see um yeah he's done a a variety
+of very interesting things uh you know mostly focused around software and software development he co-founded a
+uh consultancy Cunningham and Cunningham served as the architect for Microsoft's patterns and practices group
+I believe the way he stated that was uh I put a bunch of things in motion I just didn't hang around to see
+them come to fruition I think he believes he's changed the organization forever probably a true fact uh
+director of R&D at Wyatt software principal engineer at tectronics and actually is very well known for his
+work in extreme programming which uh a number of you may may well be adherence to extreme programming in any
+event it was really the wiki wiki web that uh caused us to want to hear from Mr Cunningham tonight and Ward
+please come to the stage [Music] [Applause] [Music] we have power good and I'm War how do I sound you got to
+move the mic a little bit closer over maybe yeah it's getting folded under the yeah yeah it's good good and
+how do I sound now good good I like this I used to say the foundation of American telecommunications was the
+ability of every American Teenager to put alligator clips on those little phone Connections in every apartment
+building that was the beginning of the fire tap well it's delightful for me to realize I hope that stays that
+Doug engelbart is here because what we're going to talk about is what Doug's been talking about forever and
+this is going to be augmenting human intelligence by allowing lots of humans intelligences to come together in
+new ways which is what you've been working on forever and ever and ever how do you make a community commity of
+Minds allow them to find a field of expression how do you do this in some way that focuses their thought and
+so the tool they use changes the way they think and I we you and I were talking about small talk and how that
+captured you in a way of thinking about the methods and uh ideas that have been driving you in some sense but
+before we launch into all of that you spent the last hour or two with your son probing the Computer History
+Museum what did you see tell me what you thought oh my goodness well I got I got to see the back room you know
+and in the back room there's a lot more stuff and uh you of course it's a little scary when uh when uh when
+when when you can walk through a history museum and say yeah I program that and I program that and I program
+that and uh and and and my son's smiling so it wasn't too terrible but uh uh oh you know the the legacy is is
+is phenomenal and the thing that struck me when we went to into the back room was for every machine of every
+era you can see in the visible storage uh there's 10 more by different designers uh done for a different uh
+you know aspiration or hopes or whatever drives people to design computers like that but the the amount of
+human intellect that's been invested in uh making machines in the last 50 years is uh uh I actually you know
+was excited by it I thought you know no wonder I love the field and and and I love the machines of course I
+look came up in an a I grew up in an era where you know every new machine was a new idea you know you would
+you would look at the machine and you would try to figure out what the idea that it embodies that uh that we'd
+never seen before and and uh then as people got better at writing compilers then every every new idea was
+captured in a new language and so uh you know it just made sense to try to every single computer because
+that's how you learned what the ideas were that's where they uh that's where the ideas were and then you I I
+noticed your website you are an absolute Computer History Museum person you have a hypercard deck still
+sitting on your website oh yeah oh yeah I I invested in a lot of uh a lot of technology that uh that I can't
+run today and I guess that counts but in the hypercard story because I think the hypercard story goes back to
+what Doug has been working on forever you've been working on you added to what Apple did a link you added a
+button that created a link oh and and my experience with uh uh you know and gosh you know the that hypercard
+had this card metaphor and that's because the screen was about as big as an index card you know it's it's kind
+of hard to imagine that today with screen but uh uh the when hypercard came out it was the first hyper system
+that was polished that ran on a computer I owned and uh that running on a computer that you own is is
+something that's important because you know you're willing to invest effort into it but it had you know kind
+of cute graphics and animation and so forth and I played with this and tried to figure out what hypercard
+wanted to be you know I I wanted to understand what the idea was that it embodied and and uh you know
+certainly the graphics was part of it but there was something more so I decided Well let's see if I can build
+a database and because there was a database too I think and I wanted to make a database of something that was
+ragged and irregular so I thought well how about my pet theory that uh most engineers and I worked at
+tectronics at the time a very engineering focused company that most Engineers wouldn't attempt to do anything
+if they hadn't seen it work before there was this real sense of you know conservatism uh when you know your
+design is on the line so I set out to make a database that tracked all the ideas that had floated through our
+company and what projects they were done on and what Engineers had worked on them and How They Carried that
+forward now the funny thing is that once I did this people would come by my office and they'd ask for a demo
+they say hey Ward I understand you have this new hypercard thing that every everybody's talking about can you
+show me what it looks like so I'd show them a little graphics and some animation and they said well that's
+cute but what's it good for and I said well let me show you this little application I'm building and and uh
+they could browse around and it would see a description of the projects in the company maybe some they worked
+on and once they didn't and they'd always say well this isn't quite right that's not what happened here or
+that's not why they ran that project or that's not what that manager was trying to do and I'd say well just
+correct it and they say oh okay and they would correct the information in the car and they loved it you know
+this idea of moving around a space where you have a description of something that you care about and finding
+something that's not quite right and just having the freedom to correct it right then and there was magical
+and you know seeing that work well not only that the people wouldn't leave my desk right I did do one trick I
+have to talk about and that is is uh the way you would make a link in hypercard is you'd go to the card and
+you'd say make a link and then you'd take that back to where you wanted it to be so you could only go to a
+card if it already existed and you know I had this subject you know all of ideas at tectronics Forever that
+was much bigger than my ability I couldn't expect it to be complete so I didn't use that feature I use the
+search feature whenever you clicked on a word it did a search for it and if it didn't find it it just beeped
+but if it did find it it went to that card and if you pushed and held even if it didn't have that card It Go
+create it and so the effect was you'd click on a word and say beep don't know anything about that and you say
+well I know something about that and you'd push harder and the card would appear now that now how many people
+here have built a Wei or play around with Weis does this sound familiar is that exactly the mechanism I had to
+find something that that felt like that using the widgets that were available in the worldwide web in 1995 and
+what I ended up doing is saying well I'm not going to do this mouse still down trick well instead what I did
+is I said as I'm rendering the pages putting them up on the display I'll look up every word every word that
+could be a link and I'll either make it link to the page P or I'll make it linked to the edit page and that U
+on Wiki on Wikipedia it's red links they call it they they color red or blue depending upon whether it's going
+to go to a page or go to a edit page which is basically its way of saying okay you tell me you know I can't
+tell you you tell me but but it makes for a top down editing which is a good fit with describing something
+where you're not sure where the boundary is something that just keeps going and keeps going and you really
+have to use your own interest to decide where to stop you you used a phrase I was listening to U public radio
+Paul auster the novelist people are saying we've just come out with a new novel and he said yes because I
+began to write this 20 years ago and the characters became so interesting I had to let them become what they
+wanted to be and you said the same about hypercard we had to let hypercard become what it wanted to be and in
+some sense when you brought tectronics Engineers by your desk and showed them tectronics knowledge emerging in
+this framework of links you were allowing tectronics to emerge as it could be the the tectronic story yeah and
+it turned out to be a lot different than I thought you know there's a lot more politics than I was aware of
+that was for sure I uh I actually think I buried that stack and I you know I don't think uh but no see that
+that came from I mean that belief that that any system wants to be a certain way and and that is designed
+designers we should be aware of what it wants to be comes from studying you know all these different computers
+and trying to figure out what the guys who put the index registers in there expected us to do with index
+registers and uh you know they had some expectations and once we figure that out then we say well let's show
+them a thing or two what we can do with index registers and that's where the creativity happens but you have
+to sort of understand the way the system wants to work and once you understand the way the system wants to
+work then you can uh put it through his paces and I I think this is true of anything that is Rich enough to De
+to to demand what we could call Design you know I there's plenty of things we work in our Liv that are so
+simple that you can't say you design with them but a computer is not one of them now you say design you could
+say architecture do you use those interchangeably those words well I do because I'm careless you know I have
+trouble telling where architecture or requirements or design stops and I actually like to be able to uh to
+move move back and forth all the time you know I mean if I'm if I'm even coding and the coding isn't going so
+well I figure there's something wrong with the design and if the design is confusing I figure there's
+something wrong with the architecture and if the architecture is hard I figure there's something wrong with
+the requirements and about time to change those so I'll just you know move around I want every program to look
+like it was easy to write even if it wasn't if it looks like it was easy to write if it looks like the
+language was designed to write this program then I know I've used the language well and and I search for that
+hey some artists out there great all right but it's art it is Art there was a uh another mechanism you created
+uh essentially an index card for those writing in an object-oriented programming language what are the objects
+what are the classes yes well
+
+## Part 2
+
+there's all of buzzing buzzing reality and all the comple the complexity of the world and it will be
+simplified so you created a tool again a a small field in which you'd say what this class was what instances
+the class might do and then what it did in relationship to others and you played with this card system so that
+it would emerge the structure it would emerge is that oh that that's a very good description and and and it's
+been dubbed CRC cards which stands for classes their responsibilities and their collaborators in other words
+you know when you're designing an object you want to know what class it is what it's there to do and who's
+going to help it get that job done and that's what I felt was most important about well most important maybe
+not what was most important but what was most original about objectoriented programming in uh oh I guess that
+was the mid 80s and I wanted a notation that really emphasized that now a lot of people at the same time were
+trying to figure out about how to do object-oriented design and they would come up with schemes that didn't
+didn't even really allow the object-oriented designs that I thought were most impressive in small talk I had
+spent uh a number of months maybe even a year at that point I can't remember again studying small talk with
+the same you know what does it want to be what are the ideas there trying to to uh uh you know kind of live in
+this code as if if I were there at the creation which I wish I were and I weren't but I felt what it was like
+and then when I looked at what people were saying oh you do this and you do that to find the objects and I
+says well that's not going to find the objects that I think are interesting so I wanted something different I
+wanted something that really focused on the aspect of objectoriented programming that I felt when I looked at
+this great code and uh I don't know if if people remember but back then people said well the key to object
+orent programming is classification being able to say what is the hierarchy and they talked about the Dewey
+Decimal System and stuff like that and I said no wait a second it's not about the hierarchy it's about how
+these objects share to get the job done how they share in such a way that you could pull one out and plug in
+another one but that and it would do something else but it would be the same calculation in a sense and that
+feeling of what is the ideal sharing was uh something that I thought people were pretty good at doing
+intuitively even if they weren't computer experts so I just tried to get away from the computer do it on index
+cards the nice thing about index cards is you can spread them over a table another nice thing is you can get
+about 150 of them out there when you really only needed 10 but then you start you know kind of pushing them
+until they fall off the table and and and you get the 10 that everybody nods when you're when you're holding
+you say this one and this and this is going to do this and you tell a story and the cards are like little
+puppets but you don't have to do the puppet thing so it's professional and but but it it relates to you know I
+mean when I was in programming we were taught not to personify you know not to say the computer's going to do
+this you know because too many bad things were blamed on the computers when it was really the computer
+programmers or their managers that uh but but you know I think that that's really important for us to use the
+facilities that we have to see a collaboration or the sharing of work because I think we are as humans we
+understand that behavior and uh you know we want to bring all those faculties to the table so there's the
+table yes and there are the 150 cards soon to be 10 yes and there other people standing around and you point
+to that object and you say now he wants to do this or this guy wants to do that and this is the other ones and
+you tell a story is that the kind of language oh exactly exactly and and what I'm trying to do is get away
+from uh the names of classes this is going to be an ordered collection or this is going to be a polymorphic
+dispatch or whatever because that just drives people away from the table what I do want to do though is I want
+to talk about the computer program not about you know the domain I want to talk about how we're going to
+computerize it in the presence of people who know the domain so that I can see whether they're feeling good or
+not ah well now there we are because there's an object and at one point you used an example about a business
+program in which the definition of a month in healthc care meant different things to different people oh yes
+tell that story oh did I tell that story well at some point you told that okay well that that was an
+interesting one because uh we were developing it was Financial software and and it turns out we were doing a
+trading system and you know the number one thing they asked for is let's not rekey the information to go into
+the back office so we wanted to capture it and then do the back office stuff all at the same time and it turns
+out we had lots of bugs and we'd track down the bugs and we'd talk to different people and we got a different
+story about when a day is you know you think I mean the the first thing you have to realize as scientist would
+say a day is you know something about the orbiting of the Earth but you know in in business it's when you go
+home right that marks a boundary of a day and so they work in whole units of days but it turns out the front
+office uh because they were trading all day long they said my day is everything up to but not including AC
+crude interest but the accountants in the back office say well I have have to take the acred interest and so
+I'm going to put the acred interest in the day that it accured so there's you know the way I think of it now
+is that there's a some period where you're trading and then there's some period where you're not and that
+period where you're not is acrude interest and then that repeats over and over and you can chop that up into
+pairs two different ways and they were just different and they didn't even know it so by moving the objects
+around and saying this would interact with that it clarified the language you're moving oh I wish I wish I
+could say that were true no in in this case we actually had to program it and we had to hunt those bugs and
+and and it was it was probably uh a year into shipping that uh well well one of the problem is is is if you're
+if you have a bond where the amount of interest is the same every day you can't tell the difference and that's
+what government bonds all you know you have to have all kinds of things varying to even see the difference so
+it wasn't until we we had fancy security you we thought we did it right we did exactly what the customer asked
+for and both the front office and back office were happy but then we started doing fancier instruments and
+they started complaining and we thought well it must be what we put in but we checked that that was all right
+there was some deep seated misunderstanding and we went to the customers they couldn't explain it but we
+didn't give up we kept looking we kept looking we said there's something wrong and when we figured out that
+they weren't talking to each other correctly they weren't communicating but they couldn't tell because they
+were communicating well enough that there was no confusion especially with fixed rate Securities but the
+computer the the the the insisting that it be right to the penny when trading billions forced us into the
+situation of discovering something that they didn't even know and so um the other neat thing is that we fixed
+it you know and that's and that's something that I think is something I feel strongly about is you don't know
+when in a project Insight is going to happen here I could tell you all the reasons why the fixed rate the
+misunderstandings and whatever that prevent people from knowing everything they need to know there's no way we
+could have interviewed all the people and and found that out although I have found things in interviewing and
+it's usually about what people care about by the way a good technique is is you got a bunch of customers and
+uh when things when you ask really kind of hard questions and everybody look over to Fred well pretty soon you
+know Fred's the only one you ever pay attention to because he's the guy who really knows and uh you know I
+think that people do that socially a lot and so you get to pay attention to I mean if you design in the
+presence of people who are going to use these systems you begin to realize you know what the social decision
+making processes really is and you can adaptt to it in building a Weeki the idea was to build a structure in
+which that social interaction could take place and you struggled with these issues of anonymity or is it Fred
+I mean all these things go on so how how did that evolve well kind of you know just working my way into it uh
+you know I think I to be honest I I have to be you say I was extreme lucky you know that that I had a simple
+goal I had seen this thing in hypercard hypercard fell in my lap I made good use of it uh I had a pretty
+specific ambition but then as things presented themselves as opportunities happened I said oh well I need to
+provide some guidance on what is or isn't the right way to use this and I I provided that guidance by you know
+kind of half watching what people were're doing you know in the same way now I'm inspecting people the same
+way I inspected computers you know how do people really want to behave uh but there was also things where I
+think there was a lot of you know sort of dysfunction in our industry the way people uh respond to Authority
+and so forth that I that I thought it was very important where if somebody wanted to say something that was
+controversial if they want to say in my experience a lot of time spent in design doesn't help at all they had
+to be able to say that and not worry about it and I thought that it was very important to be an anonymous now
+anymore we suffer a lot of problems and we'd like to know who the heck posted that you know pornography site
+and so forth so I think we're going to see maybe the end of anonymity but the uh the the idea that we were
+going to talk about software in a way that didn't match what was written in software engineering text and we
+wanted to be taken seriously was a very important part of the site and I wanted every time somebody made a
+statement and was taken seriously to encourage the next guy to make a more truthful statement about his own
+experience her own experience programming because I knew that uh a lot of people expected a lot more out of
+programming than they were finding they weren't enjoying their work they weren't feeling proud of the programs
+they wrote and uh I wanted to change that I thought programming was great and I wanted everybody to have that
+Joy so how did your interest in pattern emerge did it build from this this experience with small talk and with
+attempting to understand what exactly the objects should incompass what where were their boundaries and how
+they interrelated into patterns of inter relationship yeah it's it's uh the simplest answer is I had this idea
+of writing all these responsibilities on cards and and then I thought well gee I keep writing the same
+responsibilities there must be you know like 10 and if I could just list them then it would make design a lot
+easier but then every time I tried to make the list you know it was a little elusive it seemed simple you know
+but it's kind of like asking somebody you know how many words do you know you know well you know a lot of
+words and they come to mind and you need them but you know you just can't write them out in alphabetical order
+so I was having this trouble and uh uh came across it was actually uh uh old friend Bill Croft had sent me a
+book this pattern Language by Christopher Alexander sent it to me years ago and uh I wasn't sure what it was
+but it was interesting and that came back up and we're looking at that we said well that's that is what I
+wanted when I wanted a list of responsibilities when I wanted to say what would this object do Alexander
+discovered a way to list them and it was more complicated than a simple list and that then all of a sudden it
+made sense so then I thought well okay all I have to do is exactly what Alexander did he did it I'll do the
+same unfortunately he wrote another book where he explained how he did it so I just read that and he made it
+sound simple and and we down to do it and and still nothing came out nothing came out I but I knew and and we
+called it patterns because Alexander called it patterns and uh I wanted them now here's the funny thing the
+best patterns I got early were when I saw somebody screwing up when somebody was doing a terrible design and
+I'm thinking oh no you don't want to do that you want to do this and this and this and this and this because I
+was in this design state I saw something where somebody missed some information and I was like oh well let me
+tell you what you need to know you need to know this and this and this and this and this and then I just
+stopped and I said what were those five things and I just wrote down their names and then I said okay now let
+me go cast those things into alexandrian form is you know what is the problem and the solution and the context
+and all that stuff but it took that need to design or that need to express uh context of design or what
+whatever that knowledge is that need to say you don't have the experience that you need to complete this
+design to bring up the knowledge you know to reach into my experience and say hey buddy this is what you need
+to know and and to this day I haven't written good patterns except when I've had that that urge to spill my
+guts and it's usually on somebody else's design because when I do it to my own design I'm doing it subcon
+iously all along so I don't ever notice that dissonance but if I'm looking at somebody else's I'm not saying
+I'm a great designer but I'm just saying that I feel the dissonance and the need to produce suddenly comes out
+like that so I encourage other people to pay a lot of attention to how they feel when they look at design
+because that that feeling of whether you're excited by the design if you feel like boy when I master this I'm
+going to be more powerful uh I really respect the people who did it uh that that is in a sense recognizing
+patterns that match what you have in your own catalog and you say oh these patterns fit in but when you see
+stuff that just doesn't fit at all that doesn't mean that it's necessarily wrong it just means that it doesn't
+match your experience but it probably is wrong describe a little bit more this the feeling you you when you
+first encountered small talk you had a feeling about yeah Small Talk salesman huh how many small talk
+programmers here uh a couple hold out small small small talk I'll tell you I thought of what what really set
+me off was was reading uh don Cano's elevator simulator and I did this in college and you know I was learning
+all this programming but when I read about the elevator simulator I could see that event queue operating and I
+could see that elevator going up and down and every elevator I've ever stood in line waiting for you know I've
+just imagined that elev you know I mean it became real to me so I I a a a way to think about that is I thought
+of a computer program as a mechanism as a model for something real I didn't think of it as a real thing but
+it's a model I didn't think about it as a user interface I didn't think of it as a database but I thought of
+it as a model and I tried to write my programs that way but in small talk that was the only only way to write
+it there was a focus there was an intensity it says you make a model everything's you want to make an
+interface the interface is just another model you know this whole thing that the computer is there to model by
+what is essentially discreete events uh and it helped that the book said oh and by the way we'll show you how
+this works with a nice discrete event simulator just brought it home but I think that's an attitude about how
+programs work that uh I I found very attractive and it spoke to me now each language you learned spoke to you
+for a reason for a moment for a design problem the lisp world that wonderful symbolics environment that people
+created these levels of abstraction the ability to enhance the programmer to think in levels of abstraction
+what were other experiences what's your emotional history about Lis and and and uh lisp is one of those that
+has always been just beyond my reach I mean I think I learned it all but then I read and now I think I
+understand what it is is that there isn't one set of patterns for lisp you know that that everybody you know
+and I I think the the the the quotable quote is that lisp isn't a language it's a building material you know
+and it it is too too easy to invent the new paradigm of computing before you get to work on your program and
+list and it was it was hopping around between all those paradigms that I couldn't do fast enough so I wish I
+you know and it's still in my list of things to get good at you know because I think it's you know one of the
+most you know essential complete and elegant things made in Computing but uh the fact of the matter is and and
+this will get us to you know a nice segue here I don't think it's possible to learn list really well without
+being in a community of Learners you have to be in a community to have enough exposure to the what and the
+where you can't read the code enough of it fast enough to really get lisp deeply unless you're in a community
+where people are saying oh yeah look at this and try this now and oh that one stumps me too I think that's
+actually bad code you know and and this be
+
+## Part 3
+
+because that's where all the great all the great Lis code came out of communities these Labs AI Labs where
+people could get indoctrinated into this in this style Small Talk was like that but not like that it was said
+oh don't invent the style use ours message dispatching objectoriented and it was a pretty good one it had all
+the characters of lisp that you would want if you had already decided that was good enough for your problem so
+it was the the easy way to see the productivity of that U Lis is still a challenge oh I would say that uh you
+asked what other languages uh certainly prologue is a again kind of a taking something that's easily done in
+lisp and refining it in a in a specific language let's make a language that's only good for that uh I've
+always enjoyed uh the effort I've put into at first APL and and later J is a uh J programmers all right yeah
+and I'll tell you the you know when I talk I mean you cannot program an APL or J without seeing strings of 3
+to five to 10 symbols as complete patterns you know I think more properly they'd call them idioms but it's
+very idiomatic and uh J is a a version of APL that you don't need a special font for that has an even even
+more carefully developed uh semantic for making that that pattern structuring just a natural part of the
+language the the the most outstanding thing is that you can write non-trivial subes that don't have any
+variables you know it's just operator after operator after operator after operator and there's an implicit
+input and an implicit output and and honest to God you can train yourself to look at that and see what it does
+now that's an intuition you're building an intuition would you this would you accept the word intuition into
+this uh discussion of of training yourself to see when you're looking at a design and you've said oh no no let
+me tell you the five things you have an in intuition about that is it capturing some some aspect of behavior
+I'd like it to capture or is it missing it I I I do believe that uh I am an intuitive person and and it was
+difficult to get through quantum physics because of it but but really what it was I'll tell you the second
+time through it actually started to seem intuitive that's notation each that's that's right it it so I think
+what's really going on in intuition is that what you're looking at fits with your experience or or more
+importantly what you need next is provided by your experience when you reach into your experience when you say
+okay I see what's going on I see the pattern here the next step is this then you can do a lot intuitively of
+course uh you know it's great when that fails you to have something else to fall back on like you know a
+careful derivation or something like that all the things that uh science is relied on to keep from getting
+stuck in you know Feelgood philosophy you know and say oh well let's just be careful and move in Tiny Steps
+and whatever but but in intuition really lets you jump and and I I say when it's working for you go for it you
+know use that intuition uh I think that it's it's something that uh scares people I think there's a lot of
+intuitive stuff written on on on on wikis for example you know I say hey anybody can write you're your idea
+starts out as good as anybody's and people just start writing and they're writing about what they believe or
+they're writing in a way that they think you know even even on Wikipedia where you're not supposed to write
+about just what you believe you're supposed to site sources but how you choose sources in that is there's a
+lot of intuition there and it's one of those things where uh because of the numbers involved because we can do
+this with thousands of people uh even if we're you know we're really just polling people's opinions when we
+watch them right all of a sudden those opinions become important because they're of a statistically
+significant sample in fact in fact I love this description you know someone asks you know how do we know Mark
+moart was good you know well people know Mozart was good because people clapped at the concerts right but you
+know if you went and didn't think it was good and everybody around she's clapping pretty soon you're clapping
+and pretty soon you say well maybe it is good right so there's this this uh cycle uh there's a a feedback loop
+that goes through our human experience and appreciation and judgment that actually chooses what's good and
+what's good and it picked Mozart and it didn't pick small talk you know so now I go elsewhere to program and
+but uh that doesn't mean small talk or List point value or even J but it it does mean that uh that the
+movement of the industry you know is is a human activity and that uh uh it makes sense to honor it as valid in
+some sense but it also makes sense to try to it in directions that you think are important part of your
+nudging in building an environment your so the audience can have someone Eder that doesn't know about Mozart
+others know a great deal you allow entry lowest barrier to participation possible so anybody canate you don't
+need to come up with a replacement for the entire first movement if you didn't like it you can add change a
+note there I didn't like that maybe sound pretty good you're allowing a gradient of involvement so that
+Community people can keep walking in joining the audience participating in the feedback that seems to be what
+the Wei well well I think I think what you really are is talking about you know improv Jazz there you know I
+mean where the musicians know a certain number of patterns and just play what they feel like playing that
+night and they can't do it in the the practice room like they conf front of an audience because they are
+communicating with an audience in a very real sense now doing that in Wiki is a little more uh remote you know
+you have to watch Wiki for you know weeks or months to really kind of feel where people are going but I'll
+tell you when I first time I posted uh something on my own Wiki and uh uh someone politely came along and
+explained that's not how we do it around here right then I I looked at what I'd done and I said well I guess
+they're right you know that isn't how it's done around here and I apologize you well now now in but one of the
+most startling things for me is there is the neutral point of view yes a goal and behind it the page of
+comments and battles and insults and and and but startling to me the politeness people exhibit to each other
+when they're battling on the comment page on the uh uh what's the problem we can't be sure that they were
+always polite somebody might have just taken out that yeah you know that's uh I wish I could say that was my
+invention but I met the fellow who invented the talk page who who oh gosh I wish I remember his name but he
+was early wikipedian who realized that people wanted to talk about what was written and they couldn't talk
+about it in the style of a Wiki or in the style of an encyclopedia and on my Wiki I said I don't care I'm not
+making an encyclopedia I'm inventing a new literature which is about the experience of programming so as long
+as you're talking about your experience and you're honest then that's enough but but Wikipedia took the same
+mechanism and says we want to set a different goal we want to be an encyclopedia for well I think it was every
+every person on Earth in their native language you know that's a nice goal and and uh and I think they're
+going to make it so uh but they they said you you need you know to to keep it from being a free-for-all you
+need set some sort of criteria to judge good and it has to be kind of open-ended so I said well it reflects
+your real experience they said that it's written from a neutral point of view and I can't tell you how many
+times I'm talking to journalists and they say well how can there possibly be a neutral point of view well the
+answer is there can't I mean there is no neutrality on anything that's really a challenging question but what
+you can do is you have this ideal you can say well what if there were a neutral point of view what would it be
+like and let's try to be more like that so when you have a fight when you say you say this I say that who's
+right a third party can come along and say here is the word usage which you're using which is not neutral and
+boy I'll tell you they've gotten good at it if you if you go up and read their Pages where they have advice to
+how to write in a neutral point of view it is it is so steeped with experience gained in the last five years
+in how to coax people into writing about things that they're passionate about while burying a little bit of
+that passion while sticking to what's known to be true it's a it's a great writer's guide it's it's
+manufacturing a bunch of Encyclopedia editors now is it helping manufactur software developers let me just
+quick ask a logistical are you guys hearing a ringing in the audio no if we is there something we can do to
+this we're getting more in the field of the speakers but it may just be we're getting a bounce off here better
+if we disappear we move too far yes that's right all right testing testing is the ringing better it's better
+is it me it might be that I talk too softly what if I move this I think the Ring's gone is it gone it's better
+acoustical engineer hey wait a go halfway wavelength all right so keep your voice down at about a meter
+wavelength and we'll be just fine so I feel you know whenever I look over this way I turn away from the mic
+and it makes me want to turn this way it's it's not just John it's but but maybe I'll turn this so that I can
+uh talk to this side of the room a little bit hey well talk to that side of the room talk to Doug angelart now
+now now now you just asked me an interesting question and and I forgotten what it was oh no I forgot have to
+play it back what was the question oh yes oh program okay you know the the uh uh I think grappling with
+difficult questions I mean a lot of people hate to to to see arguments they especially when they're paying
+both sides right you know if you're the boss and you're paying both engineers and they're arguing it's like
+why can't you guys just pick something and go with it well it turns out that that that grappling you know in
+in addition to trying to come to a better solution is cementing so much experience it's what it's it's it's
+the it's the learning process if we want to do really great software we have to learn you know the thousand
+things that are necessary to do it and if we don't let people grapple with the problems and and go through all
+the choices and and see how they play out including writing stuff that you could probably pull out of a
+library but writing it and seeing what happens that's when you get the Insight that's when you fill the back
+of your brain with enough stuff that you have intuition that's useful and so we have to keep doing that now um
+so this is an argument for pulling back the covers a bit so you can see what people often say oh the great
+idea in object-oriented programming is to hide the implementation the method the me how you implement a method
+doesn't matter but you're saying you should allow people to see that because there are better and there are
+worse ways the yeah right so so I believe the real the real achievement in object-oriented programming is that
+you don't have to read the implementation of what the message is being sent when you're reading the method in
+other words you can read it very quickly because you say oh he's sending this message I bet I know what that
+is let me read the rest of the method and see if it makes sense and when it doesn't make sense or when you're
+worried about something else like maybe accidentally doing a n cubed algorithm because you didn't look at what
+the method did I mean that when you're writing the method you really do need to know what it's going to do you
+know you need to understand deeply how it works but you don't have to read it as you're reading the code you
+can read it in in passes and and it's exactly like this in Wiki uh and and more so on my Wiki than Wikipedia
+because Wikipedia is more about history and you know you don't necessarily want to look up the date but on
+mine where we're talking about programming which is a very complicated experience among practitioners that
+needed new words to talk about what they were doing they would Define new words always phrases they would
+Define phrases that that spoke to what they cared about and then there'd be a little discussion of that phrase
+but then that phrase just enters the vocabulary so there's this vocabulary that the people authoring on the
+site have which is about the conversation and when you read a page and you've been reading it for a while you
+just read past all those words oh one is uh you aren't going to need it that's an argument for not building in
+features for the next programmer well you say you aren't going to need it that's been argued for a long time
+but you could be going along and reading something that says yeah well don't forget you aren't going to need
+it blah blah blah blah and that'll be a link and nobody's going to follow it because that's always been
+discussed that word is in the vocabulary except except for the new guy who's coming along and reading and says
+what does this mean what do you mean you're not going to need it this guy's arguing against design and he's
+going to go click on that link and go get that history so uh this idea that that I mean it would be like
+saying uh I mean if if you clicked on the link and says well we aren't going to tell you because you're not a
+level two Master you know then then uh well then you're going to have a lot of people who will never be a
+level two Master is what you're going to have that seems you know the goal to to to allow as many people
+particularly those that are entering names unknown they're on the net they're now Hing this brand new world
+they're coming from everywhere they want to have a pathway to understand understand how to become a level two
+wizard they want to there are Wizards there I'd like to become one how do we build the the weaky in the
+literary or historical the Wikipedia environment has brought sometimes contributions from I'd say hundreds of
+thousands or Millions a steady pattern of contribution from maybe a few thousand I don't think it's a hundred
+thousand I think it tails off the the amount of contribution that individuals make in this some people do a
+lot yes and then others dip in and dip out and make a work only in a small number of articles in the field of
+programming we' like as many people to participate to some degree as possible and move up the gradient what do
+you think is a good direction to take to encourage that do we have the tools at hand oh that that's a that's a
+challenging question and uh I think that that most of my life has been spent with people who I think are
+already already consider themselves professionals but don't find that they have the productivity or the
+creativity or whatever of the guy down the hall that they really admire and the question is how did that guy
+down in the hall get so good you know and you know in the quiet of your own cubicle you know you sit there and
+you think well maybe I don't have it maybe I'm not good enough to do it when really all that's happened is you
+know he's written more programs like the one you're working on now than you have and the simple answer to that
+is to get in there and finish this one because that'll make you one closer to being that Guru but it's not
+enough to say oh I worked on it but I didn't understand it you have to work on it and you have to understand
+it you have to see the consequences of all the decisions whether they're good or bad or in favor of customer a
+or in favor of customer B I mean the richness of the space is so huge that it takes a human mind to grocket
+you know it's not some formula that can be put in a textbook you know so so seeing the richness of the
+experience of interacting with a complicated computer program and a complicated Community is something that I
+think everyone should do as much as they can and oh gosh I was talking to some guy today about how sad it is
+is that you know that our PCS Ship Without programming languages you know it should be there you know that
+there that every computer ship should be programmable as shipped you know and I don't care whether it's I mean
+hopefully it wouldn't be a terribly complicated way to program but it's should it's just programming if you
+have a computer you should be expect to be able to program it and that that I mean people look at me and say
+well programming is a terribly boring thing why would people want to do that and I said well yeah but see
+that's what I want to change it's it just shouldn't be boring now what are you program in what are you writing
+in these days off Java you know I uh uh you know I love small talk but anything I can do in small talk I do in
+Java and when I'm not programming in Java I am I have to admit addicted to Pearl you know L write a lot of
+pearl now I have to say that I spent 15 years as an object Zealot you know and and I wouldn't settle for just
+anybody's objects I wanted Small Talk objects because they were the only true pure objects and that was a
+world where I had everything in my space was in these nicely parched out objects that had this beautiful you
+know structure and nicely Divi I mean it was great environment it was very empowering and it was kind of
+waning and the internet came along and I got to looking at the internet and I said wow the internet really
+favors text it doesn't want to send objects around it wants to send text around and uh I said well gosh you
+know I got this Unix box here and it's like it's a text machine it's got all these text in it and you know and
+I thought I'd walked away from it and I said well I got to I got to read reevaluate I said well you know I
+thought I thought that was the old school and I said well man this is this is it but then I said well I got to
+have you
+
+## Part 4
+
+know so the text in the hierarchical file system was what I had instead of objects and then I had to say okay
+so what what do I have instead of methods and that's when I you know well this was 1995 and pearl was pretty
+healthy then and so I started programming in Pearl and I discovered it was pretty nice you know and I'm a guy
+who was pretty happy with APL so you know having that you know the saying is it looks like blind noise and it
+and it did but I could parse it the uh the thing that I really when I say I programm in Pearl what I really
+did is I had a file system that worked I had a web server at worked and I had this CGI mechanism that worked
+and I had a browser that worked and I had these four gigantic pieces that had a huge amount of history in and
+what I was really doing is picking a part what does the browser want to browse what does the web server want
+to serve what does the file system want to store and how does Pearl want to hold it all together and that it
+did very well and so I became addicted to and the first Wiki was written in Pearl it's been written in just
+about everything now uh the winner of the smallest Wiki contest was five lines of python I think so if I've
+offended any python zealots I I will admit that python kicks butt too so so uh but but something happened when
+I looked at Pearl and and I understood open source you know from the earliest days of Richard stalman and I
+said well that's interesting but I got all the software I need and it's already paid for so I didn't care
+about that but when I saw Pearl and how nicely it was put together and and how fast it compile how you know
+just how fast it was and how few bugs there were I said this is amazing who wrote this you know what community
+wrote this and I and and that's when I realized that uh open source had achieved something that I considered
+truly creative uh you know I I felt that you know Unix was pretty well designed and knocking off a few device
+drivers was a lot of work but it you know just getting getting that open was you know nice engineering but but
+but making this Lang and having a whole Community come behind it and getting from Pearl four to Pearl five and
+stuff like that you know whether you like it or not I I it really is internally very self-consistent I said
+this is a great piece of work and that's when I said you know I love the small teams closely interacting this
+is huge teams closely interacting but on the internet and I I was paying attention to it and I think there was
+that was in the back of my mind and I that helped me say well let me let me push forward on this Wiki thing
+and I think there's always been a lot of confusion cuz I was not an open source sell it when I did Wiki but it
+was open it was an open source I actually did a rather bad job of giving it away I got an email today from
+some guy says here in the book it says something or other but in the light you know because I didn't put a
+proper license on it you know I I I looked at all these licenses I last thing I want to do is read licenses so
+I just wrote some careless English on and says Ah Yeah blah blah blah well not a good idea not in today's
+world read the licenses understand them decide what you want to do and it it was only until later that I
+bothered to read all the licenses and and here's a tip you know when you're reading these licenses you know
+you get the feeling that uh you'd like to have a high- paid lawyer to help you understand them and so um but
+don't worry about that you just use license and if you have U successful software there will be high paid
+lawyers that will come and talk to you right this sounds as like similar advice to Young programers start
+using it and if start using it and and it's amazing what you can learn they'll come back and talk to you it's
+time for questions from everyone here we've been talking for quite a while way in the back is there let's see
+if the microphone can reach you oh no I guess the better idea here is to put a microphone some here and people
+can walk walk up to the microphone that would be a good idea spatial organization intuitively will be able to
+know who to call on that's what it'll do um my name is Dominic and just an observation that you were saying
+you're very happy with uh Pearl um I think I I knew I was going to get in trouble for this well I think
+Pearl's great but what do you think about when you actually read the Pearl that a lot of the Pearl can just be
+very hard to decipher if you haven't written it and just the maintainability I the question is uh what do I
+think about Pearl from a maintainability point of view and and and I will say that uh I've written so much
+Pearl that I've developed a style that I can read my own old code I have written in programming I was a real
+fan of Icon which is a really kind of a very clever language and I found I couldn't read my old programs even
+though they had carefully chosen variable names and not too many symbols because the valuator semantics and
+icon required me to think of too much at once whereas Pearl's pretty straightforward it's powerful but it's
+pretty straightforward so once you learn to read past the uh you know the the noise symbols in there uh I I
+find that I can uh keep it going now it is true that you can adopt the style this is the same criticism I had
+a list that you can adopt a style that uses Pearl in tricky ways that make it look unlike anything thing I
+would have ever written and I probably just wouldn't read it I'd probably say oh don't understand that one
+let's go on so and that and that I think is a good reason to if you try to use Pearl in a community setting in
+in a commercial setting with a team of developers you ought to have very strict coding standards or maybe
+think of something else like maybe Java and are you looking at Ruby Ruby Ruby's awesome too I think Ruby has
+some of those little you know wormholes that you can go through too and you can uh uh but but maybe they don't
+have a tradition for using it so much but Ruby in fact you know Ruby python Pearl even PHP just in my mind is
+a set of languages that came out of the community to serve the community and uh there's a lot of family
+resemblance you know the use of pattern matching the hash tables stuff like that and uh family differences you
+know like you know don't want to use curly brackets so we're going to do this thing with tabs and and you know
+it's like each each Community got to pick one or two things to be different at but you know like I said I like
+that so so uh yeah Ruby rocks thank you gu it's think you you think of tickle just a little tickle I forgot to
+say tickle yeah tickle's a tickle actually taught people that they could do that as what I think happened
+there's a John Gilmore who was a long-term job job long term APL programmer i' challenge him I'm going to show
+you a piece of code you wrote and Gilmore has a tendency to write more or less looks like a assembler of right
+so how many days is it that you can still understand the code you wrote one day a lot of APL code one day
+later I'm sorry couldn't two days did anything last a month that you could actually go back I still remember
+those exercises all of known statistics on one page do it in APL so so so so APL had this interesting
+phenomena where you you'd have a problem and you'd like have a three-dimensional array that you were
+processing and and you'd get stuck and you say well let's just slap another dimension on you and you're up to
+four dimensions and then you have another problem so you you you layer some stuff on here and you're up to
+five dimensions and you just can't read that because you can't think of that then you do it you do it outside
+product of five oh see he's done this right right right then you do this one power operator and it all
+collapses standed so well and it's so brilliant and then 20 minutes later you sck all right on this side sir
+you spoke of people disagreeing on things they felt passionately about and using loaded language and you
+mentioned a guide to to writing in more neutral language what was that guide oh gosh um what what I saw was uh
+on Wikipedia uh if you go to the section uh which is you know guide to authors they even break it down to say
+well if if you want to write about this you want to do this if you want to you know from from new author and
+uh of a subject matter expert to uh uh you know volunteer Arbiter of dispute they they break it down nicely
+and I I don't know the name of the page but it wasn't hard to find a reference in Wikipedia it was in
+Wikipedia and it was written to people who were going to author in Wikipedia But the quality of the advice
+just dripped of their experience and and and again this is a a huge Community that's having new experience
+every day and they're used to writing so it's I think it's very good the book you early found influential
+patterns and something and the author was Alexander was a Christopher Alexander wrote a series of books and
+and he was a Berkeley uh uh building architect now I think in Oxford that it's Oxford University press there
+are three in Oxford University one's about Oregon yes so the uh since I live in Berkeley this is a so these
+were beautiful books that would take a very there was a hierarchy in them and they'd say so to build a
+building well let's go to what you would like in a room what would you like in a room probably light coming
+from several different directions in the room wind rooms that only have Windows on one side or sort of so
+you'd have these patterns which were and he went through some of the old Berkeley beautifully designed homes
+and found the little Nook that the kids love to hide in that's a pattern there's always a place that a kids's
+hidey-hole th this is a dangerous book because when you read it you'll never look at a building the same yes
+exactly but he just wants to read it so that the title is a pattern language a pattern Language by Christopher
+Alexander and then there's a several also Oxford University press and now he started up again with the series
+I guess there three the new series about the nature of order and some of it's mathematical and some of it's uh
+he'll show you phies philosophy yeah so so so the book that helped me most was the book called the Timeless
+way of building and that had a little bit of pattern language in it but mostly it told you why he wrote
+pattern language the way he did and so that that was very helpful uh it fair amount of kind of Zen philosophy
+in this and if you don't aren't into zen you just read past that and just say well that's just how he talks
+sure hi W I actually have two questions uh first I'm wondering how you feel about companies commercializing
+wikis uh and second I'm wondering uh how you feel about um startups or companies that are actually using wikis
+uh not just to collaborate on text but to actually build and collaborate on applications how do I feel about I
+think it's great I I think that uh um you know what a company that builds on Wiki is doing is not inventing
+Wiki because I did that what they're doing is they're saying I'm going to take this to a customer base that
+ward has been ignoring and and going out and understanding a set of customers and say I'm going to help you
+get the value of this thing called Wiki is exactly what companies exist for I think that the creativity the
+originality of being able to have a hunch and follow it through and publish it on the internet and find you
+know a thousand people willing to try the experiment with you is is what the internet is for and and you know
+I just pray that we always can can do that that that doesn't get taken away from us but that that uh um having
+people build on that to uh to to create value in specific customer bases is is absolutely apropo uh I I do
+sometimes think you know as I as I study this uh this notion of Open Source versus uh I guess you'd call it
+concealed Source the the uh because I because I value reading source so much to understand uh I would like to
+see more sourced public but not licensed for reuse saying you can understand this but we did this and we're
+selling it but we're not we're not enforcing our will by encrypting it into machine code in other words the
+fact that there is source code and machine code is I think almost an accident of the ER of the machines down
+in the uh the first floor here that that weren't big enough to hold the whole program at once and that that
+there's a lot of history about that source code that includes denying programmers the ability to see how
+programming is done and that we should you know reveal more source code even if we have no intention for
+people to uh to reuse it and there could be some reuse but who cares you know what we need to if we need to do
+that to keep the industry going let's do it open the interfaces now you've often talked about these the tool
+of email or not often talk but the tool of email powerful yes tool of Discussion Group and the tool of weekies
+serve different purposes so there yes I I think email has been so successful that it's overused you know that
+too much stuff has been put on email and because of that you know we're we're simply overloaded what one thing
+that I knew I was going to get and I was really after and Wiki in the beginning was something that I could go
+away from for a week and come back cannot be lost now I talked a little bit earlier about how important I
+thought it was that somebody new to the site can pick up the conversation well that could be me after vacation
+right because I have to be able to pick up what's going on and I don't want to feel that I'm behind you know I
+just with email with email you know I come back and there's a th in the inbox you know and I don't pay
+attention to them as I'm going through them I'm just trying to get through them where where is because it's
+because it's ordered we we just assume that the order that people want to read things is the order that
+they're written and I don't think that's true at all I think the order what you want to read it is the order
+that fits your experience it says oh this I can understand right now let me read this because it fits so each
+person needs a different order to read it so each small company starting up with a Weeki is in fact devising
+an order responsive to some class of customer or some kind of problem that others haven't come up with yet ah
+I think that's a very insightful idea I I hope it's true too because I would love to see a zillion companies
+it doesn't the mega company maybe doesn't have a big role there in fact the mega company is based on the
+notion of causing everybody to do the same thing yeah that's sure thank you ward very fascinating tonight my
+name is Maurice Gil and I'm with the Mountain View wisman School District right here Mountain View mhm and we
+have kindergarten through eighth grade students and 6 months ago a parent contacted me from social text his
+name's Kim pier and he said that he would like to work for the school district pro bono a part-time of his
+work at Social Tex to explain what a Wiki was or is and I had no idea what that was at that point I was
+suffering kind of what you were talking about emailed just now which I found fascinating and he explained uh
+the design of it and so uh because of the the generosity of this company we're able to launch wikis we started
+with the management team and the school administrators took off on this idea and it even though we're pretty
+low Tech we found very quickly that we could manage projects and content and everything else uh Dr Judy crates
+who's in the audience with with Ken tonight too she works with us wave to us here wave to us she has taken
+Wiki and she's working with parents to help them have a discussion within Castro Elementary School in Mountain
+View my question is we're ready to look at the classroom and this is so exciting we could barely you know hold
+ourselves back we we'd like to know your thoughts and your ideas and your feelings about how students can use
+the wiki in the classroom how teachers can use the wiki to improve teaching methodologies and uh Better
+Learning in our schools before we get the answers you started with the tough cases the administrators and the
+staff yeah that's right and that worked oh yeah yeah trusty ones that are always going to say no we could they
+started doing it and they're the kids are going to be into it so much more quickly and then the parents the
+what was the experience with the parents well the parents we just started and we're merging several programs
+onto one school so we just started the training I think it was two weeks ago Judy and and and you know there
+are a lot of pretty techsavvy parents obviously in Mountain View so they get it I think we're going to find
+that they communicate very well with it um and it's so the students I think you're absolutely right I think
+they're going to be taking off with it what can we tell their parents about how we're using it and what can we
+tell teachers about how to use the tool and how to better collaborate and and get to more powerful learning I
+I I I think this is great news and and I know that uh school system all over the world are dabbling with this
+because so many kids turn in their homework based on Wikipedia you know that the the uh and the administrative
+task Lord knows the teachers have too much work to do and we we we want to let you know lighten that load and
+and if if Wiki just takes that down 10% you know I think that you know I can't imagine a thing that I'd be
+prouder of because you know there's there's nothing like a an inspired teacher that is not exhausted you know
+they have your kids in front of um I will say that when we talk about education or learning the learning
+opportunity I absolutely uh intended Wiki to be a
+
+## Part 5
+
+Collaborative Learning environment uh for professionals you know the people who are never going to stop
+learning it is a place to learn and it's learning from other people but but everybody you know one thing we
+did on my Wiki is about programming did this extreme programming stuff on there and a lot of people said
+that's crazy that can't possibly work and it was discussed and thrashed over to the point where people said I
+think I get it I'm going to try it and they went and tried it and it worked pretty well and they came back and
+reported on that so that cycle of get finding an issue going and trying the experiment coming back and report
+I mean this is what science does have you seen it in the elementary schools or if if you could trigger that
+maybe in high school first if you could do that in middle school but I think as you get lower and lower it's
+it it's how you do it I know less and less about because I'm trying to take you know grown-up kids to to to
+master this uh but I I I I I think that it's got to be there and and part of it is the same way that some
+people you know learn Le to love writing for the newspaper but there's only so many issues and whatever that
+that really it's the act of finding out in writing finding out in writing that could a and that it's not how
+well it's written it's how well it's read you know so that you judge things not by what the teacher thought
+but by how many kids read it you know because if somebody can write in a way that kids like to read maybe it's
+by using a little potty language or something like that I don't know but it it whatever works that that that
+understanding uh is is a lesson that I think is is you know so deeply at the heart of education so um please
+let us all know how it works this this potty language phrase gets me because I watching kids it's always
+struck me there are jokes that remain at second grade the kids flow through the jokes and the jokes and the
+jokes are stuck right at each level so you explore the joke terrain or the things that make the class all
+break up and become uncontrollable I don't know if you want to go too far down this but there are there's
+there are phrases and poetry and things and observations among kids which will get them I guess when you
+you'll know it when you hit it the thing that gets them working and contributing there's also this issue of
+anonymity does a shy kid you can always say everybody has to do something tomorrow but does a shy kid feel
+more feel safer in an environment where they're an anonymous contributor should a section of the Wei be
+totally anonymous and should another section be completely identified I don't have are you have opinions about
+this all all challenging questions and and and I know you're working with it you know that the social text is
+really GRS Wiki in a deep way and I think that all I would say is pay attention to how it's going and don't
+hesitate to to take hard questions back to them because I think they have the horsepower to to really invent
+in those regards uh one thing that I was thinking and we're spending a lot of time on this question because it
+is so provocative uh the Los Angeles Times tried putting up a Wiki and they said ah we don't know if this is
+going to work but we're going to put it up and you know what it didn't work so don't fall into that mistake
+don't say we're going to put it up to see what the kids do because you'll be disappointed you have to kind of
+orchestrate kind of you have to absolutely orchestrate the construction of a community by you know introducing
+in an order providing plenty of support and one thing that I think is really important is at some point you'll
+get something written that you know scares you you know and I hope it's not a death threat or something like
+that but it you know there's there's a lot that could happen in a school that you just you know some parents
+are going to fly off the handle so what you have to do is you have to make sure that the community Norms are
+developed in conjunction with the parents and the teachers and the students hopefully you know just expecting
+the best and not being disappointed but you know still checking that recent changes to make sure that you know
+the one kid who really wants to test the system just gets untested as quickly as possible and that is the
+community that does it it's not the wiki technology one last observation one of the things that happened I it
+wasn't in the Mountain View School District but it was around here somewhere like four or five years ago kids
+were they didn't have the Weeki mechanism but they were writing about things and exchanging it could have been
+as easy as an email exchange and after kids in very different socioeconomic groups from quite different
+schools but at the same age level turned out that the person the kid that was the most knowledgeable about
+baseball in San Francisco was a young black girl in a school and when the white school more white school and
+the black kids came together the presuppositions everybody had about who these other people were were
+shattered and it was an absolutely Illuminating experience because as with all of the birds of a feather
+experiences for the computer crowd you come into a room and here's the guy you've been the person you've been
+communicating with over time you're complet I had a completely different picture of you but because we had
+this form of communication you've got a bond that can't be erased and all the other ideas about what people
+are like then are challenged and so this is very very powerful stuff you're playing with I think so so I think
+we can say we like the idea great go for great idea thank you very much great idea sir um just a question
+about the wiki oh I'm Herbert caner um you mentioned that the one of the object objects of the wiki was to
+have the articles in a very large number of languages I'm curious how are they doing that oh um that was that
+was Wikipedia's goal and I admire them for it uh that wasn't a goal I set for it and and on my Wiki we you
+know the tyranny of English prevails but no I'm sorry I meant the Wikipedia yes on on Wikipedia uh I think
+that was a goal from the beginning and I don't know why they chose it but the way they proceed is they provide
+an infrastructure for anybody willing to host a Wiki in a particular language so if you're you know in an
+island in the Pacific and you have this disappearing language but there's 50 people who want to really write
+encyclopedia articles you know they'll make a Wiki for you and they'll link it into all that and you have a go
+at it and and there are a lot of a lot of languages that have a you know 200 500 a th000 articles and I think
+a lot of them are simply transl ations of Articles and other languages into you know a a rare language but
+there are likewise I think dozens maybe 20 or 30 languages where the community is is has gotten so behind it
+that it is going off in its own trajectory for example I was told that the German encyclopedia has much better
+coverage of computer science than the English language so it isn't a question of article by article
+translation it's just that it people are doing it in a great many languages it's not required but but the
+trick is the infrastructure is the same so if you know how to edit the French one you know how to edit the
+German one and it's easy to say this article also available in Germany so when you look at an article you tend
+to see in the margin a list of 10 15 20 other languages that this article is written in now regrettably I only
+speak and read English but I hope that people who read multiple languages especially the more rare languages
+make a habit of moving back and forth reading it in both languages and if they disagree resolving that
+disagreement from a neutral point of view that transcends the language uh and and and we know that langu is
+associated with culture and neutral for one culture is biased for another culture so you know this goal of
+neutrality is is you know it seems impossible except that there's this community that wants it to succeed and
+so so that that I think is actually you know the strongest force for world peace that I I can think of in a
+long time there's there respond just I we're going to get the hook here but the Jimmy Wales Mr Wikipedia they'
+set a a hierarchy up so you're not an encyclopedia until you've reached I think 100,000 articles in a language
+I think that's the cutof point so there's a page it's fascinating look at the rankings there are about 120
+languages that currently have a Wikipedia now of the 120 I for example I'm interested in Kenya Rwanda there
+are a number of languages in Africa in particular where you were beaten if you didn't speak English or French
+if you spoke your language sorry so in those countries where all everybody in Rwanda as an example everybody
+speaks Kenyan Rwanda so I said here's what you could do to catapult Kenyan Rwanda spoken by about 25 million
+people up to Let's Get It Up close to one of the top 10 or 15 languages get every kid to write about their own
+village or their whatever their family is and you suddenly have a few thousand or maybe 10,000 articles and
+you've reached level you're not quite a Wikipedia the English French German the one the really the Chinese is
+the Chinese one is just rocketing look at the volume of submissions daily in the Chinese one so but then we
+get to this second more subtle issue everyone that speaks multiple languages knows that there are some things
+that they I'm a native English speaker but I spent a lot of time in France so I'll read the French article but
+when I read the English article it's richer the nuances I understand better and then help me understand the
+French article better and that back and forth part enriches everybody and so that's for me one of the great
+values with 6,000 languages going to 3,000 in the next 10 years maybe 15 which is the prediction by linguist
+globally we're losing the languages as the grandmothers die the idea of creating captured knowledge and
+culture in Wikipedia is fundamentally important one one one other thing I would like to mention is a lot of
+this is possible because they use they pre-ic the text of Wikipedia for reuse you are automatically right now
+already pre-licensed to take that copy it make something else out of it and this is again I think I'm trying
+to remember whether it's a Creative Commons license or open a good thing to cre what whatever it is the the
+the license lets you do that that means that you have all of this resources and all the languages that you
+might speak that you can draw on to bring stuff into a language that might be rare and that is you know what a
+contribution to the world we're getting the hook but why don't we have each of the three questions quickly
+yeah okay it's it's the three answers I'm worried [Laughter] about now what Wiki system would you like us to
+design I Peter y from im3 we actually host collaborative work environments of which the wiki is a very
+important piece and we support uh the federal government and some schools and so on but uh I I also convene
+co- convene a community called onl that works on trying to move ontologies into the mainstream and there's
+certain activ activities which I sure you're tracking uh that are trying to do semantic with Keys what it
+called what onto onto loock as in ontology a dialogue onto loock yes o n l LG L like I think that was a great
+question I think we'll just let it stand as a as a comment but uh yeah the question is uh uh how do you feel
+the directions in developing semantic wikis like adding adding another semantic layer in sort of well I I felt
+that that I was satisfied with the semantics that emerged even if they didn't line up with the Precision that
+you might get if you crafted an ontology um that doesn't make me against ontology it's just that I think that
+you know I was after a quicker win I the the media wi keep people and like eeky wey and so on I mean well uh
+one thing that that uh uh because there's so many versions of Chinese uh Wikipedia is discovering that to
+really uh print Chinese properly in the dialect spoken in a region they have to understand what the words are
+more precisely than the glyphs actually say and so they're developing an elaborate dictionary system a
+translation dictionary and it could be that Wikipedia will be written uh with very high quality translation
+semantics underneath which again is not quite the same as an ontology but is closely related and uh making
+that really valuable is certainly uh something that's easier to imagine when you got 10,000 people working on
+it I just also want to take the opportunity to thank well now they're trying to give us the hook so I think
+we'll just go to number two and three very enlightening dialogue thank you I'll say thanks too right at the
+beginning um I'm Liza Loop and I'm trying to or I am starting a virtual Museum on the history of computing and
+education um and I set up a Wiki about six months ago hoping to collect the contributions of lots and lots of
+the Pioneers that brought Computing Made Computing a necessary part of education and I'm finding that I'm not
+being successful at this time in building the community so I wondered if you could say a little bit more about
+the nurturing of the community and how to go about it also I I will say well let me just cut you off there
+just in the name of time that that there's definitely a critical mass sort of thing that that you have to get
+enough people committing enough writing and uh you know what you have to do whether you bribe them or whatever
+to get on there uh you when it when it doesn't happen you know it's it there's nothing in the technology to
+make people do this it's it's really a social phenomenon and what I've always done is I've just launched a
+Wiki and I'm had satisfied if only a third of them catch I think that if you worked hard on it you might not
+like that answer and might be able to think of some campaign to go on to induce people to write all at once so
+that they reach a critical mass for one week and then they say gosh let's do that again my name is Lee Kutz
+and I work for the company that made note cards which uh was sort of for Hy card came from so uh coming full
+circle uh this week I'm giving a talk about uh how to uh how how to try to evangelize wikis in the corporation
+in Enterprise and one of the things that I'm banging my head against this is kind of a homework question will
+you do my my homework for me um is what can I tell these people that will let them give people enough rope
+that they can do what they need but not cut it off so much that they're going to only get every corporate
+approved message out what what advice would you have me give people in the Enterprise about letting the wik
+them letting people roam free enough on the wiki when they're so worried about control so is a very good
+question wi Wiki certainly has this bottom up power to the people empowered sort of uh organic thing and if
+you're in a very controlling organization or even just not controlling but you think you ought to be more
+controlling uh it's going to be hard to accept Wiki and so um what I usually do is I go find the part of the
+organization that's willing to give it a try and let them be successful until you know it overtakes the
+company much to Management's dismay but it's probably just as good to go in and say let's talk about what
+management issues you're facing and what the solution looks like in a knowledge working environment and uh you
+know if you can get them to think of knowledge work versus material work and and thinking about management
+practices and how they have to change then you can say well let me work a test case here which is you know
+people editing their own text uh I think that note cards by the way is is a a beautiful example of something
+that that took the idea and went even further because I think as I understood there was a lot of semantic
+processing in that that that Wiki just punts or relies on the trail left by by other people but you know I
+know that Doug is here too so we'll have to argue about that hypercard thing there is you can hypertext thing
+the lawyers have all at this moment become to the awareness they have to deal with the issues of blogs written
+by people so there's a now they know what blogs are and they'll talk about it we should do what the television
+station should the anchor do a Blog oh yes they should and we have this example today that the guy at son that
+wrote the blog is now the chief exe is now the CEO and McNeely didn't write a blog so he's gone so oh well
+there so there's a there's a comment by Wade a quite a while not so long ago it said that a Blog how did you
+say this a Blog is our our I like to say a blog is a community the blog is spere is sustained by a community
+it's it's the community uh a Wiki is really a work the wiki exists it's an encyclopedia if that's what you're
+making and the fact is it's an encyclopedia that's sustained by a community also but it stands on its own and
+that that I think is important that that you remember that that's what you're making the causality flowed in a
+different ways so the blog was a community were a number of people and they wrote blogs but they the result
+were documents and in the other case the documents the Weeki formed the community so you could say in the
+organization there are communities nassin communities in your organization people would like to share
+knowledge and be able to communicate mail's not going to do it that doesn't capture for the organization what
+you want blogs well that's what there's a structure to that but but this other terrain allows the bubbles of
+nassin communities to emerge inside the organization and from that comes creativity and Innovation and that's
+what's the Wellspring for your organization to survive thank you very much W Warden John thank you absolutely
+fascinating I I I was sitting here thinking how many places in the world would you not just have this
+conversation but frankly have an audience that sat here wrapped listening to that and and I think actually
+understanding most of what they said um by the way I gave up on lisp uh you you may still be going for Lis I
+gave up on Lis in my retirement golf hard enough thank you very much wonderful job [Applause] [Music]
