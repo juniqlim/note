@@ -1053,8 +1053,8 @@ SK하이닉스 테제의 핵심 전제는 **"추론은 클라우드에서 일어
 
 ### 헷지
 
-- **Qualcomm (fPER 12~15x)** — 온디바이스 AI의 가장 직접적인 수혜주
-- 밸류체인 전체 비교: [beyond-hynix.md](beyond-hynix.md)
+- **Qualcomm (fPER 11~14x)** — 온디바이스 AI의 가장 직접적인 수혜주
+- 밸류체인 전체 비교: [ai-밸류체인.md](ai-밸류체인.md) · 하이닉스 대비 판정: [beyond-hynix.md](beyond-hynix.md) · 병목 레이어: [추론인프라-병목.md](추론인프라-병목.md)
 
 ---
 
