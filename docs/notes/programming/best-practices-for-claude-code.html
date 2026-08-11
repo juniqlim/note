@@ -32,7 +32,8 @@
   <span class="kicker">Contents</span>
   <nav class="toc"><a class="toc-2" href="#claude가-작업을-스스로-검증할-수-있게-하세요">Claude가 작업을 스스로 검증할 수 있게 하세요</a><a class="toc-2" href="#먼저-탐색하고-계획한-다음-코딩하세요">먼저 탐색하고, 계획한 다음, 코딩하세요</a><a class="toc-3" href="#1-탐색-explore">1. 탐색 (Explore)</a><a class="toc-3" href="#2-계획-plan">2. 계획 (Plan)</a><a class="toc-3" href="#3-구현-implement">3. 구현 (Implement)</a><a class="toc-3" href="#4-커밋-commit">4. 커밋 (Commit)</a><a class="toc-2" href="#프롬프트에-구체적인-컨텍스트-제공하기">프롬프트에 구체적인 컨텍스트 제공하기</a><a class="toc-3" href="#풍부한-콘텐츠-제공">풍부한 콘텐츠 제공</a><a class="toc-2" href="#환경-구성하기">환경 구성하기</a><a class="toc-3" href="#효과적인-claude-md-작성">효과적인 CLAUDE.md 작성</a><a class="toc-3" href="#권한-구성">권한 구성</a><a class="toc-3" href="#cli-도구-사용">CLI 도구 사용</a><a class="toc-3" href="#mcp-서버-연결">MCP 서버 연결</a><a class="toc-3" href="#훅-hooks-설정">훅(Hooks) 설정</a><a class="toc-3" href="#스킬-skills-생성">스킬(Skills) 생성</a><a class="toc-3" href="#커스텀-서브-에이전트-생성">커스텀 서브 에이전트 생성</a><a class="toc-3" href="#플러그인-설치">플러그인 설치</a><a class="toc-2" href="#효과적으로-소통하기">효과적으로 소통하기</a><a class="toc-3" href="#코드베이스-관련-질문하기">코드베이스 관련 질문하기</a><a class="toc-3" href="#claude가-당신을-인터뷰하게-하세요">Claude가 당신을 인터뷰하게 하세요</a><a class="toc-2" href="#세션-관리하기">세션 관리하기</a><a class="toc-3" href="#조기에-자주-방향-수정하기">조기에 자주 방향 수정하기</a><a class="toc-3" href="#컨텍스트-적극적으로-관리하기">컨텍스트 적극적으로 관리하기</a><a class="toc-3" href="#조사를-위해-서브-에이전트-사용하기">조사를 위해 서브 에이전트 사용하기</a><a class="toc-3" href="#체크포인트로-되감기">체크포인트로 되감기</a><a class="toc-3" href="#대화-재개하기">대화 재개하기</a><a class="toc-2" href="#자동화-및-확장">자동화 및 확장</a><a class="toc-3" href="#헤드리스-모드-실행">헤드리스 모드 실행</a><a class="toc-3" href="#여러-claude-세션-실행">여러 Claude 세션 실행</a><a class="toc-3" href="#파일-간-팬아웃-fan-out">파일 간 팬아웃(Fan-out)</a><a class="toc-3" href="#안전한-자율-모드">안전한 자율 모드</a><a class="toc-2" href="#흔한-실패-패턴-피하기">흔한 실패 패턴 피하기</a><a class="toc-2" href="#직관-기르기">직관 기르기</a><a class="toc-2" href="#관련-리소스">관련 리소스</a></nav>
   <div class="stats mono">
-    <span>읽기 32분</span>
+    <span>쓴 날 2026-01-25 · 읽기 32분</span>
+    
     <span>나가는 링크 0 · 백링크 0</span>
   </div>
 </aside>
@@ -40,9 +41,12 @@
   <h1>Best Practices for Claude Code</h1>
   
   
-  
-  <p><a class="ext" href="https://code.claude.com/docs/en/best-practices" target="_blank" rel="noopener">code.claude.com/docs/en/best-practices ↗</a></p>
-<blockquote><p><strong>문서 인덱스</strong></p><p>전체 문서 인덱스 가져오기: <a class="ext" href="https://code.claude.com/docs/llms.txt" target="_blank" rel="noopener">code.claude.com/docs/llms.txt ↗</a></p><p>더 자세히 살펴보기 전에 이 파일을 사용하여 사용 가능한 모든 페이지를 확인하세요.</p></blockquote>
+  <div class="source">
+    <span class="kicker">번역</span>
+    
+    <a href="https://code.claude.com/docs/en/best-practices" target="_blank" rel="noopener">code.claude.com/docs/en/best-practices ↗</a>
+  </div>
+  <blockquote><p><strong>문서 인덱스</strong></p><p>전체 문서 인덱스 가져오기: <a class="ext" href="https://code.claude.com/docs/llms.txt" target="_blank" rel="noopener">code.claude.com/docs/llms.txt ↗</a></p><p>더 자세히 살펴보기 전에 이 파일을 사용하여 사용 가능한 모든 페이지를 확인하세요.</p></blockquote>
 <blockquote><p><strong>소개</strong></p><p>환경 설정부터 병렬 세션을 통한 확장까지, Claude Code를 최대한 활용하기 위한 팁과 패턴을 소개합니다.</p></blockquote>
 <p>Claude Code는 에이전트형 코딩 환경입니다. 질문에 답하고 기다리는 챗봇과 달리, Claude Code는 파일을 읽고, 명령어를 실행하고, 변경 사항을 만들고, 사용자가 지켜보거나 방향을 제시하거나 완전히 자리를 비운 사이에도 자율적으로 문제를 해결할 수 있습니다.</p>
 <p>이는 작업 방식을 변화시킵니다. 직접 코드를 작성하고 Claude에게 검토를 요청하는 대신, 원하는 바를 설명하면 Claude가 이를 구축하는 방법을 알아냅니다. Claude는 탐색하고, 계획하고, 구현합니다.</p>

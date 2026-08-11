@@ -13,12 +13,13 @@ Node 18+ 만 필요하다. npm 패키지 없음.
 
 ## 구조
 
-    site.json            사이트 제목 · 주제(폴더) · 낼 노트 목록 · slug
-    programming/*.md     노트 원본. 여기 있는 것이 전부 나가지는 않는다
+    site.json            사이트 제목 · 갈래(폴더) · 안 낼 노트 · slug
+    programming/*.md     노트 원본
     ai-agent/*.md
     investment/*.md
     build.js             md 읽기 → 파싱 → docs/ 출력
-    site/md.js           마크다운 파서 (프론트매터 · 표 · 중첩 리스트 · 백링크용 링크 수집)
+    site/md.js           마크다운 파서 (프론트매터 · 표 · 중첩 리스트 · 그림 · 링크 수집)
+    site/history.js      git 이력 → 쓴 날 · 고친 날
     site/render.js       AST → HTML, 페이지 레이아웃
     site/style.css       스타일 (다크 기본 / 라이트 토글)
     site/app.js          테마 토글 + 클라이언트 검색
@@ -27,21 +28,31 @@ Node 18+ 만 필요하다. npm 패키지 없음.
 
 ## 무엇을 내는가
 
-여기에는 아직 안 익은 글도 있다. 그래서 폴더를 훑지 않고 `site.json` 의 `notes` 에
-적은 것만 낸다. 적은 순서가 곧 보이는 순서다. 이름이 틀리면 빌드가 멈춘다 —
-조용히 빠지면 왜 안 나오는지 알 수 없다.
+`site.json` 의 `folders` 에 적은 폴더를 훑는다. md 를 넣기만 하면 목록에 뜬다.
+하위 폴더는 따라 들어가지 않는다 — `kent/` `ward/` 처럼 갈래로 삼을 것만
+`folders` 에 따로 적어 라벨을 준다. 안 낼 것은 `exclude` 에 적는다.
+
+## 날짜는 git 이 안다
+
+쓴 날과 고친 날은 `git log` 에서 온다. 파일명 앞에 `YYYY-MM-DD-` 를 적던 것은
+git 이 이미 아는 것을 손으로 되풀이한 것이었다 — 19편을 대조해 보니 모두 같았다.
+새 노트에는 붙이지 않아도 된다.
+
+이름 변경은 따라간다. 폴더를 정리하며 옮긴 날이 쓴 날로 둔갑하지 않는다.
 
 ## 쓰는 규칙
 
-- `# 제목` 한 줄이 노트 제목. `# 제목 - 부제` 로 쓰면 뒤가 부제.
+- `# 제목` 한 줄이 노트 제목. `# 제목 - 부제` 로 쓰면 뒤가 부제 (하이픈이 하나일 때만).
 - `# 제목 (English Title)` 의 괄호는 원제로 따로 표시된다.
-- H1 위에 URL 을 한 줄 두면 출처로 잡는다. "번역" 이라는 말이 있으면 번역 표시.
-- 파일명 앞의 `YYYY-MM-DD-` 는 날짜로 쓰인다.
+- H1 이 없으면 첫 `##` 이 제목이 된다.
+- 제목 위나 바로 아래에 URL 을 한 줄 두면 출처로 잡는다. 뒤따르는 줄은 설명.
+- 출처가 국외 사이트면 **번역**으로 표시된다. 참고만 한 글은 `translation: false` 로 끈다.
+- 그림은 `![글](주소)`. 예전 노트가 갖고 있는 한 줄짜리 `<img>` 태그도 그대로 나간다.
 - 한글 파일명은 `site.json` 의 `slugs` 에 `"경로": "ascii-name"` 으로 URL 을 정해준다. 프론트매터 `slug:` 도 된다.
 - 노트끼리 링크할 때 GitHub blob URL 을 그대로 붙여도 내부 링크로 바뀐다. `[글](../ai-agent/x.md)` 도 된다.
 - 링크된 쪽 노트 하단에 백링크가 자동으로 생긴다.
 
-프론트매터로 덮어쓸 수 있는 것: `summary` `subtitle` `date` `slug` `source` `translation` `sourceNote`
+프론트매터로 덮어쓸 수 있는 것: `title` `subtitle` `summary` `date` `slug` `source` `translation` `sourceNote`
 
 ## 노트와 위키
 

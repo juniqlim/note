@@ -136,12 +136,12 @@ export function renderHome({ site, folders, notes, base = '' }) {
   });
 }
 
-// 날짜는 파일명 앞의 YYYY-MM-DD 에서만 온다. 대부분의 노트에는 그것이 없다.
-// 날짜 없는 것까지 늘어놓으면 "날짜 없음" 이 목록을 덮어 아무것도 알려주지 못한다.
+// 변경 목록이니 고친 날로 줄 세운다. 쓴 날은 목록이 맡는다.
 export function renderChanges({ site, notes, labelOf, base = '' }) {
-  const dated = notes.filter((n) => n.date).sort((a, b) => b.date.localeCompare(a.date));
-  const rows = dated.map((n) => `<a class="change" href="${attr(base + noteUrl(n))}">
-      <span class="mono dim">${esc(n.date)}</span>
+  const rows = notes.slice()
+    .sort((a, b) => (b.updated || b.date || '').localeCompare(a.updated || a.date || ''))
+    .map((n) => `<a class="change" href="${attr(base + noteUrl(n))}">
+      <span class="mono dim">${esc(n.updated || n.date)}</span>
       <span class="change-title">${esc(n.title)}</span>
       <span class="mono dim">${esc(labelOf(n.folder))}</span>
     </a>`).join('');
@@ -149,7 +149,7 @@ export function renderChanges({ site, notes, labelOf, base = '' }) {
   return shell({
     title: '최근 변경 · ' + site.title, site, base, bodyClass: 'narrow',
     body: `<h1>최근 변경</h1>
-<p class="lede">파일명 앞의 날짜가 있는 ${dated.length}편입니다. 나머지 ${notes.length - dated.length}편은 날짜를 적어 두지 않았습니다.</p>
+<p class="lede">git 커밋 이력에서 가져온 고친 날입니다.</p>
 <div class="changes">${rows}</div>`,
   });
 }
@@ -181,7 +181,8 @@ export function renderNote({ site, note, notes, labelOf, base }) {
   <span class="kicker">Contents</span>
   <nav class="toc">${toc}</nav>
   <div class="stats mono">
-    <span>${esc((note.date ? note.date + ' · ' : '') + '읽기 ' + note.minutes + '분')}</span>
+    <span>${esc((note.date ? '쓴 날 ' + note.date + ' · ' : '') + '읽기 ' + note.minutes + '분')}</span>
+    ${note.updated && note.updated !== note.date ? '<span>고친 날 ' + esc(note.updated) + '</span>' : ''}
     <span>나가는 링크 ${note.links.length} · 백링크 ${note.backlinks.length}</span>
   </div>
 </aside>

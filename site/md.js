@@ -157,6 +157,13 @@ export function parseBlocks(body, fromPath) {
   return blocks;
 }
 
+// 국내 사이트가 아니면 국외로 본다. 국내 목록이 국외 목록보다 짧아서 이렇게 센다.
+const KOREAN_HOST = /(\.kr$|naver\.com$|tistory\.com$|brunch\.co\.kr$|velog\.io$|kakao\.com$|daum\.net$|\.co\.kr$)/;
+function isForeign(url) {
+  const host = url.replace(/^https?:\/\//, "").split(/[/?#]/)[0].toLowerCase();
+  return !KOREAN_HOST.test(host);
+}
+
 // 한쪽이 다른 쪽을 그대로 품고 있으면 같은 말이다. "나는 TDD 왜하는가." 와 "TDD 왜하는가?"
 const echoes = (a, b) => {
   const bare = (s) => s.replace(/[\s.?!·,]/g, "");
@@ -169,9 +176,21 @@ export function parseNote(path, src) {
   const { meta, body } = splitFrontmatter(src);
   const lines = body.split("\n");
   const h1At = lines.findIndex((l) => /^#\s+/.test(l));
-  const preamble = h1At > 0 ? lines.slice(0, h1At).filter((l) => l.trim()) : [];
-  const rest = h1At >= 0 ? lines.slice(h1At + 1).join("\n") : body;
-  const blocks = parseBlocks(rest, path);
+  let preamble = h1At > 0 ? lines.slice(0, h1At).filter((l) => l.trim()) : [];
+  let bodyLines = h1At >= 0 ? lines.slice(h1At + 1) : lines;
+
+  // 출처 URL 을 제목 위에 둔 노트도, 바로 아래에 둔 노트도 있다. 둘 다 출처다.
+  if (h1At >= 0 && !preamble.some((l) => /https?:\/\//.test(l))) {
+    let i = 0;
+    while (i < bodyLines.length && !bodyLines[i].trim()) i++;
+    if (i < bodyLines.length && /^https?:\/\/\S+$/.test(bodyLines[i].trim())) {
+      const lead = [];
+      while (i < bodyLines.length && bodyLines[i].trim()) lead.push(bodyLines[i++]);
+      preamble = lead;
+      bodyLines = bodyLines.slice(i);
+    }
+  }
+  const blocks = parseBlocks(bodyLines.join("\n"), path);
   const firstIsH2 = blocks[0] && blocks[0].type === "heading" && blocks[0].level === 2;
 
   // 오래된 노트에는 H1 없이 ## 로 시작하는 것이 있다. 그것이 제목이다 —
@@ -203,13 +222,21 @@ export function parseNote(path, src) {
   const paren = title.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
   if (paren && /[A-Za-z]/.test(paren[2])) { title = paren[1].trim(); titleOriginal = paren[2].trim(); }
 
-  // 출처: H1 위의 URL 줄 + 설명 줄 (또는 프론트매터 source/translation)
+  // 출처: 제목 위아래의 URL 줄 + 설명 줄 (또는 프론트매터 source/translation)
   let source = null;
   const preUrl = preamble.find((l) => /https?:\/\//.test(l));
   const preNote = preamble.filter((l) => !/^https?:\/\/\S+\s*$/.test(l.trim())).join(" ").trim();
-  if (meta.source || meta.translation || preUrl) {
-    const url = (meta.source || meta.translation || (preUrl || "").match(/https?:\/\/\S+/)[0]).trim();
-    source = { url, label: shortUrl(url), note: meta.sourceNote || preNote, translation: /번역/.test(preNote + (meta.sourceNote || "")) || !!meta.translation };
+  if (meta.source || (meta.translation && meta.translation !== "false") || preUrl) {
+    const from = meta.source || (meta.translation !== "false" ? meta.translation : "") || preUrl;
+    const url = from.match(/https?:\/\/\S+/)[0].trim();
+    const said = preNote + (meta.sourceNote || "");
+    source = {
+      url,
+      label: shortUrl(url),
+      note: meta.sourceNote || preNote,
+      // 국외 사이트에서 온 글은 옮겨 온 것이다. 참고만 한 글은 translation: false 로 끈다.
+      translation: meta.translation !== "false" && (/번역/.test(said) || isForeign(url)),
+    };
   }
 
   const toc = blocks.filter((b) => b.type === "heading" && b.level >= 2 && b.level <= 3)

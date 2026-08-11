@@ -53,3 +53,45 @@ test('다른 말을 하는 부제는 남긴다', () => {
   const note = parseNote('a.md', '# 뽀모도로 회고\n## 3년치를 돌아보며\n본문');
   assert.equal(note.subtitle, '3년치를 돌아보며');
 });
+
+// 출처 URL 을 H1 위에 둔 노트도, 바로 아래에 둔 노트도 있다. 둘 다 출처다.
+test('H1 위의 URL 은 출처다', () => {
+  const n = parseNote('a.md', 'https://artima.com/x\n빌 베너스 2004년\n\n# 제목\n본문');
+  assert.equal(n.source.url, 'https://artima.com/x');
+});
+
+test('H1 바로 아래의 URL 도 출처다', () => {
+  const n = parseNote('a.md', '# 제목\nhttps://youtube.com/watch?v=x\n켄트백이 설명해준다\n\n본문');
+  assert.equal(n.source.url, 'https://youtube.com/watch?v=x');
+});
+
+test('출처로 올린 줄은 본문에 남지 않는다', () => {
+  const n = parseNote('a.md', '# 제목\nhttps://youtube.com/watch?v=x\n켄트백이 설명해준다\n\n진짜 본문');
+  assert.equal(n.blocks[0].inline.map((i) => i.v || '').join(''), '진짜 본문');
+});
+
+test('본문 한복판의 URL 은 출처가 아니다', () => {
+  const n = parseNote('a.md', '# 제목\n첫 문단이다.\n\n참고: https://x.com/y\n');
+  assert.equal(n.source, null);
+});
+
+// 출처가 국외 사이트면 옮겨 온 글이다. 국내 글을 인용한 것과는 다르다.
+test('국외 출처면 번역으로 본다', () => {
+  const n = parseNote('a.md', '# 제목\nhttps://www.artima.com/x\n빌 베너스\n\n본문');
+  assert.equal(n.source.translation, true);
+});
+
+test('국내 출처면 번역이 아니다', () => {
+  const n = parseNote('a.md', '# 제목\nhttps://blog.naver.com/x\n어떤 글\n\n본문');
+  assert.equal(n.source.translation, false);
+});
+
+// 국외 자료를 참고했을 뿐 내가 쓴 글도 있다. 그때는 꺼 둘 수 있어야 한다.
+test('translation: false 로 끌 수 있다', () => {
+  const n = parseNote('a.md', '---\ntranslation: false\n---\n# 제목\nhttps://www.artima.com/x\n\n본문');
+  assert.equal(n.source.translation, false);
+});
+
+test('출처가 없으면 번역도 없다', () => {
+  assert.equal(parseNote('a.md', '# 제목\n본문').source, null);
+});
