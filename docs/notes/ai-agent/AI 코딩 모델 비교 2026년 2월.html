@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 코딩 모델 비교 (2026년 2월) · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../index.html">노트</a>
+      <a href="../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../index.html">← AI 에이전트</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#claude-sonnet-4-6">Claude Sonnet 4.6</a><a class="toc-2" href="#sonnet-vs-opus-근본적-차이">Sonnet vs Opus 근본적 차이</a><a class="toc-2" href="#속도-비교">속도 비교</a><a class="toc-2" href="#anthropic의-모델-개발-중점">Anthropic의 모델 개발 중점</a><a class="toc-2" href="#다음-버전-claude-5-예상">다음 버전 (Claude 5) 예상</a><a class="toc-2" href="#openai의-모델-개발-중점">OpenAI의 모델 개발 중점</a><a class="toc-2" href="#google-deepmind-gemini의-모델-개발-중점">Google DeepMind / Gemini의 모델 개발 중점</a><a class="toc-2" href="#xai의-모델-개발-중점">xAI의 모델 개발 중점</a><a class="toc-2" href="#meta의-모델-개발-중점">Meta의 모델 개발 중점</a><a class="toc-2" href="#deepseek의-모델-개발-중점">DeepSeek의 모델 개발 중점</a><a class="toc-2" href="#bytedance의-모델-개발-중점">ByteDance의 모델 개발 중점</a><a class="toc-2" href="#중국-ai-생태계-kimi-glm-등">중국 AI 생태계 (Kimi, GLM 등)</a><a class="toc-3" href="#중국-ai-앱-사용자-순위-2025-12-wau">중국 AI 앱 사용자 순위 (2025.12 WAU)</a><a class="toc-3" href="#kimi-moonshot-ai">Kimi (Moonshot AI)</a><a class="toc-3" href="#glm-zhipu-ai-z-ai">GLM / Zhipu AI (Z.ai)</a><a class="toc-3" href="#alibaba-qwen">Alibaba (Qwen)</a><a class="toc-2" href="#ai-패권-7사-비교">AI 패권 7사 비교</a><a class="toc-3" href="#철학과-리더">철학과 리더</a><a class="toc-3" href="#모델-성능">모델 성능</a><a class="toc-3" href="#자금과-투자">자금과 투자</a><a class="toc-3" href="#시장과-전략">시장과 전략</a><a class="toc-3" href="#openai-인프라-약정-상세-1-4t-2025-2031">OpenAI 인프라 약정 상세 (~$1.4T, 2025-2031)</a><a class="toc-3" href="#big-tech-capex-연도별-추이-google-amazon-meta-microsoft">Big Tech Capex 연도별 추이 (Google+Amazon+Meta+Microsoft)</a><a class="toc-3" href="#ai-투자와-dram-메모리-시장">AI 투자와 DRAM/메모리 시장</a><a class="toc-3" href="#투자-대비-성과-차이가-나는-이유">투자 대비 성과 차이가 나는 이유</a><a class="toc-3" href="#claude-code-security와-월스트리트-충격-2026-02-21">Claude Code Security와 월스트리트 충격 (2026.02.21)</a><a class="toc-3" href="#anthropic-시리즈-g-2026-02">Anthropic 시리즈 G (2026.02)</a><a class="toc-3" href="#anthropic-vs-openai-사업모델-차이">Anthropic vs OpenAI 사업모델 차이</a><a class="toc-3" href="#중국-ai-생태계-포지션">중국 AI 생태계 포지션</a></nav>
+  <div class="stats mono">
+    <span>읽기 13분</span>
+    <span>나가는 링크 0 · 백링크 0</span>
+  </div>
+</aside>
+<article>
+  <h1>AI 코딩 모델 비교 (2026년 2월)</h1>
+  
+  <p class="subtitle">Codex Spark (GPT-5.3-Codex-Spark)</p>
+  
+  <ul><li>2026.02.12 출시, Cerebras WSE-3 칩 기반</li><li><strong>1,000+ 토큰/초</strong> — 현존 최고 속도</li><li>SWE-Bench Pro ~56%로 정확도는 낮음</li><li>128K 컨텍스트, ChatGPT Pro($200/월) 필요</li><li>용도: 빠른 프로토타이핑, 타겟 편집, 프론트엔드 반복</li></ul>
+<h2 id="claude-sonnet-4-6">Claude Sonnet 4.6</h2>
+<ul><li>2026.02.17 출시</li><li>SWE-Bench Verified 79.6% — Opus 4.6(80.8%)에 근접</li><li>Terminal-Bench 2.0 59.1%</li><li>1M 토큰 컨텍스트, $3/$15 per M토큰</li><li>개발자 59%가 이전 Opus 4.5보다 선호</li></ul>
+<h2 id="sonnet-vs-opus-근본적-차이">Sonnet vs Opus 근본적 차이</h2>
+<ul><li><strong>같은 기술, 다른 크기</strong> — Opus는 파라미터가 더 많은 대형 모델</li><li>모델이 클수록: 내부 표현이 풍부, 추론 깊이가 깊음, 롱컨텍스트 처리 우수</li><li>Opus가 앞서는 영역: 코드베이스 리팩토링, 멀티 에이전트 조율, 롱컨텍스트 검색(MRCR v2 76% vs 18.5%)</li><li>세대가 지날수록 Sonnet이 이전 Opus를 추월하는 패턴 (지식 증류, 알고리즘 효율화)</li></ul>
+<h2 id="속도-비교">속도 비교</h2>
+<div class="scroll-x"><table><thead><tr><th>모델</th><th>출력 속도</th></tr></thead><tbody><tr><td>Opus 4.6</td><td>~30 tok/s</td></tr><tr><td>Sonnet 4.6</td><td>~60 tok/s</td></tr><tr><td>Codex Spark</td><td>1,000+ tok/s</td></tr></tbody></table></div>
+<h2 id="anthropic의-모델-개발-중점">Anthropic의 모델 개발 중점</h2>
+<ol><li><strong>&quot;Do More With Less&quot;</strong> — 하드웨어 확장보다 알고리즘 효율성</li><li><strong>안전성(Safety)</strong> — RSP 단계적 강화, 정렬 페이킹 해결이 핵심 과제</li><li><strong>에이전트 코딩</strong> — 30시간+ 연속 작업, 멀티 에이전트 조율</li><li><strong>기업 시장</strong> — 워크플로우에 내장되는 AI</li></ol>
+<h2 id="다음-버전-claude-5-예상">다음 버전 (Claude 5) 예상</h2>
+<ul><li>Vertex AI 로그에서 <code>claude-sonnet-5@20260203</code> 포착, Q2 2026 출시 유력</li><li>중점: 정렬 안전성 &gt; 수학적 추론 &gt; 멀티 에이전트 협업 &gt; 추론 비용 절감</li><li>Opus 4 테스트에서 발견된 &quot;정렬 페이킹&quot; 해결이 최우선</li><li>Sonnet 5가 Opus 4.6을 추월할 가능성 높음</li></ul>
+<h2 id="openai의-모델-개발-중점">OpenAI의 모델 개발 중점</h2>
+<ol><li><strong>&quot;Ship Fast, Scale Big&quot;</strong> — 빠른 혁신 + 대규모 배포</li><li><strong>자기 자신을 만드는 AI</strong> — GPT-5.3-Codex가 자체 버그 탐지, 배포 관리, 테스트 평가에 사용됨</li><li><strong>하드웨어 다변화</strong> — Cerebras WSE-3 도입으로 NVIDIA 의존 탈피 (Spark 1,000+ tok/s)</li><li><strong>플랫폼 전환</strong> — ChatGPT 앱스토어 9억 사용자 오픈, 모델 회사 → 플랫폼 회사</li><li><strong>실용적 채택</strong> — 데모 중심에서 일상 워크플로우 AI로 전환, 2026.09까지 인턴급 연구 보조 목표</li><li>시장: 소비자 AI 트래픽 ~80%, 기업 LLM 25% (하락 추세)</li></ol>
+<h2 id="google-deepmind-gemini의-모델-개발-중점">Google DeepMind / Gemini의 모델 개발 중점</h2>
+<ol><li><strong>&quot;AI로 과학을 혁신한다&quot;</strong> — Demis Hassabis(노벨상 수상)의 DNA</li><li><strong>과학 연구 AI</strong> — AlphaFold, AI 설계 항암제 2026 임상 1상, AI co-scientist로 가설 개발 수년→수일</li><li><strong>옴니모달(Omnimodal)</strong> — 텍스트/이미지/비디오/오디오/3D/로보틱스를 Gemini 하나의 코어로 통합</li><li><strong>물리 지능 + 로보틱스</strong> — Boston Dynamics 파트너십, &quot;18개월 내 로보틱스의 ChatGPT 모먼트&quot;</li><li><strong>유니버설 어시스턴트</strong> — 폰→브라우저→스마트글래스 넘나드는 AI, Google Assistant를 Gemini로 교체</li><li>Gemini 3 Flash: SWE-Bench 78.0%, Gemini 3 Pro: 76.2% (Gemini 2.5 Pro는 63.8%)</li><li>컨텍스트 2M 토큰 예정</li></ol>
+<h2 id="xai의-모델-개발-중점">xAI의 모델 개발 중점</h2>
+<ol><li><strong>&quot;힘으로 AGI&quot;</strong> — Grok 5 (6조 파라미터, 이전의 2배) 개발 중</li><li><strong>극단적 스케일링</strong> — Colossus 555,000 GPU, $18B 투자, 월 $1B 운영</li><li><strong>멀티모달 + 음성</strong> — Grok Voice Agent API, Tesla 차량 탑재</li><li><strong>정부/국방</strong> — 미 국방부 GenAI.mil 통합</li><li><strong>X 플랫폼 통합</strong> — 8억 사용자, 실시간 데이터 접근</li><li>Grok 4: SWE-Bench 72-75% (자체 보고), 독립 테스트 58.6%로 격차 큼</li><li>기업가치 $250B, 펀딩 $20B+</li></ol>
+<h2 id="meta의-모델-개발-중점">Meta의 모델 개발 중점</h2>
+<ol><li><strong>&quot;오픈소스 AI&quot;</strong> — Llama가 오픈소스 LLM 사실상 표준, 하지만 정체성 위기</li><li><strong>클로즈드 전환 검토</strong> — 차세대 Avocado 클로즈드 가능성, DeepSeek의 Llama 복제가 계기</li><li><strong>멀티모달 생성</strong> — Mango (이미지/비디오 생성 모델) 개발 중</li><li><strong>Meta 제품 통합</strong> — Instagram, WhatsApp, Quest 30억 사용자에 AI 내장</li><li>Llama 4: 코딩 벤치마크 약함, 벤치마크 조작 의혹까지 나옴</li><li>2026 인프라 투자 $115-135B</li></ol>
+<h2 id="deepseek의-모델-개발-중점">DeepSeek의 모델 개발 중점</h2>
+<ol><li><strong>&quot;효율의 극한&quot;</strong> — R1을 $6M에 학습, 미국 경쟁사의 1/68 비용</li><li><strong>제재 속 효율 극대화</strong> — 미국 GPU 수출 제한 하에서도 프론티어 달성</li><li><strong>DeepSeek V4</strong> — 1조 파라미터, 2026.02 출시 예정, SWE-Bench 80%+ 목표</li><li><strong>오픈소스</strong> — 중국 오픈소스 대장, 글로벌 개발자 커뮤니티에서 가장 유명한 중국 모델</li><li>중국 AI 앱 WAU 2위 (8,156만)</li></ol>
+<h2 id="bytedance의-모델-개발-중점">ByteDance의 모델 개발 중점</h2>
+<ol><li><strong>&quot;앱 위의 AI&quot;</strong> — Doubao가 중국 AI 앱 1위 (WAU 1.55억)</li><li><strong>물량 투자</strong> — 2026 capex $23B, 절반이 AI 반도체</li><li><strong>Doubao 2.0</strong> — GPT-5.2 대비 90% 저렴하다고 주장</li><li><strong>TikTok 배포력</strong> — 글로벌 10억+ 사용자</li></ol>
+<h2 id="중국-ai-생태계-kimi-glm-등">중국 AI 생태계 (Kimi, GLM 등)</h2>
+<h3 id="중국-ai-앱-사용자-순위-2025-12-wau">중국 AI 앱 사용자 순위 (2025.12 WAU)</h3>
+<ol><li>Doubao (ByteDance) — 1.55억</li><li>DeepSeek — 8,156만</li><li>Yuanbao (Tencent)</li><li>A-Fu (Ant Group)</li><li>Qianwen/Qwen (Alibaba)</li><li>...</li><li>Kimi (Moonshot AI) — 450만</li></ol>
+<h3 id="kimi-moonshot-ai">Kimi (Moonshot AI)</h3>
+<ul><li>MAU 3,600만 → 1,000-1,500만으로 급락, 소비자 시장에서 고전</li><li>기업가치 $4.3B, 시리즈 C $500M 유치</li><li>해외 매출이 국내를 추월, K2.5 오픈소스 후 글로벌 유료 사용자 4배 증가</li><li>개발자/연구자 사이에서 롱컨텍스트 + 추론 모델로 유명</li></ul>
+<h3 id="glm-zhipu-ai-z-ai">GLM / Zhipu AI (Z.ai)</h3>
+<ul><li>2026.01 홍콩 상장 (AI 파운데이션 모델 최대 IPO, $558M), 주가 120% 급등</li><li>중국 정부 AI 지출의 70%가 Zhipu 포함 &quot;1차 인가&quot; 모델 사용</li><li>GLM-5 출시 (2026.02) — 오픈소스 벤치마크 1위</li><li>GLM Coding Plan 15만+ 사용자, 수요 폭주로 가격 30% 인상</li><li>소비자 시장은 약하지만 정부/기업 B2B에서 강함</li></ul>
+<h3 id="alibaba-qwen">Alibaba (Qwen)</h3>
+<ul><li>$52B AI/클라우드 인프라 투자 (3년간, 중국 최대)</li><li>Qwen 오픈소스로 DeepSeek과 함께 중국 오픈소스 양대 축</li></ul>
+<h2 id="ai-패권-7사-비교">AI 패권 7사 비교</h2>
+<h3 id="철학과-리더">철학과 리더</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>철학</th><th>리더</th><th>독보적 영역</th></tr></thead><tbody><tr><td>Anthropic</td><td>안전한 AI</td><td>Dario (안전 연구자)</td><td>Claude Code</td></tr><tr><td>OpenAI</td><td>빠른 AI</td><td>Sam (사업가)</td><td>ChatGPT 앱스토어</td></tr><tr><td>Google DeepMind</td><td>과학하는 AI</td><td>Demis (과학자)</td><td>AlphaFold, 로보틱스</td></tr><tr><td>xAI</td><td>힘으로 AGI</td><td>Musk (야망가)</td><td>Colossus, X 데이터</td></tr><tr><td>Meta</td><td>오픈소스 AI</td><td>Zuckerberg (플랫폼왕)</td><td>오픈소스 표준</td></tr><tr><td>DeepSeek</td><td>효율의 극한</td><td>Liang Wenfeng (효율광)</td><td>$6M으로 프론티어</td></tr><tr><td>ByteDance</td><td>앱 위의 AI</td><td>장이밍 (앱의 왕)</td><td>TikTok 10억 사용자</td></tr></tbody></table></div>
+<h3 id="모델-성능">모델 성능</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>대표 모델</th><th>SWE-Bench</th><th>강점</th></tr></thead><tbody><tr><td>Anthropic</td><td>Claude Opus/Sonnet 4.6</td><td><strong>80.8%</strong></td><td>추론, 코딩</td></tr><tr><td>OpenAI</td><td>GPT-5.3 Codex</td><td>80.0%</td><td>속도, 에이전트 코딩</td></tr><tr><td>Google</td><td>Gemini 3 Flash</td><td>78.0%</td><td>멀티모달, 과학</td></tr><tr><td>xAI</td><td>Grok 4 → 5</td><td>72-75%</td><td>규모, 실시간 데이터</td></tr><tr><td>Meta</td><td>Llama 4</td><td>약함</td><td>오픈소스 생태계</td></tr><tr><td>DeepSeek</td><td>V3/R1 → V4</td><td>V4에서 80%+ 목표</td><td>극단적 가성비</td></tr><tr><td>ByteDance</td><td>Doubao 2.0</td><td>미공개</td><td>앱 배포력</td></tr></tbody></table></div>
+<h3 id="자금과-투자">자금과 투자</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>기업가치</th><th>2026 투자</th><th>매출(연환산)</th></tr></thead><tbody><tr><td>Anthropic</td><td>$380B</td><td>비공개 (AWS/GCP 활용)</td><td>$14B</td></tr><tr><td>OpenAI</td><td>$750-830B</td><td>$100B 모집 중</td><td>$20B</td></tr><tr><td>Google</td><td>상장사</td><td><strong>$185B</strong></td><td>AI 별도 미공개</td></tr><tr><td>xAI</td><td>$250B</td><td>$18B(GPU) + 월 $1B</td><td>미공개</td></tr><tr><td>Meta</td><td>상장사</td><td><strong>$115-135B</strong></td><td>AI 별도 미공개</td></tr><tr><td>DeepSeek</td><td>미공개</td><td><strong>$6M</strong>으로 R1 학습</td><td>미공개</td></tr><tr><td>ByteDance</td><td>~$300B</td><td><strong>$23B</strong></td><td>AI 별도 미공개</td></tr></tbody></table></div>
+<h3 id="시장과-전략">시장과 전략</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>스케일링 전략</th><th>타겟 시장</th><th>타겟 범위</th></tr></thead><tbody><tr><td>Anthropic</td><td>알고리즘 효율</td><td>기업 개발자</td><td>좁음</td></tr><tr><td>OpenAI</td><td>HW 다변화</td><td>소비자 + 개발자</td><td>넓음</td></tr><tr><td>Google</td><td>TPU + 연구</td><td>과학/연구 + 소비자</td><td>매우 넓음</td></tr><tr><td>xAI</td><td>최대 GPU 클러스터</td><td>X/Tesla + 국방</td><td>넓음</td></tr><tr><td>Meta</td><td>오픈+클로즈드 투트랙</td><td>오픈소스 커뮤니티</td><td>넓음</td></tr><tr><td>DeepSeek</td><td>제재 속 효율 극대화</td><td>글로벌 개발자</td><td>좁음</td></tr><tr><td>ByteDance</td><td>물량 투자</td><td>중국 소비자</td><td>넓음</td></tr></tbody></table></div>
+<h3 id="openai-인프라-약정-상세-1-4t-2025-2031">OpenAI 인프라 약정 상세 (~$1.4T, 2025-2031)</h3>
+<div class="scroll-x"><table><thead><tr><th>파트너</th><th>금액</th><th>기간</th><th>내용</th></tr></thead><tbody><tr><td>Broadcom</td><td>$350B</td><td>-</td><td>자체 설계 AI 칩 10GW</td></tr><tr><td>Oracle</td><td>$300B</td><td>5년 (연 $60B)</td><td>클라우드 인프라</td></tr><tr><td>Microsoft Azure</td><td>$250B</td><td>6년</td><td>클라우드 서비스</td></tr><tr><td>Amazon AWS</td><td>$38B</td><td>7년</td><td>GPU 접근</td></tr><tr><td>Nvidia</td><td>10GW 규모</td><td>-</td><td>GPU 데이터센터</td></tr></tbody></table></div>
+<ul><li>2026 예상 손실: -$14B (매출 $20B의 1.7배를 잃는 중)</li><li>2029까지 누적 현금 소진: $115B</li><li>2028까지 매년 적자, 2030 흑자 전환 계획</li><li>&quot;AGI가 오면 수조 달러 시장이 열린다&quot;는 전제가 맞아야만 성립하는 베팅</li><li><strong>2026.02 투자자 브리핑에서 $1.4T → $600B으로 대폭 하향</strong> — 투자자들의 &quot;돈 태우는 용광로&quot; 우려 반영. 아모데이가 지적한 &quot;YOLO 투자&quot; 리스크를 OpenAI 스스로 인정한 셈</li></ul>
+<h3 id="big-tech-capex-연도별-추이-google-amazon-meta-microsoft">Big Tech Capex 연도별 추이 (Google+Amazon+Meta+Microsoft)</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>2023</th><th>2024</th><th>2025</th><th>2026</th></tr></thead><tbody><tr><td>합계</td><td>~$140B</td><td>~$222B</td><td>$381B</td><td><strong>$645-665B</strong></td></tr><tr><td>Google</td><td>~$32B</td><td>~$52B</td><td>$91B</td><td>$180B</td></tr><tr><td>Amazon</td><td>~$48B</td><td>~$75B</td><td>$128B</td><td>$200B</td></tr><tr><td>Meta</td><td>~$28B</td><td>~$39B</td><td>$72B</td><td>$125B</td></tr><tr><td>Microsoft</td><td>~$32B</td><td>~$56B</td><td>$88B</td><td>$140B+</td></tr></tbody></table></div>
+<ul><li>2023→2026: <strong>약 4.7배 증가</strong></li><li>2026 전체 capex의 <strong>~75%가 AI 인프라</strong> (~$450B)</li><li>증가분의 대부분이 AI로 유입</li><li>Google/Meta의 capex는 AI 전용이 아님 (기존 인프라 포함), OpenAI는 100% AI</li></ul>
+<h3 id="ai-투자와-dram-메모리-시장">AI 투자와 DRAM/메모리 시장</h3>
+<ul><li>글로벌 DRAM 시장: ~$129B (2025), HBM: ~$34B→$55B (2026, +58%)</li><li>AI가 2026 글로벌 DRAM 웨이퍼 용량의 <strong>~20%</strong> 소비</li><li>HBM 1GB = 일반 DRAM 4배 웨이퍼 사용, 공급이 수요를 못 따라감</li><li>SK하이닉스 HBM 점유율 62%, &quot;메모리 슈퍼사이클&quot;</li></ul>
+<h3 id="투자-대비-성과-차이가-나는-이유">투자 대비 성과 차이가 나는 이유</h3>
+<ul><li><strong>AI 전업 회사</strong> (Anthropic, OpenAI): 1달러도 빠짐없이 AI → 집중도 최고</li><li><strong>Big Tech</strong> (Google, Meta): AI는 여러 사업의 일부, 투자 대비 AI 집중도 낮음</li><li><strong>Meta 부진 원인</strong>: AI가 본업 아님, 조직 갈등, 오픈소스 역설 (공개→복제됨, 비공개→차별점 상실)</li><li>Anthropic의 &quot;Do More With Less&quot;는 $1.4T 쓰는 상대와 정면 승부하지 않는 생존 전략</li><li>아모데이: &quot;ROI를 충분히 이해하지 못한 채 YOLO하는 곳들이 있다. 2027년 중반을 예상했는데 2028년 중반에 오면? 파산한다.&quot;</li><li>Anthropic 2028년 손익분기점 전망 (OpenAI보다 2년 빠름)</li></ul>
+<h3 id="claude-code-security와-월스트리트-충격-2026-02-21">Claude Code Security와 월스트리트 충격 (2026.02.21)</h3>
+<ul><li>AI가 코드베이스 전체를 스캔해 보안 취약점 탐지 + 패치 제안</li><li>내부 테스트에서 오픈소스 코드베이스에서 500개+ 취약점 발견 (수십 년간 미발견된 것 포함)</li><li>발표 직후 사이버보안 주가 급락:<ul><li>CrowdStrike -8%, Cloudflare -8.1%, Okta -9.2%, SailPoint -9.4%</li><li>Global X 사이버보안 ETF -4.9% (2023.11 이후 최저)</li></ul></li><li>단일 AI 기능 발표가 사이버보안 업계 시총 수조 원 증발시킴</li><li>올해 소프트웨어 ETF 23%+ 폭락 — 교육, 법률, 데이터 분석, 사이버보안 순서로 AI가 잠식</li></ul>
+<h3 id="anthropic-시리즈-g-2026-02">Anthropic 시리즈 G (2026.02)</h3>
+<ul><li>300억 달러 조달, 기업가치 3,800억 달러</li><li>참여: Microsoft, NVIDIA, GIC(싱가포르 국부펀드), Coatue, Sequoia</li><li>자금 용도: 인프라 확장이 아닌 모델 연구, 안전 개발, 기업 고객 확장에 집중</li></ul>
+<h3 id="anthropic-vs-openai-사업모델-차이">Anthropic vs OpenAI 사업모델 차이</h3>
+<ul><li>Anthropic: &quot;광고 없는 AI&quot; — 슈퍼볼 광고에서 OpenAI의 ChatGPT 광고 도입을 정면 저격</li><li>OpenAI: 소비자 시장 확장 + 광고 수익 모델 추가</li><li>스콧 갤러웨이(NYU 교수): &quot;시장 리더는 경쟁자를 언급하지 않는다. 알트만이 반응했다는 것 자체가 앤트로픽의 승리&quot;</li></ul>
+<h3 id="중국-ai-생태계-포지션">중국 AI 생태계 포지션</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>소비자 앱</th><th>개발자/오픈소스</th><th>정부/기업</th><th>글로벌</th></tr></thead><tbody><tr><td>ByteDance (Doubao)</td><td><strong>1위 (1.55억)</strong></td><td>약함</td><td>-</td><td>TikTok</td></tr><tr><td>DeepSeek</td><td>2위 (8,156만)</td><td><strong>1위</strong></td><td>-</td><td><strong>가장 유명</strong></td></tr><tr><td>Alibaba (Qwen)</td><td>5위</td><td>강함</td><td>강함</td><td>알려짐</td></tr><tr><td>Tencent (Yuanbao)</td><td>3위</td><td>보통</td><td>보통</td><td>약함</td></tr><tr><td>Zhipu (GLM)</td><td>약함</td><td>강함 (코딩)</td><td><strong>1위</strong> (정부 70%)</td><td>알려짐</td></tr><tr><td>Moonshot (Kimi)</td><td>급락 중 (7위)</td><td>강함 (추론)</td><td>약함</td><td>해외 매출 성장</td></tr></tbody></table></div>
+  
+</article>
+</main>
+<script src="../../app.js" defer></script>
+</body>
+</html>

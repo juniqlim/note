@@ -41,12 +41,18 @@ h1{margin:0;font-family:var(--serif);font-size:26px;font-weight:600}
 .group{display:flex;flex-direction:column;gap:12px}
 .group-head{display:flex;align-items:baseline;gap:10px}
 .group-head h2{margin:0;font-family:var(--serif);font-size:20px;font-weight:600}
-.rows{display:flex;flex-direction:column;gap:14px}
-.row{display:flex;flex-direction:column;gap:3px}
-.row:hover{text-decoration:none}
-.row-title{font-size:16px;color:var(--link)}
-.row:hover .row-title{text-decoration:underline;text-underline-offset:3px}
-.row-sum{font-size:14px;line-height:1.65;color:var(--muted)}
+/* 목록 한 줄에 노트 하나. 제목과 날짜만 놓아 한 화면에 많이 담는다. */
+.lines{display:flex;flex-direction:column}
+.line{display:flex;align-items:baseline;gap:12px;padding:5px 0;border-bottom:1px solid var(--rule)}
+.line:last-child{border-bottom:0}
+.line:hover{text-decoration:none}
+.line-title{font-size:15.5px;color:var(--link)}
+.line-sub{flex:1;min-width:0;font-size:13px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.line:hover .line-title{text-decoration:underline;text-underline-offset:3px}
+.line .dim{margin-left:auto;font-size:12px;white-space:nowrap}
+
+article .figure{margin:18px 0}
+article img{max-width:100%;height:auto;border:1px solid var(--rule)}
 .badge{margin-left:8px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted)}
 
 .changes{display:flex;flex-direction:column;margin-top:8px}

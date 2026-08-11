@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agile은 왜 만들어졌을까? · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../index.html">노트</a>
+      <a href="../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../index.html">← 프로그래밍</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#plan-predictive-driven">Plan(Predictive) Driven</a><a class="toc-2" href="#애자일-선언문-https-agilemanifesto-org-principles-html">[애자일 선언문](https://agilemanifesto.org/principles.html)</a><a class="toc-3" href="#agile-s-values">Agile's Values</a><a class="toc-3" href="#agile-s-principles">Agile's Principles</a><a class="toc-2" href="#그래서">그래서?</a></nav>
+  <div class="stats mono">
+    <span>2023-06-07 · 읽기 3분</span>
+    <span>나가는 링크 1 · 백링크 1</span>
+  </div>
+</aside>
+<article>
+  <h1>Agile은 왜 만들어졌을까?</h1>
+  
+  
+  
+  <p>애자일은 태생이 포괄적이다. 그래서 추상적이다.</p>
+<h2 id="plan-predictive-driven">Plan(Predictive) Driven</h2>
+<p><a class="ext" href="https://martinfowler.com/articles/newMethodology.html" target="_blank" rel="noopener">마틴파울러에 따르면 ↗</a>,<br>90년대 전통적인 개발방식(traditional plan-driven software engineering)의 문제점을 보완하려고 나타난 여러가지 방법론들이 있었다.</p>
+<p>XP, Scrum, Crystal, DSDM, FDD 등등의 방법론들이 발전하고 있었지만, 소수의견 이었고, 주류(전통적인 개발방식)에 대항하기 위해 힘을 모은 것 같다.</p>
+<p>그 방법론들을 만든 사람들과 대표자들이 모여서 통합 선언문 만들었다.<br>Agile이란 이름으로 결정되기전, 또 하나의 이름 후보는 'Adaptive'였다고 한다.</p>
+<p>나는 그 동안 XP가 애자일의 구현체라고 생각했다. 모호한 애자일의 내용을 구체적으로 설명해줬기 때문이다.<br>그런데 아니였다. <a class="ext" href="https://www.quora.com/What-s-the-difference-between-Scrum-and-Agile/answers/206298118" target="_blank" rel="noopener">스크럼 아저씨의 이야기처럼 ↗</a> XP, Scrum같은 lightweight 방법론들이 오히려 애자일의 부모이다. 애자일 밑에 있지 않다.</p>
+<p>애자일을 보고 이해하기 어렵다면, 그 부모를 보면 될 것 같다.</p>
+<h2 id="애자일-선언문-https-agilemanifesto-org-principles-html"><a class="ext" href="https://agilemanifesto.org/principles.html" target="_blank" rel="noopener">애자일 선언문 ↗</a></h2>
+<p>에는 애자일이 추구하는 4개의 가치와 12개의 원칙이 있다.</p>
+<p>문서에도 잘 나와있지만, 머리에 넣고 꺼내기쉽게, 내 나름대로 요약을 해보았다.</p>
+<h3 id="agile-s-values">Agile's Values</h3>
+<p>'a보다 b를 더 중요하게 여긴다.'의 형식을 사용하는데,<br>a가 기존 개발방식의 문제점이었던 것 같다.</p>
+<ol><li>프로세스보다 사람</li><li>문서보다 작동하는 결과물</li><li>계약보다 고객과 협업</li><li>예측보다 대응  </li></ol>
+<p>어떤 팀/회사가 이 가치들을 실제로 중요하게 여긴다면 애자일하다고 할 수 있겠다.</p>
+<p>반대로</p>
+<ol><li>사람보다 프로세스</li><li>작동하는 결과물보다 문서</li><li>고객과 협업보다 계약</li><li>대응보다 예측  </li></ol>
+<p>을 실제로 중요하게 여긴다면 애자일 하지 못하다고 할 수 있겠다.</p>
+<p>추상적인 가치들을 설명하기 위해, 선더버드 회의 이후 원칙이 추가 되었다고 한다.</p>
+<h3 id="agile-s-principles">Agile's Principles</h3>
+<ol><li>고객만족 최우선</li><li>요구사항변경 환영</li><li>동작하는 결과 수시제공</li><li>매일협업</li><li>동기부여된 사람</li><li>면대면 대화 지향</li><li>동작하는 결과로 진척확인</li><li>일정한 속도유지</li><li>기술적 탁월함/좋은 설계에 관심</li><li>꼭 할일만 함</li><li>스스로 팀 지향</li><li>정기적 팀 반성/변화  </li></ol>
+<p>어떤 팀/회사가 원칙들을 잘 지키고 있다면 애자일 하다고 할 수 있겠다.<br>원칙의 목적은 가치를 얻기 위함이니 가치를 잊고 원칙만 고수한다면 애자일하다고 하기 어렵겠다.</p>
+<p><a class="ext" href="https://www.yes24.com/Product/Goods/96370562" target="_blank" rel="noopener">클린 애자일 ↗</a>을 보면, 애자일의 4가지 가치가 '밥먹으면 배부르다' 수준을 넘어서,<br>'실제로 일하는 방식'을 바꾸기 원했고, 12가지 원칙을 만들어진 것 같다.</p>
+<h2 id="그래서">그래서?</h2>
+<p>소프트웨어를 만들며 고통의 시간을 보내본 사람들은,<br>가치와 원칙을 보면서 참 좋은 말들이라고 고개를 끄덕일만 하다.<br>하지만 특히 개발자 입장에서, 실제로 어떻게 해야하는지, 가치와 원칙만 읽고 행하기는 어려운 것 같다.</p>
+<p>엉클밥은 <a class="ext" href="https://www.yes24.com/Product/Goods/96370562" target="_blank" rel="noopener">책 ↗</a>에서 그 해결책으로 익스트림 프로그래밍의 실천방법을 이용한다.</p>
+<p>나도 그 영향을 받아 <a class="internal" href="../../notes/programming/2023-06-07-how-to-become-an-agile-developer.html">이렇게</a> 하고 있다.</p>
+  <div class="backlinks">
+    <span class="kicker">이 노트를 참조한 노트</span>
+    <a href="../../notes/programming/2023-06-07-how-to-become-an-agile-developer.html">Agile한 개발자가 되는 방법</a>
+  </div>
+</article>
+</main>
+<script src="../../app.js" defer></script>
+</body>
+</html>

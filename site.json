@@ -9,20 +9,18 @@
   },
   "folders": [
     { "dir": "programming", "label": "프로그래밍" },
+    { "dir": "programming/kent", "label": "프로그래밍 · 켄트 벡" },
+    { "dir": "programming/ward", "label": "프로그래밍 · 워드 커닝햄" },
     { "dir": "ai-agent", "label": "AI 에이전트" },
     { "dir": "investment", "label": "투자" }
   ],
-  "notes": [
-    "programming/why-tdd.md",
-    "programming/2022-09-26-class-and-method-naming.md",
-    "programming/2023-02-01-what-really-matters-in-software.md",
-    "programming/2023-03-15-why-i-like-oop.md",
-    "programming/2023-06-01-caution-when-using-composition.md",
-    "programming/pomodoro-retrospective.md",
-    "programming/ron-estimation-is-evil.md",
-    "ai-agent/better-agentic-coding.md",
-    "ai-agent/my-ai-agent-practices.md",
-    "investment/투자판단모델.md"
+  "exclude": [
+    "programming/better-agentic-coding.md",
+    "investment/3년배수점검.md",
+    "ai-agent/codex-gpt_5_1_prompt.md",
+    "ai-agent/codex-gpt_5_2_prompt.md",
+    "ai-agent/codex-gpt-5.1-codex-max_prompt.md",
+    "ai-agent/codex-review_prompt.md"
   ],
   "slugs": {
     "investment/투자판단모델.md": "investment-decision-model"

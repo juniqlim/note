@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // md → docs/ 정적 사이트. 의존성 없음. 실행: node build.js
-import { readFile, writeFile, mkdir, rm, cp } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm, cp, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseNote, blocksToText } from './site/md.js';
@@ -12,15 +12,25 @@ const out = path.join(root, 'docs');
 const cfg = JSON.parse(await readFile(path.join(root, 'site.json'), 'utf8'));
 const labelOf = (dir) => (cfg.folders.find((f) => f.dir === dir) || {}).label || dir;
 
-// 이 저장소에는 아직 안 익은 글도 있다. site.json 의 notes 에 적은 것만 낸다.
-// 적힌 순서가 곧 보이는 순서다. 이름이 틀리면 빌드가 멈춘다 — 조용히 빠지는 것보다 낫다.
+// folders 에 적은 폴더를 훑는다. 하위 폴더는 따라 들어가지 않는다 —
+// kent/ ward/ 처럼 갈래로 삼을 것만 folders 에 따로 적어 라벨을 준다.
+// 그래서 md 를 넣기만 하면 목록에 뜬다. 안 낼 것만 exclude 에 적는다.
 const notes = [];
-for (const p of cfg.notes) {
-  const note = parseNote(p, await readFile(path.join(root, p), 'utf8'));
-  note.slug = cfg.slugs[p] || note.meta.slug || '';
-  note.text = blocksToText(note.blocks);
-  notes.push(note);
+for (const f of cfg.folders) {
+  const entries = await readdir(path.join(root, f.dir), { withFileTypes: true }).catch(() => []);
+  for (const e of entries) {
+    if (!e.isFile() || !e.name.endsWith('.md')) continue;
+    const p = f.dir + '/' + e.name;
+    if (cfg.exclude.includes(p)) continue;
+    const note = parseNote(p, await readFile(path.join(root, p), 'utf8'));
+    note.folder = f.dir;
+    note.slug = cfg.slugs[p] || note.meta.slug || '';
+    note.text = blocksToText(note.blocks);
+    notes.push(note);
+  }
 }
+// 훑어 찾는 목록이다. 날짜순은 최근 변경이 맡는다.
+notes.sort((a, b) => a.title.localeCompare(b.title, 'ko'));
 
 // 백링크 — 여기 낸 노트끼리만 센다.
 const back = new Map();

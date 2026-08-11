@@ -1,7 +1,8 @@
 https://www.artima.com/articles/collective-ownership-of-code-and-text
-코드와 텍스트의 공동 소유권 (Collective Ownership of Code and Text)
 워드 커닝햄(Ward Cunningham)과의 대담, 2부
 빌 베너스(Bill Venners) 작성 2003년 12월 1일
+
+# 코드와 텍스트의 공동 소유권 (Collective Ownership of Code and Text)
 
 요약
 워드 커닝햄이 빌 베너스와 함께 위키(Wiki)를 공동 코드 소유권의 모델로 설계한 방법, 소유권에 대한 자부심을 고취하는 집단적 인센티브, 그리고 실수에 대한 비용을 없앰으로써 의견 불일치를 해결하는 방법에 대해 이야기합니다.

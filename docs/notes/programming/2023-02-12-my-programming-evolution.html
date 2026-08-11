@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>나의 프로그래밍 변천사 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../index.html">노트</a>
+      <a href="../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../index.html">← 프로그래밍</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#시작">시작</a><a class="toc-2" href="#기술-선택-권한">기술 선택 권한</a><a class="toc-2" href="#nextstep-tdd-clean-code">NextStep - TDD, clean code</a><a class="toc-2" href="#회사에서-테스트코드-작성하기">회사에서 테스트코드 작성하기</a><a class="toc-2" href="#회사에서-tdd-하기">회사에서 TDD 하기</a><a class="toc-2" href="#회사에서-불변객체-사용하기">회사에서 불변객체 사용하기</a><a class="toc-2" href="#디자인-패턴">디자인 패턴</a><a class="toc-2" href="#함수형-프로그래밍">함수형 프로그래밍</a><a class="toc-2" href="#ddd">DDD</a></nav>
+  <div class="stats mono">
+    <span>2023-02-12 · 읽기 6분</span>
+    <span>나가는 링크 2 · 백링크 0</span>
+  </div>
+</aside>
+<article>
+  <h1>나의 프로그래밍 변천사</h1>
+  
+  
+  
+  <p>그때그때 기록을 잘 남겼으면 좋았을텐데, 지난 기억을 되새기며 작성했다. 부정확한 부분들이 있다.</p>
+<h2 id="시작">시작</h2>
+<p>나는 경력을 시작하고 10년 동안 외주개발자(솔루션SI)로 일했다.<br>업무를 빠르게 파악하고, 소통하고, 문제없는 개발결과물 내는 것을 잘했다. 처음 3~4년 야근을 많이하고, 업무시간 이후에 업무/개발하는게 너무 싫었다.<br>개발은 나에게 일이고, 재미없지만 억지로 하는 것이었다.</p>
+<p>java, spring, javascript, jquery, oracle등 기술스택을 사용하고<br>controller, service, dao의 3layer에 업무를 구현했다. DB가 중심인, 트랜잭션 스트립트였다.</p>
+<p>4~5년차쯤 하나의 회사에 4년정도 파견근무 했다. 년차도 차고, 한 코드를 오래보게 되었다. 코드에 뭔가 개선이 필요하다. 이대로 계속 프로그래밍하면 점점 더 나빠진다는 문제는 인식을 했다.<br>회의때 문제제기해보기도 했지만, 어떻게 해결해야되는지 모르고, 외주개발자이기에 좀 더 적극적이지 못했고, 무엇보다 열정/관심이 부족했다. 개발 커뮤니티도 기웃거리고, 좋다는 책도 꽤 샀는데, 공부하고 싶은 생각은 별로 없었다.(이때 처음 연애함, 결혼도 함)</p>
+<p>TDD책만 유일하게 읽었다.(1부만) 예제를 타이핑하면서 읽었는데, 개발책이 이정도로 재미있을 수 있구나 놀랐다. 회사코드에서 TDD를 하는 것은 상상하지 못했다.</p>
+<h2 id="기술-선택-권한">기술 선택 권한</h2>
+<p>스타트업을 경험하고싶어서, 한 회사에 입사했다.<br>기존 기술 리더가 퇴사하면서, 내가 기술 리더격이 됬다.<br>경력 처음으로 기술선택을 할 수 있는 권한이 주어졌다. 처음으로 스스로 업무시간 외에도 업무를 위해 시간을 썼다. 호기심이 생기고 재미가 붙었다.<br>JPA 강의를 보고, 업무에도 개선사항을 적용해봤다.<br>이때 클린 아키텍처를 접했다. 그동안 내가 잘 못됬다고 느낀걸, 딱딱 집어주는 것이 너무 속시원했는데, 그래서 회사코드를 어떻게 바꿔야되는지는 몰랐다.<br>좋은 개발문화를 가진 회사에서, 좋은 개발에 대해 배우고 싶었다.</p>
+<h2 id="nextstep-tdd-clean-code">NextStep - TDD, clean code</h2>
+<p><a class="internal" href="../../notes/programming/2023-01-08-nextstep-tdd-review.html">nextstep의 TDD, 클린코드 강의 이후</a> 내 코드가 급격히 변하기 시작했다.<br>강의를 들으며, 회사코드에도 커밋/코드 컨벤션을 적용하였다. 주변동료들에게도 전파했다.<br><a class="ext" href="http://bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf" target="_blank" rel="noopener">객체지향생활체조 ↗</a>, 클린코드 책의 지침들도 적용해보았다. 그동안 지루했던 회사코딩이 꽤 재미있어졌다.<br>하지만 회사코드에 테스트코드를 작성하는 것이, 특히 TDD를 적용하는 것이 어려웠다.</p>
+<h2 id="회사에서-테스트코드-작성하기">회사에서 테스트코드 작성하기</h2>
+<p>강의를 마치고, 클린아키텍처 책을 보았다.<br>너무나 옳은 말씀이었는데, 어떻게 회사코드에 적용할지를 몰랐다.<br>좋은 회사에서는 어떻게 회사코드를 만드는지, best practice는 무엇인지 궁금했다.<br>만들면서 배우는 클린아키텍처 책을 보고, Repository를 추상화하는 것을 알았다.<br>이제 회사코드의 테스트코드를 작성하는데 어려움이 없어졌다. 책에 있는 것처럼 헥사고날 아키텍처로 회사코드를 작성해봤다.<br>TDD는 아직 어색했다. 테스트를 먼저 만든다는게 잘 와닿지 않았던 것 같다.</p>
+<h2 id="회사에서-tdd-하기">회사에서 TDD 하기</h2>
+<p>엘레강트 오브젝트 책을 보았다.<br>객체지향에 대해 더욱 생각하게 되었다. 클래스를 만들때, ‘무엇’인지 생각하고, 어떻게/행동/속성들을 감췄다.<br>점점 interface를 정의하는게 익숙해졌다. TDD가 점점 더 익숙해졌다.<br>사용할때 어떻게 쓰일 것인지를 먼저 생각하게 되었다.<br>책에서는 불변객체를 강조했는데, 모든 속성을 불변으로 만드는 것이 어려웠다.</p>
+<h2 id="회사에서-불변객체-사용하기">회사에서 불변객체 사용하기</h2>
+<p>새로입사한 신입개발자에게, TDD와 객체지향을 가르쳐주고 싶었다.<br>그 분도 관심이 있었고, 나도 가르치는 경험을 해보고 싶었다. 페어프로그래밍도 하고 직접 만들어 보여주며 비교하기도 했다.<br>nextstep에서 배운 미션(카타)를 가지고 진행을 많이 했다. 내가 처음 미션을 할때보다 코드가 많이 간결해졌다.<br>그러면서 ‘자동차 경주 게임’을 모두 불변객체로 만들어보고 싶었다.<br>처음엔 잘 안됬는데, 가변 행동을 하는 메서드에서, 새로운 객체를 만들어 리턴하면 되는 것을 알게되었다.<br>회사코드에도 외부참조하는 클래스, 직렬화대상 클래스를 제외하고는 불변 클래스로 만들기 시작했다.</p>
+<h2 id="디자인-패턴">디자인 패턴</h2>
+<p>엉클밥이 클린코더에서 프로 소프트웨어 개발자라면 알아야하는 최소한의 기술 목록을 이야기했다.<br>그 목록에 디자인패턴이 있었는데, 계속 마음에 걸렸다.<br>패턴에 관한 다른 책들도 있지만, 영 학습이 되질않았다. 몸에 붙질 않았다.<br>원조격인 GoF의 디자인 패턴책을 샀다.<br>서문을 보니 패턴달달 외우기보다, 객체지향 디자인을 잘 아는 것이 중요하단다?<br>각 패턴을 보니 상속을 쓰는 패턴이 너무 많다.</p>
+<p>이펙티브 자바에서 상속은 충분한 이득이 있을때만 계획하에 쓰라고 했는데,<br>엘레강트 오브젝트에선 아예 쓰지말라고 한다.<br>코드의 중복을 제거하는 두가지 방법, 상속/구성 중에 구성만 써도 될 것 같다?<br>듣자하니 함수형 프로그래밍에서는 모든 것을 함수로 해결하기 때문에 디자인 패턴이 없다고 한다.<br>그럼 함수형 프로그래밍을 알아보고 싶은데..</p>
+<h2 id="함수형-프로그래밍">함수형 프로그래밍</h2>
+<p>엉클밥이 매우 푸시중인 클로저, 진짜중에 진짜 함수형 언어 하스켈을 튜토리얼 정도 해봤다.<br>코드가 수학 공식처럼 느껴진다.<br><a class="ext" href="https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app" target="_blank" rel="noopener">클로저 ↗</a>와 <a class="ext" href="https://github.com/nodew/haskell-realworld-example" target="_blank" rel="noopener">하스켈 ↗</a>로 만든 <a class="ext" href="https://github.com/gothinkster/realworld" target="_blank" rel="noopener">리얼월드 ↗</a>를 확인해봤다. 함수형이라 기대했는데 코드가 너무 복잡하여, 자바/스프링보다 나아보이질 않는다.<br>이 코드들이 잘되어있는 코드인지 알수는 없지만, 굳이 함수형이야되는가 의문이 들었다.</p>
+<p>쏙쏙 들어오는 함수형 코딩 책을 알게되었다.<br>실용적인 측면에서 함수형 프로그래밍를 이야기 해준다고 한다. 아직 완독전인데,<br>계산/데이터/액션을 나누는 것을 보며, 불변객체를 적극적으로 사용하는 코딩과 별로 다르지 않음을 느꼈다.</p>
+<h2 id="ddd">DDD</h2>
+<p>는 <a class="internal" href="../../notes/programming/2023-02-05-ddd-strategic-design-review.html">여기에</a> 자세한 내용이 있다.<br>도메인 주도 개발책을 출퇴근하며 목차중에 호기심생기는걸 보고있는데, 그때(책은 2003/08에 나왔는데, 3?4?년간 쓴거라고 한다.) 이미 불변에 중요성을 강조했었다.<br>힘들지만, 읽을만한 책인 것 같다.</p>
+  
+</article>
+</main>
+<script src="../../app.js" defer></script>
+</body>
+</html>

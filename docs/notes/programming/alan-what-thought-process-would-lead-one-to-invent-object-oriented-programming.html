@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>도대체 어떤 사고 과정을 거쳤기에 객체 지향 프로그래밍(OOP)을 발명하게 되었는가? · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../index.html">노트</a>
+      <a href="../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../index.html">← 프로그래밍</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-3" href="#1-행동-기반-검증-behavioral-verification">1. 행동 기반 검증 (Behavioral Verification)</a><a class="toc-3" href="#2-시각적-시뮬레이션-visual-simulation">2. 시각적 시뮬레이션 (Visual Simulation)</a><a class="toc-3" href="#3-격리와-안전성-safety-via-isolation">3. 격리와 안전성 (Safety via Isolation)</a><a class="toc-3" href="#요약-설계가-곧-검증이다">요약: 설계가 곧 검증이다</a><a class="toc-3" href="#1-지능-대신-극단적인-유연함-late-binding">1. &quot;지능&quot; 대신 &quot;극단적인 유연함(Late Binding)&quot;</a><a class="toc-3" href="#2-인간을-시스템의-일부로-포함시킨-gui">2. 인간을 시스템의 일부로 포함시킨 GUI</a><a class="toc-3" href="#3-단순한-규칙들의-조합">3. 단순한 규칙들의 조합</a><a class="toc-3" href="#결론-메시징-구조라는-기반">결론: 메시징 구조라는 기반</a></nav>
+  <div class="stats mono">
+    <span>읽기 14분</span>
+    <span>나가는 링크 0 · 백링크 0</span>
+  </div>
+</aside>
+<article>
+  <h1>도대체 어떤 사고 과정을 거쳤기에 객체 지향 프로그래밍(OOP)을 발명하게 되었는가?</h1>
+  
+  
+  
+  <p>예전에 모두 번역해 읽고 싶었지만, 비천한 영어실력에 끙끙대며 문장문장만 번역하고 이해했는데.. 이제 세상이 바뀌어 몇 초면 번역본이 튀어 나온다.<br>재밋는 것은 앨런이 이야기하는 OO, 명령적아닌 선언적 프로그래밍이, 현재 에이전틱코딩과 매우 닮아있다.<br><a class="ext" href="https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11" target="_blank" rel="noopener">www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11 ↗</a></p>
+<p>다음은 앨런 케이(Alan Kay)의 Quora 답변을 한국어 마크다운(Markdown) 형식으로 번역한 것입니다.</p>
+<hr>
+<p>음, 좋습니다.</p>
+<p>1992년에 저는 ACM(미국 컴퓨터 협회)으로부터 제2회 &quot;프로그래밍 언어의 역사(History Of Programming Languages)&quot; 컨퍼런스를 위해 제가 실제로 수행했던 작업의 역사를 써달라는 요청을 받았습니다. 온라인에는 여러 버전이 있는데, 브렛 빅터(Bret Victor)의 사이트에 있는 &quot;The Early History Of Smalltalk(스몰토크의 초기 역사)&quot;도 그중 하나입니다. 더 자세한 내용을 원하시는 분들은 이것으로 충분할 것입니다.</p>
+<p>이곳 Quora 답변을 위해 요약하자면, (a) 제가 1966년에 작업하던 것에 대해 &quot;객체 지향 프로그래밍(object oriented programming)&quot;이라는 용어를 만든 것은 맞지만, (b) 저는 제가 하던 일을 제가 다음과 같은 시절부터 겪어온 다양한 형태의 아이디어들을 일종의 &quot;회전(rotation)&quot; 시키고 일반화한 것이라고 생각했습니다.</p>
+<ul><li>생물학자로서의 경험</li><li>1961년부터 공군 프로그래머로서: &quot;의미론적(semantic) 파일 시스템&quot;을 만드는 방법</li><li>B5000 컴퓨터의 하드웨어 구조에서</li><li>거시적으로는 &quot;다중 프로그래밍(multi-programmed)&quot; 및 &quot;시분할(time-shared)&quot; 운영체제의 프로세스들에서</li><li>가장 놀랍게는 이반 서덜랜드(Ivan Sutherland)의 스케치패드(Sketchpad)에서</li><li>더 평범하고 실용적인 형태인 시뮬라(Simula)에서</li><li>그리고 네트워크상의 전체 컴퓨터들로서 (제 연구 커뮤니티에서 준비 중이던 ARPAnet처럼)</li></ul>
+<p>1966년 11월에 제 머리를 강타한 생각은 터무니없을 정도로 단순했습니다. <strong>&quot;만약 서로 통신할 수 있는 컴퓨터가 충분히 있다면, 컴퓨터로 할 수 있는 그 어떤 것이든 정의하는 데 이것만 있으면 된다&quot;</strong>는 것이었죠. 왜냐하면 각 컴퓨터는 범용(universal)적이기 때문입니다.</p>
+<p>현실적인 어려움은 차치하고라도 — 저는 기본적으로 게으른 수학자였기에, 프로그래머로서 갖춰야 했던 부지런한 실용주의자적 태도에서 벗어나기가 꽤 쉬웠습니다 — 이 아이디어는 매우 매력적이었습니다. 왜냐하면 기존의 프로시저(procedure)나 데이터 구조(data structure)를 기본 구성 요소로 쓰는 것보다 <strong>확장성(scale)</strong>이 훨씬 좋았기 때문입니다.</p>
+<p>그리고 훨씬 더 깔끔했고, 전체 시스템 설계에 적용하기가 훨씬 더 용이했습니다.</p>
+<p>또한 <strong>&quot;시뮬레이션을 설계하고 프로그래밍한다&quot;</strong>는 관점에서 생각하기에도 아주 좋았습니다. 이 마지막 부분은 제가 일주일 간격으로 연달아 접했던 두 시스템, 즉 스케치패드(Sketchpad)와 초기 시뮬라(Simula) 덕분이었습니다. 이 둘은 본질적으로 상호 연관된 수많은 프로세스를 포함하는 복잡한 실체를 시뮬레이션하도록 설정되어 있었기 때문입니다.</p>
+<p>모든 것을 &quot;메시징을 통해 상호 통신하는 의미론적 소프트웨어 컴퓨터(semantic software computers)&quot;로 만든다는 점의 또 다른 매력적인 특징은 &quot;데이터&quot;가 가진 몇 가지 추한 속성들을 수정할 뿐만 아니라 제거할 수도 있다는 점이었습니다. 예를 들어, 표준 하드웨어와 그에 밀접하게 매핑된 프로그래밍 언어들은 단순한 배열(array)은 쉽게 만들 수 있지만, 희소 행렬(sparse matrices)이나 스택, 큐 등 조금만 더 복잡한 &quot;데이터 구조&quot;는 만들기 어렵습니다. 만약 이것들이 &quot;프로세스&quot;이고 &quot;할당 화살표(assignment arrow, 대입 연산)&quot;가 무엇을 의미할지 내부적으로 결정할 수 있다면 이런 것들을 구현하기가 쉬워집니다.</p>
+<p>그리고 이는 여전히 상태(state)를 가지지만 경쟁 상태(race condition)가 없는, &quot;데이터&quot;보다 훨씬 더 나은 무언가로 이어질 수 있습니다. 예를 들어, 객체 내부에서 원한다면 기록의 버전을 관리할 수도 있고, &quot;원자적 트랜잭션(atomic transaction)&quot;을 수행할 수도 있으며, 모든 관계가 일관성이 있을 때만 조회를 허용할 수도 있습니다. 그 외에도 많은 것이 가능하죠. 데이터라는 아이디어는 항상 좋지 않았습니다. 하지만 이 새로운 의미론적 구성 요소를 사용하면 객체가 시간의 흐름에 따라 진화하고 &quot;학습&quot;하는 등이 가능하면서도 훨씬 더 안전해질 수 있습니다.</p>
+<p>그리고 시뮬레이션 그 자체에 대한 아이디어가 있습니다. 여기서 &quot;데이터&quot;나 &quot;상태&quot;라는 개념은 협력할 수 있는 &quot;유능한 객체(competent objects)&quot;에 의해 가려지게 됩니다. 마치 생물학적 세포나 인간 사회가 그러하듯이 말이죠.</p>
+<p><strong>따라서, 이것을 이끌어낸 사고 과정은 기본적으로 &quot;시스템적 사고 과정&quot;이었습니다. 즉, 프로세스들의 시스템을 쉽게 정의할 수 있는 능력에 관한 것이었죠. 어떤 종류의 프로세스들로 이루어진 어떤 종류의 시스템이라도 말입니다.</strong></p>
+<p>이것은 대부분의 독자가 C++나 Java 같은 언어를 통해 연상하는 OOP와는 많이 다를 것입니다.</p>
+<p>이러한 괴리의 상당 부분은 관점/시각의 차이에서 비롯됩니다. C++나 Java 등은 객체를 주로 데이터 구조와 매우 유사한 새로운 것을 정의하는 데 사용하며, 거기서 행해지는 프로그래밍은 대체로 매우 데이터 구조적인 방식입니다 (예: &quot;세터(setter)&quot;는 어떤 종류의 엔티티든 누구나 명령형으로 조작(munge)할 수 있는 데이터 구조로 되돌려버립니다). 엄밀히 말해, 이것은 사실 &quot;추상 데이터 구조(Abstract Data Structures)&quot;이며, 객체로 할 수 있는 일의 일부이긴 하지만, 본래의 의도에서는 벗어난 것입니다.</p>
+<p>제가 위에서 묘사한 그림은 훌륭한 시스템 설계자가 — 비록 규모가 매우 크더라도 — 좋은 시스템을 설계하고 만들 수 있게 해줍니다. 숙련된 시스템 설계가 적용되지 않는다면 이 아이디어의 이점 중 상당 부분을 잃게 될 것이라는 점은 명백합니다.</p>
+<p>중요한 부가적인 포인트는 이 패러다임의 정의적 측면이 가진 힘과 일반성이 프로그래밍 스타일과는 꽤 독립적일 수 있다는 것입니다 (이것이 &quot;시스템 시뮬레이션&quot;이 의미하는 핵심 열쇠입니다).</p>
+<p>객체는 함수, 프로시저, 데이터 구조 등을 완벽하게 시뮬레이션할 수 있으므로, 옛것들을 모두 완벽하게 커버할 수 있습니다. 하지만 또한 매우 똑똑한 에이전시나 에이전트를 시뮬레이션하여 일을 처리하는 훨씬 더 강력한 방법을 제공할 수도 있습니다.</p>
+<p>상황이 전개된 과정의 결함은, &quot;프로세스로 이루어진 보편적이고 확장 가능한 시스템&quot;의 함의를 제대로 이해(grok)하기 위해 노력한 사람이 컴퓨팅 분야에 거의 없었다는 점입니다. 대신 그들은 아주 오래되고 확장성이 떨어지는 프로그래밍 방식에 매달렸습니다.</p>
+<p>Parc(제록스 파크)에서 우리는 복잡한 시스템을 조직하고 프로그래밍하는 이 새로운 방법에 대해 우리가 이해한 바를 최대한 활용하려고 노력했기 때문에, 아주 적은 줄의 코드만으로도 우리가 구상한 것을 작성할 수 있는 엄청난 힘을 얻었습니다. (오늘날에는 이에 대해 더 많이 이해되고 있지만, 처음 그 당시에도 우리는 가능한 일들을 보며 끊임없이 놀라워했습니다.)</p>
+<hr>
+<blockquote><p><strong>참고</strong>: 이하 내용은 앨런 케이의 OOP 철학을 현대 AI 코딩에 적용한 Opus 4.5 thinking의</p></blockquote>
+<p>해석입니다. 앨런 케이가 직접 AI 코드 검증에 대해 언급한 적은 없습니다. 저 또한 아래 내용에 모두 동의하고 있는 것은 아닙니다.</p>
+<hr>
+<h1 id="앨런-케이의-oop-철학으로-본-ai-코드-검증법">앨런 케이의 OOP 철학으로 본 AI 코드 검증법</h1>
+<p>우리는 보통 코드를 검증할 때 소스 코드를 한 줄 한 줄 읽으며 논리적 오류를 찾는<br><strong>'코드 리뷰(Code Review)'</strong> 방식을 사용합니다. 하지만 앨런 케이의 **진정한<br>OOP(True OOP)<strong> 관점에서 객체는 내부를 들여다볼 수 없는 </strong>'블랙박스'**입니다.</p>
+<p>그렇다면 내부를 볼 수 없는 상황에서, **AI가 작성한 코드가 올바른지 어떻게 검증할 수 있을까요?** 앨런 케이의 철학을 적용하면 다음과 같은 접근법을 생각해볼 수 있습니다.</p>
+<hr>
+<h3 id="1-행동-기반-검증-behavioral-verification">1. 행동 기반 검증 (Behavioral Verification)</h3>
+<p>앨런 케이는 OOP의 핵심이 <strong>메시징(Messaging)</strong>이라고 강조했습니다.</p>
+<blockquote><p>&quot;OOP to me means only messaging, local retention and protection and hiding of</p></blockquote>
+<p>state-process, and extreme late-binding of all things.&quot;</p>
+<blockquote><p>— Alan Kay</p></blockquote>
+<p>이 철학을 AI 코드 검증에 적용하면, 코드의 내부 구현을 읽는 것보다 **메시지를 보내고 응답을 확인하는 방식**이 더 적합합니다.</p>
+<ul><li><strong>기존 방식 (White-box):</strong> AI가 작성한 함수 내부의 <code>if</code>문 로직이 맞는지 눈으로   </li></ul>
+<p>  확인한다.</p>
+<ul><li><strong>메시징 기반 방식 (Black-box):</strong><ul><li>객체(AI가 만든 코드)에게 다양한 <strong>테스트 메시지(Input)</strong>를 던진다.</li><li>돌아오는 <strong>응답(Output)</strong>이 기대한 계약(Contract)을 충족하는지 확인한다.</li><li>내부가 스파게티 코드든 최적화된 코드든 상관없다. **&quot;약속한 대로               </li></ul></li></ul>
+<p>      행동하는가?&quot;**가 검증 기준이다.</p>
+<p>  ---</p>
+<h3 id="2-시각적-시뮬레이션-visual-simulation">2. 시각적 시뮬레이션 (Visual Simulation)</h3>
+<p>앨런 케이가 만든 스몰토크(Smalltalk) 환경은 모든 것이 즉시 화면에 그려지고 조작<br>가능했습니다. 그는 추상적인 텍스트보다 직관적인 시각화를 중시했습니다.</p>
+<ul><li><strong>검증 방법:</strong><ul><li>AI가 코드를 짜면, 그 즉시 <strong>가상 공간(Sandbox)</strong>에서 실행시킨다.</li><li><em>예시:</em> AI가 &quot;물리 엔진&quot;을 짰다면, 수식을 검증하는 게 아니라 **공을 떨어뜨려   </li></ul></li></ul>
+<p>     본다.**</p>
+<ul><li>공이 바닥을 뚫고 지나가면 탈락, 튕겨 오르면 합격이다.</li></ul>
+<ul><li><strong>핵심:</strong> 코드는 텍스트가 아니라, <strong>실행 중인 시스템의 동작</strong>으로 검증한다.</li></ul>
+<p>  ---</p>
+<h3 id="3-격리와-안전성-safety-via-isolation">3. 격리와 안전성 (Safety via Isolation)</h3>
+<p>앨런 케이는 객체를 <strong>생물학적 세포</strong>에 비유했습니다.</p>
+<blockquote><p>&quot;I thought of objects being like biological cells and/or individual computers on</p></blockquote>
+<p>a network, only able to communicate with messages.&quot;</p>
+<blockquote><p>— Alan Kay</p></blockquote>
+<p>세포 하나가 문제가 생겨도 전체 유기체가 죽지 않듯이, 시스템도 그래야 합니다.</p>
+<ul><li><strong>핵심 전략:</strong><ul><li>&quot;완벽한 코드인가?&quot;를 묻지 않는다.</li><li><strong>&quot;이 객체가 실패해도 시스템 전체가 죽지 않는가?&quot;</strong>를 확인한다.</li></ul></li></ul>
+<ul><li><strong>구현:</strong> AI가 만든 객체는 철저히 <strong>격리된 환경</strong>에서 실행되어야 한다. 검증되지  </li></ul>
+<p>  않은 코드가 에러를 뿜으면, <strong>그 객체만 조용히 소멸</strong>시키면 된다.</p>
+<blockquote><p><strong>참고:</strong> 이와 유사한 철학이 Erlang 언어의 <strong>&quot;Let it Crash&quot;</strong> 원칙입니다. 각</p></blockquote>
+<p>프로세스(액터)가 완전히 격리되어 있어서, 하나가 죽어도 감독자(Supervisor)가 이를<br>재시작하는 방식으로 시스템 안정성을 확보합니다.</p>
+<hr>
+<h3 id="요약-설계가-곧-검증이다">요약: 설계가 곧 검증이다</h3>
+<p>앨런 케이의 철학을 현대 AI 코딩에 적용하면:</p>
+<ol><li>코드를 눈으로 읽고 검증하기보다, <strong>메시지를 보내고 응답을 확인</strong>한다.</li><li>텍스트로 분석하기보다, <strong>실행하고 시각적으로 관찰</strong>한다.</li><li>완벽함을 추구하기보다, <strong>실패해도 안전한 구조</strong>를 만든다.</li></ol>
+<p>인간의 역할은 &quot;코드 리뷰어&quot;에서 <strong>&quot;동작 테스트 설계자&quot;</strong>이자 **&quot;시스템 아키텍처<br>설계자&quot;**로 바뀌어야 할 수 있습니다.</p>
+<hr>
+<h1 id="1970년대-ai-없이-앨런-케이는-이를-어떻게-구현했는가">1970년대, AI 없이 앨런 케이는 이를 어떻게 구현했는가?</h1>
+<p>앨런 케이의 아이디어는 단순한 이상향으로 남지 않았습니다. 그는 당시 기술의 한계<br>속에서도 <strong>&quot;스몰토크(Smalltalk)&quot;</strong>라는 언어와 <strong>&quot;제록스 알토(Xerox Alto)&quot;</strong>라는<br>컴퓨터를 통해 자신의 이론을 실제로 구현했습니다.</p>
+<p>다만, 지금의 LLM처럼 '스스로 생각하는 뇌'가 없었기 때문에, 그는 다른 방식으로<br>&quot;살아있는 시스템&quot;을 구현했습니다.</p>
+<hr>
+<h3 id="1-지능-대신-극단적인-유연함-late-binding">1. &quot;지능&quot; 대신 &quot;극단적인 유연함(Late Binding)&quot;</h3>
+<p>AI가 없으니 객체가 스스로 판단할 지능은 없습니다. 대신 앨런 케이는 **&quot;판단을 최대한 미루는 기술(Late Binding)&quot;**을 사용했습니다.</p>
+<p><strong>일반적인 방식 (C/Java):</strong></p>
+<ul><li>컴파일러가 미리 결정한다. &quot;이 함수는 정수만 받을 수 있어.&quot;</li><li>실행 전에 모든 관계가 딱딱하게 굳어 있다.</li></ul>
+<p><strong>앨런 케이의 방식 (Smalltalk):</strong></p>
+<ul><li>&quot;실행되는 그 순간(Runtime)까지 아무것도 결정하지 않는다.&quot;</li><li>객체 A가 객체 B에게 메시지를 보낼 때, B가 그걸 처리할 수 있는지는 메시지가       </li></ul>
+<p>  도착하는 그 순간에 B가 결정한다.</p>
+<p>앨런 케이는 이렇게 말했습니다:</p>
+<blockquote><p>&quot;Both Lisp and Smalltalk are fabulous vehicles, because they have a meta-system.</p></blockquote>
+<p>They have so many ways of dealing with problems that the early-binding languages<br>don't have.&quot;</p>
+<blockquote><p>— Alan Kay, ACM Queue 인터뷰</p></blockquote>
+<p>이 &quot;느슨한 연결&quot; 덕분에, 프로그래머는 마치 지능이 있는 것처럼 코드를 짤 수<br>있었습니다.</p>
+<p>*&quot;나는 네가 사과인지, 자동차인지 몰라. 그냥 '그려(Draw)'라고 메시지 보낼게. 네가<br>알아서 해.&quot;*</p>
+<p>비록 객체 내부는 단순한 if-then 코드였지만, 겉으로 보기엔 서로 대화하며 유연하게<br>대처하는 에이전트처럼 행동하게 만든 것입니다.</p>
+<hr>
+<h3 id="2-인간을-시스템의-일부로-포함시킨-gui">2. 인간을 시스템의 일부로 포함시킨 GUI</h3>
+<p>1960년 J.C.R. Licklider는 <strong>&quot;Man-Computer Symbiosis(인간-컴퓨터 공생)&quot;</strong>라는<br>논문에서 인간과 컴퓨터가 협력하는 미래를 제시했습니다. 앨런 케이는 이 비전의 영향<br>아래에서 작업했습니다.</p>
+<p>컴퓨터가 아직 똑똑하지 않다면, 시스템의 빈 지능을 채워줄 존재로<br><strong>'사용자(인간)'</strong>를 적극 개입시킬 수 있습니다. 이것이 **GUI(그래픽 사용자<br>인터페이스)**의 핵심 아이디어 중 하나입니다.</p>
+<ul><li><strong>과거:</strong> 검은 화면에 글씨만 가득함(CLI). 컴퓨터는 계산만 수행.</li><li><strong>앨런 케이의 접근:</strong><ul><li>화면에 <strong>창(Window)</strong>과 <strong>아이콘(Object)</strong>을 띄워놓고 시뮬레이션을 돌린다.</li><li>객체들이 상호작용하다가 사용자 판단이 필요하면, 마우스로 직접 개입해서         </li></ul></li></ul>
+<p>     수정한다.</p>
+<p>즉, <strong>[컴퓨터(객체들) + 인간(관리자)]</strong>가 합쳐져서 하나의 시스템처럼 돌아가게<br>설계한 것입니다.</p>
+<hr>
+<h3 id="3-단순한-규칙들의-조합">3. 단순한 규칙들의 조합</h3>
+<p>앨런 케이는 생물학에서 영감을 받았습니다. 객체를 <strong>생물학적 세포</strong>에 비유한 것처럼, 복잡한 시스템이 단순한 구성 요소들의 상호작용으로 만들어질 수 있다고 보았습니다.</p>
+<ul><li><strong>스몰토크의 구현:</strong><ul><li>객체들을 아주 단순하게 만들었다.</li><li>&quot;메시지를 받으면 -&gt; 처리하거나 전달한다.&quot;</li><li>&quot;내부 상태를 바꾼다.&quot;</li><li>이 단순한 객체 수천 개를 메모리에 풀어놓고 연결했더니, 윈도우 시스템이 되고,   </li></ul></li></ul>
+<p>     애니메이션 도구가 되고, 음악 편집기가 되었다.</p>
+<p>Bob Barton(B5000 설계자)의 원칙이 이를 뒷받침합니다:</p>
+<blockquote><p>&quot;The basic principle of recursive design is to make the parts have the same power</p></blockquote>
+<p>as the whole.&quot;</p>
+<hr>
+<h3 id="결론-메시징-구조라는-기반">결론: 메시징 구조라는 기반</h3>
+<p>앨런 케이는 1970년대에 '고지능 AI'를 만들려고 한 게 아니었습니다. 대신 **&quot;서로<br>메시지를 주고받는 독립적인 객체들&quot;**이라는 구조를 만들었습니다.</p>
+<p>당시에는 그 객체 안에 단순한 로직만 들어갔지만, 그 <strong>구조 자체</strong>는 더 복잡한 것을<br>담을 수 있도록 설계되어 있었습니다. 지금의 LLM과 에이전트 기술이 등장하면서, 그<br>구조 안에 들어갈 수 있는 것의 범위가 넓어지고 있는 것입니다.</p>
+<hr>
+<p><strong>참고 자료:</strong></p>
+<ul><li>[The Early History of Smalltalk - Bret                                           </li></ul>
+<p>  Victor](<a class="ext" href="https://worrydream.com/EarlyHistoryOfSmalltalk/" target="_blank" rel="noopener">worrydream.com/EarlyHistoryOfSmalltalk ↗</a>)</p>
+<ul><li>[A Conversation with Alan Kay - ACM                                              </li></ul>
+<p>  Queue](<a class="ext" href="https://queue.acm.org/detail.cfm?id=1039523" target="_blank" rel="noopener">queue.acm.org/detail.cfm?id=1039523 ↗</a>)</p>
+<ul><li>[Dr. Alan Kay on the Meaning of                                                  </li></ul>
+<p>  OOP](<a class="ext" href="https://www.purl.org/stefan_ram/pub/doc_kay_oop_en" target="_blank" rel="noopener">www.purl.org/stefan_ram/pub/doc_kay_oop_en ↗</a>)</p>
+<ul><li>[Man-Computer Symbiosis - J.C.R.                                                 </li></ul>
+<p>  Licklider](<a class="ext" href="https://en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis" target="_blank" rel="noopener">en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis ↗</a>)</p>
+<ul><li>[Erlang &quot;Let it Crash&quot; Philosophy](<a class="ext" href="https://medium.com/@vamsimokari/erlang-let-it-" target="_blank" rel="noopener">medium.com/@vamsimokari/erlang-let-it- ↗</a></li></ul>
+<p>  crash-philosophy-53486d2a6da)</p>
+  
+</article>
+</main>
+<script src="../../app.js" defer></script>
+</body>
+</html>

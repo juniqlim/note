@@ -31,8 +31,14 @@ export function inlineToHtml(nodes, ctx) {
       }
       return '<a class="ext" href="' + attr(n.href) + '" target="_blank" rel="noopener">' + inner + ' \u2197</a>';
     }
+    if (n.t === 'img') return imgToHtml(n);
     return '';
   }).join('');
+}
+
+// \uadf8\ub9bc\uc740 \uc6d0\ub798 \uc788\ub358 \uc790\ub9ac(raw.githubusercontent.com \ub4f1)\uc5d0\uc11c \uadf8\ub300\ub85c \uac00\uc838\uc628\ub2e4.
+function imgToHtml(n) {
+  return '<img src="' + attr(n.src) + '" alt="' + attr(n.alt || '') + '" loading="lazy">';
 }
 
 function itemsToHtml(list, ctx) {
@@ -41,8 +47,13 @@ function itemsToHtml(list, ctx) {
     + '</li>').join('');
 }
 
+export function blocksToHtml(blocks, ctx) {
+  return blocks.map((b) => blockToHtml(b, ctx)).join('\n');
+}
+
 function blockToHtml(b, ctx) {
   switch (b.type) {
+    case 'img': return '<p class="figure">' + imgToHtml(b) + '</p>';
     case 'heading': {
       const t = 'h' + Math.min(4, b.level);
       return '<' + t + ' id="' + attr(b.id) + '">' + inlineToHtml(b.inline, ctx) + '</' + t + '>';
@@ -80,7 +91,7 @@ function shell({ title, site, base, body, bodyClass = '' }) {
   <div class="head-left">
     <a class="brand" href="${base}index.html">${esc(site.title)}</a>
     <nav>
-      <a href="${base}index.html">주제</a>
+      <a href="${base}index.html">노트</a>
       <a href="${base}changes.html">최근 변경</a>
       ${site.sibling ? `<a class="ext" href="${attr(site.sibling.url)}">${esc(site.sibling.label)} ↗</a>` : ''}
     </nav>
@@ -100,17 +111,20 @@ ${body}
 `;
 }
 
+// 다 보여주는 목록이다. 제목만 놓는다 — 요약까지 붙이면 길어져서 아무도 훑지 않는다.
 export function renderHome({ site, folders, notes, base = '' }) {
   const groups = folders.map((f) => {
     const list = notes.filter((n) => n.folder === f.dir);
     if (!list.length) return '';
-    const items = list.map((n) => `<a class="row" href="${attr(base + noteUrl(n))}">
-        <span class="row-title">${esc(n.title)}${n.source && n.source.translation ? '<span class="badge">번역</span>' : ''}</span>
-        ${n.summary ? '<span class="row-sum">' + esc(n.summary) + '</span>' : ''}
+    // 부제까지 놓는다. "도메인 주도 설계" 가 둘이면 제목만으로는 고를 수 없다.
+    const items = list.map((n) => `<a class="line" href="${attr(base + noteUrl(n))}">
+        <span class="line-title">${esc(n.title)}${n.source && n.source.translation ? '<span class="badge">번역</span>' : ''}</span>
+        ${n.subtitle ? '<span class="line-sub">' + esc(n.subtitle) + '</span>' : ''}
+        <span class="mono dim">${esc(n.date || '')}</span>
       </a>`).join('');
     return `<section class="group">
-      <div class="group-head"><h2>${esc(f.label)}</h2><span class="mono dim">${esc(f.dir)} · ${list.length}</span></div>
-      <div class="rows">${items}</div>
+      <div class="group-head"><h2>${esc(f.label)}</h2><span class="mono dim">${list.length}</span></div>
+      <div class="lines">${items}</div>
     </section>`;
   }).join('');
 
@@ -122,10 +136,12 @@ export function renderHome({ site, folders, notes, base = '' }) {
   });
 }
 
+// 날짜는 파일명 앞의 YYYY-MM-DD 에서만 온다. 대부분의 노트에는 그것이 없다.
+// 날짜 없는 것까지 늘어놓으면 "날짜 없음" 이 목록을 덮어 아무것도 알려주지 못한다.
 export function renderChanges({ site, notes, labelOf, base = '' }) {
-  const rows = notes.slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-    .map((n) => `<a class="change" href="${attr(base + noteUrl(n))}">
-      <span class="mono dim">${esc(n.date || '날짜 없음')}</span>
+  const dated = notes.filter((n) => n.date).sort((a, b) => b.date.localeCompare(a.date));
+  const rows = dated.map((n) => `<a class="change" href="${attr(base + noteUrl(n))}">
+      <span class="mono dim">${esc(n.date)}</span>
       <span class="change-title">${esc(n.title)}</span>
       <span class="mono dim">${esc(labelOf(n.folder))}</span>
     </a>`).join('');
@@ -133,7 +149,7 @@ export function renderChanges({ site, notes, labelOf, base = '' }) {
   return shell({
     title: '최근 변경 · ' + site.title, site, base, bodyClass: 'narrow',
     body: `<h1>최근 변경</h1>
-<p class="lede">파일명의 날짜 접두어를 씁니다. 실제 고침 이력은 git 커밋에서 채워야 합니다.</p>
+<p class="lede">파일명 앞의 날짜가 있는 ${dated.length}편입니다. 나머지 ${notes.length - dated.length}편은 날짜를 적어 두지 않았습니다.</p>
 <div class="changes">${rows}</div>`,
   });
 }
@@ -156,7 +172,7 @@ export function renderNote({ site, note, notes, labelOf, base }) {
     ${note.backlinks.map((p) => '<a href="' + attr(base + noteUrl(byPath.get(p))) + '">' + esc(byPath.get(p).title) + '</a>').join('')}
   </div>` : '';
 
-  const body = note.blocks.map((b) => blockToHtml(b, ctx)).join('\n');
+  const body = blocksToHtml(note.blocks, ctx);
 
   return shell({
     title: note.title + ' · ' + site.title, site, base, bodyClass: 'note-page',

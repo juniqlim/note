@@ -24,7 +24,8 @@ export function parseInline(text, fromPath) {
   const out = [];
   let rest = decodeEntities(text);
   const push = (node) => { if (node) out.push(node); };
-  const re = /(\*\*([^*]+)\*\*)|(`([^`]+)`)|(\*([^*\n]+)\*)|(\[([^\]]*)\]\(([^)\s]+)\))|(https?:\/\/[^\s)<>"']+)/;
+  // 그림(!)이 링크보다 뒤에 있어도 된다. 정규식은 더 앞에서 시작하는 매치를 고른다.
+  const re = /(\*\*([^*]+)\*\*)|(`([^`]+)`)|(\*([^*\n]+)\*)|(\[([^\]]*)\]\(([^)\s]+)\))|(https?:\/\/[^\s)<>"']+)|(!\[([^\]]*)\]\(([^)\s]+)\))/;
   while (rest.length) {
     const m = rest.match(re);
     if (!m) { push({ t: "text", v: rest }); break; }
@@ -38,6 +39,8 @@ export function parseInline(text, fromPath) {
     } else if (m[10]) {
       const r = resolveHref(m[10], fromPath);
       push({ t: "link", href: r.href, internal: r.internal, raw: r.raw, c: [{ t: "text", v: shortUrl(m[10]) }] });
+    } else if (m[11]) {
+      push({ t: "img", src: m[13], alt: m[12] });
     }
     rest = rest.slice(m.index + m[0].length);
   }
@@ -105,6 +108,16 @@ export function parseBlocks(body, fromPath) {
       continue;
     }
     if (/^(-{3,}|\*{3,}|_{3,})\s*$/.test(line)) { blocks.push({ type: "hr" }); i++; continue; }
+    // 옛 노트는 GitHub 웹에서 붙여넣은 <img> 를 그대로 갖고 있다. 이것만은 알아본다.
+    if (/^<img\s[^>]*>\s*$/i.test(line)) {
+      blocks.push({
+        type: "img",
+        src: (line.match(/src="([^"]*)"/i) || [])[1] || "",
+        alt: (line.match(/alt="([^"]*)"/i) || [])[1] || "",
+      });
+      i++;
+      continue;
+    }
     if (/^\s*\|.*\|\s*$/.test(line) && /^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(lines[i + 1] || "")) {
       const cells = (l) => l.trim().replace(/^\||\|$/g, "").split("|").map((c) => parseInline(c.trim(), fromPath));
       const head = cells(line);
@@ -129,7 +142,7 @@ export function parseBlocks(body, fromPath) {
     }
     // 단락: 빈 줄/블록 시작 전까지. 줄 끝 두 칸 = 줄바꿈
     const buf = [];
-    while (i < lines.length && lines[i].trim() && !isList(lines[i]) && !/^(#{1,4}\s|```|\s*>|\s*\|)/.test(lines[i]) && !/^(-{3,}|\*{3,})\s*$/.test(lines[i])) {
+    while (i < lines.length && lines[i].trim() && !isList(lines[i]) && !/^(#{1,4}\s|```|\s*>|\s*\||<img\s)/.test(lines[i]) && !/^(-{3,}|\*{3,})\s*$/.test(lines[i])) {
       buf.push(lines[i]);
       i++;
     }
@@ -144,6 +157,13 @@ export function parseBlocks(body, fromPath) {
   return blocks;
 }
 
+// 한쪽이 다른 쪽을 그대로 품고 있으면 같은 말이다. "나는 TDD 왜하는가." 와 "TDD 왜하는가?"
+const echoes = (a, b) => {
+  const bare = (s) => s.replace(/[\s.?!·,]/g, "");
+  const [x, y] = [bare(a), bare(b)];
+  return !!x && !!y && (x.includes(y) || y.includes(x));
+};
+
 // 노트 하나를 사이트가 쓰는 형태로 변환
 export function parseNote(path, src) {
   const { meta, body } = splitFrontmatter(src);
@@ -151,20 +171,37 @@ export function parseNote(path, src) {
   const h1At = lines.findIndex((l) => /^#\s+/.test(l));
   const preamble = h1At > 0 ? lines.slice(0, h1At).filter((l) => l.trim()) : [];
   const rest = h1At >= 0 ? lines.slice(h1At + 1).join("\n") : body;
-  const rawTitle = h1At >= 0 ? lines[h1At].replace(/^#\s+/, "").trim() : path.split("/").pop().replace(/\.md$/, "");
+  const blocks = parseBlocks(rest, path);
+  const firstIsH2 = blocks[0] && blocks[0].type === "heading" && blocks[0].level === 2;
 
-  // 제목: "한글 (English)" → 원제 분리 / " - 부제" → 부제 분리
-  let title = rawTitle, titleOriginal = "", subtitle = meta.subtitle || "";
-  const dash = title.match(/^(.*?)\s+[-–—]\s+(.+)$/);
-  if (dash) { title = dash[1].trim(); subtitle = subtitle || dash[2].trim(); }
+  // 오래된 노트에는 H1 없이 ## 로 시작하는 것이 있다. 그것이 제목이다 —
+  // 그냥 두면 파일명이 제목이 되어 목록에 ward-interview-clay 같은 것이 뜬다.
+  let subtitle = meta.subtitle || "";
+  let rawTitle;
+  if (h1At >= 0) {
+    rawTitle = lines[h1At].replace(/^#\s+/, "").trim();
+    // 제목 아래 첫 ## 가 짧으면 부제로 올린다. 본문에서는 빼되,
+    // 제목을 되풀이할 뿐이면 부제로 쓰지 않는다 — 목록에 같은 말이 두 번 나온다.
+    if (!subtitle && firstIsH2 && blocks[0].text.length <= 40) {
+      const lead = blocks.shift().text;
+      subtitle = echoes(rawTitle, lead) ? "" : lead;
+    }
+  } else if (firstIsH2) {
+    rawTitle = blocks.shift().text;
+  } else {
+    rawTitle = path.split("/").pop().replace(/\.md$/, "");
+  }
+
+  // 관례에서 벗어난 옛 노트는 파서가 알아맞히게 두지 않고 직접 적는다.
+  if (meta.title) rawTitle = meta.title;
+
+  // 제목: "한글 (English)" → 원제 분리 / " - 부제" → 부제 분리.
+  // 하이픈이 여럿이면 어디서 갈라야 할지 알 수 없으니 통째로 제목이다.
+  let title = rawTitle, titleOriginal = "";
+  const dash = title.split(/\s+[-–—]\s+/);
+  if (dash.length === 2) { title = dash[0].trim(); subtitle = subtitle || dash[1].trim(); }
   const paren = title.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
   if (paren && /[A-Za-z]/.test(paren[2])) { title = paren[1].trim(); titleOriginal = paren[2].trim(); }
-
-  const blocks = parseBlocks(rest, path);
-  // 첫 ## 가 짧고 본문 앞에 있으면 부제로 승격
-  if (!subtitle && blocks[0] && blocks[0].type === "heading" && blocks[0].level === 2 && blocks[0].text.length <= 40) {
-    subtitle = blocks.shift().text;
-  }
 
   // 출처: H1 위의 URL 줄 + 설명 줄 (또는 프론트매터 source/translation)
   let source = null;

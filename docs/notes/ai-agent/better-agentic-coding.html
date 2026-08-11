@@ -15,7 +15,7 @@
   <div class="head-left">
     <a class="brand" href="../../index.html">나의 노트</a>
     <nav>
-      <a href="../../index.html">주제</a>
+      <a href="../../index.html">노트</a>
       <a href="../../changes.html">최근 변경</a>
       <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
     </nav>
@@ -30,7 +30,7 @@
 <aside class="rail">
   <a class="mono back" href="../../index.html">← AI 에이전트</a>
   <span class="kicker">Contents</span>
-  <nav class="toc"><a class="toc-2" href="#에이전틱-코딩">에이전틱 코딩</a><a class="toc-2" href="#새로운-병목">새로운 병목</a><a class="toc-2" href="#루프-닫기-검증">루프 닫기, 검증</a><a class="toc-2" href="#검증-가능한-단위로-작업하기">검증 가능한 단위로 작업하기</a><a class="toc-2" href="#tell-don-t-ask-멘토링-보다-코칭">Tell, Don't Ask, 멘토링 보다 코칭</a><a class="toc-2" href="#claude가-말하는-llm의-특징">Claude가 말하는 LLM의 특징</a></nav>
+  <nav class="toc"><a class="toc-2" href="#새로운-병목">새로운 병목</a><a class="toc-2" href="#루프-닫기-검증">루프 닫기, 검증</a><a class="toc-2" href="#검증-가능한-단위로-작업하기">검증 가능한 단위로 작업하기</a><a class="toc-2" href="#tell-don-t-ask-멘토링-보다-코칭">Tell, Don't Ask, 멘토링 보다 코칭</a><a class="toc-2" href="#claude가-말하는-llm의-특징">Claude가 말하는 LLM의 특징</a></nav>
   <div class="stats mono">
     <span>읽기 4분</span>
     <span>나가는 링크 2 · 백링크 0</span>
@@ -41,13 +41,12 @@
   
   <p class="subtitle">새로운 병목, 구현이 아니라 검증</p>
   
-  <h2 id="에이전틱-코딩">에이전틱 코딩</h2>
-<p>에이전틱 코딩(Agentic Coding)은 AI 에이전트가 코드 작성의 주체가 되는 개발 방식이다.<br>개발자가 직접 한 줄씩 코드를 타이핑하는(자동완성 보조를 받아) 대신, AI에게 의도와 맥락을 전달하고 AI가 코드를 생성한다.<br>개발자는 생성된 코드를 검토하고, 피드백을 주고, 방향을 조정한다.</p>
+  <p>에이전틱 코딩(Agentic Coding)은 AI 에이전트가 코드 작성의 주체가 되는 개발 방식이다.<br>개발자가 직접 한 줄씩 코드를 타이핑하는(자동완성 보조를 받아) 대신, AI에게 의도와 맥락을 전달하고 AI가 코드를 생성한다.<br>개발자는 생성된 코드를 검토하고, 피드백을 주고, 방향을 조정한다.</p>
 <h2 id="새로운-병목">새로운 병목</h2>
 <p>전통적인 개발에서 병목은 구현이었다. 구현코드/테스트코드를 구체적으로 어떻게 작성할지 생각하고, 타이핑하는데 시간이 걸렸다.<br>에이전틱 코딩에선 검증이 병목이다. 테스트, 코드리뷰는 물론 목적이 제대로 달성되었는지 확인하는 시간이 훨씬 오래걸린다.</p>
 <h2 id="루프-닫기-검증">루프 닫기, 검증</h2>
-<p>하루에 600개의 커밋을 머지하는, 이제 코드를 직접 작성하지 않는다고 하는 Peter Steinberger(OpenClaw 개발자)는 <a class="ext" href="https://github.com/juniqlim/note/blob/master/programming/interview-iship-code-idont-read.md" target="_blank" rel="noopener">인터뷰 ↗</a>에서 루프닫기(closing the loop)를 강조한다. 에이전트가 스스로 디버깅하고 테스트 할 수 있어야 한다. 에이전트에게 자신의 작업을 검증할 방법을 제공해야한다.</p>
-<p>마찬가지로 하루에 20개 넘는 PR을 제출하고, <a class="ext" href="https://x.com/bcherny/status/2015979257038831967" target="_blank" rel="noopener">AI가 자신의 코드 100%를 작성한다 ↗</a>고 말한 Boris Cherny(Claude Code 개발자)도, <a class="ext" href="https://github.com/juniqlim/note/blob/master/programming/boris-claude-code-guide.md" target="_blank" rel="noopener">X에 자신의 Claude Code 설정 ↗</a>을 이야기하며 에이전트에게 검증(Verification)할 방법을 제공하고 피드백 루프를 갖게 하라고 조언한다.</p>
+<p>하루에 600개의 커밋을 머지하는, 이제 코드를 직접 작성하지 않는다고 하는 Peter Steinberger(OpenClaw 개발자)는 <a class="internal" href="../../notes/programming/interview-iship-code-idont-read.html">인터뷰</a>에서 루프닫기(closing the loop)를 강조한다. 에이전트가 스스로 디버깅하고 테스트 할 수 있어야 한다. 에이전트에게 자신의 작업을 검증할 방법을 제공해야한다.</p>
+<p>마찬가지로 하루에 20개 넘는 PR을 제출하고, <a class="ext" href="https://x.com/bcherny/status/2015979257038831967" target="_blank" rel="noopener">AI가 자신의 코드 100%를 작성한다 ↗</a>고 말한 Boris Cherny(Claude Code 개발자)도, <a class="internal" href="../../notes/programming/boris-claude-code-guide.html">X에 자신의 Claude Code 설정</a>을 이야기하며 에이전트에게 검증(Verification)할 방법을 제공하고 피드백 루프를 갖게 하라고 조언한다.</p>
 <p>에이전트가 엄청나게 빠르게 작성해준 구현코드를 내가 직접 테스트하고 에이전트에 오류리포트 해주다보면, 이건 뭐가 잘못되었다는 것을 스스로 알게된다.</p>
 <h2 id="검증-가능한-단위로-작업하기">검증 가능한 단위로 작업하기</h2>
 <p>에이전트가 만들어 준 코드를 믿으려면, 검증이 가능 해야한다. 빠르게 검증하고 부족한 부분을 피드백하면 결과물이 빠르게 답에 가까워진다.<br>에이전트가 스스로 검증할 수 있게 환경을 만들어준다면, 에이전트는 사람이 흉내낼 수 없는 속도로 검증하고 피드백한다. 루프가 닫힌다.</p>

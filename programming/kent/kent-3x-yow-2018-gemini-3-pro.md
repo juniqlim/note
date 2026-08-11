@@ -1,3 +1,6 @@
+---
+subtitle: 의역
+---
 # 3X Explore, Expand, Extract • Kent Beck • YOW! 2018
 https://www.youtube.com/watch?v=WazqgfsO_kY  
 켄트백이 3x에 대해 예를 들어 설명해준다.  

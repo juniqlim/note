@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alan Kay의 OOP를 Java code에 적용해보기 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../index.html">노트</a>
+      <a href="../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../index.html">← 프로그래밍</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#pratices">Pratices</a><a class="toc-2" href="#예제">예제</a><a class="toc-3" href="#1-setter-금지-실천방법을-적용해본다">1.'setter 금지' 실천방법을 적용해본다.</a><a class="toc-3" href="#2-인스턴스-필드는-final-실천방법을-적용해본다">2.'인스턴스 필드는 final' 실천방법을 적용해본다.</a><a class="toc-3" href="#3-공개메소드의-요청-응답을-단순하게-실천방법을-적용해본다">3.'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.</a><a class="toc-2" href="#etc">Etc</a><a class="toc-3" href="#principles">Principles</a><a class="toc-3" href="#values">Values</a><a class="toc-2" href="#결론">결론</a></nav>
+  <div class="stats mono">
+    <span>2023-06-06 · 읽기 11분</span>
+    <span>나가는 링크 1 · 백링크 1</span>
+  </div>
+</aside>
+<article>
+  <h1>Alan Kay의 OOP를 Java code에 적용해보기</h1>
+  
+  <p class="subtitle">Alan Kay's OOP Practices in Java</p>
+  
+  <p>(내 나름대로, 내가 이해한)앨런 캐이의 객체지향을 자바코드에 적용해보자.</p>
+<p><a class="internal" href="../../notes/programming/2023-03-17-alan-kay-oop.html">Smalltalk와 LISP에서만 가능하다</a>고 했지만, 가능한 부분만 시도해보자.</p>
+<h2 id="pratices">Pratices</h2>
+<ol><li><a class="ext" href="https://www.quora.com/In-object-oriented-programming-why-is-it-bad-practice-to-make-data-members-public-when-the-get-set-public-members-modify-it-anyway/answer/Alan-Kay-11" target="_blank" rel="noopener">setter 금지 ↗</a></li><li><a class="ext" href="https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11" target="_blank" rel="noopener">인스턴스 필드는 final ↗</a></li><li><a class="ext" href="https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3851868732" target="_blank" rel="noopener">공개메소드의 요청/응답을 단순하게 ↗</a></li></ol>
+<h2 id="예제">예제</h2>
+<p>먼저 간단한 코드를 준비했다.<br><a class="ext" href="https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints#create-article" target="_blank" rel="noopener">RealWorld라는 블로그 애플리케이션은 글을 만들때 ↗</a> 제목으로 slug를 만들어야한다.<br>'How to train your dragon' -&gt; 'how-to-train-your-dragon'<br>이 요구사항을 코드로 만들어 보았다.</p>
+<pre><code>    DataStructureArticle makeDataStructureArticle(String title, String content) {
+        String lowerCase = title.toLowerCase();
+        String slug = lowerCase.replace(&quot; &quot;, &quot;-&quot;);
+    
+        DataStructureArticle article = new DataStructureArticle();
+        article.setTitle(title);
+        article.setContent(content);
+        article.setSlug(slug);
+    
+        return article;
+    }
+    
+    class DataStructureArticle {
+        private String title;
+        private String content;
+        private String slug;
+    
+        public void setSlug(String slug) {
+            this.slug = slug;
+        }
+    
+        public void setTitle(String title) {
+        }
+    
+        public void setContent(String content) {
+        }
+    
+        public String getSlug() {
+            return slug;
+        }
+    }</code></pre>
+<p>구조체+프로시저 스타일의 코드다.</p>
+<p>이 코드는 아래의 테스트 코드처럼 사용되어진다.</p>
+<pre><code>    @Test
+    void makeDataStructureArticle() {
+        MakeArticle.DataStructureArticle article = makeArticle.makeDataStructureArticle(&quot;How to train your dragon&quot;, &quot;Ever wonder how?&quot;);
+        assertEquals(&quot;how-to-train-your-dragon&quot;, article.getSlug());
+    }</code></pre>
+<h3 id="1-setter-금지-실천방법을-적용해본다">1.'setter 금지' 실천방법을 적용해본다.</h3>
+<pre><code>    MutableObjectArticle makeMutableObjectArticle(String title, String content) {
+        MutableObjectArticle article = new MutableObjectArticle(title, content);
+        article.setSlug();
+
+        return article;
+    }
+
+    class MutableObjectArticle {
+        private String title;
+        private String content;
+        private String slug;
+
+        public MutableObjectArticle(String title, String content) {
+            this.title = title;
+            this.content = content;
+        }
+
+        public void setSlug() {
+            String lowerCase = title.toLowerCase();
+            String slug = lowerCase.replace(&quot; &quot;, &quot;-&quot;);
+            this.slug = slug;
+        }
+
+        public String getSlug() {
+            return slug;
+        }
+    }</code></pre>
+<p>가변객체 스타일의 코드다.<br>slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안으로 들어갔다. '글' 객체를 만드는 코드가 작아졌다.<br>'글'객체는 변경가능한 상태를 가지고 있다. '글'객체의 참조가 다른 곳에서 사용되거나, 멀티 스레드 환경이라면 경쟁상태가 된다.<br>코드 실행시 의도하지 않은 결과가 나올수 있다.</p>
+<p>이 코드는 아래의 테스트 코드처럼 사용되어진다.</p>
+<pre><code>    @Test
+    void makeMutableObjectArticle() {
+        MakeArticle.MutableObjectArticle article = makeArticle.makeMutableObjectArticle(&quot;How to train your dragon&quot;, &quot;Ever wonder how?&quot;);
+        assertEquals(&quot;how-to-train-your-dragon&quot;, article.getSlug());
+    }</code></pre>
+<h3 id="2-인스턴스-필드는-final-실천방법을-적용해본다">2.'인스턴스 필드는 final' 실천방법을 적용해본다.</h3>
+<pre><code>    ImmutableObjectArticle immutableObjectArticle(String title, String content) {
+        return new ImmutableObjectArticle(title, content, new SluggedString(title));
+    }
+
+    class ImmutableObjectArticle {
+        private final String title;
+        private final String content;
+        private final SluggedString sluggedString;
+
+        public ImmutableObjectArticle(String title, String content, SluggedString sluggedString) {
+            this.title = title;
+            this.content = content;
+            this.sluggedString = sluggedString;
+        }
+
+        public SluggedString slug() {
+            return sluggedString;
+        }
+    }
+
+    static class SluggedString {
+        private final String raw;
+
+        public SluggedString(String raw) {
+            this.raw = raw;
+        }
+
+        String value() {
+            return raw.toLowerCase().replace(&quot; &quot;, &quot;-&quot;);
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            SluggedString slug = (SluggedString) o;
+            return Objects.equals(raw, slug.raw);
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(raw);
+        }
+    }</code></pre>
+<p>불변객체 스타일의 코드다.<br>slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객체를 가지고 있다(Composition).<br>객체는 변경가능한 상태가 없기 때문에 다루기 쉽다.</p>
+<p>이 코드는 아래의 테스트 코드처럼 사용되어진다.</p>
+<pre><code>    @Test
+    void immutableObjectArticle() {
+        MakeArticle.ImmutableObjectArticle article = makeArticle.immutableObjectArticle(&quot;How to train your dragon&quot;, &quot;Ever wonder how?&quot;);
+        assertEquals(&quot;how-to-train-your-dragon&quot;, article.slug().value());
+        assertEquals(new MakeArticle.SluggedString(&quot;How to train your dragon&quot;), article.slug());
+    }</code></pre>
+<p>메소드의 리턴값이 'slug'객체이다. 다른 코드에서 'slug'객체를 알게(의존하게)된다.</p>
+<h3 id="3-공개메소드의-요청-응답을-단순하게-실천방법을-적용해본다">3.'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.</h3>
+<pre><code>    ImmutableObjectDependencyFreeArticle immutableObjectDependencyFreeArticle(String title, String content) {
+        return new ImmutableObjectDependencyFreeArticle(title, content, new Slugify().withDash(title));
+    }
+
+    class ImmutableObjectDependencyFreeArticle {
+        private final String title;
+        private final String content;
+        private final String slug;
+
+        public ImmutableObjectDependencyFreeArticle(String title, String content, String slug) {
+            this.title = title;
+            this.content = content;
+            this.slug = slug;
+        }
+
+        public String slug() {
+            return slug;
+        }
+    }
+
+    static class Slugify {
+        String withDash(String text) {
+            return text.toLowerCase().replace(&quot; &quot;, &quot;-&quot;);
+        }
+    }</code></pre>
+<p>불변객체 스타일의 코드다.<br>객체를 모듈처럼 서버처럼 생각하고 구현해보았다.<br><a class="ext" href="https://www.yes24.com/Product/Goods/110253986" target="_blank" rel="noopener">데이터와 계산이 분리된 함수 ↗</a> 처럼 보이기도 한다.</p>
+<blockquote><p>both OOP and functional computation can be completely compatible (and should be!)</p></blockquote>
+<p>OOP와 함수형 계산이 완벽하게 호환 가능해야된다는 앨런 선생님의 말씀에 가까워 졌는지도 모르겠다.</p>
+<p>이 코드는 아래의 테스트 코드처럼 사용되어진다.</p>
+<pre><code>    @Test
+    void immutableObjectDependencyFreeArticle() {
+        MakeArticle.ImmutableObjectDependencyFreeArticle article = makeArticle.immutableObjectDependencyFreeArticle(&quot;How to train your dragon&quot;, &quot;Ever wonder how?&quot;);
+        assertEquals(&quot;how-to-train-your-dragon&quot;, article.slug());
+    }</code></pre>
+<p>사용법이 다시 간단해 졌다.</p>
+<p>전체 코드는 <a class="ext" href="https://github.com/juniqlim/code-for-article/tree/master/aoop" target="_blank" rel="noopener">여기 ↗</a>에서 확인할 수 있다.</p>
+<h2 id="etc">Etc</h2>
+<p>Kent Beck의 XP가 그랬던 것 처럼, 가치와 원칙도 만들어 보았다.</p>
+<h3 id="principles">Principles</h3>
+<ol><li>'data structure and procedure' 구조를 없애기</li><li>명령형 구문을 줄이기</li></ol>
+<h3 id="values">Values</h3>
+<p>확장성, 깔끔함, 시뮬레이션, 쉽게 정의(scalable, cleaner, simulation, easily define)</p>
+<h2 id="결론">결론</h2>
+<p>앨런 캐이가</p>
+<blockquote><p><a class="ext" href="https://www.quora.com/What-are-examples-of-Perfect-and-Better-in-regards-to-Alan-Kays-Sweet-Spot" target="_blank" rel="noopener">Better and perfect are the two enemies of 'what is actually needed' ↗</a></p></blockquote>
+<p>라고 말한 것 처럼, 무엇보다 '실제로 필요한 것'에 집중해야할 것이다.<br>그리고 위 실천방법은 현재 나의 생각이기 때문에, 틀릴 수도 있고, 앞으로 생각이 바뀔수도 있겠다.</p>
+  <div class="backlinks">
+    <span class="kicker">이 노트를 참조한 노트</span>
+    <a href="../../notes/programming/2023-06-06-alan&#39;s-oop-practices-in-java-in-english.html">Apply Alan Kay's OOP to your Java code</a>
+  </div>
+</article>
+</main>
+<script src="../../app.js" defer></script>
+</body>
+</html>
