@@ -14,14 +14,21 @@
     { "dir": "ai-agent", "label": "AI 에이전트" },
     { "dir": "investment", "label": "투자" },
     { "dir": "investment/warren", "label": "투자 · 워런 버핏" },
-    { "dir": "investment/charlie", "label": "투자 · 찰리 멍거" }
+    { "dir": "investment/charlie", "label": "투자 · 찰리 멍거" },
+    { "dir": "investment", "label": "투자 · 기업 분석", "deep": true }
   ],
   "exclude": [
+    "**/analyst-report",
+    "**/report",
+    "**/reports",
+    "**/sources",
     "ai-agent/codex-gpt-5.1-codex-max_prompt.md",
     "ai-agent/codex-gpt_5_1_prompt.md",
     "ai-agent/codex-gpt_5_2_prompt.md",
     "ai-agent/codex-review_prompt.md",
-    "investment/3년배수점검.md",
+    "investment/daily-news",
+    "investment/data-sources",
+    "investment/portfolio",
     "programming/better-agentic-coding.md",
     "programming/claude-skin-디스플레이-버그-수정.md",
     "programming/macOS-앱아이콘-변경.md",

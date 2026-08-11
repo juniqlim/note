@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talen Energy (TLN) DCF 분석 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../../index.html">노트</a>
+      <a href="../../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../../index.html">← 투자 · 기업 분석</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#1-회사-개요">1. 회사 개요</a><a class="toc-2" href="#2-재무-현황-2025-가이던스-기준">2. 재무 현황 (2025 가이던스 기준)</a><a class="toc-2" href="#3-대차대조표-2025-q3-기준">3. 대차대조표 (2025 Q3 기준)</a><a class="toc-2" href="#4-dcf-모델">4. DCF 모델</a><a class="toc-3" href="#핵심-가정">핵심 가정</a><a class="toc-3" href="#fcf-추정">FCF 추정</a><a class="toc-3" href="#현재가치-계산">현재가치 계산</a><a class="toc-3" href="#terminal-value">Terminal Value</a><a class="toc-3" href="#enterprise-value-주당-가치">Enterprise Value &amp; 주당 가치</a><a class="toc-2" href="#5-민감도-분석">5. 민감도 분석</a><a class="toc-3" href="#wacc-vs-terminal-growth-rate-주당-내재가치">WACC vs Terminal Growth Rate → 주당 내재가치 ($)</a><a class="toc-3" href="#2026e-ebitda-시나리오별-주당-가치-wacc-10-g-2-5">2026E EBITDA 시나리오별 주당 가치 (WACC 10%, g = 2.5%)</a><a class="toc-2" href="#6-핵심-리스크">6. 핵심 리스크</a><a class="toc-2" href="#7-결론">7. 결론</a><a class="toc-2" href="#sources">Sources</a></nav>
+  <div class="stats mono">
+    <span>쓴 날 2026-02-18 · 읽기 9분</span>
+    
+    <span>나가는 링크 0 · 백링크 0</span>
+  </div>
+</aside>
+<article>
+  <h1>Talen Energy (TLN) DCF 분석</h1>
+  
+  
+  
+  <p><strong>분석일: 2026-02-18</strong> <strong>주가: $374 | 시가총액: $17.7B | 발행주식: 45.7M</strong></p>
+<hr>
+<h2 id="1-회사-개요">1. 회사 개요</h2>
+<p>Talen Energy는 미국 독립 발전사(IPP)로, 약 13.1GW 발전 설비를 보유:</p>
+<ul><li><strong>원자력 2.2GW</strong> (Susquehanna 원전 — 핵심 자산)</li><li>화석연료(가스+석탄) 디스패처블 발전소</li><li><strong>인수 진행중</strong>: Freedom Energy Center + Guernsey Power Plant (~3GW 추가, Q1 2026 마감 예정)</li></ul>
+<p><strong>투자 테마</strong>: 데이터센터 전력 수요 폭증 → 원전 + 가스 발전 가치 재평가</p>
+<hr>
+<h2 id="2-재무-현황-2025-가이던스-기준">2. 재무 현황 (2025 가이던스 기준)</h2>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>2024A</th><th>2025E (가이던스)</th><th>2026E (가이던스)</th></tr></thead><tbody><tr><td>Revenue</td><td>~$2.2B</td><td>~$2.5B (추정)</td><td>TBD (인수 포함 시 대폭 증가)</td></tr><tr><td>Adj. EBITDA</td><td>~$800M</td><td><strong>$975–1,000M</strong></td><td><strong>$1,750–2,050M</strong></td></tr><tr><td>Adj. FCF</td><td>~$400M</td><td><strong>$470–490M</strong></td><td><strong>$980–1,180M</strong></td></tr></tbody></table></div>
+<ul><li>TTM Revenue (2025.09): $2.3B (YoY +5.7%)</li><li>Q3 2025: Revenue $812M, EBITDA $363M, FCF $223M</li><li>9M 2025: EBITDA $653M, FCF $232M</li></ul>
+<hr>
+<h2 id="3-대차대조표-2025-q3-기준">3. 대차대조표 (2025 Q3 기준)</h2>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>금액</th></tr></thead><tbody><tr><td>현금</td><td>$485M</td></tr><tr><td>총 부채 (인수 파이낸싱 포함)</td><td>~$3.9B (TL $1.2B + 무담보채 $2.7B)</td></tr><tr><td>순부채</td><td>~$2,570M (Net Leverage 2.6x on 2025E EBITDA)</td></tr><tr><td>가용 유동성</td><td>~$1.2B</td></tr></tbody></table></div>
+<p><strong>주의</strong>: 인수 완료 시 2026E 순레버리지 목표 3.5x 이하</p>
+<hr>
+<h2 id="4-dcf-모델">4. DCF 모델</h2>
+<h3 id="핵심-가정">핵심 가정</h3>
+<div class="scroll-x"><table><thead><tr><th>가정</th><th>값</th><th>근거</th></tr></thead><tbody><tr><td>WACC</td><td><strong>10%</strong></td><td>Beta ~1.0, 높은 레버리지, IPP 리스크 프리미엄</td></tr><tr><td>Terminal Growth</td><td><strong>2.5%</strong></td><td>전력 수요 장기 성장 (데이터센터 + 전기화)</td></tr><tr><td>예측 기간</td><td>10년 (2026–2035)</td><td></td></tr><tr><td>세율</td><td>21%</td><td>미국 법인세율</td></tr></tbody></table></div>
+<h3 id="fcf-추정">FCF 추정</h3>
+<p>2026E는 회사 가이던스 중간값 사용. 이후 보수적 성장 가정.</p>
+<div class="scroll-x"><table><thead><tr><th>연도</th><th>Adj. EBITDA</th><th>D&amp;A (추정)</th><th>EBIT</th><th>세후 EBIT</th><th>D&amp;A add-back</th><th>CapEx</th><th><strong>UFCF</strong></th></tr></thead><tbody><tr><td>2025E</td><td>$988M</td><td>$250M</td><td>$738M</td><td>$583M</td><td>$250M</td><td>$300M</td><td><strong>$480M</strong></td></tr><tr><td>2026E</td><td>$1,900M</td><td>$400M</td><td>$1,500M</td><td>$1,185M</td><td>$400M</td><td>$450M</td><td><strong>$1,080M</strong></td></tr><tr><td>2027E</td><td>$2,090M (+10%)</td><td>$420M</td><td>$1,670M</td><td>$1,319M</td><td>$420M</td><td>$470M</td><td><strong>$1,215M</strong></td></tr><tr><td>2028E</td><td>$2,257M (+8%)</td><td>$440M</td><td>$1,817M</td><td>$1,435M</td><td>$440M</td><td>$490M</td><td><strong>$1,330M</strong></td></tr><tr><td>2029E</td><td>$2,393M (+6%)</td><td>$450M</td><td>$1,943M</td><td>$1,535M</td><td>$450M</td><td>$510M</td><td><strong>$1,415M</strong></td></tr><tr><td>2030E</td><td>$2,513M (+5%)</td><td>$460M</td><td>$2,053M</td><td>$1,622M</td><td>$460M</td><td>$530M</td><td><strong>$1,490M</strong></td></tr><tr><td>2031E</td><td>$2,613M (+4%)</td><td>$470M</td><td>$2,143M</td><td>$1,693M</td><td>$470M</td><td>$550M</td><td><strong>$1,545M</strong></td></tr><tr><td>2032E</td><td>$2,692M (+3%)</td><td>$480M</td><td>$2,212M</td><td>$1,748M</td><td>$480M</td><td>$570M</td><td><strong>$1,585M</strong></td></tr><tr><td>2033E</td><td>$2,773M (+3%)</td><td>$490M</td><td>$2,283M</td><td>$1,804M</td><td>$490M</td><td>$590M</td><td><strong>$1,625M</strong></td></tr><tr><td>2034E</td><td>$2,856M (+3%)</td><td>$500M</td><td>$2,356M</td><td>$1,861M</td><td>$500M</td><td>$610M</td><td><strong>$1,665M</strong></td></tr><tr><td>2035E</td><td>$2,941M (+3%)</td><td>$510M</td><td>$2,431M</td><td>$1,920M</td><td>$510M</td><td>$630M</td><td><strong>$1,705M</strong></td></tr></tbody></table></div>
+<blockquote><p>UFCF = 세후 EBIT + D&amp;A − CapEx (단순화, NWC 변동 제외) 2026E FCF가 가이던스 중간값($1,080M)과 일치하도록 조정</p></blockquote>
+<h3 id="현재가치-계산">현재가치 계산</h3>
+<div class="scroll-x"><table><thead><tr><th>연도</th><th>UFCF</th><th>할인계수 (10%)</th><th>PV</th></tr></thead><tbody><tr><td>2026</td><td>$1,080M</td><td>0.909</td><td>$982M</td></tr><tr><td>2027</td><td>$1,215M</td><td>0.826</td><td>$1,004M</td></tr><tr><td>2028</td><td>$1,330M</td><td>0.751</td><td>$999M</td></tr><tr><td>2029</td><td>$1,415M</td><td>0.683</td><td>$966M</td></tr><tr><td>2030</td><td>$1,490M</td><td>0.621</td><td>$925M</td></tr><tr><td>2031</td><td>$1,545M</td><td>0.564</td><td>$871M</td></tr><tr><td>2032</td><td>$1,585M</td><td>0.513</td><td>$813M</td></tr><tr><td>2033</td><td>$1,625M</td><td>0.467</td><td>$759M</td></tr><tr><td>2034</td><td>$1,665M</td><td>0.424</td><td>$706M</td></tr><tr><td>2035</td><td>$1,705M</td><td>0.386</td><td>$658M</td></tr><tr><td><strong>합계</strong></td><td></td><td></td><td><strong>$8,683M</strong></td></tr></tbody></table></div>
+<h3 id="terminal-value">Terminal Value</h3>
+<p>TV = UFCF₂₀₃₅ × (1 + g) / (WACC − g) = $1,705M × 1.025 / (0.10 − 0.025) = <strong>$23,318M</strong></p>
+<p>PV of TV = $23,318M × 0.386 = <strong>$9,001M</strong></p>
+<h3 id="enterprise-value-주당-가치">Enterprise Value &amp; 주당 가치</h3>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>금액</th></tr></thead><tbody><tr><td>PV of FCFs (2026–2035)</td><td>$8,683M</td></tr><tr><td>PV of Terminal Value</td><td>$9,001M</td></tr><tr><td><strong>Enterprise Value</strong></td><td><strong>$17,684M</strong></td></tr><tr><td>(−) 순부채</td><td>($2,570M)</td></tr><tr><td><strong>Equity Value</strong></td><td><strong>$15,114M</strong></td></tr><tr><td>÷ 발행주식</td><td>45.7M</td></tr><tr><td><strong>주당 내재가치</strong></td><td><strong>$331</strong></td></tr></tbody></table></div>
+<hr>
+<h2 id="5-민감도-분석">5. 민감도 분석</h2>
+<h3 id="wacc-vs-terminal-growth-rate-주당-내재가치">WACC vs Terminal Growth Rate → 주당 내재가치 ($)</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>g = 1.5%</th><th>g = 2.0%</th><th>g = 2.5%</th><th>g = 3.0%</th><th>g = 3.5%</th></tr></thead><tbody><tr><td><strong>WACC 8%</strong></td><td>$444</td><td>$495</td><td>$562</td><td>$652</td><td>$780</td></tr><tr><td><strong>WACC 9%</strong></td><td>$370</td><td>$404</td><td>$446</td><td>$499</td><td>$568</td></tr><tr><td><strong>WACC 10%</strong></td><td>$311</td><td>$334</td><td><strong>$331</strong></td><td>$389</td><td>$427</td></tr><tr><td><strong>WACC 11%</strong></td><td>$264</td><td>$280</td><td>$300</td><td>$324</td><td>$354</td></tr><tr><td><strong>WACC 12%</strong></td><td>$226</td><td>$238</td><td>$252</td><td>$269</td><td>$290</td></tr></tbody></table></div>
+<h3 id="2026e-ebitda-시나리오별-주당-가치-wacc-10-g-2-5">2026E EBITDA 시나리오별 주당 가치 (WACC 10%, g = 2.5%)</h3>
+<div class="scroll-x"><table><thead><tr><th>시나리오</th><th>2026E EBITDA</th><th>주당 가치</th><th>현재가 대비</th></tr></thead><tbody><tr><td>가이던스 하단</td><td>$1,750M</td><td>~$290</td><td>−22%</td></tr><tr><td>가이던스 중간</td><td>$1,900M</td><td>~$331</td><td>−11%</td></tr><tr><td>가이던스 상단</td><td>$2,050M</td><td>~$372</td><td>−1%</td></tr></tbody></table></div>
+<hr>
+<h2 id="6-핵심-리스크">6. 핵심 리스크</h2>
+<ol><li><strong>레버리지 리스크</strong>: 인수 파이낸싱으로 부채 $3.9B → 순레버리지 2.6x→3.5x 상승 가능</li><li><strong>전력가격 변동성</strong>: 천연가스 가격, PJM 용량시장 가격에 민감</li><li><strong>원전 운영 리스크</strong>: Susquehanna 원전 가동 중단 시 실적에 큰 영향 (2025 Q3에 실제 발생)</li><li><strong>인수 통합 리스크</strong>: Freedom + Guernsey 인수 완료 및 시너지 달성 불확실성</li><li><strong>규제 리스크</strong>: FERC 승인, 전력시장 규제 변화</li><li><strong>데이터센터 수요 실현 리스크</strong>: 기대만큼 전력 수요가 증가하지 않을 가능성</li></ol>
+<hr>
+<h2 id="7-결론">7. 결론</h2>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>현재 주가</td><td><strong>$374</strong></td></tr><tr><td>DCF 내재가치 (Base)</td><td><strong>$331</strong> (−11%)</td></tr><tr><td>낙관 시나리오 (WACC 9%, g 2.5%)</td><td><strong>$446</strong> (+19%)</td></tr><tr><td>비관 시나리오 (WACC 11%, g 2.0%)</td><td><strong>$280</strong> (−25%)</td></tr></tbody></table></div>
+<p><strong>Base 케이스 기준, 현재 주가($374)는 DCF 내재가치($331) 대비 약 13% 고평가.</strong></p>
+<p>다만, 이는 2026E 가이던스 중간값 기준이며:</p>
+<ul><li>가이던스 상단 달성 + 약간 낮은 WACC(9%) 적용 시 $446까지 상승 여지</li><li>데이터센터 전력 수요의 구조적 성장이 터미널 성장률을 3%+ 정당화할 경우 추가 업사이드</li><li>반대로, 가이던스 하단 + 높은 WACC 시 $264까지 하락 가능</li></ul>
+<p><strong>2026.02.26 FY2025 실적 발표 이후 재평가 필요.</strong></p>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul><li><a class="ext" href="https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-reports-third-quarter-2025-results-narrows-2025" target="_blank" rel="noopener">Talen Q3 2025 실적 ↗</a></li><li><a class="ext" href="https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-reports-second-quarter-2025-results-reaffirms-2025" target="_blank" rel="noopener">Talen Q2 2025 실적 ↗</a></li><li><a class="ext" href="https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-reports-full-year-2024-results-exceeds-2024" target="_blank" rel="noopener">Talen FY2024 실적 ↗</a></li><li><a class="ext" href="https://www.gurufocus.com/term/wacc/TLN" target="_blank" rel="noopener">TLN WACC (GuruFocus) ↗</a></li><li><a class="ext" href="https://www.macrotrends.net/stocks/charts/TLN/talen-energy/revenue" target="_blank" rel="noopener">TLN Revenue (MacroTrends) ↗</a></li><li><a class="ext" href="https://finance.yahoo.com/quote/TLN/" target="_blank" rel="noopener">TLN Stock (Yahoo Finance) ↗</a></li></ul>
+  
+</article>
+</main>
+<script src="../../../app.js" defer></script>
+</body>
+</html>

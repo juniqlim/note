@@ -114,7 +114,7 @@ ${body}
 // 다 보여주는 목록이다. 제목만 놓는다 — 요약까지 붙이면 길어져서 아무도 훑지 않는다.
 export function renderHome({ site, folders, notes, base = '' }) {
   const groups = folders.map((f) => {
-    const list = notes.filter((n) => n.folder === f.dir);
+    const list = notes.filter((n) => n.folder === f.label);
     if (!list.length) return '';
     // 부제까지 놓는다. "도메인 주도 설계" 가 둘이면 제목만으로는 고를 수 없다.
     const items = list.map((n) => `<a class="line" href="${attr(base + noteUrl(n))}">

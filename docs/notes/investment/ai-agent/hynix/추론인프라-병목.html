@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>추론 인프라 병목 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../../../index.html">노트</a>
+      <a href="../../../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../../../index.html">← 투자 · 기업 분석</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#핵심-테제">핵심 테제</a><a class="toc-2" href="#1-2026년-병목-3가지">1. 2026년 병목 3가지</a><a class="toc-3" href="#레이어-구조">레이어 구조</a><a class="toc-2" href="#2-이-문서의-픽-밸류체인-문서에-없는-종목">2. 이 문서의 픽 — 밸류체인 문서에 없는 종목</a><a class="toc-3" href="#a-스토리지-sandisk-sndk-fper-18x">A. 스토리지 — SanDisk (SNDK), fPER ~18x</a><a class="toc-3" href="#b-냉각-modine-mod-fper-20x">B. 냉각 — Modine (MOD), fPER ~20x</a><a class="toc-3" href="#c-광-네트워킹-구리-시대의-종말">C. 광 네트워킹 — &quot;구리 시대의 종말&quot;</a><a class="toc-3" href="#d-전력-반도체">D. 전력 반도체</a><a class="toc-3" href="#e-테스트-advantest-6857-t-p-e-44x">E. 테스트 — Advantest (6857.T), P/E ~44x</a><a class="toc-3" href="#f-엣지-lattice-lscc-renesas-6723-t">F. 엣지 — Lattice (LSCC), Renesas (6723.T)</a><a class="toc-2" href="#3-커스텀-asic-설계-파트너-구조">3. 커스텀 ASIC 설계 파트너 구조</a><a class="toc-2" href="#4-정리">4. 정리</a><a class="toc-3" href="#tier-1-합리적-밸류-추론-직접-수혜">Tier 1 — 합리적 밸류 + 추론 직접 수혜</a><a class="toc-3" href="#tier-2-주시">Tier 2 — 주시</a><a class="toc-3" href="#tier-3-고위험-워치">Tier 3 — 고위험 워치</a><a class="toc-2" href="#sources">Sources</a></nav>
+  <div class="stats mono">
+    <span>쓴 날 2026-07-30 · 읽기 13분</span>
+    
+    <span>나가는 링크 0 · 백링크 1</span>
+  </div>
+</aside>
+<article>
+  <h1>추론 인프라 병목</h1>
+  
+  <p class="subtitle">HBM 다음 층은 어디인가 (2026.02 스냅샷)</p>
+  
+  <blockquote><p><strong>⚠ 데이터 기준일 2026-02-08.</strong> 배수·시총은 그 시점 값이다. <strong>대형주 수치는 <code>ai-밸류체인.md</code>가 단일 출처.</strong> 이 문서는 <strong>거기 없는 중소형 병목주와 병목 자체의 구조</strong>를 다룬다.</p></blockquote>
+<h2 id="핵심-테제">핵심 테제</h2>
+<p><strong>추론 스케일링은 학습과 달리 모든 레이어를 동시에 확장해야 한다.</strong> 학습은 GPU 클러스터 하나를 키우면 되지만, 추론은 전 세계 사용자에게 동시에 서빙하므로 <strong>네트워킹·스토리지·냉각·전력이 전부 병목이 된다.</strong></p>
+<hr>
+<h2 id="1-2026년-병목-3가지">1. 2026년 병목 3가지</h2>
+<div class="scroll-x"><table><thead><tr><th>병목</th><th>구조</th><th>수혜</th></tr></thead><tbody><tr><td><strong>KV 캐시 용량</strong></td><td>에이전트가 수백만 토큰 컨텍스트 유지 → GPU 메모리 초과 → <strong>NVMe SSD 오프로드 필수</strong></td><td>엔터프라이즈 SSD</td></tr><tr><td><strong>인터커넥트 대역폭</strong></td><td>구리(Copper) 한계 도달 → 실리콘 포토닉스/광 전환</td><td>광 트랜시버, CPO</td></tr><tr><td><strong>전력 공급</strong></td><td>AI DC 전력 수요 <strong>2030년까지 +165%</strong>(Goldman Sachs)</td><td>전력 반도체, 냉각</td></tr></tbody></table></div>
+<p><strong>결정적 증거</strong>: NVIDIA가 CES 2026에서 <strong>ICMSP(Inference Context Memory Storage Platform)</strong> 를 발표하며 KV 캐시의 NVMe SSD 오프로드를 <strong>표준화</strong>했다. 추론 시대에 SSD는 선택이 아니라 필수 인프라다.</p>
+<h3 id="레이어-구조">레이어 구조</h3>
+<pre><code>[GPU/HBM]           ← SK하이닉스 (hynix.md)
+    ↓
+[네트워킹/인터커넥트] ← Marvell, Coherent, Fabrinet
+    ↓
+[스토리지 NVMe SSD]  ← SanDisk, Kioxia
+    ↓
+[냉각]              ← Modine, Vertiv
+    ↓
+[전력]              ← MPWR, Navitas
+    ↓
+[테스트]            ← Advantest
+    ↓
+[파운드리]          ← TSMC</code></pre>
+<hr>
+<h2 id="2-이-문서의-픽-밸류체인-문서에-없는-종목">2. 이 문서의 픽 — 밸류체인 문서에 없는 종목</h2>
+<h3 id="a-스토리지-sandisk-sndk-fper-18x">A. 스토리지 — SanDisk (SNDK), fPER ~18x</h3>
+<ul><li>WD에서 2025 스핀오프. <strong>매출 55%가 엔터프라이즈 SSD</strong>. 128TB DC SN670이 AI 추론 표준</li><li><strong>NVIDIA ICMSP 표준의 직접 수혜</strong> — 위 병목 ①과 일대일 대응</li><li>Kioxia JV 2034년까지 연장. Simply Wall St 페어밸류 대비 32% 할인</li><li><strong>NAND 가격 구조적 상승</strong>: SanDisk이 3D NAND 엔터프라이즈 SSD 가격을 Q1 2026에 <strong>2배 인상</strong>. 삼성·하이닉스가 HBM 우선 생산 → NAND 공급 축소</li><li><strong>주의</strong>: S&amp;P 500 2025 최고 수익률(+550%) 직후 → 엔트리 타이밍</li></ul>
+<blockquote><p><strong>Kioxia (6600.T)</strong>: 2024 도쿄 IPO, 332층 BiCS10 생산 2026 가속. SanDisk 합작. 유동성/정보 제한. 하이닉스의 키옥시아 지분 이슈는 <code>hynix.md</code> [E-3].</p></blockquote>
+<h3 id="b-냉각-modine-mod-fper-20x">B. 냉각 — Modine (MOD), fPER ~20x</h3>
+<ul><li><strong>Vertiv 절반 배수에 데이터센터 매출 성장은 +60% 가이던스</strong>(Vertiv +20%)</li><li>Airedale 인수 기반 Climate Solutions가 핵심. 시총 $6.9B 중형주라 기관 관심 낮음</li><li>액체냉각 시장 2025 $5.1B → 2030 $16.16B (CAGR 26%). H100 한 개가 700W 발열</li></ul>
+<blockquote><p>Vertiv(VRT)는 백로그 $9.5B·NVIDIA 레퍼런스 파트너로 가시성이 높지만 <strong>MOD 대비 비싸다</strong>. 배수는 <code>ai-밸류체인.md</code>.</p></blockquote>
+<h3 id="c-광-네트워킹-구리-시대의-종말">C. 광 네트워킹 — &quot;구리 시대의 종말&quot;</h3>
+<p>2026년이 구리 → 광 전환의 원년이다.</p>
+<div class="scroll-x"><table><thead><tr><th>회사</th><th>역할</th><th>평가</th></tr></thead><tbody><tr><td><strong>Marvell</strong> (MRVL)</td><td>1.6T 광 인터커넥트, PCIe 6 리타이머</td><td><strong>Celestial AI 인수($5.5B)로 포토닉스 역량 확보.</strong> 4대 하이퍼스케일러 전부와 ASIC 관계. DC 매출 FY2026 +40%</td></tr><tr><td><strong>Coherent</strong> (COHR)</td><td>광 부품, AI 데이터컴 +23% YoY</td><td>포트폴리오 다각화, 순수 AI 비중 아직 작음</td></tr><tr><td><strong>Fabrinet</strong> (FN)</td><td>광 트랜시버 계약 제조 (NVIDIA·Cisco향)</td><td>P/E ~47~51x. 실행력 좋으나 밸류 부담</td></tr></tbody></table></div>
+<p><strong>전환 타임라인</strong>: 2026 H1 NVIDIA Quantum-X InfiniBand(115 Tb/s, 포토닉스) → 2026 H2 Spectrum-X Photonics 이더넷. CPO 시장 2026~2036 CAGR 37%, $20B+</p>
+<h3 id="d-전력-반도체">D. 전력 반도체</h3>
+<div class="scroll-x"><table><thead><tr><th>회사</th><th>성격</th><th>상태</th></tr></thead><tbody><tr><td><strong>Monolithic Power</strong> (MPWR)</td><td>AI 서버 전력 IC, NVIDIA 시스템 통합</td><td>엔터프라이즈 데이터 2026 +50% 전망. <strong>주가 이미 반영</strong>(52주 신고가)</td></tr><tr><td><strong>Navitas</strong> (NVTS)</td><td>GaN/SiC, 800V DC 아키텍처</td><td><strong>고위험-고수익 옵션.</strong> NVIDIA가 800V 전환 예고, GaN/SiC가 효율 2~3% 개선. 소규모 + 흑자전환 전</td></tr></tbody></table></div>
+<h3 id="e-테스트-advantest-6857-t-p-e-44x">E. 테스트 — Advantest (6857.T), P/E ~44x</h3>
+<ul><li>글로벌 1위 ATE. <strong>&quot;칩 브랜드 무관&quot;</strong> — NVIDIA든 TPU든 Trainium이든 수혜</li><li>AI 칩이 복잡해질수록 테스트 수요 증가. 2026 생산능력 3,000 → 5,000 유닛</li><li>FY2027 매출 1.07조엔, 순이익 3,285억엔</li><li><strong>커스텀 ASIC 다양화가 오히려 테스트 수요를 키운다</strong> — ASIC 확산 테제의 반대편 수혜자</li><li>44x는 싸지 않으나 &quot;ASML of Testing&quot; 독과점 지위 감안 시 ASML(~35x)과 유사 프리미엄</li></ul>
+<h3 id="f-엣지-lattice-lscc-renesas-6723-t">F. 엣지 — Lattice (LSCC), Renesas (6723.T)</h3>
+<ul><li><strong>Lattice</strong>: 서브 1W FPGA로 엣지 AI 독점 지위. <strong>GM 68%는 AI 반도체 중 최상위.</strong> 산업/자동차 부진으로 하락했으나 2026 사이클 회복 시 연 $60~80M 역풍이 순풍으로 전환</li><li><strong>Renesas</strong>: 엣지 MCU/MPU, Ethos-U55 NPU. 산업용 IoT/로보틱스 추론</li><li>엣지 AI 칩 시장 2026 $4.44B → 2031 $11.54B (CAGR 21%)</li></ul>
+<blockquote><p>Qualcomm(엣지 대형주)은 <code>ai-밸류체인.md</code> §8.</p></blockquote>
+<hr>
+<h2 id="3-커스텀-asic-설계-파트너-구조">3. 커스텀 ASIC 설계 파트너 구조</h2>
+<p>하이퍼스케일러가 NVIDIA 의존을 줄일수록 <strong>설계 파트너</strong>가 수혜다.</p>
+<div class="scroll-x"><table><thead><tr><th>하이퍼스케일러</th><th>칩</th><th>설계 파트너</th><th>세대</th></tr></thead><tbody><tr><td>Google</td><td>TPU (Ironwood)</td><td><strong>Broadcom</strong></td><td>7nm → 5nm → 3nm</td></tr><tr><td>Amazon</td><td>Trainium 3</td><td><strong>Marvell</strong></td><td>TSMC 3nm, HBM3E 144GB</td></tr><tr><td>Meta</td><td>MTIA</td><td><strong>Broadcom</strong></td><td>자체 학습/추론 가속기</td></tr><tr><td>Microsoft</td><td>Maia 200</td><td><strong>Marvell</strong></td><td>차세대 추론 ASIC</td></tr><tr><td>OpenAI</td><td>신규 ASIC</td><td><strong>Broadcom</strong></td><td>2026년 시작</td></tr></tbody></table></div>
+<p>Broadcom은 이미 가격에 반영됐고, <strong>Marvell이 4대 중 3곳과 관계를 맺어 수혜가 분산</strong>돼 있다.</p>
+<hr>
+<h2 id="4-정리">4. 정리</h2>
+<h3 id="tier-1-합리적-밸류-추론-직접-수혜">Tier 1 — 합리적 밸류 + 추론 직접 수혜</h3>
+<div class="scroll-x"><table><thead><tr><th>종목</th><th>fPER</th><th>논거</th></tr></thead><tbody><tr><td><strong>SanDisk</strong> (SNDK)</td><td>~18x</td><td>KV 캐시 오프로드 직접 수혜, ICMSP 표준, 엔터프라이즈 SSD 55%</td></tr><tr><td><strong>Modine</strong> (MOD)</td><td>~20x</td><td>AI 냉각 순수 노출, Vertiv 절반 배수에 성장 3배</td></tr></tbody></table></div>
+<blockquote><p>대형주 Tier 1(SK하이닉스 8x, TSMC 24x)은 <code>hynix.md</code> / <code>ai-밸류체인.md</code>.</p></blockquote>
+<h3 id="tier-2-주시">Tier 2 — 주시</h3>
+<p><strong>Marvell</strong>(ASIC + 포토닉스, 4대 하이퍼스케일러) · <strong>Lattice</strong>(엣지 FPGA 독점, GM 68%, 사이클 타이밍 불확실) · <strong>Coherent</strong>(광 부품) · <strong>Vertiv</strong>(1위이나 MOD 대비 비쌈) · <strong>Advantest</strong>(칩 브랜드 무관, 44x)</p>
+<h3 id="tier-3-고위험-워치">Tier 3 — 고위험 워치</h3>
+<p><strong>Navitas</strong>(800V 전환 옵션, 흑자전환 전) · <strong>Kioxia</strong>(332층 NAND, 유동성 제한)</p>
+<hr>
+<h2 id="sources">Sources</h2>
+<p><strong>병목 구조</strong></p>
+<ul><li><a class="ext" href="https://nvidianews.nvidia.com/news/nvidia-bluefield-4-powers-new-class-of-ai-native-storage-infrastructure-for-the-next-frontier-of-ai" target="_blank" rel="noopener">NVIDIA BlueField-4 ICMSP ↗</a> · <a class="ext" href="https://blocksandfiles.com/2026/01/06/nvidia-standardizes-gpu-cluster-kv-cache-offload-to-nvme-ssds/" target="_blank" rel="noopener">KV Cache Offload to NVMe ↗</a></li><li><a class="ext" href="https://www.trendforce.com/insights/memory-wall" target="_blank" rel="noopener">TrendForce: Memory Wall ↗</a> · <a class="ext" href="https://www.goldmansachs.com/insights/articles/ai-to-drive-165-increase-in-data-center-power-demand-by-2030" target="_blank" rel="noopener">Goldman: DC Power +165% by 2030 ↗</a></li><li><a class="ext" href="https://www.datacenterknowledge.com/operations-and-management/2026-predictions-ai-sparks-data-center-power-revolution" target="_blank" rel="noopener">2026 DC Power Revolution ↗</a> · <a class="ext" href="https://www.ainvest.com/news/shifting-power-ai-infrastructure-interconnects-outpacing-gpus-strategic-play-2601/" target="_blank" rel="noopener">Interconnects Outpacing GPUs ↗</a></li><li><a class="ext" href="https://markets.financialcontent.com/stocks/article/marketminute-2026-1-1-the-second-wave-why-2026-marks-the-great-rotation-into-ai-networking-and-storage-picks-and-shovels" target="_blank" rel="noopener">The Second Wave: AI Networking and Storage ↗</a></li></ul>
+<p><strong>광 / 냉각 / 전력</strong></p>
+<ul><li><a class="ext" href="https://www.digitimes.com/news/a20251229PD203/siph-cpo-optical-communications-broadcom-nvidia-2026.html" target="_blank" rel="noopener">Silicon Photonics Breakthrough 2026 ↗</a> · <a class="ext" href="https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories" target="_blank" rel="noopener">NVIDIA Spectrum-X Photonics ↗</a> · <a class="ext" href="https://optics.org/news/16/11/47" target="_blank" rel="noopener">Marvell Celestial AI 인수 ↗</a></li><li><a class="ext" href="https://www.globenewswire.com/news-release/2026/02/04/3232076/28124/en/Data-Center-Liquid-Cooling-Market-Report-2026-16-16-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html" target="_blank" rel="noopener">Liquid Cooling $16.16B by 2030 ↗</a> · <a class="ext" href="https://247wallst.com/investing/2026/01/16/3-stocks-are-betting-on-data-center-cooling-heres-whos-best-positioned/" target="_blank" rel="noopener">Modine vs Vertiv ↗</a> · <a class="ext" href="https://seekingalpha.com/article/4856701-vertiv-mission-critical-picks-shovels-play-for-ai-gold-rush" target="_blank" rel="noopener">Vertiv Picks &amp; Shovels ↗</a></li><li><a class="ext" href="https://seekingalpha.com/news/4548358-monolithic-power-systems-signals-floor-of-50-percent-enterprise-data-growth-for-2026-amid" target="_blank" rel="noopener">MPWR Enterprise Data +50% ↗</a> · <a class="ext" href="https://seekingalpha.com/article/4861600-navitas-2-0-gan-and-sic-powerhouse-pivoting-into-the-ai-data-center-boom" target="_blank" rel="noopener">Navitas 800V DC ↗</a></li></ul>
+<p><strong>스토리지 / 테스트 / 엣지</strong></p>
+<ul><li><a class="ext" href="https://www.tomshardware.com/pc-components/ssds/sandisk-to-double-price-of-3d-nand-for-enterprise-ssds-in-q1-2026-hyperscalers-to-pay-top-dollar-for-storage-as-ai-continues-to-roll" target="_blank" rel="noopener">SanDisk Enterprise SSD 가격 2배 ↗</a> · <a class="ext" href="https://markets.financialcontent.com/stocks/article/predictstreet-2026-1-9-sndk-surge-why-sandisk-is-the-pure-play-ai-storage-winner-of-2026" target="_blank" rel="noopener">SanDisk Pure-Play ↗</a> · <a class="ext" href="https://finance.yahoo.com/news/sandisk-extends-kioxia-venture-ai-010847397.html" target="_blank" rel="noopener">Kioxia JV 2034 연장 ↗</a> · <a class="ext" href="https://www.tomshardware.com/pc-components/ssds/kioxias-next-gen-3d-nand-production-gets-expedited-to-2026-report-claims-high-capacity-332-layer-bics10-devices-to-sate-growing-demand-from-ai-data-centers" target="_blank" rel="noopener">Kioxia 332층 BiCS10 ↗</a></li><li><a class="ext" href="https://www.rcrwireless.com/20260130/test-measurement/advantest-rises-with-the-ai-tide" target="_blank" rel="noopener">Advantest AI Testing Wave ↗</a> · <a class="ext" href="https://beyondspx.com/quote/LSCC/analysis" target="_blank" rel="noopener">Lattice Edge AI FPGA ↗</a> · <a class="ext" href="https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market" target="_blank" rel="noopener">Edge AI Chips $11.54B by 2031 ↗</a></li><li><a class="ext" href="https://markets.financialcontent.com/stocks/article/tokenring-2026-1-5-the-silicon-sovereignty-era-hyperscalers-break-nvidias-grip-with-3nm-custom-ai-chips" target="_blank" rel="noopener">Custom ASIC vs GPU ↗</a></li></ul>
+  <div class="backlinks">
+    <span class="kicker">이 노트를 참조한 노트</span>
+    <a href="../../../../notes/investment/ai-agent/hynix/hynix.html">SK하이닉스</a>
+  </div>
+</article>
+</main>
+<script src="../../../../app.js" defer></script>
+</body>
+</html>

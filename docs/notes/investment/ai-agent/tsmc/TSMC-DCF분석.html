@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TSMC (TSM) DCF 분석 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../../../index.html">노트</a>
+      <a href="../../../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../../../index.html">← 투자 · 기업 분석</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#1-wacc-산출">1. WACC 산출</a><a class="toc-2" href="#2-과거-현금흐름-실적">2. 과거 현금흐름 실적</a><a class="toc-2" href="#3-base-case-10년-fcf-추정">3. Base Case — 10년 FCF 추정</a><a class="toc-3" href="#핵심-가정">핵심 가정</a><a class="toc-3" href="#추정-테이블">추정 테이블</a><a class="toc-2" href="#4-dcf-밸류에이션-base-case">4. DCF 밸류에이션 (Base Case)</a><a class="toc-2" href="#5-시나리오-분석">5. 시나리오 분석</a><a class="toc-3" href="#bull-case-wacc-9-5-tgr-3-5">Bull Case (WACC 9.5%, TGR 3.5%)</a><a class="toc-3" href="#bear-case-wacc-12-tgr-2-5">Bear Case (WACC 12%, TGR 2.5%)</a><a class="toc-3" href="#시나리오-요약">시나리오 요약</a><a class="toc-2" href="#6-민감도-분석-base-case-fcf-기준">6. 민감도 분석 (Base Case FCF 기준)</a><a class="toc-3" href="#adr-적정가격">ADR 적정가격 ($)</a><a class="toc-2" href="#7-시장-내재-할인율-implied-wacc">7. 시장 내재 할인율 (Implied WACC)</a><a class="toc-2" href="#8-핵심-리스크-한계">8. 핵심 리스크 &amp; 한계</a><a class="toc-3" href="#모델-한계">모델 한계</a><a class="toc-2" href="#9-결론">9. 결론</a><a class="toc-2" href="#출처">출처</a></nav>
+  <div class="stats mono">
+    <span>쓴 날 2026-02-18 · 읽기 10분</span>
+    <span>고친 날 2026-02-19</span>
+    <span>나가는 링크 0 · 백링크 0</span>
+  </div>
+</aside>
+<article>
+  <h1>TSMC (TSM) DCF 분석</h1>
+  
+  
+  
+  <blockquote><p><strong>핵심: Base Case 적정가 $289, 현재가 $366 대비 -21% 고평가. 시장 내재 WACC ~9.5%.</strong> <strong>같은 AI CapEx 사이클인 하이닉스(fPER 5~6x)는 시클리컬 하락에도 ±0%, 구조적 성장 시 +124%. 비대칭성에서 하이닉스가 우위.</strong></p></blockquote>
+<blockquote><p>작성일: 2026-02-18 기준 주가: ADR ~$366 (시총 ~$1.90T) 모든 금액 단위: USD</p></blockquote>
+<hr>
+<h2 id="1-wacc-산출">1. WACC 산출</h2>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th><th>출처</th></tr></thead><tbody><tr><td>무위험이자율 (Rf)</td><td>4.1%</td><td>US 10Y Treasury, 2026.02.13 (<a class="ext" href="https://fred.stlouisfed.org/series/DGS10" target="_blank" rel="noopener">FRED ↗</a>)</td></tr><tr><td>베타 (β)</td><td>1.27</td><td>Yahoo Finance 5Y monthly (<a class="ext" href="https://finance.yahoo.com/quote/TSM/" target="_blank" rel="noopener">Yahoo Finance ↗</a>)</td></tr><tr><td>주식위험프리미엄 (ERP)</td><td>5.5%</td><td>Damodaran 추정치</td></tr><tr><td><strong>자기자본비용</strong></td><td><strong>11.1%</strong></td><td>= 4.1% + 1.27 × 5.5%</td></tr><tr><td>부채비중</td><td>~1.7%</td><td>부채 $31.9B / (부채+시총 $1,932B)</td></tr><tr><td>세후 타인자본비용</td><td>~2.6%</td><td>~3.0% × (1 - 15% 실효세율)</td></tr><tr><td><strong>WACC</strong></td><td><strong>~11.0%</strong></td><td>= 98.3% × 11.1% + 1.7% × 2.6%</td></tr></tbody></table></div>
+<blockquote><p>참고: CAPM 기반 WACC 11%는 학술적 수치. TSMC의 독점적 지위·높은 현금흐름 가시성을 감안하면 시장은 9~10% 수준으로 할인하는 것으로 보임 (후술).</p></blockquote>
+<hr>
+<h2 id="2-과거-현금흐름-실적">2. 과거 현금흐름 실적</h2>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th></tr></thead><tbody><tr><td>매출</td><td>$73.7B</td><td>$70.6B</td><td>$88.3B</td><td>$122.4B</td></tr><tr><td>영업현금흐름 (OCF)</td><td>$52.4B</td><td>$40.6B</td><td>$55.7B</td><td>~$72.0B</td></tr><tr><td>OCF 마진</td><td>71.1%</td><td>57.5%</td><td>63.1%</td><td>58.8%</td></tr><tr><td>CapEx</td><td>$35.4B</td><td>$31.2B</td><td>$29.4B</td><td>$40.9B</td></tr><tr><td>CapEx/매출</td><td>48.0%</td><td>44.2%</td><td>33.3%</td><td>33.4%</td></tr><tr><td><strong>FCF</strong></td><td><strong>$17.0B</strong></td><td><strong>$9.4B</strong></td><td><strong>$26.3B</strong></td><td><strong>~$31.1B</strong></td></tr><tr><td>FCF 마진</td><td>23.1%</td><td>13.3%</td><td>29.8%</td><td>25.4%</td></tr></tbody></table></div>
+<blockquote><p>출처: TSMC IR, Stockrow, StockAnalysis (<a class="ext" href="https://stockanalysis.com/stocks/tsm/forecast/" target="_blank" rel="noopener">stockanalysis.com ↗</a>) 2023년 FCF 급감: 다운사이클 + CapEx 유지 → 양쪽에서 압박 2025년 FCF $31B: 역대 최고이나 OCF 마진 58.8%는 2022년(71%) 대비 낮음 (운전자본 증가)</p></blockquote>
+<hr>
+<h2 id="3-base-case-10년-fcf-추정">3. Base Case — 10년 FCF 추정</h2>
+<h3 id="핵심-가정">핵심 가정</h3>
+<div class="scroll-x"><table><thead><tr><th>가정</th><th>근거</th></tr></thead><tbody><tr><td>2026~27 매출 성장 22~21%</td><td>애널리스트 컨센서스: 2026 TWD 4.71T(+24%), 2027 TWD 5.69T(+21%) (<a class="ext" href="https://stockanalysis.com/stocks/tsm/forecast/" target="_blank" rel="noopener">StockAnalysis ↗</a>)</td></tr><tr><td>2028~30 성장 18→10%</td><td>AI 인프라 투자 사이클 성숙, 2nm 매출 본격화 후 성장률 체감</td></tr><tr><td>2031~35 성장 8→3%</td><td>반도체 산업 장기 성장률(~5%) 수렴</td></tr><tr><td>OCF 마진 60→63%</td><td>GPM 개선(59.9%→63%+) 반영. 2025년 58.8%는 운전자본 일시 효과</td></tr><tr><td>CapEx $40~44B (근기)</td><td>2026 가이던스 $38~42B. 2nm/1.4nm 확장 + 미국·일본 팹</td></tr><tr><td>CapEx $38~39B (원기)</td><td>CapEx 사이클 정상화, 감가상각 증가분 상쇄</td></tr></tbody></table></div>
+<h3 id="추정-테이블">추정 테이블</h3>
+<div class="scroll-x"><table><thead><tr><th>연도</th><th>매출($B)</th><th>성장률</th><th>OCF 마진</th><th>OCF($B)</th><th>CapEx($B)</th><th><strong>FCF($B)</strong></th><th>FCF 마진</th></tr></thead><tbody><tr><td>2025A</td><td>122.4</td><td>+39%</td><td>58.8%</td><td>72.0</td><td>40.9</td><td><strong>31.1</strong></td><td>25.4%</td></tr><tr><td>2026E</td><td>150.0</td><td>+22.5%</td><td>60%</td><td>90.0</td><td>40.0</td><td><strong>50.0</strong></td><td>33.3%</td></tr><tr><td>2027E</td><td>181.5</td><td>+21%</td><td>61%</td><td>110.7</td><td>42.0</td><td><strong>68.7</strong></td><td>37.9%</td></tr><tr><td>2028E</td><td>214.2</td><td>+18%</td><td>62%</td><td>132.8</td><td>44.0</td><td><strong>88.8</strong></td><td>41.5%</td></tr><tr><td>2029E</td><td>242.1</td><td>+13%</td><td>62%</td><td>150.1</td><td>44.0</td><td><strong>106.1</strong></td><td>43.8%</td></tr><tr><td>2030E</td><td>266.3</td><td>+10%</td><td>63%</td><td>167.8</td><td>42.0</td><td><strong>125.8</strong></td><td>47.2%</td></tr><tr><td>2031E</td><td>287.6</td><td>+8%</td><td>63%</td><td>181.2</td><td>40.0</td><td><strong>141.2</strong></td><td>49.1%</td></tr><tr><td>2032E</td><td>304.9</td><td>+6%</td><td>63%</td><td>192.1</td><td>39.0</td><td><strong>153.1</strong></td><td>50.2%</td></tr><tr><td>2033E</td><td>320.1</td><td>+5%</td><td>63%</td><td>201.7</td><td>38.0</td><td><strong>163.7</strong></td><td>51.1%</td></tr><tr><td>2034E</td><td>332.9</td><td>+4%</td><td>63%</td><td>209.7</td><td>38.0</td><td><strong>171.7</strong></td><td>51.6%</td></tr><tr><td>2035E</td><td>342.9</td><td>+3%</td><td>63%</td><td>216.0</td><td>38.0</td><td><strong>178.0</strong></td><td>51.9%</td></tr></tbody></table></div>
+<blockquote><p>FCF 마진이 25%→52%로 급등하는 이유: 매출은 2.8배 성장하나 CapEx은 거의 횡보. 파운드리는 일정 규모 이상에서 CapEx 레버리지 발생. 다만 이는 낙관적 가정. TSMC가 1.4nm/1nm 등 차세대 공정에 투자를 지속하면 CapEx이 상향될 수 있음.</p></blockquote>
+<hr>
+<h2 id="4-dcf-밸류에이션-base-case">4. DCF 밸류에이션 (Base Case)</h2>
+<p><strong>WACC 11.0% / 영구성장률(TGR) 3.0%</strong></p>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>10년 FCF 현재가치 합계</td><td>$640B</td></tr><tr><td>터미널 밸류 (TV)</td><td>$2,292B</td></tr><tr><td>TV 현재가치</td><td>$807B</td></tr><tr><td><strong>기업가치 (EV)</strong></td><td><strong>$1,447B</strong></td></tr><tr><td>(+) 순현금</td><td>$50B</td></tr><tr><td><strong>주주가치</strong></td><td><strong>$1,497B</strong></td></tr><tr><td>ADR 주식수</td><td>5,186M (보통주 25,928M ÷ 5)</td></tr><tr><td><strong>적정 ADR 가격</strong></td><td><strong>$289</strong></td></tr><tr><td>현재가 $366 대비</td><td><strong>-21% (고평가)</strong></td></tr></tbody></table></div>
+<blockquote><p>TV 비중: 55.7% — 터미널 밸류 의존도가 높음 (장기 가정에 민감)</p></blockquote>
+<hr>
+<h2 id="5-시나리오-분석">5. 시나리오 분석</h2>
+<h3 id="bull-case-wacc-9-5-tgr-3-5">Bull Case (WACC 9.5%, TGR 3.5%)</h3>
+<div class="scroll-x"><table><thead><tr><th>가정</th><th>내용</th></tr></thead><tbody><tr><td>매출 성장</td><td>30%→25%→20%→15%→12%→10%→8%→6%→5%→4%</td></tr><tr><td>OCF 마진</td><td>62→65% (AI 수요 장기 지속, 가격결정력 강화)</td></tr><tr><td>CapEx</td><td>$42→44→45→44→42→40→39→38→38→38B</td></tr><tr><td>WACC</td><td>9.5% (독점적 지위 감안 낮은 할인율)</td></tr></tbody></table></div>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>10년 FCF PV</td><td>$900B</td></tr><tr><td>TV PV</td><td>$1,648B</td></tr><tr><td>주주가치</td><td>$2,598B</td></tr><tr><td><strong>적정 ADR</strong></td><td><strong>$501</strong></td></tr><tr><td>현재가 대비</td><td><strong>+37% (저평가)</strong></td></tr></tbody></table></div>
+<h3 id="bear-case-wacc-12-tgr-2-5">Bear Case (WACC 12%, TGR 2.5%)</h3>
+<div class="scroll-x"><table><thead><tr><th>가정</th><th>내용</th></tr></thead><tbody><tr><td>매출 성장</td><td>18%→15%→12%→10%→8%→6%→5%→4%→3%→3%</td></tr><tr><td>OCF 마진</td><td>58% 고정 (마진 개선 제한적)</td></tr><tr><td>CapEx</td><td>$42→44→44→42→40→38→37→36→36→36B</td></tr><tr><td>WACC</td><td>12% (지정학 리스크 프리미엄 반영)</td></tr></tbody></table></div>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>10년 FCF PV</td><td>$447B</td></tr><tr><td>TV PV</td><td>$422B</td></tr><tr><td>주주가치</td><td>$919B</td></tr><tr><td><strong>적정 ADR</strong></td><td><strong>$177</strong></td></tr><tr><td>현재가 대비</td><td><strong>-52% (고평가)</strong></td></tr></tbody></table></div>
+<h3 id="시나리오-요약">시나리오 요약</h3>
+<div class="scroll-x"><table><thead><tr><th>시나리오</th><th>적정가</th><th>현재가 대비</th><th>핵심 전제</th></tr></thead><tbody><tr><td><strong>Bull</strong></td><td><strong>$501</strong></td><td>+37%</td><td>AI 수요 장기 폭발, 독점 프리미엄</td></tr><tr><td><strong>Base</strong></td><td><strong>$289</strong></td><td>-21%</td><td>컨센서스 성장, CAPM WACC</td></tr><tr><td><strong>Bear</strong></td><td><strong>$177</strong></td><td>-52%</td><td>성장 둔화, 지정학 리스크 현실화</td></tr></tbody></table></div>
+<hr>
+<h2 id="6-민감도-분석-base-case-fcf-기준">6. 민감도 분석 (Base Case FCF 기준)</h2>
+<h3 id="adr-적정가격">ADR 적정가격 ($)</h3>
+<div class="scroll-x"><table><thead><tr><th>WACC \ TGR</th><th>2.0%</th><th>2.5%</th><th>3.0%</th><th>3.5%</th></tr></thead><tbody><tr><td><strong>8%</strong></td><td>$429</td><td>$455</td><td>$487</td><td>$525</td></tr><tr><td><strong>9%</strong></td><td>$363</td><td>$380</td><td>$400</td><td>$424</td></tr><tr><td><strong>10%</strong></td><td>$313</td><td>$325</td><td>$339</td><td>$355</td></tr><tr><td><strong>11%</strong></td><td>$270</td><td>$279</td><td><strong>$289</strong></td><td>$300</td></tr></tbody></table></div>
+<blockquote><p>현재가 $366이 정당화되려면: <strong>WACC ~9.5% + TGR ~3%</strong> 또는 <strong>WACC ~9% + TGR ~2%</strong> 필요</p><p>해석: 시장은 TSMC를 CAPM(11%)보다 낮은 할인율(~9.5%)로 평가 중. 이는 TSMC의 독점적 지위, 높은 현금흐름 가시성, AI 구조적 성장을 반영한 것으로 보임.</p></blockquote>
+<hr>
+<h2 id="7-시장-내재-할인율-implied-wacc">7. 시장 내재 할인율 (Implied WACC)</h2>
+<p>현재가 $366에서 Base Case FCF·TGR 3% 기준 역산:</p>
+<div class="scroll-x"><table><thead><tr><th>현재가</th><th>내재 WACC</th><th>판단</th></tr></thead><tbody><tr><td>$366</td><td><strong>~9.5%</strong></td><td>시장이 적용 중인 할인율</td></tr><tr><td>$289</td><td>11.0%</td><td>CAPM 기반 적정가</td></tr><tr><td>$400</td><td>~9.0%</td><td>WACC 9%면 여전히 저평가</td></tr></tbody></table></div>
+<hr>
+<h2 id="8-핵심-리스크-한계">8. 핵심 리스크 &amp; 한계</h2>
+<div class="scroll-x"><table><thead><tr><th>리스크</th><th>DCF 영향</th><th>반영 시나리오</th></tr></thead><tbody><tr><td><strong>AI CapEx 사이클 둔화</strong></td><td>매출 성장률 하향 → FCF 감소</td><td>Bear</td></tr><tr><td><strong>지정학 (대만 해협)</strong></td><td>WACC 상승, 영구 디스카운트</td><td>Bear (WACC 12%)</td></tr><tr><td><strong>CapEx 초과</strong></td><td>FCF 마진 하락. 1.4nm/1nm 투자 시 $50B+ 가능</td><td>모든 시나리오 리스크</td></tr><tr><td><strong>고객 집중</strong></td><td>Apple(~25%)+NVIDIA(~12%) = 37%. 주문량 변동</td><td>Base/Bear</td></tr><tr><td><strong>경쟁</strong></td><td>삼성·인텔 추격 시 ASP 하락 → 마진 압박</td><td>Bear (OCF 마진 58% 고정)</td></tr><tr><td><strong>환율</strong></td><td>TWD 변동 → USD 기준 실적 왜곡</td><td>미반영</td></tr></tbody></table></div>
+<h3 id="모델-한계">모델 한계</h3>
+<ul><li>OCF 마진 기반 추정: 운전자본 변동을 단순화. 실제 OCF는 해마다 변동폭 큼 (57~71%)</li><li>CapEx 장기 추정: 차세대 공정 투자 규모 불확실. 현재 가이던스는 1~2년치만 존재</li><li>터미널 밸류 비중 55%+: 장기 가정(TGR, WACC)에 결과가 크게 좌우됨</li></ul>
+<hr>
+<h2 id="9-결론">9. 결론</h2>
+<div class="scroll-x"><table><thead><tr><th>관점</th><th>내용</th></tr></thead><tbody><tr><td>CAPM 기반 (WACC 11%)</td><td>적정가 <strong>$289</strong>, 현재가 대비 <strong>21% 고평가</strong></td></tr><tr><td>시장 내재 (WACC ~9.5%)</td><td>현재가 $366은 AI 구조적 성장 + 독점 프리미엄을 완전히 반영한 수준</td></tr><tr><td>상승 여력</td><td>Bull Case($501)까지 <strong>+37%</strong>. 단, WACC 9.5% + 매출 30% 성장 지속 전제</td></tr><tr><td>하방 리스크</td><td>Bear Case($177)까지 <strong>-52%</strong>. AI CapEx 둔화 + 지정학 리스크 현실화 시</td></tr></tbody></table></div>
+<p><strong>현재가 $366은 Base Case 기준 고평가이나, 시장이 적용하는 낮은 할인율(~9.5%)이 TSMC의 독점적 지위에 비추어 합리적인지가 핵심 판단 포인트.</strong></p>
+<hr>
+<h2 id="출처">출처</h2>
+<ul><li><a class="ext" href="https://investor.tsmc.com" target="_blank" rel="noopener">TSMC IR ↗</a> — 분기/연간 실적, CapEx 가이던스</li><li><a class="ext" href="https://stockanalysis.com/stocks/tsm/forecast/" target="_blank" rel="noopener">StockAnalysis ↗</a> — 2026~27 컨센서스 (TWD 4.71T / 5.69T)</li><li><a class="ext" href="https://finance.yahoo.com/quote/TSM/" target="_blank" rel="noopener">Yahoo Finance ↗</a> — 베타 1.27 (5Y monthly)</li><li><a class="ext" href="https://fred.stlouisfed.org/series/DGS10" target="_blank" rel="noopener">FRED ↗</a> — US 10Y Treasury 4.1% (2026.02.13)</li><li><a class="ext" href="https://www.gurufocus.com/term/beta/TSM" target="_blank" rel="noopener">GuruFocus ↗</a> — 베타 참고 (1.55, 다른 산출 방식)</li><li>TSMC-실적분석.md — 과거 재무 데이터 기반</li></ul>
+  
+</article>
+</main>
+<script src="../../../../app.js" defer></script>
+</body>
+</html>

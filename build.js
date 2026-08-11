@@ -6,13 +6,14 @@ import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import { parseNote, blocksToText } from './site/md.js';
 import { readHistory } from './site/history.js';
+import { isExcluded, groupOf } from './site/collect.js';
 import { renderHome, renderChanges, renderNote, noteUrl } from './site/render.js';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const out = path.join(root, 'docs');
 
 const cfg = JSON.parse(await readFile(path.join(root, 'site.json'), 'utf8'));
-const labelOf = (dir) => (cfg.folders.find((f) => f.dir === dir) || {}).label || dir;
+const labelOf = (label) => label;
 
 // 쓴 날·고친 날은 git 이 안다. quotePath 를 끄지 않으면 한글 경로가 \xxx 로 나온다.
 let history = new Map();
@@ -24,26 +25,31 @@ try {
   console.warn('git 이력을 읽지 못했다 — 날짜 없이 낸다.');
 }
 
-// folders 에 적은 폴더를 훑는다. 하위 폴더는 따라 들어가지 않는다 —
-// kent/ ward/ 처럼 갈래로 삼을 것만 folders 에 따로 적어 라벨을 준다.
-// 그래서 md 를 넣기만 하면 목록에 뜬다. 안 낼 것만 exclude 에 적는다.
-const notes = [];
-for (const f of cfg.folders) {
-  const entries = await readdir(path.join(root, f.dir), { withFileTypes: true }).catch(() => []);
-  for (const e of entries) {
-    if (!e.isFile() || !e.name.endsWith('.md')) continue;
-    const p = f.dir + '/' + e.name;
-    if (cfg.exclude.includes(p)) continue;
-    const note = parseNote(p, await readFile(path.join(root, p), 'utf8'));
-    const when = history.get(p) || {};
-    note.folder = f.dir;
-    note.slug = cfg.slugs[p] || note.meta.slug || '';
-    // 프론트매터에 적은 날이 있으면 그것이 먼저다 — 다른 곳에서 옮겨 온 글이 있다.
-    note.date = note.meta.date || when.created || note.date;
-    note.updated = when.updated || '';
-    note.text = blocksToText(note.blocks);
-    notes.push(note);
+// folders 에 적은 폴더가 갈래다. md 를 넣기만 하면 목록에 뜬다.
+// 안 낼 것만 exclude 에 적는다. 자세한 규칙은 site/collect.js 에 있다.
+const found = [];
+const walk = async (dir) => {
+  for (const e of await readdir(path.join(root, dir), { withFileTypes: true }).catch(() => [])) {
+    if (e.isDirectory()) await walk(dir + '/' + e.name);
+    else if (e.name.endsWith('.md')) found.push(dir + '/' + e.name);
   }
+};
+for (const top of [...new Set(cfg.folders.map((f) => f.dir.split('/')[0]))]) await walk(top);
+
+const notes = [];
+for (const p of found.map((f) => f.normalize('NFC')).sort()) {
+  if (isExcluded(p, cfg.exclude)) continue;
+  const group = groupOf(p, cfg.folders);
+  if (!group) continue;
+  const note = parseNote(p, await readFile(path.join(root, p), 'utf8'));
+  const when = history.get(p) || {};
+  note.folder = group.label;
+  note.slug = cfg.slugs[p] || note.meta.slug || '';
+  // 프론트매터에 적은 날이 있으면 그것이 먼저다 — 다른 곳에서 옮겨 온 글이 있다.
+  note.date = note.meta.date || when.created || note.date;
+  note.updated = when.updated || '';
+  note.text = blocksToText(note.blocks);
+  notes.push(note);
 }
 // 훑어 찾는 목록이다. 날짜순은 최근 변경이 맡는다.
 notes.sort((a, b) => a.title.localeCompare(b.title, 'ko'));

@@ -216,6 +216,9 @@ export function parseNote(path, src) {
   // 관례에서 벗어난 옛 노트는 파서가 알아맞히게 두지 않고 직접 적는다.
   if (meta.title) rawTitle = meta.title;
 
+  // 제목은 평문으로 쓰인다. 본문에 굵게 쓴 것이 목록에서는 별표로 보인다.
+  rawTitle = rawTitle.replace(/\*\*([^*]+)\*\*/g, "$1").replace(/`([^`]+)`/g, "$1");
+
   // 제목: "한글 (English)" → 원제 분리 / " - 부제" → 부제 분리.
   // 하이픈이 여럿이면 어디서 갈라야 할지 알 수 없으니 통째로 제목이다.
   let title = rawTitle, titleOriginal = "";

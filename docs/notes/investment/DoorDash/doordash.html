@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DoorDash (DASH) 투자 분석 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="note-page">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="../../../index.html">나의 노트</a>
+    <nav>
+      <a href="../../../index.html">노트</a>
+      <a href="../../../changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="../../../">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<aside class="rail">
+  <a class="mono back" href="../../../index.html">← 투자 · 기업 분석</a>
+  <span class="kicker">Contents</span>
+  <nav class="toc"><a class="toc-2" href="#0-3년-영업이익-배수-점검-2026-07-05">0. 3년 영업이익 배수 점검 (2026-07-05)</a><a class="toc-3" href="#드라이버-분해-fy2029-영업이익">드라이버 분해 (FY2029 영업이익)</a><a class="toc-3" href="#4조건-판정">4조건 판정</a><a class="toc-3" href="#결론">결론</a><a class="toc-2" href="#사업-개요">사업 개요</a><a class="toc-2" href="#연간-실적-요약">연간 실적 요약</a><a class="toc-2" href="#분기별-실적-추이">분기별 실적 추이</a><a class="toc-2" href="#핵심-kpi">핵심 KPI</a><a class="toc-2" href="#비용-구조">비용 구조</a><a class="toc-2" href="#현금흐름-재무-상태">현금흐름 &amp; 재무 상태</a><a class="toc-2" href="#지역별-매출">지역별 매출</a><a class="toc-2" href="#최근-주요-의사결정">최근 주요 의사결정</a><a class="toc-3" href="#1-deliveroo-인수-2025-10-완료-3-8b">1. Deliveroo 인수 (2025.10 완료, ~$3.8B)</a><a class="toc-3" href="#2-전환사채-2-75b-발행-2025-05">2. 전환사채 $2.75B 발행 (2025.05)</a><a class="toc-3" href="#3-5b-자사주-매입-프로그램-2025-02-발표">3. $5B 자사주 매입 프로그램 (2025.02 발표)</a><a class="toc-3" href="#4-광고-사업-확대">4. 광고 사업 확대</a><a class="toc-3" href="#5-커머스-플랫폼-확장">5. 커머스 플랫폼 확장</a><a class="toc-2" href="#성장-동력-정리">성장 동력 정리</a><a class="toc-2" href="#시장-침투율-분석-포화인가">시장 침투율 분석: 포화인가?</a><a class="toc-3" href="#매출-성장-감속">매출 성장 감속</a><a class="toc-3" href="#미국-vs-한국-침투율">미국 vs 한국 침투율</a><a class="toc-3" href="#미국-세대별-지역별-이용률">미국 세대별·지역별 이용률</a><a class="toc-3" href="#아마존과-비교-미국-온라인-서비스-침투의-현실">아마존과 비교: 미국 온라인 서비스 침투의 현실</a><a class="toc-3" href="#성장-여력-판단">성장 여력 판단</a><a class="toc-2" href="#주요-리스크">주요 리스크</a><a class="toc-2" href="#블로그-분석-비교-2026-02-07">블로그 분석 비교 (2026.02.07)</a><a class="toc-3" href="#블로그-핵심-주장">블로그 핵심 주장</a><a class="toc-3" href="#블로그의-오류-및-한계">블로그의 오류 및 한계</a><a class="toc-3" href="#amazon-prime-구독자-성장-참고">Amazon Prime 구독자 성장 참고</a><a class="toc-3" href="#내-판단">내 판단</a><a class="toc-3" href="#재검토-시그널-watch-list">재검토 시그널 (Watch List)</a><a class="toc-2" href="#dcf-밸류에이션-fy2025-기준">DCF 밸류에이션 (FY2025 기준)</a><a class="toc-3" href="#공통-가정-fcf-10년-전망-m">공통 가정 — FCF 10년 전망 ($M)</a><a class="toc-3" href="#학계-wacc-방식">학계 (WACC) 방식</a><a class="toc-3" href="#버핏-방식-dcf-참고">버핏 방식 DCF (참고)</a><a class="toc-3" href="#두-방식-비교">두 방식 비교</a><a class="toc-3" href="#주의사항-alphabet과의-차이">주의사항 — Alphabet과의 차이</a></nav>
+  <div class="stats mono">
+    <span>쓴 날 2026-02-06 · 읽기 20분</span>
+    <span>고친 날 2026-07-05</span>
+    <span>나가는 링크 0 · 백링크 1</span>
+  </div>
+</aside>
+<article>
+  <h1>DoorDash (DASH) 투자 분석</h1>
+  
+  
+  
+  <blockquote><p>작성일: 2026.02.05 / 업데이트: 2026.05.02 (FY2025 10-K 반영) 출처: SEC EDGAR 10-K (FY2022~FY2025), 10-Q (2023Q1~2025Q3)</p></blockquote>
+<h2 id="0-3년-영업이익-배수-점검-2026-07-05">0. 3년 영업이익 배수 점검 (2026-07-05)</h2>
+<blockquote><p>질문: <strong>영업이익이 3년에 2배 되는가?</strong> (투자판단모델.md — 연 ~26%) 기준 수익력: FY2026E 영업이익 <strong>~$1.3B</strong> (FY25 $723M + Q3'25 런레이트 $1.03B + Deliveroo 풀이어, OPM ~7.5%) → 2배 목표 = FY2029 <strong>~$2.6B</strong> 포지션: 정찰병 1주 ($263.97 매수, 현재가 $188.50, <strong>-28.6%</strong>)</p></blockquote>
+<h3 id="드라이버-분해-fy2029-영업이익">드라이버 분해 (FY2029 영업이익)</h3>
+<div class="scroll-x"><table><thead><tr><th>드라이버</th><th>현재 (FY26E)</th><th>보수</th><th>기본</th><th>낙관</th></tr></thead><tbody><tr><td>매출 (GOV +20% 유기 + take rate)</td><td>$17.5B</td><td>+12%/yr → $24B (침투율 정체)</td><td>+15%/yr → $26.5B</td><td>+18%/yr → $29B (Deliveroo 시너지)</td></tr><tr><td>OPM (5.3%, Q3'25 7.5% — 인플렉션 중)</td><td>~7.5%</td><td>6% (재분류 비용·경쟁)</td><td>9%</td><td>12% (Adj.EBITDA 22%의 GAAP 수렴)</td></tr><tr><td><strong>FY2029 영업이익</strong></td><td>$1.3B</td><td><strong>~$1.4B</strong></td><td><strong>~$2.4B</strong></td><td><strong>~$3.5B</strong></td></tr><tr><td><strong>3년 배수</strong></td><td></td><td><strong>1.1x</strong></td><td><strong>1.85x</strong></td><td><strong>2.7x</strong></td></tr></tbody></table></div>
+<ul><li>Reddit과 동형: <strong>마진 인플렉션 기업이라 배수가 높게 나온다</strong> (9M24 -$155M → 9M25 +$576M 레버리지 실증, SBC 13.5→7.7% 디커플링). 단 마진 확장 가정의 근거는 Reddit(GPM 91%)보다 약함 — 실시간 물류라 원가 바닥이 높음.</li><li>구조 제약이 보수 시나리오: 침투율 13%의 확장이 느림(밀도·팁 문화·세대 격차), GOV 유기 성장 20%가 이미 감속 추세, take rate 천장.</li></ul>
+<h3 id="4조건-판정">4조건 판정</h3>
+<div class="scroll-x"><table><thead><tr><th>조건</th><th>판정</th><th>근거</th></tr></thead><tbody><tr><td>① 통행료</td><td>중</td><td>FCF $1.8B 정체 — Capex+자본화SW 2배($605M, Deliveroo 통합) + SBC $1.05B(FCF의 58%)가 진성 FCF를 깎음</td></tr><tr><td>② 가격결정권</td><td>중</td><td>take rate 12.3→13.8% 인상 관철(광고) = 머천트 대상 힘 있음. 단 FY25 정체(Deliveroo 희석), 소비자 가격은 탄력적(팁 부담), Uber Eats 경쟁</td></tr><tr><td>③ 정렬</td><td>중</td><td>자사주 $5B 승인(미집행). 이중 주식(Tony Xu 의결권 집중), SBC 높음</td></tr><tr><td>④ 가격</td><td><strong>탈락</strong></td><td>PER(TTM) ~85x / fPER(FY26) ~55x — 마진 인플렉션이 빠르게 낮추는 중이나 현재 기준 상한 30의 2배</td></tr></tbody></table></div>
+<h3 id="결론">결론</h3>
+<p><strong>성장은 경계~근접(기본 1.85x), 가격 탈락 — 정찰병 유지, 승격 보류. -29% 손실의 교훈 = ④ 무시하고 정찰한 대가.</strong> Reddit과 같은 &quot;마진 인플렉션 + 비싼 가격&quot; 조합이지만 Reddit보다 ①②가 한 급 아래(물류 원가·SBC·경쟁). 승격 트리거: ⓐ GOV 유기 성장 재가속(25%+) 또는 볼륨 주도 성장 전환 ⓑ Deliveroo 흑자 전환 ⓒ fPER 30 진입(이익이 따라잡거나 주가 조정) — 셋 중 ⓐⓑ가 먼저 와야 ⓒ가 의미 있음. 손절 판단: 보수 시나리오(침투 정체 + 재분류 비용 현실화) 신호가 나오면 정찰 목적 소멸.</p>
+<h2 id="사업-개요">사업 개요</h2>
+<ul><li>미국 1위 음식 배달 플랫폼 (한국 배민에 해당)</li><li>음식 외 편의점, 그로서리, 주류 등 카테고리 확장 중</li><li>2022년 핀란드 Wolt 인수로 유럽/아시아 30개국+ 진출</li><li>2025년 10월 영국 Deliveroo 인수 완료 → 40개국+ 확대</li><li>MAU 4,200만명, DashPass/Wolt+ 구독자 2,200만명+ (FY2024 말)</li><li>단일 보고 세그먼트 (CEO Tony Xu가 통합 기준으로 경영)</li></ul>
+<hr>
+<h2 id="연간-실적-요약">연간 실적 요약</h2>
+<div class="scroll-x"><table><thead><tr><th></th><th>FY2020</th><th>FY2021</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th></tr></thead><tbody><tr><td><strong>매출</strong> ($M)</td><td>2,886</td><td>4,888</td><td>6,583</td><td>8,635</td><td>10,722</td><td><strong>13,717</strong></td></tr><tr><td>매출 YoY</td><td>226%</td><td>69%</td><td>35%</td><td>31%</td><td>24%</td><td><strong>28%</strong></td></tr><tr><td><strong>매출총이익</strong> ($M)</td><td>1,421</td><td>2,452</td><td>2,824</td><td>3,860</td><td>4,979</td><td><strong>6,686</strong></td></tr><tr><td>GPM</td><td>49.2%</td><td>50.2%</td><td>42.9%</td><td>44.7%</td><td>46.4%</td><td><strong>48.7%</strong></td></tr><tr><td><strong>영업이익</strong> ($M)</td><td>(436)</td><td>(452)</td><td>(1,124)</td><td>(579)</td><td>(38)</td><td><strong>723</strong></td></tr><tr><td>OPM</td><td>-15.1%</td><td>-9.2%</td><td>-17.1%</td><td>-6.7%</td><td>-0.4%</td><td><strong>5.3%</strong></td></tr><tr><td><strong>순이익</strong> ($M)</td><td>(461)</td><td>(468)</td><td>(1,365)</td><td>(558)</td><td>123</td><td><strong>935</strong></td></tr><tr><td>NPM</td><td>-16.0%</td><td>-9.6%</td><td>-20.7%</td><td>-6.5%</td><td>1.1%</td><td><strong>6.8%</strong></td></tr><tr><td><strong>Adj. EBITDA</strong> ($M)</td><td>—</td><td>—</td><td>361</td><td>1,190</td><td>1,900</td><td><strong>2,779</strong></td></tr><tr><td><strong>FCF</strong> ($M)</td><td>—</td><td>—</td><td>21</td><td>1,349</td><td>1,802</td><td><strong>1,826</strong></td></tr></tbody></table></div>
+<blockquote><p>FY2024: GAAP 기준 첫 순이익 흑자 전환 (순이익 $123M) FY2025: 첫 GAAP 영업이익 $723M, OPM 5.3% — 장기 가이던스(고한자리)에 진입. 순이익 $935M으로 7.6배 증가 매출 +28%는 Deliveroo Q4 1분기치 편입(~$0.6B) 포함, 유기 성장 ~22% FCF는 $1.83B로 정체 — Capex +147%($104M→$257M, Deliveroo 통합/시설 확장), 자본화 SW +54% FY2022 GPM 급락은 Wolt 인수 영향 (저마진 해외 사업 편입)</p></blockquote>
+<hr>
+<h2 id="분기별-실적-추이">분기별 실적 추이</h2>
+<div class="scroll-x"><table><thead><tr><th></th><th>Q3 2024</th><th>Q1 2025</th><th>Q2 2025</th><th>Q3 2025</th></tr></thead><tbody><tr><td><strong>매출</strong> ($M)</td><td>2,706</td><td>3,032</td><td>3,284</td><td>3,446</td></tr><tr><td>매출 YoY</td><td>25%</td><td>21%</td><td>25%</td><td><strong>27%</strong></td></tr><tr><td><strong>영업이익</strong> ($M)</td><td>107</td><td>155</td><td>163</td><td><strong>258</strong></td></tr><tr><td>OPM</td><td>4.0%</td><td>5.1%</td><td>5.0%</td><td><strong>7.5%</strong></td></tr><tr><td><strong>순이익</strong> ($M)</td><td>162</td><td>193</td><td>285</td><td>244</td></tr><tr><td><strong>Adj. EBITDA</strong> ($M)</td><td>533</td><td>590</td><td>655</td><td><strong>754</strong></td></tr><tr><td>Adj. EBITDA Margin</td><td>19.7%</td><td>19.5%</td><td>19.9%</td><td><strong>21.9%</strong></td></tr></tbody></table></div>
+<blockquote><p>9M 2024 영업손실 ($155M) → 9M 2025 영업이익 $576M: YoY $731M 개선</p></blockquote>
+<hr>
+<h2 id="핵심-kpi">핵심 KPI</h2>
+<div class="scroll-x"><table><thead><tr><th></th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>Q3 2025</th><th>FY2025</th></tr></thead><tbody><tr><td><strong>총 주문수</strong> (M)</td><td>1,736</td><td>2,161</td><td>2,583</td><td>776 (분기)</td><td><strong>3,172</strong></td></tr><tr><td>주문 YoY</td><td>25%</td><td>24%</td><td>20%</td><td>21%</td><td><strong>23%</strong></td></tr><tr><td><strong>Marketplace GOV</strong> ($M)</td><td>53,414</td><td>66,771</td><td>80,231</td><td>25,015 (분기)</td><td><strong>102,018</strong></td></tr><tr><td>GOV YoY</td><td>27%</td><td>25%</td><td>20%</td><td>25%</td><td><strong>27%</strong></td></tr><tr><td><strong>Net Revenue Margin</strong></td><td>12.3%</td><td>12.9%</td><td>13.4%</td><td>13.8%</td><td><strong>13.4%</strong></td></tr><tr><td><strong>Contribution Profit</strong> ($M)</td><td>1,567</td><td>2,482</td><td>3,474</td><td>1,268 (분기)</td><td><strong>4,840</strong></td></tr><tr><td>CP/GOV</td><td>2.9%</td><td>3.7%</td><td>4.3%</td><td>5.1%</td><td><strong>4.7%</strong></td></tr><tr><td><strong>Adj. EBITDA / GOV</strong></td><td>0.7%</td><td>1.8%</td><td>2.4%</td><td>—</td><td><strong>2.7%</strong></td></tr></tbody></table></div>
+<blockquote><p>Net Revenue Margin (=Take Rate) FY24까지 지속 상승했으나 FY25엔 13.4%로 정체 — Deliveroo의 낮은 take rate가 미국 take rate 상승을 상쇄 Contribution Profit/GOV 3년간 2.9% → 4.7%: 유닛 이코노믹스 뚜렷한 개선 FY25 GOV 재가속 (+20% → +27%): Deliveroo Q4 편입(약 $5~6B GOV) + 유기 성장 +20% 수준</p></blockquote>
+<hr>
+<h2 id="비용-구조">비용 구조</h2>
+<div class="scroll-x"><table><thead><tr><th>항목 (% of Revenue)</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th></tr></thead><tbody><tr><td>매출원가 (excl. D&amp;A)</td><td>54.5%</td><td>53.1%</td><td>51.7%</td><td><strong>49.1%</strong></td></tr><tr><td>판매·마케팅</td><td>25.6%</td><td>21.7%</td><td>19.0%</td><td><strong>18.1%</strong></td></tr><tr><td>연구개발</td><td>12.6%</td><td>11.6%</td><td>10.9%</td><td><strong>10.4%</strong></td></tr><tr><td>일반관리</td><td>17.4%</td><td>14.3%</td><td>13.5%</td><td><strong>11.7%</strong></td></tr><tr><td>감가상각</td><td>5.6%</td><td>5.9%</td><td>5.2%</td><td><strong>5.4%</strong></td></tr><tr><td><strong>SBC (주식보상)</strong></td><td><strong>13.5%</strong></td><td><strong>12.6%</strong></td><td><strong>10.3%</strong></td><td><strong>7.7%</strong></td></tr></tbody></table></div>
+<blockquote><p>SBC 절대액 $1,051M (FY2025)으로 전년 대비 -4% — 매출 +28%와 디커플링되어 매출 대비 비중 7.7%로 급락 전 항목에서 매출 대비 비중 추가 하락: 영업 레버리지 본격화 (D&amp;A는 Deliveroo 무형자산 상각으로 일시 상승)</p></blockquote>
+<hr>
+<h2 id="현금흐름-재무-상태">현금흐름 &amp; 재무 상태</h2>
+<div class="scroll-x"><table><thead><tr><th></th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th></tr></thead><tbody><tr><td>영업현금흐름 ($M)</td><td>367</td><td>1,673</td><td>2,132</td><td><strong>2,431</strong></td></tr><tr><td><strong>FCF</strong> ($M)</td><td>21</td><td>1,349</td><td>1,802</td><td><strong>1,826</strong></td></tr><tr><td>FCF/Adj.EBITDA</td><td>5.8%</td><td>113%</td><td>95%</td><td><strong>66%</strong></td></tr><tr><td>Capex ($M)</td><td>—</td><td>123</td><td>104</td><td><strong>257</strong></td></tr><tr><td>자본화 SW ($M)</td><td>—</td><td>201</td><td>226</td><td><strong>348</strong></td></tr></tbody></table></div>
+<blockquote><p>FY25 FCF/Adj.EBITDA 비율 95%→66%로 후퇴: Capex+자본화 SW가 $330M → $605M로 급증 (Deliveroo 통합)</p></blockquote>
+<p><strong>대차대조표 (2025.09.30 기준)</strong></p>
+<ul><li>현금+유가증권: ~$5,092M (제한현금 제외)</li><li>제한현금: $4,080M (Deliveroo 인수 에스크로 ~$3.9B)</li><li>전환사채: $2,722M (2030년 만기, 무이자, 전환가 ~$292/주)</li><li>누적적자: ($4,533M)</li><li>자기주식 매입 프로그램: $5B 승인 (2025.02), 아직 미집행</li></ul>
+<hr>
+<h2 id="지역별-매출">지역별 매출</h2>
+<div class="scroll-x"><table><thead><tr><th></th><th>FY2022</th><th>FY2023</th><th>FY2024</th></tr></thead><tbody><tr><td>미국 ($M)</td><td>6,251</td><td>7,781</td><td>9,403</td></tr><tr><td>해외 ($M)</td><td>332</td><td>854</td><td>1,319</td></tr><tr><td><strong>해외 비중</strong></td><td>5.0%</td><td>9.9%</td><td><strong>12.3%</strong></td></tr></tbody></table></div>
+<blockquote><p>Wolt 인수 후 해외 매출 2년간 4배 성장 ($332M → $1,319M) Deliveroo 편입 시 해외 비중 20%+ 전망</p></blockquote>
+<hr>
+<h2 id="최근-주요-의사결정">최근 주요 의사결정</h2>
+<h3 id="1-deliveroo-인수-2025-10-완료-3-8b">1. Deliveroo 인수 (2025.10 완료, ~$3.8B)</h3>
+<ul><li>영국 기반 배달 플랫폼, 유럽·중동 10개국+ 추가</li><li>DoorDash 역사상 최대 규모 인수</li><li>30개국+ → 40개국+ 확대, 국제 사업 본격화</li><li>Deal-Contingent Forward FX 헤지로 환율 리스크 관리 (Q3 2025 미실현 손실 $81M)</li></ul>
+<h3 id="2-전환사채-2-75b-발행-2025-05">2. 전환사채 $2.75B 발행 (2025.05)</h3>
+<ul><li>무이자(0% 쿠폰), 2030년 만기</li><li>전환가 ~$292/주 (3.425주/$1,000)</li><li>전환사채 헤지 $680M 매입 + 워런트 $341M 발행으로 희석 방어</li><li>Deliveroo 인수 및 일반 운영자금 용도</li></ul>
+<h3 id="3-5b-자사주-매입-프로그램-2025-02-발표">3. $5B 자사주 매입 프로그램 (2025.02 발표)</h3>
+<ul><li>기존 $876M 잔여분 포함</li><li>Deliveroo 인수 완료까지 매입 보류 → 향후 본격 집행 예상</li></ul>
+<h3 id="4-광고-사업-확대">4. 광고 사업 확대</h3>
+<ul><li>Net Revenue Margin 상승의 핵심 드라이버</li><li>머천트·CPG 대상 광고 상품으로 매출 다각화</li><li>GOV 성장률(20%) 대비 매출 성장률(24%)이 높은 이유</li></ul>
+<h3 id="5-커머스-플랫폼-확장">5. 커머스 플랫폼 확장</h3>
+<ul><li>Drive (화이트라벨 배달), 온라인 주문, 브랜드 앱, 예약/테이블 관리, CRM, 마케팅 도구</li><li>머천트 SaaS 확대 → 배달 플랫폼에서 종합 커머스 인프라로 전환 중</li></ul>
+<hr>
+<h2 id="성장-동력-정리">성장 동력 정리</h2>
+<ol><li><strong>소비자 확대 &amp; 인게이지먼트 심화</strong>: MAU·주문 빈도 동시 성장</li><li><strong>광고 매출</strong>: Take Rate 상승 (12.3% → 13.8%), 매출이 GOV보다 빠르게 성장</li><li><strong>물류 효율화</strong>: Dasher 비용/GOV 비율 지속 하락</li><li><strong>크레딧/환불 감소</strong>: GOV 대비 비율 축소 → 마진 기여</li><li><strong>해외 확장</strong>: Wolt + Deliveroo, 40개국+ 규모의 경제</li><li><strong>카테고리 확장</strong>: 그로서리, 편의점, 주류 등 비음식 카테고리</li></ol>
+<hr>
+<h2 id="시장-침투율-분석-포화인가">시장 침투율 분석: 포화인가?</h2>
+<h3 id="매출-성장-감속">매출 성장 감속</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>FY2021</th><th>FY2022</th><th>FY2023</th><th>FY2024</th></tr></thead><tbody><tr><td>매출 YoY</td><td>69%</td><td>35%</td><td>31%</td><td>24%</td></tr><tr><td>GOV YoY</td><td>70%</td><td>27%</td><td>25%</td><td>20%</td></tr><tr><td>주문수 YoY</td><td>70%</td><td>25%</td><td>24%</td><td>20%</td></tr></tbody></table></div>
+<ul><li>매출 성장의 상당 부분이 Take Rate 확대(12.3%→13.4%)에서 발생</li><li>실제 거래량(GOV) 성장은 20%대로 하락, Take Rate에 천장이 있으므로 매출 성장은 GOV에 수렴 전망</li><li>FY2022 매출 35%에는 Wolt 인수 효과 포함 (유기적 ~28%)</li></ul>
+<h3 id="미국-vs-한국-침투율">미국 vs 한국 침투율</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>미국 (DoorDash)</th><th>한국 (배민)</th></tr></thead><tbody><tr><td>MAU</td><td>4,200만</td><td>2,230만</td></tr><tr><td>인구</td><td>3.3억</td><td>5,200만</td></tr><tr><td><strong>MAU/인구</strong></td><td><strong>~13%</strong></td><td><strong>~43%</strong></td></tr><tr><td>시장점유율</td><td>67%</td><td>~59%</td></tr></tbody></table></div>
+<blockquote><p>미국 침투율은 한국의 1/3 수준 → 절대적으로는 포화 아님</p></blockquote>
+<h3 id="미국-세대별-지역별-이용률">미국 세대별·지역별 이용률</h3>
+<div class="scroll-x"><table><thead><tr><th>세그먼트</th><th>주 1회 이상 이용률</th></tr></thead><tbody><tr><td>Gen Z / 밀레니얼</td><td><strong>40%</strong></td></tr><tr><td>Gen X</td><td>21.5%</td></tr><tr><td>베이비부머</td><td><strong>10%</strong></td></tr><tr><td>도시</td><td><strong>40%</strong></td></tr><tr><td>농촌</td><td><strong>15.3%</strong></td></tr></tbody></table></div>
+<blockquote><p>젊은 도시 거주자는 이미 높은 침투율 → 추가 성장 제한적 중장년·비도시는 여백 있지만 전환 비용 높고 느림</p></blockquote>
+<h3 id="아마존과-비교-미국-온라인-서비스-침투의-현실">아마존과 비교: 미국 온라인 서비스 침투의 현실</h3>
+<div class="scroll-x"><table><thead><tr><th></th><th>아마존</th><th>DoorDash</th></tr></thead><tbody><tr><td>MAU</td><td>~2억명</td><td>4,200만명</td></tr><tr><td>MAU/인구</td><td><strong>~60%</strong></td><td><strong>~13%</strong></td></tr><tr><td>가구 침투율</td><td><strong>~80%</strong></td><td>-</td></tr><tr><td>유료 구독자</td><td>Prime 2억명 (성인 73%)</td><td>DashPass 2,200만명</td></tr><tr><td>시장 지배까지 걸린 시간</td><td><strong>~25년</strong> (1995→2020)</td><td>11년차 (2013~)</td></tr></tbody></table></div>
+<blockquote><p>아마존조차 미국 가구 80% 침투에 25년 걸림</p></blockquote>
+<p>한국은 스마트폰 보급률, 인구 밀집도(527명/km² vs 미국 36명/km²), 아파트 중심 주거 구조 덕에 전 연령대가 빠르게 온라인 서비스에 올라탔지만, 미국은 구조적으로 다름:</p>
+<ul><li><strong>인구 밀도 15배 차이</strong>: 단독주택 중심 → 배달 동선 비효율</li><li><strong>세대 간 디지털 격차</strong>: 부머 세대 이용률 10%에 불과</li><li><strong>팁 문화</strong>: 배달비 + 서비스비 + 팁 → 체감 비용이 한국보다 훨씬 높음</li><li><strong>아마존과의 차이</strong>: 아마존은 비실시간(며칠 뒤 배송 OK), 음식 배달은 실시간 물류 → 스케일링 비용 구조적으로 높음</li></ul>
+<h3 id="성장-여력-판단">성장 여력 판단</h3>
+<div class="scroll-x"><table><thead><tr><th>시나리오</th><th>침투율 가정</th><th>의미</th></tr></thead><tbody><tr><td>낙관</td><td>13% → 40~50%</td><td>&quot;배달의 아마존&quot; 가능하나 10~15년 소요</td></tr><tr><td>현실적</td><td>13% → 20~25%</td><td>미국 구조적 한계 (밀도, 비용) 감안</td></tr><tr><td>비관</td><td>현재 수준 근처</td><td>배달비 부담으로 성장 정체</td></tr></tbody></table></div>
+<blockquote><p>현실적 시나리오 기준 50~90% 성장 여력은 있으나, 속도가 느릴 것이 핵심 DoorDash의 해외 확장(Deliveroo), 광고, 카테고리 확장 전략은 이 한계에 대한 대응</p></blockquote>
+<hr>
+<h2 id="주요-리스크">주요 리스크</h2>
+<ol><li><strong>Dasher 근로자 분류</strong>: 독립계약자 → 직원 재분류 시 비용 대폭 증가</li><li><strong>경쟁 심화</strong>: Uber Eats, Instacart, 대형 리테일러 자체 배달</li><li><strong>Deliveroo 통합 리스크</strong>: 10개국+ 신규 시장 통합 실행 리스크</li><li><strong>규제</strong>: 수수료 상한, 근로 조건, 데이터 프라이버시 (40개국+)</li><li><strong>수익성 지속 불확실</strong>: 누적적자 $4.5B, 성장 투자 시 적자 복귀 가능성</li><li><strong>이중 주식 구조</strong>: CEO Tony Xu에 의결권 집중 (Class B)</li></ol>
+<hr>
+<h2 id="블로그-분석-비교-2026-02-07">블로그 분석 비교 (2026.02.07)</h2>
+<blockquote><p>출처: 네이버 블로그 &quot;DoorDash와 미국 배달시장의 미래&quot; (주식하는하루키, 2025.4.6)</p></blockquote>
+<h3 id="블로그-핵심-주장">블로그 핵심 주장</h3>
+<ul><li>배민/쿠팡처럼 DoorDash도 적자→흑자 턴어라운드 구간</li><li>초기에 교외 지역 + 소비자 관점 전략으로 Uber Eats를 이김</li><li>DashPass MAU 대비 구독 비율 ~50% → 높은 충성도 (Spotify 55%에 근접, Uber 30%대)</li><li>DashPass 2천만 vs 프라임 1.8억 → &quot;이제 막 시작된 시장&quot;</li><li>로봇/드론이 배달 인건비를 낮추면 폭발적 성장 전망</li><li>결론: &quot;여전히 성장룸이 많이 남아있는 독점 플랫폼&quot;</li></ul>
+<h3 id="블로그의-오류-및-한계">블로그의 오류 및 한계</h3>
+<ol><li><strong>매출/GOV 혼동</strong>: &quot;24년 매출 44B$&quot;는 GOV이며, 실제 매출은 $10.7B</li><li><strong>매출 감속 추세 무시</strong>: 69%→35%→31%→24% 감속을 아예 다루지 않음</li><li><strong>구조적 한계 무시</strong>: 인구밀도, 팁 문화, 세대 격차, 실시간 물류 비용 언급 없음</li><li><strong>프라임 비교의 함정</strong>: 같은 11년차 시점에서 프라임 5,400만 vs DashPass 2,200만 (절반 이하). 비실시간 택배 vs 실시간 배달은 스케일링 구조가 근본적으로 다름</li><li><strong>로봇/드론 전망</strong>: 시점·규제 현실에 대한 근거 없이 낙관</li><li><strong>리스크 제로</strong>: 성장 제한 요인에 대한 언급 전무</li></ol>
+<h3 id="amazon-prime-구독자-성장-참고">Amazon Prime 구독자 성장 참고</h3>
+<div class="scroll-x"><table><thead><tr><th>연도</th><th>미국 구독자</th><th>출시 후 경과</th></tr></thead><tbody><tr><td>2005</td><td>출시</td><td>-</td></tr><tr><td>2016</td><td>~5,400만</td><td>11년</td></tr><tr><td>2019</td><td>~1.26억</td><td>14년</td></tr><tr><td>2024</td><td>~1.8억</td><td>19년</td></tr></tbody></table></div>
+<blockquote><p>프라임도 1.8억 도달에 19년. DashPass는 11년차에 2,200만으로 같은 시점 프라임의 절반 이하</p></blockquote>
+<h3 id="내-판단">내 판단</h3>
+<ul><li>블로그는 낙관 편향. &quot;성장 여력이 크다&quot;는 결론을 먼저 정해놓고 맞는 숫자만 선별</li><li>내 분석은 매출 성장 감속 + 구조적 제약을 정면으로 다루며, 현실적 시나리오(침투율 13%→20~25%) 제시</li><li>현재는 마진 개선이 주가를 끌어올리는 구간이지, 성장이 끌어올리는 구간은 아님</li></ul>
+<h3 id="재검토-시그널-watch-list">재검토 시그널 (Watch List)</h3>
+<div class="scroll-x"><table><thead><tr><th>시그널</th><th>현재 수준</th><th>주목할 변화</th></tr></thead><tbody><tr><td>GOV YoY</td><td>20% (감속 중)</td><td>재가속 (25%+)</td></tr><tr><td>주문수 YoY</td><td>20% (감속 중)</td><td>Take Rate 아닌 볼륨 주도 성장</td></tr><tr><td>MAU</td><td>4,200만 (인구 13%)</td><td>침투율 20%+ 돌파</td></tr><tr><td>DashPass 구독자</td><td>2,200만</td><td>3,000만+ (비도시/중장년 전환 신호)</td></tr><tr><td>Deliveroo 통합</td><td>미반영</td><td>해외 매출 비중 20%+ &amp; 흑자 전환</td></tr><tr><td>로봇/드론 배달</td><td>파일럿 단계</td><td>실제 배달비 인하로 이어지는 시점</td></tr></tbody></table></div>
+<blockquote><p>GOV 재가속 + 마진 유지/개선 조합이 나오면 재검토</p></blockquote>
+<hr>
+<blockquote><p>데이터 출처: SEC EDGAR (10-K FY2022~FY2025, 10-Q 2023Q1~2025Q3)</p></blockquote>
+<hr>
+<h2 id="dcf-밸류에이션-fy2025-기준">DCF 밸류에이션 (FY2025 기준)</h2>
+<blockquote><p>작성: 2026.05.02. 현재가 $175.84 (시가총액 ~$76B, 발행주식 Class A 410.0M + B 24.5M = 434.5M, 가중평균 희석 440M)</p></blockquote>
+<h3 id="공통-가정-fcf-10년-전망-m">공통 가정 — FCF 10년 전망 ($M)</h3>
+<p>DASH는 FY25 첫 GAAP 영업이익 ($723M, OPM 5.3%) 진입. 향후 10년은 (1) Deliveroo 통합 완료 후 해외 흑자 전환, (2) 광고/Take Rate 추가 상승, (3) Capex 정상화에 따른 FCF 회복을 가정.</p>
+<div class="scroll-x"><table><thead><tr><th>연도</th><th>매출 가정</th><th>FCF 가정</th><th>YoY</th></tr></thead><tbody><tr><td>FY26</td><td>$17.5B (Deliveroo 풀이어)</td><td><strong>2,465</strong></td><td>+35%</td></tr><tr><td>FY27</td><td>$20.6B</td><td><strong>3,205</strong></td><td>+30%</td></tr><tr><td>FY28</td><td>$23.7B</td><td><strong>4,006</strong></td><td>+25%</td></tr><tr><td>FY29</td><td>$26.7B</td><td><strong>4,808</strong></td><td>+20%</td></tr><tr><td>FY30</td><td>$29.8B</td><td><strong>5,625</strong></td><td>+17%</td></tr><tr><td>FY31</td><td>$32.8B</td><td><strong>6,413</strong></td><td>+14%</td></tr><tr><td>FY32</td><td>$35.4B</td><td><strong>7,182</strong></td><td>+12%</td></tr><tr><td>FY33</td><td>$37.7B</td><td><strong>7,900</strong></td><td>+10%</td></tr><tr><td>FY34</td><td>$39.5B</td><td><strong>8,532</strong></td><td>+8%</td></tr><tr><td>FY35</td><td>$40.9B</td><td><strong>9,044</strong></td><td>+6%</td></tr></tbody></table></div>
+<blockquote><p>10년 누적 FCF 명목 합 = ~$59.2B. FY35 FCF/매출 ~22% (성숙 플랫폼 가정) SBC $1.05B는 FCF에서 차감하지 않음 (회계 관행). 보수 보정 시 FCF -$1B 수준 추가 차감 필요</p></blockquote>
+<p><strong>순현금 가정:</strong> FY25말 현금+단기투자 ~$5B, 전환사채 $2.75B (이자 0%, 2030 만기), Deliveroo 인수대금 $3.9B는 이미 집행 → 순현금 ~+$2.5B.</p>
+<hr>
+<h3 id="학계-wacc-방식">학계 (WACC) 방식</h3>
+<p><strong>가정</strong></p>
+<ul><li>WACC: 10.0% (베타 1.4, ERP 5%, RF 4% → 자기자본비용 11%, 전환사채 가중 평균 ~10%)</li><li>영구성장률: 3.0%</li><li>발행주식: 440M (가중평균 희석)</li><li>순현금: +$2.5B</li></ul>
+<p><strong>계산</strong></p>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>FY26~35 FCF의 PV (10%)</td><td>~$32.8B</td></tr><tr><td>터미널: $9,044 × 1.03 / (10%-3%)</td><td>$133.1B</td></tr><tr><td>터미널 PV</td><td>~$51.3B</td></tr><tr><td>기업가치 (EV)</td><td>~$84.1B</td></tr><tr><td>+ 순현금</td><td>+$2.5B</td></tr><tr><td>주주가치</td><td>~$86.6B</td></tr><tr><td><strong>주당 적정가</strong></td><td><strong>~$197</strong></td></tr></tbody></table></div>
+<p><strong>민감도 (주당 $)</strong></p>
+<div class="scroll-x"><table><thead><tr><th>WACC \ 영구성장</th><th>2.5%</th><th>3.0%</th><th>3.5%</th></tr></thead><tbody><tr><td>9.0%</td><td>$233</td><td>$254</td><td>$279</td></tr><tr><td><strong>10.0%</strong></td><td>$187</td><td><strong>$197</strong></td><td>$210</td></tr><tr><td>11.0%</td><td>$162</td><td>$170</td><td>$180</td></tr></tbody></table></div>
+<blockquote><p>현재가 $175.84 vs WACC 10%/g=3% 적정가 $197 → +12% 상승 여력 (&quot;거의 적정&quot;)</p></blockquote>
+<hr>
+<h3 id="버핏-방식-dcf-참고">버핏 방식 DCF (참고)</h3>
+<p>같은 FCF 가정에 (1) 할인율 = 10년 국채 4%, (2) 종료가치 = FY35 FCF × <strong>PER 15배</strong> (S&amp;P 평균) 적용. 위험프리미엄 없음 — &quot;안정적 수익예측 가능성&quot;이 전제.</p>
+<p><strong>계산</strong></p>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>값</th></tr></thead><tbody><tr><td>FY26~35 FCF의 PV (4%)</td><td>~$46.0B</td></tr><tr><td>FY35 종료가치 = $9,044 × 15</td><td>$135.7B</td></tr><tr><td>종료가치의 PV</td><td>~$91.7B</td></tr><tr><td>기업가치 (EV)</td><td>~$137.7B</td></tr><tr><td>+ 순현금</td><td>+$2.5B</td></tr><tr><td>주주가치</td><td>~$140.2B</td></tr><tr><td><strong>주당 적정가</strong></td><td><strong>~$319</strong></td></tr></tbody></table></div>
+<p><strong>종료 멀티플 민감도</strong></p>
+<div class="scroll-x"><table><thead><tr><th>종료 PER</th><th>적정가</th><th>현재가 대비</th></tr></thead><tbody><tr><td>12x (보수)</td><td>$277</td><td>+57%</td></tr><tr><td><strong>15x (S&amp;P 평균)</strong></td><td><strong>$319</strong></td><td><strong>+81%</strong></td></tr><tr><td>18x (퀄리티 프리미엄)</td><td>$360</td><td>+105%</td></tr></tbody></table></div>
+<blockquote><p>DASH는 Alphabet 같은 안정주가 아님 → 12~15x 보수 적용이 합리적</p></blockquote>
+<hr>
+<h3 id="두-방식-비교">두 방식 비교</h3>
+<div class="scroll-x"><table><thead><tr><th>항목</th><th>학계 (WACC)</th><th>버핏 방식</th></tr></thead><tbody><tr><td>할인율</td><td>10.0%</td><td>4.0%</td></tr><tr><td>위험 처리</td><td>할인율에 프리미엄</td><td>사업 이해/해자로 처리</td></tr><tr><td>적정가</td><td>$197</td><td><strong>$319 (15x) / $277 (12x)</strong></td></tr><tr><td>현재가 $176 평가</td><td>&quot;거의 적정 (+12%)&quot;</td><td><strong>&quot;+57~81% 저평가&quot;</strong></td></tr></tbody></table></div>
+<hr>
+<h3 id="주의사항-alphabet과의-차이">주의사항 — Alphabet과의 차이</h3>
+<ol><li><strong>수익 예측 가능성이 낮음</strong>: 11년차 적자→흑자 첫 해. 마진 궤도가 입증되지 않음. 버핏 방식의 &quot;안정성 가정&quot;이 약함</li><li><strong>SBC 부담</strong>: 매출 대비 7.7%, FCF의 58% 수준. 진성 FCF는 -$1B/년 더 보수적으로 봐야</li><li><strong>Capex 사이클</strong>: FY25 Capex+자본화SW가 $605M로 두 배 — Deliveroo 통합 종료 시점 불확실</li><li><strong>Deliveroo 통합 리스크</strong>: 10개국+ 신규 시장. 흑자 전환까지 2~3년 추정</li><li><strong>이중 주식 구조</strong>: CEO Tony Xu 의결권 집중</li></ol>
+<blockquote><p>결론: WACC 방식이 DASH 같은 변동성 높은 플랫폼주에는 더 적합. 버핏식은 &quot;성숙 후 무엇이 될 수 있는가&quot;의 상한선으로 참고 현재가 $176 → WACC 적정가 ~$197 (+12%) → <strong>약간 저평가 ~ 적정 구간</strong>. 추가 상승은 FY26 FCF 회복 + Deliveroo 흑자 전환 확인 필요</p></blockquote>
+  <div class="backlinks">
+    <span class="kicker">이 노트를 참조한 노트</span>
+    <a href="../../../notes/investment/3%EB%85%84%EB%B0%B0%EC%88%98%EC%A0%90%EA%B2%80.html">3년 영업이익 배수 점검</a>
+  </div>
+</article>
+</main>
+<script src="../../../app.js" defer></script>
+</body>
+</html>
