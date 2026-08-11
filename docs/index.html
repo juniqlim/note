@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="narrow">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="index.html">나의 노트</a>
+    <nav>
+      <a href="index.html">주제</a>
+      <a href="changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<p class="tagline">저의 생각을 적은 노트입니다. 시간이 지나면서 제 생각이 바뀌는 것처럼, 노트의 내용은 변경될 수 있습니다.</p>
+<p class="mono dim">juniqlim/note · 노트 10편</p>
+<div class="groups"><section class="group">
+      <div class="group-head"><h2>프로그래밍</h2><span class="mono dim">programming · 7</span></div>
+      <div class="rows"><a class="row" href="notes/programming/why-tdd.html">
+        <span class="row-title">나는 TDD 왜하는가.</span>
+        <span class="row-sum">일을 더욱 빨리 끝낼 수 있다.</span>
+      </a><a class="row" href="notes/programming/2022-09-26-class-and-method-naming.html">
+        <span class="row-title">클래스, 메소드 이름 짓는법</span>
+        <span class="row-sum">제가 현재 사용하는 클래스/메소드를 네이밍하는 방법을 소개합니다.</span>
+      </a><a class="row" href="notes/programming/2023-02-01-what-really-matters-in-software.html">
+        <span class="row-title">소프트웨어에서 정말 중요한 것은 무엇일까요?</span>
+        <span class="row-sum">소프트웨어는 - 중요하지 않는 일에 시간을 쓰기에는 - 빌어먹게 어렵습니다.</span>
+      </a><a class="row" href="notes/programming/2023-03-15-why-i-like-oop.html">
+        <span class="row-title">내가 OOP를 좋아하는 이유</span>
+        <span class="row-sum">내가 OOP를 좋아하는 이유는 가독성 · 테스트 용이성 · 재사용성 을 높이기 때문이다.</span>
+      </a><a class="row" href="notes/programming/2023-06-01-caution-when-using-composition.html">
+        <span class="row-title">상속보다 구성이 좋다. 그런데 구성할때 생각해볼 점.</span>
+        <span class="row-sum">상속보다 구성이 좋는 것은, 많은 사람들이 공감하는 주류의견인 것 같다.</span>
+      </a><a class="row" href="notes/programming/pomodoro-retrospective.html">
+        <span class="row-title">뽀모도로 회고</span>
+        <span class="row-sum">뽀모도로 기법은 시간관리 방법이다.</span>
+      </a><a class="row" href="notes/programming/ron-estimation-is-evil.html">
+        <span class="row-title">추정은 해악이다<span class="badge">번역</span></span>
+        <span class="row-sum">많은 애자일 팀들(대부분의 애자일 팀이라 생각합니다)은 애자일의 가치, 원칙, 실천 방법을 적용함으로써 어느 정도의 개선을 얻습니다.</span>
+      </a></div>
+    </section><section class="group">
+      <div class="group-head"><h2>AI 에이전트</h2><span class="mono dim">ai-agent · 2</span></div>
+      <div class="rows"><a class="row" href="notes/ai-agent/better-agentic-coding.html">
+        <span class="row-title">에이전틱 코딩 좀 더 잘하기</span>
+        <span class="row-sum">에이전틱 코딩(Agentic Coding)은 AI 에이전트가 코드 작성의 주체가 되는 개발 방식이다.</span>
+      </a><a class="row" href="notes/ai-agent/my-ai-agent-practices.html">
+        <span class="row-title">나의 AI 에이전트 사용 프랙티스</span>
+        <span class="row-sum">5분 응답 보다 30초 응답 · 직접 검증 보다 검증 위임 · 방법 지정 보다 목표 주기</span>
+      </a></div>
+    </section><section class="group">
+      <div class="group-head"><h2>투자</h2><span class="mono dim">investment · 1</span></div>
+      <div class="rows"><a class="row" href="notes/investment/investment-decision-model.html">
+        <span class="row-title">투자 판단 모델</span>
+        <span class="row-sum">영업이익이 3년에 2배(6년에 4배) 될 기업을, PER이 적당할 때(≤30) 산다.</span>
+      </a></div>
+    </section></div>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>

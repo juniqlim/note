@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>최근 변경 · 나의 노트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+</head>
+<body class="narrow">
+<header class="site-head">
+  <div class="head-left">
+    <a class="brand" href="index.html">나의 노트</a>
+    <nav>
+      <a href="index.html">주제</a>
+      <a href="changes.html">최근 변경</a>
+      <a class="ext" href="https://wiki.juniq.im">위키 ↗</a>
+    </nav>
+  </div>
+  <div class="head-right">
+    <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="">
+    <button id="theme" type="button">라이트</button>
+  </div>
+</header>
+<div id="search-results" hidden></div>
+<main id="page">
+<h1>최근 변경</h1>
+<p class="lede">파일명의 날짜 접두어를 씁니다. 실제 고침 이력은 git 커밋에서 채워야 합니다.</p>
+<div class="changes"><a class="change" href="notes/programming/2023-06-01-caution-when-using-composition.html">
+      <span class="mono dim">2023-06-01</span>
+      <span class="change-title">상속보다 구성이 좋다. 그런데 구성할때 생각해볼 점.</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/2023-03-15-why-i-like-oop.html">
+      <span class="mono dim">2023-03-15</span>
+      <span class="change-title">내가 OOP를 좋아하는 이유</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/2023-02-01-what-really-matters-in-software.html">
+      <span class="mono dim">2023-02-01</span>
+      <span class="change-title">소프트웨어에서 정말 중요한 것은 무엇일까요?</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/2022-09-26-class-and-method-naming.html">
+      <span class="mono dim">2022-09-26</span>
+      <span class="change-title">클래스, 메소드 이름 짓는법</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/why-tdd.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">나는 TDD 왜하는가.</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/pomodoro-retrospective.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">뽀모도로 회고</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/programming/ron-estimation-is-evil.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">추정은 해악이다</span>
+      <span class="mono dim">프로그래밍</span>
+    </a><a class="change" href="notes/ai-agent/better-agentic-coding.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">에이전틱 코딩 좀 더 잘하기</span>
+      <span class="mono dim">AI 에이전트</span>
+    </a><a class="change" href="notes/ai-agent/my-ai-agent-practices.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">나의 AI 에이전트 사용 프랙티스</span>
+      <span class="mono dim">AI 에이전트</span>
+    </a><a class="change" href="notes/investment/investment-decision-model.html">
+      <span class="mono dim">날짜 없음</span>
+      <span class="change-title">투자 판단 모델</span>
+      <span class="mono dim">투자</span>
+    </a></div>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>
