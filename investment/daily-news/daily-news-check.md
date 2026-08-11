@@ -19,7 +19,7 @@
 | 기타 | Apple | 애플 | Apple AAPL |
 | K-Food | 삼양식품 | 삼양식품 | Samyang Foods 003230 |
 | 기타 | DoorDash | 도어대시 | DoorDash DASH |
-| K-Beauty | 에스앤디 | 에스앤디 | S&D 403870 |
+| K-Food | 에스앤디 | 에스앤디 | S&D 260970 |
 | 바이오 | 파마리서치 | 파마리서치 | Pharma Research 214450 |
 
 ## 실행 프롬프트
