@@ -95,3 +95,16 @@ test('translation: false 로 끌 수 있다', () => {
 test('출처가 없으면 번역도 없다', () => {
   assert.equal(parseNote('a.md', '# 제목\n본문').source, null);
 });
+
+// 첫 ## 이 부제인 경우는 그것이 그 글의 유일한 소제목일 때다.
+// 소제목이 여럿이면 그것은 목차의 1번이지 부제가 아니다.
+test('소제목이 여럿이면 첫 ## 을 부제로 올리지 않는다', () => {
+  const n = parseNote('a.md', '# 인터뷰\n## 1. 어린 시절\n가\n## 2. 대학\n나');
+  assert.equal(n.subtitle, '');
+  assert.equal(n.blocks[0].text, '1. 어린 시절');
+});
+
+test('소제목이 하나뿐이면 부제로 올린다', () => {
+  const n = parseNote('a.md', '# 뽀모도로\n## 3년치를 돌아보며\n본문');
+  assert.equal(n.subtitle, '3년치를 돌아보며');
+});

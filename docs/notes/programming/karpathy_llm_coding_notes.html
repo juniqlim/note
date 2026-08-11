@@ -30,7 +30,7 @@
 <aside class="rail">
   <a class="mono back" href="../../index.html">← 프로그래밍</a>
   <span class="kicker">Contents</span>
-  <nav class="toc"><a class="toc-2" href="#ide-에이전트-스웜-오류-가능성-ides-agent-swarms-fallability">IDE / 에이전트 스웜 / 오류 가능성 (IDEs/agent swarms/fallability)</a><a class="toc-2" href="#끈기-tenacity">끈기 (Tenacity)</a><a class="toc-2" href="#속도-향상-speedups">속도 향상 (Speedups)</a><a class="toc-2" href="#레버리지-leverage">레버리지 (Leverage)</a><a class="toc-2" href="#재미-fun">재미 (Fun)</a><a class="toc-2" href="#퇴화-atrophy">퇴화 (Atrophy)</a><a class="toc-2" href="#슬로포칼립스-slopacolypse-저질-콘텐츠의-범람">슬로포칼립스 (Slopacolypse: 저질 콘텐츠의 범람)</a><a class="toc-2" href="#질문들-questions">질문들 (Questions)</a><a class="toc-2" href="#tl-dr-요약">TL;DR (요약)</a></nav>
+  <nav class="toc"><a class="toc-2" href="#코딩-워크플로우-coding-workflow">코딩 워크플로우 (Coding Workflow)</a><a class="toc-2" href="#ide-에이전트-스웜-오류-가능성-ides-agent-swarms-fallability">IDE / 에이전트 스웜 / 오류 가능성 (IDEs/agent swarms/fallability)</a><a class="toc-2" href="#끈기-tenacity">끈기 (Tenacity)</a><a class="toc-2" href="#속도-향상-speedups">속도 향상 (Speedups)</a><a class="toc-2" href="#레버리지-leverage">레버리지 (Leverage)</a><a class="toc-2" href="#재미-fun">재미 (Fun)</a><a class="toc-2" href="#퇴화-atrophy">퇴화 (Atrophy)</a><a class="toc-2" href="#슬로포칼립스-slopacolypse-저질-콘텐츠의-범람">슬로포칼립스 (Slopacolypse: 저질 콘텐츠의 범람)</a><a class="toc-2" href="#질문들-questions">질문들 (Questions)</a><a class="toc-2" href="#tl-dr-요약">TL;DR (요약)</a></nav>
   <div class="stats mono">
     <span>쓴 날 2026-01-27 · 읽기 6분</span>
     
@@ -40,13 +40,14 @@
 <article>
   <h1>지난 몇 주간 클로드(Claude)로 꽤 많이 코딩하며 남긴 메모들</h1>
   
-  <p class="subtitle">코딩 워크플로우 (Coding Workflow)</p>
+  
   <div class="source">
     <span class="kicker">번역</span>
     <span class="source-note">5:25 AM · Jan 27, 2026 ---</span>
     <a href="https://x.com/karpathy/status/2015883857489522876" target="_blank" rel="noopener">x.com/karpathy/status/2015883857489522876 ↗</a>
   </div>
-  <p>최근 LLM(대규모 언어 모델) 코딩 능력의 급격한 향상에 힘입어, 다른 많은 사람들처럼 저 역시 11월에는 '80% 수동 코딩/자동완성 + 20% 에이전트' 방식에서 12월에는 <strong>'80% 에이전트 코딩 + 20% 편집/수정'</strong> 방식으로 빠르게 전환했습니다. 즉, 저는 이제 거의 영어로 프로그래밍을 하고 있으며, LLM에게 어떤 코드를 짜야 할지 말로(좀 쑥스럽긴 하지만) 지시하고 있습니다. 자존심이 조금 상하긴 하지만, 소프트웨어를 거대한 &quot;코드 액션(code actions)&quot; 단위로 조작할 수 있는 힘은 실질적으로 너무나 유용합니다. 일단 적응하고, 설정을 마치고, 사용법을 익히고, 모델이 할 수 있는 것과 없는 것을 파악하고 나면 더욱 그렇습니다.</p>
+  <h2 id="코딩-워크플로우-coding-workflow">코딩 워크플로우 (Coding Workflow)</h2>
+<p>최근 LLM(대규모 언어 모델) 코딩 능력의 급격한 향상에 힘입어, 다른 많은 사람들처럼 저 역시 11월에는 '80% 수동 코딩/자동완성 + 20% 에이전트' 방식에서 12월에는 <strong>'80% 에이전트 코딩 + 20% 편집/수정'</strong> 방식으로 빠르게 전환했습니다. 즉, 저는 이제 거의 영어로 프로그래밍을 하고 있으며, LLM에게 어떤 코드를 짜야 할지 말로(좀 쑥스럽긴 하지만) 지시하고 있습니다. 자존심이 조금 상하긴 하지만, 소프트웨어를 거대한 &quot;코드 액션(code actions)&quot; 단위로 조작할 수 있는 힘은 실질적으로 너무나 유용합니다. 일단 적응하고, 설정을 마치고, 사용법을 익히고, 모델이 할 수 있는 것과 없는 것을 파악하고 나면 더욱 그렇습니다.</p>
 <p>이것은 제가 프로그래밍을 해온 약 20년 동안 겪은 가장 큰 워크플로우 변화이며, 불과 몇 주 만에 일어난 일입니다. 저는 꽤 많은 수의 엔지니어들에게 비슷한 일이 일어나고 있을 것이라 예상하지만, 일반 대중의 인식은 아직 한 자릿수 퍼센트 초반에 머물러 있는 것 같습니다.</p>
 <h2 id="ide-에이전트-스웜-오류-가능성-ides-agent-swarms-fallability">IDE / 에이전트 스웜 / 오류 가능성 (IDEs/agent swarms/fallability)</h2>
 <p>&quot;이제 IDE는 필요 없다&quot;는 과장 광고나 &quot;에이전트 스웜(agent swarm)&quot;에 대한 과대광고는 지금 당장은 너무 나간 이야기라고 생각합니다. 모델들은 분명히 여전히 실수를 저지르며, 정말 중요한 코드가 있다면 크고 좋은 IDE를 옆에 띄워두고 <strong>매의 눈으로 감시해야 합니다.</strong></p>

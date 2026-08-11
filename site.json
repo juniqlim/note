@@ -12,7 +12,9 @@
     { "dir": "programming/kent", "label": "프로그래밍 · 켄트 벡" },
     { "dir": "programming/ward", "label": "프로그래밍 · 워드 커닝햄" },
     { "dir": "ai-agent", "label": "AI 에이전트" },
-    { "dir": "investment", "label": "투자" }
+    { "dir": "investment", "label": "투자" },
+    { "dir": "investment/warren", "label": "투자 · 워런 버핏" },
+    { "dir": "investment/charlie", "label": "투자 · 찰리 멍거" }
   ],
   "exclude": [
     "ai-agent/codex-gpt-5.1-codex-max_prompt.md",

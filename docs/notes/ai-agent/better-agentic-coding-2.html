@@ -30,7 +30,7 @@
 <aside class="rail">
   <a class="mono back" href="../../index.html">← AI 에이전트</a>
   <span class="kicker">Contents</span>
-  <nav class="toc"><a class="toc-2" href="#llm은-어떻게-작동하는가">LLM은 어떻게 작동하는가</a><a class="toc-3" href="#토큰화-tokenization">토큰화 (Tokenization)</a><a class="toc-3" href="#다음-토큰-예측-next-token-prediction">다음 토큰 예측 (Next Token Prediction)</a><a class="toc-3" href="#어텐션-attention">어텐션 (Attention)</a><a class="toc-3" href="#컨텍스트-윈도우-context-window">컨텍스트 윈도우 (Context Window)</a><a class="toc-3" href="#학습-데이터-training-data">학습 데이터 (Training Data)</a><a class="toc-2" href="#llm의-특성과-실전-대응">LLM의 특성과 실전 대응</a><a class="toc-3" href="#1-최근-편향-recency-bias">1. 최근 편향 (Recency Bias)</a><a class="toc-3" href="#2-중간-손실-lost-in-the-middle">2. 중간 손실 (Lost in the Middle)</a><a class="toc-3" href="#3-동의-편향-sycophancy">3. 동의 편향 (Sycophancy)</a><a class="toc-3" href="#4-흔한-답으로-수렴-common-pattern-bias">4. 흔한 답으로 수렴 (Common Pattern Bias)</a><a class="toc-3" href="#5-정밀한-상태-추적에-취약-weak-at-precise-state-tracking">5. 정밀한 상태 추적에 취약 (Weak at Precise State Tracking)</a><a class="toc-3" href="#6-한-토큰씩-전진-autoregressive">6. 한 토큰씩 전진 (Autoregressive)</a><a class="toc-2" href="#참고문헌">참고문헌</a><a class="toc-3" href="#아키텍처-학습">아키텍처 &amp; 학습</a><a class="toc-3" href="#토큰화">토큰화</a><a class="toc-3" href="#reasoning-모델">Reasoning 모델</a><a class="toc-3" href="#내부-표현-계획">내부 표현 &amp; 계획</a><a class="toc-3" href="#편향-행동-특성">편향 &amp; 행동 특성</a><a class="toc-3" href="#코드-다언어-성능">코드 &amp; 다언어 성능</a><a class="toc-3" href="#상태-추적-취약성">상태 추적 취약성</a><a class="toc-3" href="#컨텍스트-윈도우-학습-데이터">컨텍스트 윈도우 &amp; 학습 데이터</a></nav>
+  <nav class="toc"><a class="toc-2" href="#특성을-알면-달라지는-행동">특성을 알면 달라지는 행동</a><a class="toc-2" href="#llm은-어떻게-작동하는가">LLM은 어떻게 작동하는가</a><a class="toc-3" href="#토큰화-tokenization">토큰화 (Tokenization)</a><a class="toc-3" href="#다음-토큰-예측-next-token-prediction">다음 토큰 예측 (Next Token Prediction)</a><a class="toc-3" href="#어텐션-attention">어텐션 (Attention)</a><a class="toc-3" href="#컨텍스트-윈도우-context-window">컨텍스트 윈도우 (Context Window)</a><a class="toc-3" href="#학습-데이터-training-data">학습 데이터 (Training Data)</a><a class="toc-2" href="#llm의-특성과-실전-대응">LLM의 특성과 실전 대응</a><a class="toc-3" href="#1-최근-편향-recency-bias">1. 최근 편향 (Recency Bias)</a><a class="toc-3" href="#2-중간-손실-lost-in-the-middle">2. 중간 손실 (Lost in the Middle)</a><a class="toc-3" href="#3-동의-편향-sycophancy">3. 동의 편향 (Sycophancy)</a><a class="toc-3" href="#4-흔한-답으로-수렴-common-pattern-bias">4. 흔한 답으로 수렴 (Common Pattern Bias)</a><a class="toc-3" href="#5-정밀한-상태-추적에-취약-weak-at-precise-state-tracking">5. 정밀한 상태 추적에 취약 (Weak at Precise State Tracking)</a><a class="toc-3" href="#6-한-토큰씩-전진-autoregressive">6. 한 토큰씩 전진 (Autoregressive)</a><a class="toc-2" href="#참고문헌">참고문헌</a><a class="toc-3" href="#아키텍처-학습">아키텍처 &amp; 학습</a><a class="toc-3" href="#토큰화">토큰화</a><a class="toc-3" href="#reasoning-모델">Reasoning 모델</a><a class="toc-3" href="#내부-표현-계획">내부 표현 &amp; 계획</a><a class="toc-3" href="#편향-행동-특성">편향 &amp; 행동 특성</a><a class="toc-3" href="#코드-다언어-성능">코드 &amp; 다언어 성능</a><a class="toc-3" href="#상태-추적-취약성">상태 추적 취약성</a><a class="toc-3" href="#컨텍스트-윈도우-학습-데이터">컨텍스트 윈도우 &amp; 학습 데이터</a></nav>
   <div class="stats mono">
     <span>쓴 날 2026-02-10 · 읽기 9분</span>
     
@@ -40,9 +40,10 @@
 <article>
   <h1>에이전틱 코딩 좀 더 잘하기 2</h1>
   
-  <p class="subtitle">특성을 알면 달라지는 행동</p>
+  <p class="subtitle">LLM의 특성을 알면 더 잘 쓴다</p>
   
-  <ul><li>지시가 무시될 때 → 최근 편향. 새 대화를 시작한다</li><li>앞뒤가 모순일 때 → 자기회귀 한계. 앞을 확정하고 뒤를 요청한다</li><li>컨벤션을 안 따를 때 → 학습 데이터의 인력. 강한 어조로 명시한다</li><li>괄호가 안 맞을 때 → 상태 추적 취약. 린터에게 맡긴다</li><li>&quot;좋습니다&quot;만 할 때 → 동의 편향. 테스트로 검증한다</li></ul>
+  <h2 id="특성을-알면-달라지는-행동">특성을 알면 달라지는 행동</h2>
+<ul><li>지시가 무시될 때 → 최근 편향. 새 대화를 시작한다</li><li>앞뒤가 모순일 때 → 자기회귀 한계. 앞을 확정하고 뒤를 요청한다</li><li>컨벤션을 안 따를 때 → 학습 데이터의 인력. 강한 어조로 명시한다</li><li>괄호가 안 맞을 때 → 상태 추적 취약. 린터에게 맡긴다</li><li>&quot;좋습니다&quot;만 할 때 → 동의 편향. 테스트로 검증한다</li></ul>
 <h2 id="llm은-어떻게-작동하는가">LLM은 어떻게 작동하는가</h2>
 <h3 id="토큰화-tokenization">토큰화 (Tokenization)</h3>
 <p>LLM은 원문 문자열을 그대로 처리하지 않는다. 토크나이저가 텍스트를 토큰(token)이라는 단위로 변환하고, LLM은 이 토큰 시퀀스를 처리한다. 흔한 단어는 통째로 하나의 토큰이 되지만, 드문 단어는 여러 토큰으로 쪼개진다. 토큰화 방식은 모델마다 다르다. 코드에서는 변수명, 함수명, 구문 구조도 토큰 단위로 처리되는데, 하나의 식별자가 여러 토큰으로 쪼개지는 경우가 흔하다.</p>

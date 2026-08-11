@@ -30,7 +30,7 @@
 <aside class="rail">
   <a class="mono back" href="../../index.html">← AI 에이전트</a>
   <span class="kicker">Contents</span>
-  <nav class="toc"><a class="toc-2" href="#왜-정렬-이라는-단어인가">왜 &quot;정렬&quot;이라는 단어인가</a><a class="toc-2" href="#정렬의-3가지-축-anthropic-기준">정렬의 3가지 축 (Anthropic 기준)</a><a class="toc-2" href="#주요-정렬-기법">주요 정렬 기법</a><a class="toc-2" href="#능력과-정렬의-관계">능력과 정렬의 관계</a><a class="toc-3" href="#긴장-관계">긴장 관계</a><a class="toc-3" href="#회사별-온도차-2026-02-기준">회사별 온도차 (2026.02 기준)</a><a class="toc-2" href="#정렬이-깨지는-구체적-현상들">정렬이 깨지는 구체적 현상들</a><a class="toc-3" href="#1-jailbreak-탈옥">1. Jailbreak (탈옥)</a><a class="toc-3" href="#2-sycophancy-아첨">2. Sycophancy (아첨)</a><a class="toc-3" href="#3-reward-hacking-보상-해킹">3. Reward Hacking (보상 해킹)</a><a class="toc-3" href="#4-hallucination-환각">4. Hallucination (환각)</a><a class="toc-3" href="#5-goal-misgeneralization-목표-오일반화">5. Goal Misgeneralization (목표 오일반화)</a><a class="toc-3" href="#6-power-seeking-deception-권력-추구-기만">6. Power-seeking / Deception (권력 추구 / 기만)</a><a class="toc-2" href="#정렬의-비용">정렬의 비용</a><a class="toc-3" href="#정렬도-돈이-든다">정렬도 돈이 든다</a><a class="toc-3" href="#정렬-자동화-constitutional-ai-rlaif">정렬 자동화: Constitutional AI (RLAIF)</a><a class="toc-2" href="#정렬과-반도체-수요">정렬과 반도체 수요</a><a class="toc-3" href="#성능의-시대-이후-정렬의-시대가-와도">성능의 시대 이후 정렬의 시대가 와도</a></nav>
+  <nav class="toc"><a class="toc-2" href="#정렬이란">정렬이란</a><a class="toc-2" href="#왜-정렬-이라는-단어인가">왜 &quot;정렬&quot;이라는 단어인가</a><a class="toc-2" href="#정렬의-3가지-축-anthropic-기준">정렬의 3가지 축 (Anthropic 기준)</a><a class="toc-2" href="#주요-정렬-기법">주요 정렬 기법</a><a class="toc-2" href="#능력과-정렬의-관계">능력과 정렬의 관계</a><a class="toc-3" href="#긴장-관계">긴장 관계</a><a class="toc-3" href="#회사별-온도차-2026-02-기준">회사별 온도차 (2026.02 기준)</a><a class="toc-2" href="#정렬이-깨지는-구체적-현상들">정렬이 깨지는 구체적 현상들</a><a class="toc-3" href="#1-jailbreak-탈옥">1. Jailbreak (탈옥)</a><a class="toc-3" href="#2-sycophancy-아첨">2. Sycophancy (아첨)</a><a class="toc-3" href="#3-reward-hacking-보상-해킹">3. Reward Hacking (보상 해킹)</a><a class="toc-3" href="#4-hallucination-환각">4. Hallucination (환각)</a><a class="toc-3" href="#5-goal-misgeneralization-목표-오일반화">5. Goal Misgeneralization (목표 오일반화)</a><a class="toc-3" href="#6-power-seeking-deception-권력-추구-기만">6. Power-seeking / Deception (권력 추구 / 기만)</a><a class="toc-2" href="#정렬의-비용">정렬의 비용</a><a class="toc-3" href="#정렬도-돈이-든다">정렬도 돈이 든다</a><a class="toc-3" href="#정렬-자동화-constitutional-ai-rlaif">정렬 자동화: Constitutional AI (RLAIF)</a><a class="toc-2" href="#정렬과-반도체-수요">정렬과 반도체 수요</a><a class="toc-3" href="#성능의-시대-이후-정렬의-시대가-와도">성능의 시대 이후 정렬의 시대가 와도</a></nav>
   <div class="stats mono">
     <span>쓴 날 2026-02-18 · 읽기 6분</span>
     
@@ -40,9 +40,10 @@
 <article>
   <h1>LLM 정렬</h1>
   <p class="orig mono">Alignment</p>
-  <p class="subtitle">정렬이란</p>
   
-  <p>LLM에서 <strong>정렬(Alignment)</strong>이란, 모델의 행동을 <strong>인간의 의도·가치·선호</strong>에 맞추는 것을 말한다.</p>
+  
+  <h2 id="정렬이란">정렬이란</h2>
+<p>LLM에서 <strong>정렬(Alignment)</strong>이란, 모델의 행동을 <strong>인간의 의도·가치·선호</strong>에 맞추는 것을 말한다.</p>
 <p>LLM은 기본적으로 &quot;다음 토큰 예측&quot;으로 학습된다. 이것만으로는 유해한 콘텐츠를 생성하거나, 사용자의 실제 의도와 다른 답변을 하거나, 거짓 정보를 자신 있게 말하는 문제가 발생한다. <strong>정렬은 이 간극을 메우는 과정</strong>이다.</p>
 <h2 id="왜-정렬-이라는-단어인가">왜 &quot;정렬&quot;이라는 단어인가</h2>
 <p><strong>Align</strong>은 원래 &quot;일직선으로 맞추다&quot;라는 뜻이다. 바퀴 얼라인먼트(wheel alignment)처럼, 두 가지를 같은 방향으로 정렬하는 이미지.</p>

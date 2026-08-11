@@ -201,7 +201,9 @@ export function parseNote(path, src) {
     rawTitle = lines[h1At].replace(/^#\s+/, "").trim();
     // 제목 아래 첫 ## 가 짧으면 부제로 올린다. 본문에서는 빼되,
     // 제목을 되풀이할 뿐이면 부제로 쓰지 않는다 — 목록에 같은 말이 두 번 나온다.
-    if (!subtitle && firstIsH2 && blocks[0].text.length <= 40) {
+    // 소제목이 여럿이면 첫 ## 은 목차의 1번이지 부제가 아니다.
+    const onlyH2 = blocks.filter((b) => b.type === "heading" && b.level === 2).length === 1;
+    if (!subtitle && firstIsH2 && onlyH2 && blocks[0].text.length <= 40) {
       const lead = blocks.shift().text;
       subtitle = echoes(rawTitle, lead) ? "" : lead;
     }

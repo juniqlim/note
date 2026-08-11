@@ -1,8 +1,7 @@
-https://www.youtube.com/watch?v=Pqftm3o5RdQ  
+https://www.youtube.com/watch?v=Pqftm3o5RdQ
+번역
 
-찰리 멍거(Charlie Munger)의 통찰력과 위트가 담긴 이 강연 내용을 매끄럽게 번역해 드립니다.
-
----
+# 찰리 멍거: 인생에서 피해야 할 실수들
 
 ## 찰리 멍거: 인생과 투자에 대한 교훈
 

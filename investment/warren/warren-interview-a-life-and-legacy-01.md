@@ -1,8 +1,7 @@
-https://www.youtube.com/watch?v=wC7-Deljx3g  
-  
-제공해주신 워런 버핏 인터뷰 영상의 전체 스크립트 번역본입니다. 대화의 흐름과 문맥을 자연스럽게 살려 정리했습니다.
+https://www.youtube.com/watch?v=wC7-Deljx3g
+번역
 
----
+# 워런 버핏 인터뷰: 삶과 유산 (1)
 
 ### **[인트로]**
 

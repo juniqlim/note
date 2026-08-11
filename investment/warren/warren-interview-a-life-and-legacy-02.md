@@ -1,10 +1,7 @@
-https://www.youtube.com/watch?v=kCwpQ3Kzh6U    
-  
-요청하신 인터뷰 전체 내용의 한국어 번역입니다. 읽기 쉽게 주제별로 단락을 나누고 마크다운 형식으로 정리했습니다.
+https://www.youtube.com/watch?v=kCwpQ3Kzh6U
+번역
 
----
-
-# 워런 버핏 인터뷰 번역 전체 스크립트
+# 워런 버핏 인터뷰: 삶과 유산 (2)
 
 ## 1. 어린 시절과 워싱턴 D.C. 이사
 
