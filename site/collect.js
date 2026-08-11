@@ -1,10 +1,13 @@
 // 어떤 md 를 어느 갈래로 낼지 정한다.
 
-// exclude 규칙은 세 가지로 쓴다.
-//   investment/daily-news        폴더 하나 — 그 안이 다 빠진다
-//   programming/the-ai-cloud.md  파일 하나
-//   **/sources                   이름이 같은 폴더가 여기저기 있을 때
-export function isExcluded(path, rules = []) {
+// 저장소에는 마음대로 올리고, 사이트에는 include 에 적은 것만 낸다.
+// 적기를 잊으면 안 나갈 뿐이지만, 빼기를 잊으면 나가 버린다.
+//
+// 규칙은 세 가지로 쓴다.
+//   programming/why-tdd.md   파일 하나
+//   programming/ward         폴더 하나 — 그 안이 다 나간다
+//   **/sources               이름이 같은 폴더가 여기저기 있을 때
+export function matches(path, rules = []) {
   return rules.some((rule) => {
     if (rule.startsWith('**/')) {
       const name = rule.slice(3);

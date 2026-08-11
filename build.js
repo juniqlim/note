@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import { parseNote, blocksToText } from './site/md.js';
 import { readHistory } from './site/history.js';
-import { isExcluded, groupOf } from './site/collect.js';
+import { matches, groupOf } from './site/collect.js';
 import { renderHome, renderChanges, renderNote, noteUrl } from './site/render.js';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
@@ -25,8 +25,8 @@ try {
   console.warn('git 이력을 읽지 못했다 — 날짜 없이 낸다.');
 }
 
-// folders 에 적은 폴더가 갈래다. md 를 넣기만 하면 목록에 뜬다.
-// 안 낼 것만 exclude 에 적는다. 자세한 규칙은 site/collect.js 에 있다.
+// 저장소에는 마음대로 올린다. 사이트에는 include 에 적은 것만 낸다.
+// folders 는 갈래(라벨)를 정한다. 자세한 규칙은 site/collect.js 에 있다.
 const found = [];
 const walk = async (dir) => {
   for (const e of await readdir(path.join(root, dir), { withFileTypes: true }).catch(() => [])) {
@@ -38,7 +38,7 @@ for (const top of [...new Set(cfg.folders.map((f) => f.dir.split('/')[0]))]) awa
 
 const notes = [];
 for (const p of found.map((f) => f.normalize('NFC')).sort()) {
-  if (isExcluded(p, cfg.exclude)) continue;
+  if (!matches(p, cfg.include)) continue;
   const group = groupOf(p, cfg.folders);
   if (!group) continue;
   const note = parseNote(p, await readFile(path.join(root, p), 'utf8'));

@@ -1,26 +1,31 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { isExcluded, groupOf } from '../site/collect.js';
+import { matches, groupOf } from '../site/collect.js';
 
-// 뺄 것이 폴더 하나면 그 안의 것을 다 적을 필요가 없다.
-// investment/daily-news 204편을 한 줄로 뺀다.
-test('폴더를 적으면 그 안의 것이 다 빠진다', () => {
-  const rules = ['investment/daily-news'];
-  assert.equal(isExcluded('investment/daily-news/2026-02-10.md', rules), true);
-  assert.equal(isExcluded('investment/netflix/netflix.md', rules), false);
+// 저장소에는 마음대로 올린다. 사이트에는 적은 것만 낸다.
+// 적기를 잊으면 안 나갈 뿐이지만, 빼기를 잊으면 나가 버린다.
+test('적은 파일만 낸다', () => {
+  const rules = ['programming/why-tdd.md'];
+  assert.equal(matches('programming/why-tdd.md', rules), true);
+  assert.equal(matches('programming/안-익은-글.md', rules), false);
 });
 
-test('파일 하나만 적을 수도 있다', () => {
-  const rules = ['programming/the-ai-cloud.md'];
-  assert.equal(isExcluded('programming/the-ai-cloud.md', rules), true);
-  assert.equal(isExcluded('programming/the-ai-cloud-2.md', rules), false);
+test('폴더를 적으면 그 안이 다 나간다', () => {
+  const rules = ['programming/ward'];
+  assert.equal(matches('programming/ward/ward-episodes.md', rules), true);
+  assert.equal(matches('programming/ward/깊이/더.md', rules), true);
+  assert.equal(matches('programming/why-tdd.md', rules), false);
 });
 
-// sources 든 report 든 이름이 같은 폴더가 종목마다 있다. 하나씩 적을 수 없다.
-test('폴더 이름만으로도 뺄 수 있다', () => {
+// 이름이 같은 폴더가 종목마다 있다. 하나씩 적을 수 없다.
+test('폴더 이름만으로도 고를 수 있다', () => {
   const rules = ['**/sources'];
-  assert.equal(isExcluded('investment/SOil/sources/x.md', rules), true);
-  assert.equal(isExcluded('investment/SOil/soil.md', rules), false);
+  assert.equal(matches('investment/SOil/sources/x.md', rules), true);
+  assert.equal(matches('investment/SOil/soil.md', rules), false);
+});
+
+test('아무것도 안 적으면 아무것도 안 나간다', () => {
+  assert.equal(matches('programming/why-tdd.md', []), false);
 });
 
 // 깊은 폴더는 가장 가까운 갈래에 속한다. 종목마다 갈래를 만들면 섹션이 마흔 개가 된다.

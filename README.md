@@ -13,7 +13,7 @@ Node 18+ 만 필요하다. npm 패키지 없음.
 
 ## 구조
 
-    site.json            사이트 제목 · 갈래(폴더) · 안 낼 노트 · slug
+    site.json            사이트 제목 · 갈래(폴더) · 낼 노트 · slug
     programming/*.md     노트 원본
     ai-agent/*.md
     investment/*.md
@@ -28,9 +28,19 @@ Node 18+ 만 필요하다. npm 패키지 없음.
 
 ## 무엇을 내는가
 
-`site.json` 의 `folders` 에 적은 폴더를 훑는다. md 를 넣기만 하면 목록에 뜬다.
-하위 폴더는 따라 들어가지 않는다 — `kent/` `ward/` 처럼 갈래로 삼을 것만
-`folders` 에 따로 적어 라벨을 준다. 안 낼 것은 `exclude` 에 적는다.
+**저장소에는 마음대로 올린다. 사이트에는 `include` 에 적은 것만 나간다.**
+적기를 잊으면 안 나갈 뿐이지만, 빼기를 잊으면 나가 버린다.
+
+    "include": [
+      "programming/why-tdd.md",      파일 하나
+      "programming/ward",            폴더 하나 — 그 안이 다 나간다
+      "**/sources"                   이름이 같은 폴더가 여기저기 있을 때
+    ]
+
+`folders` 는 갈래(라벨)를 정한다. 한 파일이 여럿에 걸리면 가장 깊은 갈래가
+이긴다 — `investment/warren` 은 "투자" 가 아니라 "투자 · 워런 버핏" 이다.
+`deep: true` 를 주면 그 아래를 다 훑어 한 갈래로 받는다. 종목이 마흔 개일 때
+갈래를 마흔 개 만들지 않으려고 있다.
 
 ## 날짜는 git 이 안다
 
