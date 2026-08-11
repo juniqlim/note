@@ -15,12 +15,16 @@
     { "dir": "investment", "label": "투자" }
   ],
   "exclude": [
-    "programming/better-agentic-coding.md",
-    "investment/3년배수점검.md",
+    "ai-agent/codex-gpt-5.1-codex-max_prompt.md",
     "ai-agent/codex-gpt_5_1_prompt.md",
     "ai-agent/codex-gpt_5_2_prompt.md",
-    "ai-agent/codex-gpt-5.1-codex-max_prompt.md",
-    "ai-agent/codex-review_prompt.md"
+    "ai-agent/codex-review_prompt.md",
+    "investment/3년배수점검.md",
+    "programming/better-agentic-coding.md",
+    "programming/claude-skin-디스플레이-버그-수정.md",
+    "programming/macOS-앱아이콘-변경.md",
+    "programming/quant-screener-필터카드-정렬기능.md",
+    "programming/the-ai-cloud.md"
   ],
   "slugs": {
     "investment/투자판단모델.md": "investment-decision-model"
