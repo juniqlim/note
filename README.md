@@ -5,9 +5,15 @@
 
 읽는 곳 — https://note.juniq.im
 
-## 빌드
+## 올리는 법
 
-    node build.js        # → docs/
+**push 하면 끝이다.** GitHub Actions 가 빌드해서 배포한다 (`.github/workflows/pages.yml`).
+테스트가 깨지면 배포하지 않는다.
+
+손으로 확인하고 싶을 때만:
+
+    node build.js        # → docs/ (저장소에 커밋하지 않는다)
+    npm run serve        # 로컬에서 열어 본다
 
 Node 18+ 만 필요하다. npm 패키지 없음.
 
@@ -20,11 +26,12 @@ Node 18+ 만 필요하다. npm 패키지 없음.
     build.js             md 읽기 → 파싱 → docs/ 출력
     site/md.js           마크다운 파서 (프론트매터 · 표 · 중첩 리스트 · 그림 · 링크 수집)
     site/history.js      git 이력 → 쓴 날 · 고친 날
+    site/collect.js      낼 것 고르기 · 갈래 정하기
     site/render.js       AST → HTML, 페이지 레이아웃
     site/style.css       스타일 (다크 기본 / 라이트 토글)
     site/app.js          테마 토글 + 클라이언트 검색
     test/                단위 테스트 — npm test
-    docs/                배포물. Pages 로 올리므로 커밋한다
+    docs/                빌드 결과물. Actions 가 만들어 배포한다 — 커밋하지 않는다
 
 ## 무엇을 내는가
 
