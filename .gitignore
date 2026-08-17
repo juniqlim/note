@@ -4,7 +4,6 @@
 .venv/
 __pycache__/
 magic_formula.db
-investment/daily-news/error.log
 
 # 빌드 결과물. GitHub Actions 가 만들어 배포한다.
 docs/
