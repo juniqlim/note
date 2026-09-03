@@ -15,6 +15,7 @@
     { "dir": "investment", "label": "투자" },
     { "dir": "investment/warren", "label": "투자 · 워런 버핏" },
     { "dir": "investment/charlie", "label": "투자 · 찰리 멍거" },
+    { "dir": "investment/pabrai", "label": "투자 · 모니시 파브라이" },
     { "dir": "investment", "label": "투자 · 기업 분석", "deep": true }
   ],
   "include": [
@@ -75,6 +76,7 @@
     "investment/netflix/10K_FY2025_분석.md",
     "investment/netflix/netflix.md",
     "investment/osteonic/오스테오닉-분석.md",
+    "investment/pabrai/pabrai-interview-buffett-3-principles.md",
     "investment/tsmc/tsmc.md",
     "investment/warren/buffett-dcf.md",
     "investment/warren/warren-buffett-hbs-lecture-and-qna.md",
