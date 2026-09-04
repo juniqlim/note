@@ -1,19 +1,21 @@
-# Alan Kay의 OOP를 Java code에 적용해보기
+# Apply Alan Kay's OOP to your Java code
 ## Alan Kay's OOP Practices in Java
-(내 나름대로, 내가 이해한)앨런 캐이의 객체지향을 자바코드에 적용해보자.  
-  
-[Smalltalk와 LISP에서만 가능하다](https://github.com/juniqlim/note/blob/master/programming/2023-03-17-alan-kay-oop.md)고 했지만, 가능한 부분만 시도해보자.
+Let's try to apply Alan Kay's object orientation (as I understand it) to Java code.
 
-## Pratices
-1. [setter 금지](https://www.quora.com/In-object-oriented-programming-why-is-it-bad-practice-to-make-data-members-public-when-the-get-set-public-members-modify-it-anyway/answer/Alan-Kay-11)
-2. [인스턴스 필드는 final](https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11)
-3. [공개메소드의 요청/응답을 단순하게](https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3851868732)
+He says [only in Smalltalk and LISP](https://github.com/juniqlim/note/blob/master/programming/alan/2023-03-17-alan-kay-oop.md), but let's try what we can.
 
-## 예제
-먼저 간단한 코드를 준비했다.  
-[RealWorld라는 블로그 애플리케이션은 글을 만들때](https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints#create-article) 제목으로 slug를 만들어야한다.  
+## Practices
+1. [No setters](https://www.quora.com/In-object-oriented-programming-why-is-it-bad-practice-to-make-data-members-public-when-the-get-set-public-members-modify-it-anyway/answer/Alan-Kay-11)
+2. [Instance fields are final](https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11)
+3. [Keep public method requests/responses simple](https://disqus.com/home/discussion/yegor256/alan_kay_was_wrong_about_him_being_wrong/#comment-3851868732)
+
+## Example
+First, I prepared a simple code.  
+A blog application called RealWorld needs to create a slug with the title [when creating a post](https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints#create-article).  
 'How to train your dragon' -> 'how-to-train-your-dragon'  
-이 요구사항을 코드로 만들어 보았다.
+I turned this requirement into code.
+
+Translated with www.DeepL.com/Translator (free version)
 ```java
     DataStructureArticle makeDataStructureArticle(String title, String content) {
         String lowerCase = title.toLowerCase();
@@ -47,9 +49,9 @@
         }
     }
 ```
-구조체+프로시저 스타일의 코드다.  
-  
-이 코드는 아래의 테스트 코드처럼 사용되어진다.
+This is a structure+procedure style of code.
+
+This code is used like the test code below.
 ```java
     @Test
     void makeDataStructureArticle() {
@@ -57,7 +59,7 @@
         assertEquals("how-to-train-your-dragon", article.getSlug());
     }
 ```
-### 1.'setter 금지' 실천방법을 적용해본다.
+### 1. Apply the "no setter" practice.
 ```java
     MutableObjectArticle makeMutableObjectArticle(String title, String content) {
         MutableObjectArticle article = new MutableObjectArticle(title, content);
@@ -87,12 +89,12 @@
         }
     }
 ```
-가변객체 스타일의 코드다.  
-slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안으로 들어갔다. '글' 객체를 만드는 코드가 작아졌다.  
-'글'객체는 변경가능한 상태를 가지고 있다. '글'객체의 참조가 다른 곳에서 사용되거나, 멀티 스레드 환경이라면 경쟁상태가 된다.  
-코드 실행시 의도하지 않은 결과가 나올수 있다.  
+This is variable object style code.  
+The imperative logic for creating the slug has been moved into the object where the data is located. The code for creating the 'post' object is smaller.    
+The 'post' object has mutable state. If a reference to the 'post' object is used elsewhere, or in a multi-threaded environment, it becomes a race condition.    
+The code may have unintended consequences when executed.  
   
-이 코드는 아래의 테스트 코드처럼 사용되어진다.
+This code is used like the test code below.  
 ```java
     @Test
     void makeMutableObjectArticle() {
@@ -100,7 +102,7 @@ slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안
         assertEquals("how-to-train-your-dragon", article.getSlug());
     }
 ```  
-### 2.'인스턴스 필드는 final' 실천방법을 적용해본다.
+### 2. Apply the "instance fields are final" practice.
 ```java
     ImmutableObjectArticle immutableObjectArticle(String title, String content) {
         return new ImmutableObjectArticle(title, content, new SluggedString(title));
@@ -147,11 +149,11 @@ slug를 만드는 명령적인 로직부분이 데이터가 위치한 객체 안
         }
     }
 ```
-불변객체 스타일의 코드다.  
-slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객체를 가지고 있다(Composition).  
-객체는 변경가능한 상태가 없기 때문에 다루기 쉽다.
-
-이 코드는 아래의 테스트 코드처럼 사용되어진다.
+This is immutable object style code.  
+The logic of creating a slug has been separated into objects. A 'post' object has a 'slug' object (Composition).    
+Objects are easier to work with because they don't have mutable state.  
+  
+This code is used like the test code below.  
 ```java
     @Test
     void immutableObjectArticle() {
@@ -160,9 +162,9 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
         assertEquals(new MakeArticle.SluggedString("How to train your dragon"), article.slug());
     }
 ```
-메소드의 리턴값이 'slug'객체이다. 다른 코드에서 'slug'객체를 알게(의존하게)된다.  
+method's return value is a 'slug' object. Other code will know (rely on) the 'slug' object.  
 
-### 3.'공개메소드의 요청/응답을 단순하게' 실천방법을 적용해본다.
+### 3. Apply the "Make public method requests/responses simple" practice.
 ```java
     ImmutableObjectDependencyFreeArticle immutableObjectDependencyFreeArticle(String title, String content) {
         return new ImmutableObjectDependencyFreeArticle(title, content, new Slugify().withDash(title));
@@ -190,14 +192,14 @@ slug를 만드는 로직이 객체로 분리되었다. '글'객체는 'slug'객�
         }
     }
 ```
-불변객체 스타일의 코드다.  
-객체를 모듈처럼 서버처럼 생각하고 구현해보았다.  
-[데이터와 계산이 분리된 함수](https://www.yes24.com/Product/Goods/110253986) 처럼 보이기도 한다.  
+This is immutable object style code.  
+I tried to think of the object as a server, like a module.    
+It can also look like a [function with data and computation separated](https://www.yes24.com/Product/Goods/110253986).  
 > both OOP and functional computation can be completely compatible (and should be!)
-
-OOP와 함수형 계산이 완벽하게 호환 가능해야된다는 앨런 선생님의 말씀에 가까워 졌는지도 모르겠다.  
   
-이 코드는 아래의 테스트 코드처럼 사용되어진다.
+I think I may have gotten closer to Alan's point that both OOP and functional computation should be completely compatible.  
+  
+This code is used like the test code below.  
 ```java
     @Test
     void immutableObjectDependencyFreeArticle() {
@@ -205,22 +207,24 @@ OOP와 함수형 계산이 완벽하게 호환 가능해야된다는 앨런 선�
         assertEquals("how-to-train-your-dragon", article.slug());
     }
 ```
-사용법이 다시 간단해 졌다.
+It's simple to use again.
 
-전체 코드는 [여기](https://github.com/juniqlim/code-for-article/tree/master/aoop)에서 확인할 수 있다.
+The full code can be found [here](https://github.com/juniqlim/code-for-article/tree/master/aoop).
 ## Etc
-Kent Beck의 XP가 그랬던 것 처럼, 가치와 원칙도 만들어 보았다.
+Similar to Kent Beck's XP, I also created values and principles.
 ### Principles
-1. 'data structure and procedure' 구조를 없애기
-2. 명령형 구문을 줄이기
+1. eliminate the 'data structure and procedure' structure
+2. reduce imperative syntax
 
 ### Values
-확장성, 깔끔함, 시뮬레이션, 쉽게 정의(scalable, cleaner, simulation, easily define)
+Scalable, cleaner, simulation, easily define, etc.
 
-## 결론
-앨런 캐이가
+## Conclusion
+Alan Kay said.
 >[Better and perfect are the two enemies of 'what is actually needed'](https://www.quora.com/What-are-examples-of-Perfect-and-Better-in-regards-to-Alan-Kays-Sweet-Spot)
 
-라고 말한 것 처럼, 무엇보다 '실제로 필요한 것'에 집중해야할 것이다.  
-그리고 위 실천방법은 현재 나의 생각이기 때문에, 틀릴 수도 있고, 앞으로 생각이 바뀔수도 있겠다.
+As Alan Kay says, we should focus on what is actually needed.  
+The above practices are my current thoughts, so they may be wrong, and I may change my mind in the future.
 
+---
+This document is a translation of the [Korean document](https://github.com/juniqlim/note/blob/master/programming/alan/2023-06-06-alan%27s-oop-practices-in-java.md) into DEEPL.

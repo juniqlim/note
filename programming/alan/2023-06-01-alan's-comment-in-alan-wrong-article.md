@@ -1,5 +1,5 @@
 # Alan Kay가 틀렸다고 하는 글에 남긴 Alan의 댓글들 
-[Alan Kay가 틀렸다고 하는 글에 남긴 Alan 반박글](https://github.com/juniqlim/note/blob/master/programming/2023-06-01-alan-say-about-alan-kay-was-wrong-about-him-being-wrong.md)에서 소개한 [yegor의 글](https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html)에 앨런은 많은 댓글을 남겼다.  
+[Alan Kay가 틀렸다고 하는 글에 남긴 Alan 반박글](https://github.com/juniqlim/note/blob/master/programming/alan/2023-06-01-alan-say-about-alan-kay-was-wrong-about-him-being-wrong.md)에서 소개한 [yegor의 글](https://www.yegor256.com/2017/12/12/alan-kay-was-wrong.html)에 앨런은 많은 댓글을 남겼다.  
 인상적이었던 멘트들을 모아봤다.  
 
 1. 객체간의 비명령적(non-command nature) 메세지는 자동으로 캡슐화를 제공한다.
