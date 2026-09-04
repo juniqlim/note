@@ -10,10 +10,10 @@
 에이전틱 코딩에선 검증이 병목이다. 테스트, 코드리뷰는 물론 목적이 제대로 달성되었는지 확인하는 시간이 훨씬 오래걸린다.  
 
 ## 루프 닫기, 검증
-하루에 600개의 커밋을 머지하는, 이제 코드를 직접 작성하지 않는다고 하는 Peter Steinberger(OpenClaw 개발자)는 [인터뷰](https://github.com/juniqlim/note/blob/master/programming/interview-iship-code-idont-read.md)에서 루프닫기(closing the loop)를 강조한다. 
+하루에 600개의 커밋을 머지하는, 이제 코드를 직접 작성하지 않는다고 하는 Peter Steinberger(OpenClaw 개발자)는 [인터뷰](https://github.com/juniqlim/note/blob/master/programming/ai-agent/interview-iship-code-idont-read.md)에서 루프닫기(closing the loop)를 강조한다. 
 에이전트가 스스로 디버깅하고 테스트 할 수 있어야 한다. 에이전트에게 자신의 작업을 검증할 방법을 제공해야한다.  
   
-마찬가지로 하루에 20개 넘는 PR을 제출하고, [AI가 자신의 코드 100%를 작성한다](https://x.com/bcherny/status/2015979257038831967)고 말한 Boris Cherny(Claude Code 개발자)도, [X에 자신의 Claude Code 설정](https://github.com/juniqlim/note/blob/master/programming/boris-claude-code-guide.md)을 이야기하며 에이전트에게 검증(Verification)할 방법을 제공하고 피드백 루프를 갖게 하라고 조언한다.  
+마찬가지로 하루에 20개 넘는 PR을 제출하고, [AI가 자신의 코드 100%를 작성한다](https://x.com/bcherny/status/2015979257038831967)고 말한 Boris Cherny(Claude Code 개발자)도, [X에 자신의 Claude Code 설정](https://github.com/juniqlim/note/blob/master/programming/ai-agent/boris-claude-code-guide.md)을 이야기하며 에이전트에게 검증(Verification)할 방법을 제공하고 피드백 루프를 갖게 하라고 조언한다.  
   
 에이전트가 엄청나게 빠르게 작성해준 구현코드를 내가 직접 테스트하고 에이전트에 오류리포트 해주다보면, 이건 뭐가 잘못되었다는 것을 스스로 알게된다.  
 
