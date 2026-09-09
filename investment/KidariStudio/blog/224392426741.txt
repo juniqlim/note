@@ -1,0 +1,361 @@
+# [키다리스튜디오] 오버행과 현재 시점에서의 생각 : 네이버 블로그
+
+
+최근 기타법인의 오버행 주체는 진도투자목적 유한회사로 판단하고 있다.
+2025년 4월 17일 기준 진도투자목적 유한회사의 보유 주식은 약 133만 주 + 18만 주, 총 151만 주 수준이었다. 
+당시 지분율이 5% 아래인 약 4%까지 내려가면서 이후 지분 변동에 대한 공시 의무가 사라졌다.
+최근 3거래일 동안 기타법인 순매도 물량은 약 90만 주,
+2025년 4월 18일부터 오늘까지 누적된 기타법인 순매도 물량은 약 128만 주다.
+과거 수년간 기타법인에서 의미 있는 수준의 순매수가 거의 없었다는 점까지 감안하면, 현재 진도투자목적 유한회사에 남아 있는 오버행 물량은 대략 20만~30만 주 내외로 추정할 수 있다.
+결국 오버행은 이제 마무리 국면에 진입하고 있는 것으로 보고 있다.
+최근 2거래일 동안 주가가 강하게 올라갈 때마다 윗꼬리를 만드는 매도 압력이 반복적으로 나타났다. 
+실제로 이것이 진도투자목적 유한회사의 잔여 물량 소화 과정이라면, 오버행이 마무리되고 물량의 손바뀜까지 끝난 이후에는 이전보다 주가의 수급 부담이 상당히 가벼워질 가능성이 있다.
+다만 이것은 어디까지나 수급의 문제다.
+내가 키다리스튜디오를 바라보는 큰 그림 자체가 바뀐 것은 없다.
+기존 직원들과 새롭게 합류한 직원들은 지금도 제품 개발에 집중하고 있을 것이고, 회사 역시 이를 적극적으로 지원하고 있을 것이다. 
+내가 지금까지 체크한 키다리스튜디오의 조직 분위기를 감안하면, 출시를 앞둔 현재는 상당히 강도 높은 일정으로 제품 완성도를 끌어올리고 있을 가능성이 높다고 본다.
+https://news.mtn.co.kr/news-detail/2026082715122339996
+ [단독]'만년 적자' 네이버 스노우, AI 채팅사업 만지작
+증강현실(AR) 카메라 앱으로 유명한 네이버 스노우가 인공지팅(AI) 채팅 사업 진출을 검토하고 있다. 21일 정보통신업계에 따르면, 네이버 스노우는 AI 캐릭터 채팅 서비스 프로젝트를 진행하고 있다. ﻿AI 기반 개인화 채팅과 3D 캐릭터·3D 공간을 결합한 맞춤형 캐릭터 서비스를 개발하는 것이 목표다. 단순히 AI와 대화를 나누는 것을 넘어, 이용자를 닮은 캐릭터를 중심으로 서비스 외연을 확대하려는 의도로 풀이된다. 네이버 스노우 관계자는 "나를 닮은 캐릭터를 통해 다양한 기능을 구현할 계획"이라며 "아직은 구상 단계"
+news.mtn.co.kr
+최근에는 네이버도 이 시장을 바라보기 시작했다.
+네이버 스노우가 AI 캐릭터 채팅 서비스 진출을 검토하고 있으며, AI 기반 개인화 채팅에 3D 캐릭터와 3D 공간까지 결합한 서비스를 준비하고 있다는 보도가 나왔다.
+이미 Character.AI, ZETA를 비롯해 여러 사업자들이 가능성을 보여주고 있는 시장에 국내 대형 플랫폼까지 관심을 보이기 시작했다는 것은 의미가 있다.
+결국 캐릭터 AI라는 시장의 TAM이 커지고 있고, 그 안에서 만들어낼 수 있는 비즈니스 모델 역시 아직 굉장히 많다는 뜻이다.
+키다리스튜디오의 주주들은 당연히 하루라도 빠른 출시를 원할 것이다.
+그런데 그것은 주주들만의 생각은 아닐 것이다.
+키다리스튜디오의 C레벨부터 실제 제품을 만들고 있는 팀원들, 그리고 관련된 여러 스테이크홀더 역시 가능한 한 빨리 제품을 시장에 내놓고 싶을 것이다.
+하지만 그보다 중요한 것이 있다.
+제품은 결국 상품성이 있어야 한다.
+특히 키다리스튜디오처럼 충성도가 높고 동시에 기준도 까다로운 여성 팬덤을 핵심 소비층으로 보유한 회사라면 상품성을 더욱 중요하게 생각할 수밖에 없다.
+남자들은 단추 하나 없는 옷을 사고도
+“에라 모르겠다” 하고 그냥 입고 다닐 수 있다.
+하지만 여성 소비자에게 그런 관대한 스탠스를 기대했다가는 충성 고객을 만들기 어렵다.
+키다리스튜디오가 그동안 만들어온 MD 제품들을 보면 이 회사가 팬덤을 어떻게 바라보는지 어느 정도 알 수 있다.
+단순히 인기 IP에 굿즈를 붙여 단기 매출을 극대화하고, 그 과정에서 IP의 수명을 갉아먹는 방식으로 접근하지 않는다.
+팬들이 작품을 좋아하게 된 이유가 무엇인지 고민하고, MD 하나를 만들더라도 팬들에게 새로운 감동을 줄 수 있도록 기획한다.
+그렇게 높은 만족도를 만들고, 다시 그 만족도가 팬들의 로열티를 강화한다.
+나는 캐릭터 AI 챗봇도 본질적으로 다르지 않다고 생각한다.
+오히려 더 까다로운 제품이다.
+캐릭터 AI에서 가장 중요한 것은 단순히 말을 잘하는 LLM이 아니다.
+“이 캐릭터가 정말 내가 알고 있는 그 캐릭터인가?”
+팬들이 그렇게 느끼게 만드는 것이 핵심이다.
+말투 하나, 특정 상황에서의 반응 하나, 상대방을 바라보는 방식 하나가 기존 작품 속 캐릭터와 어긋나는 순간 몰입감은 깨진다. 
+(캐붕이 일어나면 플라이휠까지 망가져버릴 것이다.) 
+특히 오랫동안 작품을 소비해온 팬들은 캐릭터의 성격과 세계관을 누구보다 잘 알고 있다.
+그렇기 때문에 키다리스튜디오 역시 AI 챗봇에 적용되는 IP의 작가들과 충분한 커뮤니케이션을 거치면서, 작품 속 캐릭터가 어떤 세계관을 가지고 있고 어떤 방식으로 사고하며 어떤 관계성을 형성하는지에 대한 공식 설정과 작가의 해석을 최대한 제품에 반영하려 할 것이라고 생각한다.
+결국 필요한 것은 단순한 캐릭터 챗봇이 아니라 공식 캐릭터와의 매칭 완성도 높은 페르소나다.
+그래야 여성 소비자에게 만족감을 줄 수 있고, 기존 작품에서 느꼈던 감정을 AI라는 새로운 매체에서도 이어갈 수 있다.
+그리고 이것은 주가 측면에서도 중요하다.
+단순히 ‘AI 캐릭터 챗봇 출시’라는 뉴스 하나로 끝나는 일회성 테마가 되지 않기 위해서는 출시 시점보다 제품 출시 이후의 반응과 성과가 훨씬 중요하다.
+첫 이용자들이 
+“이거 진짜 ○○ 같다.”, 
+“작가가 직접 설정한 것 같다.”, 
+“원작 캐릭터랑 대화하는 느낌이다.” 
+라고 느끼기 시작한다면 그것은 단순한 AI 서비스 출시가 아니다.
+기존 IP의 팬덤을 더 깊게 만들고, IP의 소비 시간을 늘리며, 새로운 형태의 과금까지 만들어낼 수 있는 사업의 시작이 된다.
+반대로 출시를 조금 앞당기기 위해 완성도를 희생해 팬들의 로열티를 훼손한다면 얻는 것보다 잃는 것이 훨씬 클 수 있다.
+그래서 기다리는 시간동안 어느 시점에서 주가의 상단이 제약되고 횡보하는 구간이 오더라도, 결국 더 높은 곳으로 가기 위해서는 시간이 필요하다.
+(물론 이것이 출시 시점이 밀렸다는 의미는 아니다.)
+내가 말하고 싶은 것은 단순하다.
+출시 날짜 하나에 지나치게 매몰되기보다는, BL이라는 장르가 무엇인지, 그리고 그 팬들이 캐릭터와 작품을 어떤 방식으로 소비하는지를 조금이라도 이해해보는 편이 훨씬 정신 건강에 이롭다.
+그리고 그것을 이해하는 데 아래 영상만큼 좋은 자료도 많지 않을 것 같다.
+ https://youtu.be/3lHq6hKVtyI?si=8TUFATTy5digunNi
+영상을 보고나면 공식 IP의 세계관과 설정을 지키는게 왜 중요한지 이해할 것이다. 
+그리고 그게 왜 차별성인지도 이해할 것이다. 
+ 저작자 명시 필수
+ 영리적 사용 불가
+ 내용 변경 불가
+ 저작자 명시 필수
+ - 영리적 사용 불가
+ - 내용 변경 불가
+ 태그
+ 취소
+ 확인
+ 공감
+ 0
+ 공감
+ 0
+ 칭찬
+ 0
+ 감사
+ 0
+ 웃김
+ 0
+ 놀람
+ 0
+ 슬픔
+ 0
+ span.u_likeit_button) 공감 face 3개 (전체)) -->
+ 공감
+ 0
+ 공감
+ 0
+ 칭찬
+ 0
+ 감사
+ 0
+ 웃김
+ 0
+ 놀람
+ 0
+ 슬픔
+ 0
+ 이 글에 공감한 블로거 열고 닫기
+ 댓글
+ 쓰기
+ 이 글에 댓글 단 블로거 열고 닫기
+ 인쇄
+ 댓글쓰기
+1/1
+ 이전
+ 다음
+ | 
+ | | | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 이 블로그
+ 국내기업 
+ 카테고리 글
+ 전체글 보기
+ 화면 최상단으로 이동
+ | 
+ | 
+ | 
+ | 
+[{"title":"[키다리스튜디오] 오버행과 현재 시점에서의 생각","source":"https://blog.naver.com/dnjsrlid/224392426741","blogName":"Key's Ca..","domainIdOrBlogId":"dnjsrlid","nicknameOrBlogId":"웡키","logNo":224392426741,"smartEditorVersion":4,"meDisplay":true,"lineDisplay":true,"outsideDisplay":true,"cafeDisplay":true,"blogDisplay":true}]
+검색
+ 글 검색
+ RSS 2.0
+ RSS 1.0
+ ATOM 0.3
+이 블로그의 저작물은 별도
+표시가 없는 한 아래 조건에
+따라 사용 가능합니다
+저작자 명시 필수
+영리적 사용 불가
+내용 변경 불가
+안녕하세요.
+이 포스트는 네이버 블로그에서 작성된 게시글입니다.
+자세한 내용을 보려면 링크를 클릭해주세요.
+감사합니다.
+글 보내기 서비스 안내
+2009년 6월 30일 네이버 여행 서비스가 종료되었습니다.
+ 네이버 여행 서비스를 이용해 주신 여러분께 감사드리며, 
+더 좋은 서비스로 보답할 수 있도록 노력하겠습니다.
+악성코드가 포함되어 있는 파일입니다.
+{FILENAME}
+백신 프로그램으로 치료하신 후 다시 첨부하시거나, 치료가 어려우시면
+파일을 삭제하시기 바랍니다. 
+ 네이버 백신으로 치료하기
+고객님의 PC가 악성코드에 감염될 경우 시스템성능 저하,
+개인정보 유출등의 피해를 입을 수 있으니 주의하시기 바랍니다.
+작성자 이외의 방문자에게는 이용이 제한되었습니다.
+{ALERTMESSAGE}
+이용제한 파일 : {FILENAME}
+내PC 저장
+N드라이브 저장
+ 카메라 모델
+ 해상도
+ 노출시간
+ 노출보정
+ 프로그램모드
+ ISO감도
+ 조리개값
+ 초점길이
+ 측광모드
+ 촬영일시
+글보내기 제한 공지
+ 저작권 침해가 우려되는 컨텐츠가 포함되어 있어
+ 글보내기 기능을 제한합니다. 
+네이버는 블로그를 통해 저작물이 무단으로 공유되는 것을 막기 위해,
+ 저작권을 침해하는 컨텐츠가 포함되어 있는 게시물의 경우 글보내기 기능을 제한하고 있습니다.
+상세한 안내를 받고 싶으신 경우 네이버 고객센터로 문의주시면 도움드리도록 하겠습니다.
+ 건강한 인터넷 환경을 만들어 나갈 수 있도록 고객님의 많은 관심과 협조를 부탁드립니다.
+주제 분류 제한 공지
+ 저작권 침해가 우려되는 컨텐츠가 포함되어 있어
+ 주제 분류 기능을 제한합니다.
+네이버는 블로그를 통해 저작물이 무단으로 공유되는 것을 막기 위해,
+ 저작권을 침해하는 컨텐츠가 포함되어 있는 게시물의 경우 주제 분류 기능을 제한하고 있습니다.
+상세한 안내를 받고 싶으신 경우 네이버 고객센터로 문의주시면 도움드리도록 하겠습니다.
+ 건강한 인터넷 환경을 만들어 나갈 수 있도록 고객님의 많은 관심과 협조를 부탁드립니다.
+작성하신 게시글에 사용이 제한된 문구가 포함되어 일시적으로 
+ 등록이 제한됩니다.
+이용자 분들이 홍보성 도배, 스팸 게시물로 불편을 겪지 않도록
+ 다음과 같은 경우 해당 게시물 등록이 일시적으로 제한됩니다.
+특정 게시물 대량으로 등록되거나 해당 게시물에서 자주 사용하는
+ 문구가 포함된 경우
+특정 게시물이 과도하게 반복 작성되거나 해당 게시물에서 자주 사용하는
+문구가 포함된 경우
+스팸 게시물이 확대 생성되는 것을 방지하기 위하여 문구 및 사용 제한기간을
+상세하게 안내해 드리지 못하는 점 양해 부탁 드립니다. 모두가 행복한 인터넷
+문화를 만들기 위한 네이버의 노력이오니 회원님의 양해와 협조 부탁드립니다.
+더 궁금하신 사항은 고객센터로 문의하시면 자세히 알려드리겠습니다.
+수정하신 후 다시 등록해 주세요.
+확인
+회원님의 안전한 서비스 이용을 위해 비밀번호를 확인해 주세요.
+다시 한번 비밀번호 확인 하시면 이용중인 화면으로 돌아가며, 작성 중이던
+내용을 정상적으로 전송 또는 등록하실 수 있습니다.
+ 1일 안부글 작성횟수를 초과하셨습니다.
+ 네이버 블로그에서는 프로그램을 이용한
+ 안부글 자동등록 방지를 위해 1일 안부글 작성횟수에
+ 제한을 두고 있습니다.
+ 1일 안부글 작성횟수를 초과하셨습니다.
+ 고객님이 남기신 안부글에 대한 다수의 신고가 접수되어
+ 1일 안부글 작성 횟수가 5회로 제한되었습니다.
+ 네이버 블로그는 여러 사람이 함께 모여 즐거움을 나누는
+ 공간으로 모든 분들이 기분좋게 블로그를 이용할 수 있도록
+ 고객님의 이해와 협조 부탁 드립니다.
+ .layerpop2{position:absolute; z-index:999; font:normal 12px 돋움,Dotum; color:#333; overflow:hidden; display:none;}
+ .layerpop2 .border_type{position:relative; border:solid 2px #777; background-color:#fff;}
+ .layerpop2 .close{position:absolute; top:8px; right:8px;}
+ .layerpop2 .content1{padding:30px 30px 21px; border-bottom:solid 1px #f0f0f0;}
+ .layerpop2 .content1 h6{font-weight:bold; font-size:14px; padding-bottom:10px; margin:0; color:#333;}
+ .layerpop2 .subtext{font-size:11px; color:#999; margin:0; padding:7px 0 0; line-height:16px; letter-spacing:-1px; text-align:left;}
+ .layerpop2 .check{width:13px; height:13px; vertical-align:middle; padding:0 3px 2px 0; margin-left:2px;}
+ .layerpop2 .btn1{background-color:#fbfbfb; border-top:solid 1px #f7f7f7; text-align:center; margin:0; padding:11px 0 20px;}
+ .layerpop2 .btn1 img{margin:0 1px; vertical-align:top;}
+공감을 삭제하시겠습니까?
+이 글의 공감수도 함께 차감됩니다.
+ 이웃으로 추가하시겠어요?
+ 웡키
+ Key's Cafe
+ 이웃추가
+ 이웃추가 레이어 닫기
+/* Default Type Selector */
+#banword_wrap *, #banword_wrap1 *{ margin:0; padding:0; font-size:12px; font-family:돋움, Dotum, 굴림, Gulim, Helvetica, Sans-serif; text-align:left;}
+#banword_wrap a, #banword_wrap1 a{ color:#004790;}
+#banword_wrap img, #banword_wrap1 img,
+#banword_wrap fieldset, #banword_wrap1 fieldset{ border:none;}
+#banword_wrap legend, #banword_wrap1 legend{ display:none;}
+#banword_wrap em, #banword_wrap1 em{ font-style:normal; color:#258102;}
+#banword_wrap strong, #banword_wrap1 strong{ color:#258102;}
+#banword_wrap li, #banword_wrap1 li{ list-style:none;}
+#banword_wrap h1, #banword_wrap1 h1{ font:bold 13px 굴림, Gulim, 돋움, Dotum, Helvetica, Sans-serif; color:#333; padding:11px 0 0 19px; *padding:12px 0 0 19px; }
+/* Layout */
+#banword_wrap{ position:absolute; width:410px; _width /**/:418px; overflow:hidden; border:4px solid #777; background:#fff; display: none; z-index: 200;}
+#banword_wrap1{ position:relative; width:410px; _width /**/:418px;height:446px; overflow:hidden; border:4px solid #777; background:#fff;}
+#bw_content{ padding:14px 0 28px 0; margin:0 19px 0 18px;}
+#bw_footer{ height:8px; _height:8px; text-align:center;}
+body:first-of-type #bw_footer{ height:7px;}
+#bw_footer, x:-moz-any-link, x:default { height:7px;}
+*:first-child+html #bw_footer{ height:8px;}
+#bw_btn_footer{ height:46px; _height /**/:45px; text-align:center; background:url(https://ssl.pstatic.net/static/common/popup/bg_not_available_common.gif) no-repeat left 1px; padding:16px 0 0 0 ; _padding /**/:16px 0 20px 0 ;}
+/* Common */
+#bw_content .bw_bx1{border:1px solid #f1f1f1; margin:0 1px 9px 2px; height:100px; background:#f8f8f8; }
+#bw_content .bw_bx1_shadow{position:relative; padding:13px 13px 12px 0; }
+#bw_content .bw_bx1_shadow strong { color:#282828; vertical-align:top; margin-left:13px; margin-bottom:10px; display:block; }
+#bw_content .bw_bx1_shadow a img {vertical-align:middle; margin:-1px 0 0 0; *margin:-2px 0 0 0;}
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+{
+ #bw_content .bw_bx1_shadow a img {margin:-1px !important;}
+}
+body:first-of-type #bw_content .bw_bx1_shadow a img {vertical-align:middle; margin:-5px 0 0 0;}
+#bw_content .bw_bx1_shadow_in {height:35px; _height /**/:53px; margin:7px 0 0 13px; _margin:5px 0 0 13px; padding:8px 13px 7px 12px; _padding:9px 13px 8px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+body:first-of-type #bw_content .bw_bx1_shadow_in {height:35px; _height /**/:53px; margin:5px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+#bw_content .bw_bx1_shadow_in, x:-moz-any-link, x:default {height:35px; _height /**/:53px; margin:5px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+*:first-child+html #bw_content .bw_bx1_shadow_in {height:33px; _height /**/:53px; margin:7px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+#bw_content .bw_bx2{ border:1px solid #eeeeee; margin:0 0 6px 3px; background:#fbfbfb; line-height:18px;}
+#bw_content .bw_bx2 *{ color:#444444;}
+/* Content */
+#bw_content .bw_desc1{ color:#444444; font-weight:bold; margin:0 0 4px 0; letter-spacing:-1px;}
+#bw_content .bw_desc2{ color:#444444; margin:0 0 13px 0;}
+#bw_content .bw_desc3{ position:relative; color:#696968; padding:9px 2px 9px 34px; font-size:11px; letter-spacing:-1px; background:url(https://ssl.pstatic.net/static/common/popup/bu_attention.gif) no-repeat 13px 12px;}
+body:first-of-type #bw_content .bw_desc3{ padding:10px 2px 8px 34px;}
+#bw_content .bw_desc3, x:-moz-any-link, x:default { padding:10px 2px 8px 34px;}
+*:first-child+html #bw_content .bw_desc3{ padding:9px 2px 9px 34px;}
+#bw_content .bw_desc4 { color:#6c6c6c; margin:10px 0 0 33px; font-size:11px; letter-spacing:-1px;}
+body:first-of-type #bw_content .bw_desc4 { margin:9px 0 0 33px;}
+#bw_content .bw_desc4, x:-moz-any-link, x:default { margin:9px 0 0 33px;}
+*:first-child+html #bw_content .bw_desc4 { margin:10px 0 0 33px;}
+#bw_content .bw_desc4 a {color:#258102; font-size:11px;}
+#bw_content .bw_desc5 { color:#333333; margin:16px 0 10px 0; _margin:16px 0 10px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+body:first-of-type #bw_content .bw_desc5 { color:#333333; margin:14px 0 12px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+#bw_content .bw_desc5, x:-moz-any-link, x:default { color:#333333; margin:14px 0 12px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+*:first-child+html #bw_content .bw_desc5 { color:#333333; margin:16px 0 12px 0; _margin:16px 0 10px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+#bw_content .bw_desc5 strong{ color:#333333;}
+#bw_content .bw_desc6{color:#333333; margin:21px 0 0 0; padding:0 0 5px 1px; _padding:0 0 3px 1px; letter-spacing:-1px; border-bottom:1px solid #ececec; line-height:20px;}
+/*html:first-child #bw_content .bw_desc6 {margin:46px 0 0 0; padding:0 0 8px 1px;}
+body:first-of-type #bw_content .bw_desc6 {margin:26px 0 0 0; padding:0 0 8px 1px;}
+#bw_content .bw_desc6, x:-moz-any-link, x:default {margin:26px 0 0 0; padding:0 0 8px 1px;}
+*:first-child+html #bw_content .bw_desc6 { margin:27px 0 0 0; padding:0 0 9px 1px;}*/
+#bw_content .bw_desc6 strong{ color:#333333;}
+#bw_content .layer_content p {font-size:11px; line-height:14px; color:#717171; letter-spacing:-1px;}
+#bw_content .layer_content p.bw_orange {margin-top:5px; color:#fd630a;}
+/* function button box */
+#bw_content .function_btn {overflow:hidden; height:53px; *height:57px; _height:60px; width:362px; margin:14px 0 21px 6px; padding-top:4px;}
+body:first-of-type #bw_content .function_btn { margin:14px 0 20px 6px;}
+#bw_content .function_btn, x:-moz-any-link, x:default { margin:14px 0 20px 6px;}
+*:first-child+html #bw_content .function_btn { margin:14px 0 21px 6px;}
+#bw_content .function_btn .btn_wrap {float:left; width:174px; _width /**/:181px; padding:0 0 0 7px;}
+#bw_content .function_btn .btn_wrap p {margin-top:5px; font-size:11px; letter-spacing:-1px; color:#696968; background:url(https://ssl.pstatic.net/static/common/popup/bu_line.gif) no-repeat right top;}
+body:first-of-type #bw_content .function_btn .btn_wrap p {margin-top:6px;}
+#bw_content .function_btn .btn_wrap p, x:-moz-any-link, x:default {margin-top:6px;}
+*:first-child+html #bw_content .function_btn .btn_wrap p {margin-top:5px;}
+#bw_content .function_btn .btn_wrap1 {float:left; width:179px; _width /**/:181px; text-align:center; padding-left:2px}
+#bw_content .function_btn .btn_wrap1 p {margin-top:5px; font-size:11px; letter-spacing:-1px; color:#696968; text-align:left; padding:0 0 0 4px;}
+body:first-of-type #bw_content .function_btn .btn_wrap1 p {margin-top:6px;}
+#bw_content .function_btn .btn_wrap1 p, x:-moz-any-link, x:default {margin-top:6px;}
+*:first-child+html #bw_content .function_btn .btn_wrap1 p {margin-top:5px;}
+#bw_footer button.c_close{position:absolute; top:7px; right:6px; width:18px; height:17px; background:none; border:none;}
+#bw_footer button.c_close, x:-moz-any-link, x:default {top:5px; right:8px;}
+*:first-child+html #bw_footer button.c_close {top:7px; right:6px;}
+#bw_btn_footer button {width:55px; height:27px; text-align:center; font-size:12px;}
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+{
+ #bw_btn_footer button {padding-top:6px;}
+}
+#bw_btn_footer button.c_close{position:absolute; top:7px; right:6px; width:18px; height:17px; background:none; border:none;}
+#bw_btn_footer button.c_close, x:-moz-any-link, x:default {top:5px; right:8px;}
+*:first-child+html #bw_btn_footer button.c_close {top:7px; right:6px;}
+작성하신 에 이용자들의 신고가 많은 표현이 포함되어 있습니다.
+ 신고가 많은 표현
+다른 표현을 사용해주시기 바랍니다.
+ 건전한 인터넷 문화 조성을 위해 회원님의 적극적인 협조를 부탁드립니다.
+더 궁금하신 사항은 고객센터로 문의하시면 자세히 알려드리겠습니다.
+ 확인
+블로그 마켓 가입 완료
+내 상품 관리에서 배송비 설정 후 
+상품 판매를 시작해보세요!
+ 배송비 설정하기
+ 블로그 마켓 가입 완료 레이어 닫기
+ .blog_market_bridge_set_delivery_popup{position:fixed;left:0;top:0;right:0;bottom:0;z-index:10000;font-size:0;text-align:center;}
+ .blog_market_bridge_set_delivery_popup:before{display:inline-block;width:0;height:100%;vertical-align:middle;content:'';}
+ .blog_market_bridge_set_delivery_popup .dimmed{position:absolute;left:0;top:0;right:0;bottom:0;opacity: 0.7;background: #000000;}
+ .blog_market_bridge_set_delivery_popup .blog_market_bridge_set_delivery_content{display:inline-block;position:relative;width:304px;height:303px;border-radius:8px;box-shadow:1px 1px 7px 0 rgba(0, 0, 0, 0.15);border:solid 1px rgba(0, 0, 0, 0.1);background:#fff;text-align:center;vertical-align:middle;}
+ .blog_market_bridge_set_delivery_popup .text_area:before{
+ display:inline-block;width:192px;height:102px;margin:12px 0 0;content:'';vertical-align:top;
+ background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='192' height='102' viewBox='0 0 192 102'%3E%3Cdefs%3E%3ClinearGradient id='e8xiwmcq5a' x1='50%25' x2='50%25' y1='50%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%2338D77C'/%3E%3Cstop offset='100%25' stop-color='%232FCFDC'/%3E%3C/linearGradient%3E%3Cfilter id='2o3xn9qpnb' width='125%25' height='125%25' x='-12.5%25' y='-12.5%25' filterUnits='objectBoundingBox'%3E%3CfeOffset in='SourceAlpha' result='shadowOffsetOuter1'/%3E%3CfeGaussianBlur in='shadowOffsetOuter1' result='shadowBlurOuter1' stdDeviation='1'/%3E%3CfeColorMatrix in='shadowBlurOuter1' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.210500437 0'/%3E%3C/filter%3E%3Ccircle id='2pb8blndrc' cx='12' cy='12' r='12'/%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cg transform='translate(-624 -259) translate(568 247) translate(56 12) translate(10 2)'%3E%3Ccircle cx='32.918' cy='96.666' r='2' fill='%23FF7D9F'/%3E%3Ccircle cx='142.418' cy='45.166' r='2.5' fill='%23FFD33E'/%3E%3Ccircle cx='66.918' cy='17.666' r='2' fill='%23928FF4'/%3E%3Ccircle cx='158.918' cy='57.666' r='2' fill='%237CD9B1'/%3E%3Ccircle cx='14.918' cy='14.666' r='4' fill='%23FFD33E'/%3E%3Cpath fill='%23928FF4' d='M2.207 54.71c.985.773 2.167 1.16 3.546 1.16 1.38 0 2.81-.43 4.29-1.288-.777 1.79-1.166 3.26-1.166 4.412 0 1.151.346 2.293 1.039 3.424-.93-.648-2.093-.972-3.491-.972-1.399 0-2.709.228-3.93.685.537-1.33.806-2.599.806-3.809s-.365-2.414-1.094-3.612z' transform='rotate(-45 6.126 58.5)'/%3E%3Crect width='9' height='3' x='142.918' y='90.666' fill='%23FF7D9F' rx='1.5' transform='rotate(43 147.418 92.166)'/%3E%3Crect width='9' height='3' x='23.918' y='79.666' fill='%23FFD33E' rx='1.5' transform='rotate(-41 28.418 81.166)'/%3E%3Crect width='9' height='3' x='123.918' y='17.666' fill='%23928FF4' rx='1.5' transform='rotate(-41 128.418 19.166)'/%3E%3Crect width='9' height='3' x='27.918' y='30.666' fill='%237CD9B1' rx='1.5' transform='rotate(43 32.418 32.166)'/%3E%3Cpath fill='%23FF7D9F' d='M152 20.194c.86.674 1.89 1.012 3.094 1.012 1.203 0 2.45-.375 3.743-1.124-.679 1.561-1.018 2.844-1.018 3.849 0 1.004.302 2 .906 2.987-.81-.565-1.826-.848-3.046-.848-1.22 0-2.363.199-3.428.597.469-1.159.703-2.266.703-3.322s-.318-2.106-.954-3.151z' transform='rotate(-45 155.418 23.5)'/%3E%3Cpath fill='%237CD9B1' d='M66.389 2.115c.88.69 1.936 1.036 3.167 1.036 1.232 0 2.51-.384 3.833-1.151-.695 1.599-1.043 2.912-1.043 3.94 0 1.03.31 2.049.928 3.06-.83-.58-1.869-.869-3.118-.869-1.25 0-2.42.204-3.51.612.48-1.187.72-2.32.72-3.402 0-1.08-.326-2.156-.977-3.226z' transform='rotate(-45 69.889 5.5)'/%3E%3C/g%3E%3Cg%3E%3Cpath fill='url(%23e8xiwmcq5a)' d='M39 0c6.443 0 11.667 5.223 11.667 11.667l-.001 1.286H57c4.418 0 8 3.57 8 7.975v26.801c0 7.026-5.047 12.721-12.095 12.721H25.761C18.714 60.45 13 54.755 13 47.73V20.927c0-4.404 3.582-7.974 8-7.974l6.333-.001v-1.286C27.333 5.223 32.557 0 39 0zm-3.386 23.321h-5.947v26.025h5.948V47.51c1.308 1.484 3.251 2.382 5.908 2.382 5.195 0 9.477-4.49 9.477-10.306 0-5.816-4.282-10.305-9.477-10.305-2.541 0-4.43.821-5.734 2.19l-.174.19v-8.34zm4.72 11.113c2.96 0 5.106 1.985 5.106 5.153 0 3.168-2.146 5.153-5.106 5.153-2.961 0-5.106-1.985-5.106-5.153 0-3.168 2.145-5.153 5.106-5.153zM39 4.914c-3.72 0-6.752 2.953-6.876 6.643l-.004.237-.001 1.159H45.88v-1.16c0-3.799-3.08-6.88-6.88-6.88z' transform='translate(-624 -259) translate(568 247) translate(56 12) translate(54.5 29)'/%3E%3Cg%3E%3Cg transform='translate(-624 -259) translate(568 247) translate(56 12) translate(54.5 29) translate(53 43)'%3E%3Cuse fill='%23000' filter='url(%232o3xn9qpnb)' xlink:href='%232pb8blndrc'/%3E%3Cuse fill='%23FFF' xlink:href='%232pb8blndrc'/%3E%3C/g%3E%3Cpath fill='%2303C75A' d='M16.238 16.83H8.61v-2.034h5.594V4.029h2.034V16.83z' transform='translate(-624 -259) translate(568 247) translate(56 12) translate(54.5 29) translate(53 43) rotate(45 12.424 10.43)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A") no-repeat;
+ }
+ .blog_market_bridge_set_delivery_popup .title{font-family:"나눔스퀘어", "NanumSquare", "NanumSquareWebFont", "Malgun Gothic", "맑은 고딕", "Dotum", "돋움", "Helvetica", "Apple SD Gothic Neo", "sans-serif";font-size:22px;font-weight:bold;line-height:24px;color:#000;padding:12px 0 0;}
+ .blog_market_bridge_set_delivery_popup .desc{font-size:14px;line-height:23px;color:#000;padding:12px 0 0;}
+ .blog_market_bridge_set_delivery_popup .btn{display:block;height:40px;margin:25px 30px 0;background:#03c75a;border-radius:4px;line-height:41px;color:#fff;font-size:15px;font-weight:600;}
+ .blog_market_bridge_set_delivery_popup .btn:hover{text-decoration:none;}
+ .blog_market_bridge_set_delivery_popup .close_btn{position:absolute;right:-7px;top:-50px;width:44px;height:44px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23FFF'%3E%3Cg%3E%3Cpath d='M22.5 7v14.5H37v1H22.499L22.5 37h-1l-.001-14.5H7v-1h14.5V7h1z' transform='translate(-842 -205) translate(835 198) rotate(45 22 22)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A") 7px 7px no-repeat;border:0;}
+블로그 마켓 탈퇴가
+완료되었습니다.
+문의사항은 블로그 마켓 고객센터로 연락주세요.
+ 확인
+ .blog__market_leave_popup{position:fixed;left:0;top:0;right:0;bottom:0;z-index:10000;font-size:0;text-align:center;}
+ .blog__market_leave_popup:before{display:inline-block;width:0;height:100%;vertical-align:middle;content:'';}
+ .blog__market_leave_popup .dimmed{position:absolute;left:0;top:0;right:0;bottom:0;opacity: 0.7;background: #000000;}
+ .blog__market_leave_popup .blog__market_leave_layer{display: inline-block;vertical-align: middle;white-space: normal;font-size: 12px;text-align: left;position: relative;outline: none;}
+ .blog__market_leave_popup .blog__market_leave_layer_wrap {box-sizing: border-box;width: 380px;padding: 0 17px;border-radius: 8px;box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.15);border: 1px solid rgba(0, 0, 0, 0.1);background-color: #fff;text-align: center;}
+ .blog__market_leave_popup .blog__market_leave_content {padding: 40px 0 33px;font-family:"나눔스퀘어", "NanumSquare", "NanumSquareWebFont", "Malgun Gothic", "맑은 고딕", "Dotum", "돋움", "Helvetica", "Apple SD Gothic Neo", "sans-serif";}
+ .blog__market_leave_popup .title{font-weight: 700;line-height: 34px;font-size: 24px;color: #444;}
+ .blog__market_leave_popup .text{margin-top: 10px;padding: 0 20px;word-break: keep-all;line-height: 21px;font-size: 13px;color: #888;}
+ .blog__market_leave_popup .btn_area{margin-top: 27px;font-size: 0;}
+ .blog__market_leave_popup .btn_ok{display: inline-block;vertical-align:top;width: 120px;height: 40px;border-radius: 3px;border: 1px solid #ddd;line-height: 14px;font-size: 14px;outline: 0;background-color: transparent;color: #00c73c;}
+ .blog__market_leave_popup .btn_ok:hover{color: #fff;background-color: #00c73c;border-color: #00c73c;}
+
+
+IMAGES:
+https://postfiles.pstatic.net/MjAyNjA4MjdfMTE0/MDAxNzg3ODMwNjAzMjc0.E4zxGIaEXYGyIyORc5ZPg7GbWTnBJSuL-S7j4n4-Fxkg.pD1oTD4lsin-lrzDPiiV6eO_vy74uuMT3Pflv9JRXuEg.PNG/SE-d72fefd2-124e-412e-a75b-f0397d7b2b53.png
+https://postfiles.pstatic.net/MjAyNjA4MjdfMTQ5/MDAxNzg3ODMwNTExMjkz.fQQUefhYUDmpE65oDw3MsETQtZQ_Ygazh3ISvDuqlVsg.5tkc92tBEbElUAOGSY81PMOUNnUypxamCeotl4QXQQMg.PNG/SE-76c8e447-2d8b-4bf5-a3c8-a32678c57f13.png
+https://postfiles.pstatic.net/MjAyNjA4MjdfMjEz/MDAxNzg3ODMwMDUxODk5.rf9BxHUhxP34We4Vgy_HrrGoCvrFA4_--dF_x4nZhJMg.bSUoDLMbsboTnjC7t_crec8z-nFeN-2YaECP7dQTjzYg.PNG/image.png
+https://postfiles.pstatic.net/MjAyNjA4MjdfMjI2/MDAxNzg3ODMwMTI4NTk4.ouIDsXXg_pKJ8rNOjEg9vIrT8qLGf_rmckSHhyBj5yAg.DTpmp6GeOv5nYUh9nwyDg6vklMaIJAUAd8yMemyL1QUg.PNG/image.png
+https://postfiles.pstatic.net/MjAyNjA4MjdfMjcy/MDAxNzg3ODMwNTM2Njg1.oYYyTP0PfcXx3heDVc62PgqhqDoNdFGA58mejDQ3etQg.bkHV8Z4T88X87w24wCpDOlKviyrvbvXzJbhJCuqo5-Qg.PNG/SE-2afc9c0d-9fc6-498a-9480-b2e8da86f028.png
+https://postfiles.pstatic.net/MjAyNjA4MjdfOTcg/MDAxNzg3ODMwMjYyNzI2.uYaw7WMYL-R7Pji27lmeruaSO7egekbtinwzvCCVrmYg.aqvh0jqjxalqK5cpL9igvQrbuLuoxCAsDvh8D6YwFHUg.PNG/image.png
