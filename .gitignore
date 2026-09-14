@@ -7,3 +7,6 @@ magic_formula.db
 
 # 빌드 결과물. GitHub Actions 가 만들어 배포한다.
 docs/
+
+# Playwright MCP 산출물(콘솔 로그·페이지 스냅샷·스크린샷)
+.playwright-mcp/
