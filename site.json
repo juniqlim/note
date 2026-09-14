@@ -22,6 +22,7 @@
     { "dir": "investment", "label": "투자 · 기업 분석", "deep": true }
   ],
   "include": [
+    "ai-agent/AI 글쓰기 반대론은 2400년 전부터 있었다.md",
     "ai-agent/AI 속도 조절 논쟁 (2026년 9월).md",
     "ai-agent/AI 코딩 모델 비교 2026년 2월.md",
     "ai-agent/LLM 정렬(Alignment).md",
@@ -157,6 +158,7 @@
     "programming/탐색적-테스팅과-도메인-지식-부채.md"
   ],
   "slugs": {
+    "ai-agent/AI 글쓰기 반대론은 2400년 전부터 있었다.md": "ai-writing-2400-years-old",
     "investment/투자판단모델.md": "investment-decision-model"
   }
 }
