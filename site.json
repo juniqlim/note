@@ -22,6 +22,7 @@
     { "dir": "investment", "label": "투자 · 기업 분석", "deep": true }
   ],
   "include": [
+    "ai-agent/AI 속도 조절 논쟁 (2026년 9월).md",
     "ai-agent/AI 코딩 모델 비교 2026년 2월.md",
     "ai-agent/LLM 정렬(Alignment).md",
     "programming/ai-agent/better-agentic-coding-2.md",
