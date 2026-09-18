@@ -91,6 +91,7 @@ function shell({ title, site, base, body, bodyClass = '' }) {
   <div class="head-left">
     <a class="brand" href="${base}index.html">${esc(site.title)}</a>
     <nav>
+      <a class="home" href="https://juniq.im/">← juniq</a>
       <a href="${base}index.html">노트</a>
       <a href="${base}changes.html">최근 변경</a>
       ${site.sibling ? `<a class="ext" href="${attr(site.sibling.url)}">${esc(site.sibling.label)} ↗</a>` : ''}

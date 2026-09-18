@@ -22,6 +22,7 @@ a:hover{text-decoration:underline;text-underline-offset:3px}
 .head-left{display:flex;align-items:baseline;gap:16px}
 .brand{font-family:var(--serif);font-size:17px;font-weight:600;color:var(--text)}
 .site-head nav{display:flex;gap:14px;font-family:var(--mono);font-size:12px}
+.site-head nav a.home{color:var(--muted)}
 .head-right{display:flex;align-items:center;gap:12px}
 .head-right input,.head-right button{background:transparent;color:var(--text);border:1px solid var(--rule);
   padding:7px 11px;font-size:13px;font-family:var(--sans);outline:none;min-width:0}
