@@ -1,0 +1,450 @@
+
+EX-99.1
+2
+proddashex991-pressrelease.htm
+EX-99.1
+Document
+Exhibit 99.1
+DoorDash Releases Second Quarter 2026 Financial Results
+August 5, 2026
+SAN FRANCISCO—(BUSINESS WIRE)—DoorDash, Inc. (NASDAQ: DASH) today announced its financial results for the quarter ended June 30, 2026.
+We completed the first half of 2026 with consistent execution across our business, driving continued strong growth in our marketplaces, membership programs,1 and monthly active users (MAUs2) compared to the same period in the prior year. We also made significant progress in a number of strategic areas. For example, we rolled out several components of our new global technology platform, launched new AI-based features within our products designed to help reduce friction and increase engagement, and continued to expand the scope and scale of our software and merchant services offerings. We believe these initiatives and others are establishing the foundations for our future growth, and we are excited to continue investing behind them to increase the impact we have on local commerce.
+Second Quarter 2026 Key Financial Metrics
+•Total Orders increased 27% year-over-year (Y/Y) to 970 million.
+•Marketplace GOV increased 36% Y/Y to $33.1 billion.
+•Revenue increased 36% Y/Y to $4.5 billion.
+•GAAP net income attributable to DoorDash, Inc. common stockholders decreased 30% Y/Y to $200 million.
+•Adjusted EBITDA increased 40% Y/Y to $914 million.
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | 
+(in millions, except percentages) | | Jun. 30,
+2025 | | Sept. 30, 
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+Total Orders | | 761 | | | 776 | | | 903 | | | 933 | | | 970 | | 
+Total Orders Y/Y growth | | 20 | % | | 21 | % | | 32 | % | | 27 | % | | 27 | % | 
+Marketplace GOV | | $ | 24,244 | | | $ | 25,015 | | | $ | 29,683 | | | $ | 31,604 | | | $ | 33,078 | | 
+Marketplace GOV Y/Y growth | | 23 | % | | 25 | % | | 39 | % | | 37 | % | | 36 | % | 
+Revenue | | $ | 3,284 | | | $ | 3,446 | | | $ | 3,955 | | | $ | 4,036 | | | $ | 4,454 | | 
+Revenue Y/Y growth | | 25 | % | | 27 | % | | 38 | % | | 33 | % | | 36 | % | 
+Net Revenue Margin | | 13.5 | % | | 13.8 | % | | 13.3 | % | | 12.8 | % | | 13.5 | % | 
+GAAP gross profit | | $ | 1,608 | | | $ | 1,689 | | | $ | 1,911 | | | $ | 1,944 | | | $ | 2,223 | | 
+GAAP gross profit as a % of Marketplace GOV | | 6.6 | % | | 6.8 | % | | 6.4 | % | | 6.2 | % | | 6.7 | % | 
+Contribution Profit | | $ | 1,147 | | | $ | 1,268 | | | $ | 1,405 | | | $ | 1,380 | | | $ | 1,641 | | 
+Contribution Profit as a % of Marketplace GOV | | 4.7 | % | | 5.1 | % | | 4.7 | % | | 4.4 | % | | 5.0 | % | 
+GAAP net income attributable to DoorDash, Inc. common stockholders | | $ | 285 | | | $ | 244 | | | $ | 213 | | | $ | 184 | | | $ | 200 | | 
+GAAP net income attributable to DoorDash, Inc. common stockholders as a % of Marketplace GOV | | 1.2 | % | | 1.0 | % | | 0.7 | % | | 0.6 | % | | 0.6 | % | 
+Adjusted EBITDA | | $ | 655 | | | $ | 754 | | | $ | 780 | | | $ | 754 | | | $ | 914 | | 
+Adjusted EBITDA as a % of Marketplace GOV | | 2.7 | % | | 3.0 | % | | 2.6 | % | | 2.4 | % | | 2.8 | % | 
+Weighted-average diluted shares outstanding | | 438 | | | 442 | | | 443 | | | 442 | | | 439 | | 
+1
+Operational Update
+In Q2 2026, we grew Total Orders 27% Y/Y (17% Y/Y excluding the impact of Deliveroo), Marketplace GOV 36% Y/Y (23% Y/Y excluding the impact of Deliveroo), and revenue 36% Y/Y (24% Y/Y excluding the impact of Deliveroo). Net income attributable to our common stockholders was $200 million in Q2 2026 and Adjusted EBITDA was $914 million, which was well above our expectation.
+Y/Y growth in Marketplace GOV in our U.S. restaurant category accelerated slightly in Q2 2026, supported by strong U.S. DashPass membership. In our U.S. grocery and retail categories, we drove strong Y/Y growth in Marketplace GOV in Q2 2026, while significantly improving unit economics. Y/Y growth in Marketplace GOV in our international countries in Q2 2026 was consistent with Q1 2026, with further improvement in unit economics.3 Y/Y growth in Marketplace GOV at Deliveroo accelerated in Q2 2026.3
+We are proud of our Q2 2026 results and typically use this space to walk through our quarterly performance in more detail. Given the changes in our business over the last year, we are expanding that slightly to share more thoughts on our approach in a few areas of the business where we have been spending time. We expect to return to our previous format next quarter, but hope this is helpful.
+The Value of Membership
+The primary goal of our membership programs is to reduce transactional friction by improving affordability and, in doing so, drive greater consumer retention and engagement, more sales for merchants, and increased duration in our business. We believe the output of this has been most visible in the magnitude and consistency of growth in our U.S. restaurant category over the last four years: in Q2 2026, Y/Y growth in Marketplace GOV in our U.S. restaurant category was roughly the same as it was for the full year 2022.
+In the 12 months through Q2 2026, we increased the number of U.S. paid DashPass members by more than we did over the previous 24 months combined, a sign that consumers are finding growing value in our program. Because DashPass lowers consumer fees, it typically drives an increase in average consumer order frequency4 and retention,5 but it does so at a lower gross margin percentage compared to non-DashPass orders. We are happy to make this trade as long as we believe the increase to consumer engagement is durable and average consumer lifetime value increases.
+We continue to see strong signals that our U.S. DashPass program is producing excellent outcomes for consumers and for our business. This is driving a relatively consistent pattern within consumer cohorts in our U.S. marketplace: as cohorts age, DashPass penetration increases, order rates6 increase, and Adjusted Gross Profit per MAU7 increases, which helps drive more consistent growth and higher total profit dollar production.
+2
+In addition to supporting consistent growth in our U.S. restaurant category, we believe DashPass is helping to drive adoption in our U.S. grocery and retail categories. Within our consumer cohorts, we are seeing increased order rates in our U.S. grocery and retail categories and higher basket sizes within those categories and, in Q2 2026, DashPass members placed approximately 75% of Total Orders in our U.S. grocery and retail categories. 
+We believe we have significant room to continue increasing adoption of DashPass in the U.S., even among cohorts that are several years old. Our goal is to continue adding value to the program in order to drive greater consumer engagement across our categories, more sales for local merchants, and further growth in our business.
+Serving Local Audiences, Globally
+Our international aspirations are similar to those in the U.S.: to build world-class services that deliver great outcomes for consumers, merchants, and Dashers;8 to empower local economies; and to generate strong long-term financial returns. While there are common components to achieving these goals in different regions around the world, each community is unique. Executing well across 40 international countries requires operating teams that excel at understanding local nuances, product teams with the capacity and capability to translate operator insights into compelling features, and finance teams with the acumen to identify attractive opportunities and the flexibility to dynamically allocate capital with long-term discipline.
+As demonstrated in our Q2 2026 results, we believe we are executing well in our international countries. At Wolt, month-3 and month-6 cohort order rates increased compared to a year ago while substantially increasing unit economics. At Deliveroo, we accelerated Y/Y growth in MAUs and Total Orders while exceeding our profit expectations entering the quarter.
+Nonetheless, we always strive to improve the speed, efficiency, and effectiveness of our execution and are currently working on three distinct efforts to do so: 1) building a single global technology platform, 2) reorganizing certain international operating groups around functional areas, rather than brands, and 3) updating our capital allocation processes to better account for long-term consumer engagement trends. Collectively, we believe these initiatives will allow us to accelerate our product development, reduce redundancy, and help us invest more efficiently, with the ultimate goal of building more services that are loved by consumers, merchants, and Dashers in each community we serve.
+Our organizational efforts and the improvements to our capital allocation processes are well underway and are already contributing to our international performance. We expect to begin seeing benefits from our new global technology platform once it is fully rolled out, which we currently expect to be in the first half of 2027.
+3
+AI and Autonomy 
+In recent periods, we have increased investment in both our team and our tools in order to accelerate our pace of AI-based product development. This has allowed us to build new features designed to help improve personalization and reduce friction in basket-building for consumers; speed up onboarding, automate catalog ingestion, and improve ad monetization for merchants; and improve routing, traffic predictions, and safety for Dashers. As an example, we recently launched Ask, the DoorDash AI assistant, which can help consumers more easily discover new restaurants and build grocery baskets simply and quickly.
+Internally, we actively promote AI-tool adoption across our business by making the tools available and by teaching through dedicated task forces. We are now finding valuable use cases in engineering, marketing, communications, finance, tax, legal, accounting, and HR, and we expect to find additional productivity benefits as the quality of the tools improves and employees gain more experience using them.
+At the same time, as you have probably experienced, there is a difference between finding ways to use AI and finding ways to use it productively. Consequently, we are approaching the internal use of AI with disciplined execution, attempting to allow enough inefficiency in our usage to leave room for innovation, while holding ourselves to constraints to ensure productivity. To help with this we have built internal software to help route tokens to the most efficient AI model, so that we can apply the right amount of cost to the intelligence required. Like everyone, we are learning and will adjust our processes as time goes on to help maximize the benefits to our business.
+In autonomy, our long-term goal is to complement Dashers in a way that expands merchants’ ability to reach consumers, while reducing the average cost of doing so. Building high quality robots with safe and dependable autonomous capabilities is just one of the challenges we face in pursuing this. Manufacturing, maintenance, building charging infrastructure, managing merchant and consumer handoffs, routing, and assignment in a multi-modal network are all extremely difficult and must be addressed at scale. However, we are learning quickly in these areas and with Dot, our land-based robot, we have increased the number of robots in operation and the average number of deliveries per robot per day. Based on our current progress, we expect Dot to deliver a high single-digit percentage of orders in our largest test market by the end of the year. 
+With DoorDash Air, we recently earned Part 135 air carrier certification from the Federal Aviation Administration, which allows us to operate as an air carrier and increase testing of more integrated drone delivery experiences. We are still very early in our autonomous efforts and expect many challenges as we learn to scale. We expect Dashers to remain the backbone of our logistics network for a very long time, but we are increasing our levels of investment in both our land and air based robots and are optimistic we can continue to make steady progress.
+A Growth Engine for Local Merchants
+DoorDash was founded to help local merchants grow and thrive by better connecting them with consumers in their communities, and we remain completely focused on this mission. We aim to do this in two primary ways: 1) building marketplaces that serve as all-in-one solutions to generate and fulfill demand for merchants, and 2) building services that help merchants generate and fulfill demand through their own channels, both their first-party digital channels and in their stores.
+In addition to helping local merchants build better individual demand channels, we believe there is a clear opportunity to help merchants break down barriers between those channels in order to place the consumer at the center of everything they do. Over the last year, we have accelerated our pace of investment in services that help enable this. While this effort is early, we are seeing evidence that merchants value our ability to drive growth in multiple parts of their business. In Q2 2026, we grew new signed venues at SevenRooms by over 100% Y/Y and grew revenue from our digital ordering service, which is being used by over 150,000 merchants, by over 40% Y/Y.
+4
+Somewhat uniquely, our expansion of new merchant services is also helping us expand the consumer services we offer. Our growth of SevenRooms locations helped us launch a new reservations service in a number of cities and, in Q2 2026, reservations booked through our marketplaces increased by over 150% Q/Q. This suggests consumers value being able to connect with their favorite restaurants in more ways.
+More important than the growth in each individual area, we believe expanding our services to drive more connections between local merchants and consumers can be synergistic, both in helping merchants grow and succeed and in increasing the value consumers find in our services. We are excited by this potential, and we intend to continue investing to expand the breadth of our services and improve their effectiveness.
+Investing to Build a Large and Durable Business
+We entered 2026 with strong momentum in many existing areas of our business and several significant new projects that we believe are critical to our future. Through the first half of the year, our team has managed through the increased scope, scale, and complexity tremendously well, and the business has performed better than we expected. The more we have done, the more opportunities arise to do even more. However, we must continue to balance our ambition with discipline and execution, and earn our right to do more by proving our ability to drive outcomes for consumers, merchants, Dashers, and our shareholders. We have had a strong start to 2026 and will work hard to continue our progress through the second half of the year.
+5
+Financial Outlook
+ | | | | | | | | | 
+Period | Marketplace GOV | Adjusted EBITDA | 
+Q3 2026
+ | $33.0 billion - $34.0 billion | $950 million - $1,100 million | 
+In H2 2026, we expect Adjusted EBITDA as a percentage of Marketplace GOV to follow a similar pattern to H2 2025, with a Q/Q increase in Q3 2026 followed by a Q/Q decline in Q4 2026. We expect the Q/Q decline in Adjusted EBITDA as a percentage of Marketplace GOV in Q4 2026 to be driven primarily by a seasonal increase in Dasher costs, an annual increase in insurance expenses, and an increase in investments in our global technology platform and our autonomy initiatives, among other areas.
+Based on our current outlook and assuming a stock price consistent with recent trading levels, we expect:
+•2026 stock-based compensation expense of approximately $1.2 billion to $1.3 billion.
+•2026 depreciation and amortization expense of approximately $1.1 billion to $1.2 billion, inclusive of approximately $450 million of amortization of acquired intangible assets.
+•2026 year-end timing for merchant payments compared to the end of 2025 is expected to reduce reported 2026 Free Cash Flow by between $700 million and $800 million.
+Unless otherwise indicated above, our guidance includes the expected impact of, and contributions from, Deliveroo.
+Our expectations regarding the impact of, and contributions from, Deliveroo are based on judgments which we believe to be reasonable and certain assumptions that are subject to change, many of which are outside of our control. In addition to the other risks and uncertainties we describe in our filings with the U.S. Securities and Exchange Commission (the "SEC"), the ongoing integration of Deliveroo into our business presents certain execution and operational risks that could cause actual results to vary from the expectations expressed above.
+Our outlook assumes that aggregate consumer demand and key foreign currency rates remain relatively stable at current levels. Our outlook also anticipates significant levels of ongoing investment in new categories, international markets, and in our system capacity to support further growth, as well as growing investment in new initiatives and our global technology platform.
+We caution investors that consumer spending in any of our geographies could deteriorate relative to our outlook, which could drive results below our expectations. Additionally, our increasing international exposure heightens risks associated with operating in foreign markets, including geopolitical and currency risks. Changes in the international operating environment could negatively impact results versus our current outlook.
+We have not provided GAAP net income (loss) attributable to DoorDash, Inc. common stockholders outlook or a reconciliation of Adjusted EBITDA outlook to GAAP net income (loss) attributable to DoorDash, Inc. common stockholders as a result of the uncertainty regarding, and the potential variability of, reconciling items such as legal, tax, and regulatory expenses and other items. Accordingly, a reconciliation of Adjusted EBITDA outlook to GAAP net income (loss) attributable to DoorDash, Inc. common stockholders is not available without unreasonable effort. However, it is important to note that material changes to reconciling items could have a significant effect on future GAAP results. We have provided historical reconciliations of GAAP to non-GAAP measures in tables at the end of this release. For more information regarding the non-GAAP financial measures discussed in this release, please see "Use of Non-GAAP Financial Measures" below.
+6
+Q2 2026 Financial Performance
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | | Y/Y % Change | | Q/Q % Change | 
+(in millions, except percentages) | | Jun. 30,
+2025 | | Sept. 30, 
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | | Jun. 30,
+2026 | | Jun. 30,
+2026 | 
+Revenue | | $ | 3,284 | | | $ | 3,446 | | | $ | 3,955 | | | $ | 4,036 | | | $ | 4,454 | | | 36 | % | | 10 | % | 
+Net Revenue Margin | | 13.5 | % | | 13.8 | % | | 13.3 | % | | 12.8 | % | | 13.5 | % | | | | | 
+ GAAP cost of revenue, exclusive of depreciation and amortization
+ | | $ | 1,616 | | | $ | 1,687 | | | $ | 1,935 | | | $ | 1,992 | | | $ | 2,107 | | | 30 | % | | 6 | % | 
+ GAAP sales and marketing expense
+ | | $ | 607 | | | $ | 576 | | | $ | 707 | | | $ | 746 | | | $ | 821 | | | 35 | % | | 10 | % | 
+ GAAP research and development expense
+ | | $ | 351 | | | $ | 355 | | | $ | 419 | | | $ | 398 | | | $ | 535 | | | 52 | % | | 34 | % | 
+ GAAP general and administrative expense
+ | | $ | 388 | | | $ | 400 | | | $ | 480 | | | $ | 432 | | | $ | 538 | | | 39 | % | | 25 | % | 
+GAAP net income attributable to DoorDash, Inc. common stockholders | | $ | 285 | | | $ | 244 | | | $ | 213 | | | $ | 184 | | | $ | 200 | | | (30) | % | | 9 | % | 
+ | | | | | | | | | | | | | | | 
+Net cash provided by operating activities | | $ | 504 | | | $ | 871 | | | $ | 421 | | | $ | 594 | | | $ | 944 | | | 87 | % | | 59 | % | 
+Free Cash Flow
+ | | $ | 355 | | | $ | 723 | | | $ | 254 | | | $ | 420 | | | $ | 742 | | | 109 | % | | 77 | % | 
+The Y/Y increase in Total Orders in Q2 2026 was driven primarily by growth in the number of consumers and the acquisition of Deliveroo. Excluding the acquisition of Deliveroo, Total Orders increased 17% Y/Y in Q2 2026.
+The Y/Y increase in Marketplace GOV in Q2 2026 was driven primarily by growth in Total Orders and an increase in average order value9 on our Marketplaces. We estimate aggregate changes in currency rates added less than 1% to Y/Y growth in Marketplace GOV in Q2 2026. Excluding the acquisition of Deliveroo, Marketplace GOV increased 23% Y/Y in Q2 2026.
+The Y/Y increase in revenue in Q2 2026 was driven primarily by growth in Marketplace GOV. Excluding Deliveroo, revenue increased 24% Y/Y in Q2 2026.
+The Y/Y increase in GAAP cost of revenue, exclusive of depreciation and amortization in Q2 2026 was driven primarily by increases in Total Orders. As a percentage of Marketplace GOV, GAAP cost of revenue, exclusive of depreciation and amortization, was 6.4% in Q2 2026, down from 6.7% in Q2 2025 and up from 6.3% in Q1 2026.
+The Y/Y increase in GAAP sales and marketing expense in Q2 2026 was driven primarily by increases in advertising expenses and personnel-related compensation expenses. As a percentage of Marketplace GOV, GAAP sales and marketing expense was 2.5% in Q2 2026, in line with 2.5% in Q2 2025 and up from 2.4% in Q1 2026.
+The Y/Y increase in GAAP research and development expense in Q2 2026 was driven primarily by increases in personnel-related compensation expenses and third-party software expenses. As a percentage of Marketplace GOV, GAAP research and development expense was 1.6% in Q2 2026, up from 1.4% in Q2 2025 and 1.3% in Q1 2026.
+The Y/Y increase in GAAP general and administrative expense in Q2 2026 was driven primarily by increases in legal, tax, and regulatory expenses and personnel-related compensation expenses. As a percentage of Marketplace GOV, GAAP general and administrative expense was 1.6% in Q2 2026, in line with 1.6% in Q2 2025 and up from 1.4% in Q1 2026.
+GAAP net income attributable to DoorDash, Inc. common stockholders was $200 million in Q2 2026, a decrease from $285 million in Q2 2025 and an increase from $184 million in Q1 2026.
+Adjusted EBITDA was $914 million in Q2 2026, up 40% from $655 million in Q2 2025 and up 21% from $754 million in Q1 2026. Adjusted EBITDA as a percentage of Marketplace GOV was 2.8% in Q2 2026, up from 2.7% in Q2 2025 and 2.4% in Q1 2026.
+7
+In Q2 2026, we generated net cash provided by operating activities of $944 million and Free Cash Flow of $742 million, up from $504 million and $355 million, respectively, in Q2 2025.
+In February 2025, our board of directors authorized the repurchase of up to $5.0 billion of our Class A common stock. Year to date through August 5, we have repurchased a total of 6.8 million shares of our Class A common stock for $1,049 million under the February 2025 authorization. We currently have approximately $3,951 million remaining under the current stock repurchase authorization. We may or may not repurchase any portion of the remaining amount.
+Analyst and Investor Conference Call and Earnings Webcast
+DoorDash will host a conference call and webcast to discuss our quarterly results today at 1:30 p.m. Pacific Time (4:30 p.m. Eastern Time). Those interested in listening to the call can register and attend by visiting our Investor Relations page at https://ir.doordash.com. An archived webcast will be available on our Investor Relations page shortly after the call.
+Available Information
+We announce material information to the public about us, our products and services, and other matters through a variety of means, including filings with the SEC, press releases, public conference calls, webcasts, the investor relations section of our website (ir.doordash.com), our blog (doordash.news), and our social media accounts on X and LinkedIn in order to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD.
+Forward-Looking Statements
+This release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as “may,” "aim," “will,” “should,” “expect,” “plan,” "try," “anticipate,” “could,” “would,” “intend,” “target,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategies, plans, or intentions. Forward-looking statements in this release include, but are not limited to, our expectations regarding our financial position and financial and operating performance, including our outlook and guidance for the third quarter of 2026 and our assumptions underlying such guidance; our expectations regarding Adjusted EBITDA as a percent of Marketplace GOV in H2 and full year 2026; our expectations regarding our stock-based compensation expense, our depreciation and amortization expense, and our Free Cash Flow; our expectations regarding the impact of year-end timing of merchant payments on 2026 Free Cash Flow; our priorities and our plans and expectations regarding our overall business strategy and investment approach; the expected benefits of our global technology platform, reorganization of certain international operating groups, and our updated capital allocation processes; our expectations regarding the value and benefits of our membership programs; our plans and expectations for our expanded services, our AI-integrated product features and other new product initiatives, and our use of AI-based tools; our expectations regarding the value of our platform and services to merchants, consumers, and Dashers; our plans and expectations regarding the integration of Deliveroo, including, among other things, its impact on, and contribution to, our business, financial position, and financial and operating performance; our ability to drive future growth, gain greater efficiency in unit economics, and execute on our goals and strategies; our expectations regarding trends in our business, demand for our platform and for local commerce platforms in general, the macroeconomic environment, including global consumer spending, foreign currency rates, gas prices, and geopolitical risks; and our plans and expectations regarding share dilution, including in connection with equity award issuances and our share repurchase authorization. Our expectations and beliefs regarding these matters may not materialize, and actual results in future periods are subject to risks and uncertainties that could cause actual results to differ materially from those projected, including risks and uncertainties related to: economic, financial, social or political conditions that could adversely affect us; competition; managing our growth and corporate culture; the macroeconomic environment and geopolitical uncertainty; financial performance; investments in new geographies, products, or offerings, as well as our technology infrastructure; our ability to successfully integrate and realize the benefits of acquisitions, including Deliveroo, strategic partnerships, joint ventures, and investments; our ability to attract merchants, consumers, and Dashers to our platform; legal proceedings and regulatory matters and developments; any future changes to our business or our financial or operating model; and our brand and reputation. The forward-looking statements contained in this release are also subject to other risks and uncertainties that could cause actual results to differ from the results predicted, including those more fully described in our 
+8
+filings with the SEC, including our Annual Report on Form 10-K for the year ended December 31, 2025 and our quarterly reports on Form 10-Q. All forward-looking statements in this release are based on information available to DoorDash and assumptions and beliefs as of the date hereof, and we disclaim any obligation to update any forward-looking statements, except as required by law.
+Use of Non-GAAP Financial Measures
+To supplement our financial information presented in accordance with accounting principles generally accepted in the United States of America ("GAAP"), we consider certain financial measures that are not prepared in accordance with GAAP, including adjusted cost of revenue, adjusted sales and marketing expense, adjusted research and development expense, adjusted general and administrative expense, Adjusted Gross Profit, Adjusted Gross Margin, Contribution Profit, Contribution Margin, Adjusted EBITDA, Free Cash Flow, and revenue, excluding Deliveroo. We use these financial measures in conjunction with GAAP measures as part of our overall assessment of our performance, including the preparation of our annual operating budget and quarterly forecasts, to evaluate the effectiveness of our business strategies and to communicate with our board of directors concerning our business and financial performance. We believe that these non-GAAP financial measures provide useful information to investors about our business and financial performance, enhance their overall understanding of our past performance and future prospects, and allow for greater transparency with respect to metrics used by our management in their financial and operational decision making. We are presenting these non-GAAP financial measures to assist investors in seeing our business and financial performance through the eyes of management, and because we believe that these non-GAAP financial measures provide an additional tool for investors to use in comparing results of operations of our business over multiple periods and with other companies in our industry.
+We define adjusted cost of revenue as cost of revenue, exclusive of depreciation and amortization, excluding stock-based compensation expense and certain payroll tax expense, allocated overhead, and inventory write-off related to restructuring. Allocated overhead is determined based on an allocation of shared costs, such as facilities (including rent and utilities) and information technology costs, among all departments based on employee headcount. We define adjusted sales and marketing expense as sales and marketing expenses excluding stock-based compensation expense and certain payroll tax expense, and allocated overhead. We define adjusted research and development expense as research and development expenses excluding stock-based compensation expense and certain payroll tax expense, and allocated overhead. We define adjusted general and administrative expense as general and administrative expenses excluding stock-based compensation expense and certain payroll tax expense, certain legal, tax, and regulatory settlements, reserves, and expenses, transaction-related costs (primarily consists of acquisition, integration, and investment related costs), impairment expenses, and including allocated overhead from cost of revenue, sales and marketing, and research and development. 
+We define Adjusted Gross Profit as gross profit plus (i) depreciation and amortization expense related to cost of revenue, (ii) stock-based compensation expense and certain payroll tax expense included in cost of revenue, (iii) allocated overhead included in cost of revenue, and (iv) inventory write-off related to restructuring. Gross profit is defined as revenue less (i) cost of revenue, exclusive of depreciation and amortization and (ii) depreciation and amortization related to cost of revenue. Adjusted Gross Margin is defined as Adjusted Gross Profit as a percentage of revenue for the same period.
+We define Contribution Profit as our gross profit less sales and marketing expense plus (i) depreciation and amortization expense related to cost of revenue, (ii) stock-based compensation expense and certain payroll tax expense included in cost of revenue and sales and marketing expenses, (iii) allocated overhead included in cost of revenue and sales and marketing expenses, and (iv) inventory write-off related to restructuring. We define gross margin as gross profit as a percentage of revenue for the same period and we define Contribution Margin as Contribution Profit as a percentage of revenue for the same period. We use Contribution Profit to evaluate our operating performance and trends. We believe that Contribution Profit is a useful indicator of the economic impact of orders fulfilled through DoorDash as it takes into account the direct expenses associated with generating and fulfilling orders.
+Adjusted EBITDA is a measure that we use to assess our operating performance and the operating leverage in our business. We define Adjusted EBITDA as net income (loss) attributable to DoorDash, Inc. common stockholders, adjusted to include net income (loss) attributable to redeemable non-controlling interests and exclude (i) certain legal, tax, and regulatory settlements, reserves, and expenses, (ii) loss on disposal of property and equipment, (iii) transaction-related costs (primarily consists of acquisition, integration, and investment related costs), (iv) impairment expenses, (v) 
+9
+restructuring charges, (vi) inventory write-off related to restructuring, (vii) provision for (benefit from) income taxes, (viii) interest income, net, (ix) other (income) expense, net, (x) stock-based compensation expense and certain payroll tax expense, and (xi) depreciation and amortization expense.
+We define Free Cash Flow as cash flows from operating activities less purchases of property and equipment and capitalized software and website development costs.
+We define Total Orders as all orders completed through our marketplaces and Commerce Platform over the period of measurement.
+We define Marketplace GOV as the total dollar value of orders completed on our marketplaces, including taxes, tips, and any applicable consumer fees, including membership fees related to DashPass, Wolt+, and Deliveroo Plus. Marketplace GOV does not include the dollar value of orders, taxes and tips, or fees charged to merchants, for orders fulfilled through our Commerce Platform.
+We define Net Revenue Margin as revenue expressed as a percentage of Marketplace GOV.
+We define revenue, excluding Deliveroo as revenue, excluding the revenue attributable to our Deliveroo branded marketplaces and Commerce Platform. We believe that revenue, excluding Deliveroo is a useful metric for period-over-period comparability of our legacy business.
+Our definitions may differ from the definitions used by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Further, these metrics have certain limitations in that they do not include the impact of certain expenses that are reflected in our consolidated statements of operations. Thus, our adjusted cost of revenue, adjusted sales and marketing expense, adjusted research and development expense, adjusted general and administrative expense, Adjusted Gross Profit, Adjusted Gross Margin, Contribution Profit, Contribution Margin, Adjusted EBITDA, Free Cash Flow, and revenue, excluding Deliveroo should be considered in addition to, not as substitutes for, or in isolation from, measures prepared in accordance with GAAP.
+ | | | | | | | | | | | | | | | 
+ | | | | | 
+1 Members are based on the number of paid, trial, and partnership member accounts for the relevant membership programs on the last day of the period of measurement.
+2 MAUs are based on the number of individual consumer accounts that completed an order on our marketplaces in the last month of the
+period of measurement.
+3 For these statements only, Y/Y growth in Marketplace GOV at Deliveroo and in our international countries as a whole has been calculated on a constant currency basis, excluding exited countries, and assuming we owned Deliveroo in all applicable periods.
+4 Order frequency is calculated as the total number of orders completed on the applicable marketplaces divided by the number of individual consumer accounts that completed an order, in each case, during the period of measurement.
+5 Consumer retention is calculated as the number of individual consumer accounts from a given cohort that transacted on our platform during the most recent month of measurement as a percentage of the total individual consumer accounts in that cohort.
+6 Order rate for a given cohort and time period is calculated by multiplying retention by average order frequency for such cohort and time period.
+7 Adjusted Gross Profit per MAU is an indexed operating metric that we use to evaluate the performance of certain MAUs prior to allocation of shared-use fixed costs. We have provided a historical reconciliation of Adjusted Gross Profit, a non-GAAP financial measure, to gross profit, the most directly comparable financial measure calculated in accordance with GAAP, in tables at the end of this release. For the definition of Adjusted Gross Profit, please see “Use of Non-GAAP Financial Measures.”
+8 "Dashers" generally refers to the independent contractors that use our marketplaces. In certain geographies, Dashers may be known locally as riders, courier partners, or similar. Dashers may also refer to employees or independent contractors of third-party service providers or employees of our local entities.
+9 Calculated as the total value of Marketplace GOV divided by the total number of orders completed on our marketplaces in the period of measurement.
+10
+DOORDASH, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in millions)
+(Unaudited)
+ | | | | | | | | | | | | 
+ | December 31,
+2025 | | June 30,
+2026 | 
+ | | | | 
+Assets | | | | 
+Current assets: | | | | 
+Cash and cash equivalents | $ | 4,378 | | | $ | 4,424 | | 
+Restricted cash | 273 | | | 308 | | 
+Short-term investments | 1,128 | | | 923 | | 
+Funds held at payment processors | 587 | | | 513 | | 
+Accounts receivable, net | 1,108 | | | 1,100 | | 
+Prepaid expenses and other current assets | 1,169 | | | 1,148 | | 
+Total current assets | 8,643 | | | 8,416 | | 
+Long-term investments | 837 | | | 869 | | 
+Operating lease right-of-use assets | 437 | | | 454 | | 
+Property and equipment, net | 1,067 | | | 1,246 | | 
+Intangible assets, net | 2,260 | | | 2,005 | | 
+Goodwill | 5,519 | | | 5,495 | | 
+Other assets | 896 | | | 1,076 | | 
+Total assets | $ | 19,659 | | | $ | 19,561 | | 
+Liabilities, Redeemable Non-controlling Interests and Stockholders’ Equity | | | | 
+Current liabilities: | | | | 
+Accounts payable | $ | 397 | | | $ | 301 | | 
+Operating lease liabilities | 105 | | | 104 | | 
+Accrued expenses and other current liabilities | 5,645 | | | 5,747 | | 
+Total current liabilities | 6,147 | | | 6,152 | | 
+Operating lease liabilities | 461 | | | 474 | | 
+Convertible notes, net
+ | 2,724 | | | 2,727 | | 
+Other liabilities | 281 | | | 276 | | 
+Total liabilities | 9,613 | | | 9,629 | | 
+ | | | | 
+Redeemable non-controlling interests | 13 | | | 11 | | 
+Stockholders’ equity: | | | | 
+Common stock | — | | | — | | 
+Additional paid-in capital | 14,092 | | | 14,806 | | 
+Accumulated other comprehensive income | 261 | | | 101 | | 
+Accumulated deficit | (4,320) | | | (4,986) | | 
+Total stockholders’ equity | 10,033 | | | 9,921 | | 
+Total liabilities, redeemable non-controlling interests and stockholders’ equity | $ | 19,659 | | | $ | 19,561 | | 
+11
+DOORDASH, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except share amounts which are reflected in thousands, and per share data) 
+(Unaudited)
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | Three Months Ended June 30, | | Six Months Ended June 30, | 
+ | 2025 | | 2026 | | 2025 | | 2026 | 
+ | | | | | | | | 
+Revenue | $ | 3,284 | | | $ | 4,454 | | | $ | 6,316 | | | $ | 8,490 | | 
+Costs and expenses: | | | | | | | | 
+Cost of revenue, exclusive of depreciation and amortization shown separately below | 1,616 | | | 2,107 | | | 3,116 | | | 4,099 | | 
+Sales and marketing | 607 | | | 821 | | | 1,193 | | | 1,567 | | 
+Research and development | 351 | | | 535 | | | 657 | | | 933 | | 
+General and administrative | 388 | | | 538 | | | 720 | | | 970 | | 
+Depreciation and amortization | 159 | | | 295 | | | 311 | | | 564 | | 
+Restructuring charges | — | | | 2 | | | 1 | | | 50 | | 
+Total costs and expenses | 3,121 | | | 4,298 | | | 5,998 | | | 8,183 | | 
+Income from operations | 163 | | | 156 | | | 318 | | | 307 | | 
+Interest income, net | 49 | | | 35 | | | 98 | | | 69 | | 
+Other income, net | 59 | | | 16 | | | 53 | | | 22 | | 
+Income before income taxes | 271 | | | 207 | | | 469 | | | 398 | | 
+Provision for (benefit from) income taxes | (13) | | | 8 | | | (7) | | | 16 | | 
+Net income including redeemable non-controlling interests | 284 | | | 199 | | | 476 | | | 382 | | 
+Less: net loss attributable to redeemable non-controlling interests | (1) | | | (1) | | | (2) | | | (2) | | 
+Net income attributable to DoorDash, Inc. common stockholders | $ | 285 | | | $ | 200 | | | $ | 478 | | | $ | 384 | | 
+Net income per share attributable to DoorDash, Inc. Class A and Class B common stockholders | | | | | | | | 
+Basic | $ | 0.67 | | | $ | 0.46 | | | $ | 1.13 | | | $ | 0.88 | | 
+Diluted | $ | 0.65 | | | $ | 0.46 | | | $ | 1.09 | | | $ | 0.87 | | 
+Weighted-average number of shares outstanding used to compute net income per share attributable to DoorDash, Inc. Class A and Class B common stockholders | | | | | | | | 
+Basic | 425,113 | | | 434,425 | | | 423,278 | | | 434,924 | | 
+Diluted | 438,377 | | | 439,345 | | | 436,980 | | | 440,833 | | 
+12
+DOORDASH, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(in millions)
+(Unaudited)
+ | | | | | | | | | | | | 
+ | Six Months Ended June 30, | 
+ | 2025 | | 2026 | 
+ | | | | 
+Cash flows from operating activities | | | | 
+Net income including redeemable non-controlling interests | $ | 476 | | | $ | 382 | | 
+Adjustments to reconcile net income to net cash provided by operating activities: | | | | 
+Depreciation and amortization | 311 | | | 564 | | 
+Stock-based compensation | 517 | | | 580 | | 
+Reduction of operating lease right-of-use assets and accretion of operating lease liabilities | 53 | | | 72 | | 
+Amortization of deferred contract costs
+ | 36 | | | 44 | | 
+Office lease impairment expenses | 7 | | | 1 | | 
+ | | | | 
+ | | | | 
+Other | (44) | | | 8 | | 
+Changes in operating assets and liabilities, net of assets acquired and liabilities assumed from acquisitions: | | | | 
+Funds held at payment processors | 128 | | | 68 | | 
+Accounts receivable, net | (90) | | | (12) | | 
+Prepaid expenses and other current assets | (47) | | | 16 | | 
+Other assets | (142) | | | (68) | | 
+Accounts payable | 25 | | | (99) | | 
+Accrued expenses and other current liabilities | 10 | | | 84 | | 
+Payments for operating lease liabilities | (58) | | | (79) | | 
+Other liabilities | (43) | | | (23) | | 
+Net cash provided by operating activities | 1,139 | | | 1,538 | | 
+Cash flows from investing activities | | | | 
+Purchases of property and equipment | (140) | | | (118) | | 
+Capitalized software and website development costs | (150) | | | (258) | | 
+Purchases of investments | (725) | | | (591) | | 
+Maturities of investments | 801 | | | 729 | | 
+Sales of investments | 286 | | | 29 | | 
+Purchases of non-marketable investments | — | | | (55) | | 
+Acquisitions, net of cash acquired | (1,173) | | | (30) | | 
+Other investing activities | — | | | 8 | | 
+Net cash used in investing activities | (1,101) | | | (286) | | 
+Cash flows from financing activities | | | | 
+Proceeds from issuance of convertible notes, net of issuance costs
+ | 2,722 | | | — | | 
+Proceeds from issuance of warrants
+ | 341 | | | — | | 
+Purchase of convertible note hedges
+ | (680) | | | — | | 
+Proceeds from exercise of stock options | 5 | | | 2 | | 
+Repurchase of common stock | — | | | (1,049) | | 
+Payments of acquisition-related deferred cash consideration | — | | | (20) | | 
+Other financing activities | (10) | | | (2) | | 
+Net cash provided by (used in) financing activities | 2,378 | | | (1,069) | | 
+Foreign currency effect on cash and cash equivalents, and restricted cash and cash equivalents | 63 | | | (18) | | 
+Net increase in cash and cash equivalents, and restricted cash and cash equivalents | 2,479 | | | 165 | | 
+Cash and cash equivalents, and restricted cash and cash equivalents | | | | 
+Beginning of period | 4,221 | | | 4,681 | | 
+End of period | $ | 6,700 | | | $ | 4,846 | | 
+Reconciliation of cash and cash equivalents, and restricted cash and cash equivalents to the condensed consolidated balance sheets | | | | 
+Cash and cash equivalents | $ | 3,911 | | | $ | 4,424 | | 
+Restricted cash | 2,750 | | | 308 | | 
+Long-term restricted cash and cash equivalents included in other assets | 39 | | | 114 | | 
+Total cash and cash equivalents, and restricted cash and cash equivalents | $ | 6,700 | | | $ | 4,846 | | 
+ | | | | 
+ | | | | 
+ | | | | 
+Non-cash investing and financing activities | | | | 
+Purchases of property and equipment not yet settled | $ | 41 | | | $ | 50 | | 
+Stock-based compensation included in capitalized software and website development costs | $ | 91 | | | $ | 132 | | 
+Deferred cash consideration for acquisitions
+ | $ | 112 | | | $ | 58 | | 
+13
+DOORDASH, INC.
+NON-GAAP FINANCIAL MEASURES
+(Unaudited)
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | 
+(In millions) | | Jun. 30,
+2025 | | Sept. 30,
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+ | | | | | | | | | | | 
+Cost of revenue, exclusive of depreciation and amortization | | $ | 1,616 | | | $ | 1,687 | | | $ | 1,935 | | | $ | 1,992 | | | $ | 2,107 | | 
+Adjusted to exclude the following: | | | | | | | | | | | 
+Stock-based compensation expense and certain payroll tax expense | | (37) | | | (39) | | | (45) | | | (35) | | | (48) | | 
+Allocated overhead | | (10) | | | (12) | | | (16) | | | (16) | | | (21) | | 
+Adjusted cost of revenue | | $ | 1,569 | | | $ | 1,636 | | | $ | 1,874 | | | $ | 1,941 | | | $ | 2,038 | | 
+ | | | | | | | | | | | 
+Sales and marketing | | $ | 607 | | | $ | 576 | | | $ | 707 | | | $ | 746 | | | $ | 821 | | 
+Adjusted to exclude the following: | | | | | | | | | | | 
+Stock-based compensation expense and certain payroll tax expense | | (33) | | | (28) | | | (21) | | | (23) | | | (35) | | 
+Allocated overhead | | (6) | | | (6) | | | (10) | | | (8) | | | (11) | | 
+Adjusted sales and marketing | | $ | 568 | | | $ | 542 | | | $ | 676 | | | $ | 715 | | | $ | 775 | | 
+ | | | | | | | | | | | 
+Research and development | | $ | 351 | | | $ | 355 | | | $ | 419 | | | $ | 398 | | | $ | 535 | | 
+Adjusted to exclude the following: | | | | | | | | | | | 
+Stock-based compensation expense and certain payroll tax expense | | (141) | | | (133) | | | (138) | | | (113) | | | (189) | | 
+Allocated overhead | | (8) | | | (7) | | | (7) | | | (8) | | | (10) | | 
+Adjusted research and development | | $ | 202 | | | $ | 215 | | | $ | 274 | | | $ | 277 | | | $ | 336 | | 
+ | | | | | | | | | | | 
+General and administrative | | $ | 388 | | | $ | 400 | | | $ | 480 | | | $ | 432 | | | $ | 538 | | 
+Adjusted to exclude the following: | | | | | | | | | | | 
+Stock-based compensation expense and certain payroll tax expense | | (71) | | | (61) | | | (72) | | | (57) | | | (77) | | 
+Certain legal, tax, and regulatory settlements, reserves, and expenses(1)
+ | | (29) | | | (48) | | | (29) | | | (45) | | | (98) | | 
+Transaction-related costs | | (22) | | | (17) | | | (57) | | | (13) | | | (13) | | 
+Office lease impairment expenses
+ | | — | | | — | | | (4) | | | — | | | (1) | | 
+Allocated overhead from cost of revenue, sales and marketing, and research and development | | 24 | | | 25 | | | 33 | | | 32 | | | 42 | | 
+Adjusted general and administrative | | $ | 290 | | | $ | 299 | | | $ | 351 | | | $ | 349 | | | $ | 391 | | 
+(1)We exclude certain costs and expenses from our calculation of adjusted general and administrative expense because management believes that these costs and expenses are not indicative of our core operating performance, do not reflect the underlying economics of our business, and are not necessary to operate our business. These excluded costs and expenses consist of (i) certain legal costs primarily related to worker classification matters, and our historical Dasher pay model and pay practices, (ii) reserves and settlements or other resolutions for or related to the collection of sales, indirect, and other taxes that we do not expect to incur on a recurring basis, and (iii) expenses related to supporting various policy matters, including those related to worker classification, other labor law matters, and price controls. We believe it is appropriate to exclude the foregoing matters from our calculation of adjusted general and administrative expense because (1) the timing and magnitude of such expenses are unpredictable and thus not part of management’s budgeting or forecasting process, and (2) with respect to worker classification matters, management currently expects such expenses will not be material to our results of operations over the long term as a result of increasing legislative and regulatory certainty in this area, including as a result of Proposition 22 in California and similar legislation.
+14
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | 
+(In millions, except percentages) | | Jun. 30,
+2025 | | Sept. 30,
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+ | | | | | | | | | | | 
+Revenue | | $ | 3,284 | | | $ | 3,446 | | | $ | 3,955 | | | $ | 4,036 | | | $ | 4,454 | | 
+Less: Cost of revenue, exclusive of depreciation and amortization | | (1,616) | | | (1,687) | | | (1,935) | | | (1,992) | | | (2,107) | | 
+Less: Depreciation and amortization related to cost of revenue | | (60) | | | (70) | | | (109) | | | (100) | | | (124) | | 
+Gross profit | | $ | 1,608 | | | $ | 1,689 | | | $ | 1,911 | | | $ | 1,944 | | | $ | 2,223 | | 
+Gross Margin | | 49.0 | % | | 49.0 | % | | 48.3 | % | | 48.2 | % | | 49.9 | % | 
+Less: Sales and marketing | | (607) | | | (576) | | | (707) | | | (746) | | | (821) | | 
+Add: Depreciation and amortization related to cost of revenue | | 60 | | | 70 | | | 109 | | | 100 | | | 124 | | 
+Add: Stock-based compensation expense and certain payroll tax expense included in cost of revenue and sales and marketing | | 70 | | | 67 | | | 66 | | | 58 | | | 83 | | 
+Add: Allocated overhead included in cost of revenue and sales and marketing | | 16 | | | 18 | | | 26 | | | 24 | | | 32 | | 
+Contribution Profit | | $ | 1,147 | | | $ | 1,268 | | | $ | 1,405 | | | $ | 1,380 | | | $ | 1,641 | | 
+Contribution Margin | | 34.9 | % | | 36.8 | % | | 35.5 | % | | 34.2 | % | | 36.8 | % | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | 
+(In millions, except percentages) | | Jun. 30,
+2025 | | Sept. 30,
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+ | | | | | | | | | | | 
+Gross profit | | $ | 1,608 | | | $ | 1,689 | | | $ | 1,911 | | | $ | 1,944 | | | $ | 2,223 | | 
+Add: Depreciation and amortization related to cost of revenue | | 60 | | | 70 | | | 109 | | | 100 | | | 124 | | 
+Add: Stock-based compensation expense and certain payroll tax expense included in cost of revenue | | 37 | | | 39 | | | 45 | | | 35 | | | 48 | | 
+Add: Allocated overhead included in cost of revenue | | 10 | | | 12 | | | 16 | | | 16 | | | 21 | | 
+Adjusted Gross Profit | | $ | 1,715 | | | $ | 1,810 | | | $ | 2,081 | | | $ | 2,095 | | | $ | 2,416 | | 
+Adjusted Gross Margin | | 52.2 | % | | 52.5 | % | | 52.6 | % | | 51.9 | % | | 54.2 | % | 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended | 
+(In millions)
+ | | Jun. 30,
+2025 | | Sept. 30,
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+ | | | | | | | | | | | 
+Net income attributable to DoorDash, Inc. common stockholders | | $ | 285 | | | $ | 244 | | | $ | 213 | | | $ | 184 | | | $ | 200 | | 
+Add: Net loss attributable to redeemable non-controlling interests | | (1) | | | (1) | | | — | | | (1) | | | (1) | | 
+Net income including redeemable non-controlling interests | | $ | 284 | | | $ | 243 | | | $ | 213 | | | $ | 183 | | | $ | 199 | | 
+Certain legal, tax, and regulatory settlements, reserves, and expenses(1)
+ | | 29 | | | 48 | | | 29 | | | 45 | | | 98 | | 
+Transaction-related costs | | 22 | | | 17 | | | 57 | | | 13 | | | 13 | | 
+Office lease impairment expenses | | — | | | — | | | 4 | | | — | | | 1 | | 
+Restructuring charges | | — | | | 1 | | | — | | | 48 | | | 2 | | 
+Provision for (benefit from) income taxes | | (13) | | | 5 | | | 9 | | | 8 | | | 8 | | 
+Interest income, net | | (49) | | | (71) | | | (42) | | | (34) | | | (35) | | 
+Other (income) expense, net
+ | | (59) | | | 81 | | | (33) | | | (6) | | | (16) | | 
+Stock-based compensation expense and certain payroll tax expense(2)
+ | | 282 | | | 261 | | | 276 | | | 228 | | | 349 | | 
+Depreciation and amortization expense | | 159 | | | 169 | | | 267 | | | 269 | | | 295 | | 
+Adjusted EBITDA | | $ | 655 | | | $ | 754 | | | $ | 780 | | | $ | 754 | | | $ | 914 | | 
+(1)We exclude certain costs and expenses from our calculation of Adjusted EBITDA because management believes that these costs and expenses are not indicative of our core operating performance, do not reflect the underlying economics of our business, and are not necessary to operate our business. These excluded costs and expenses consist of (i) certain legal costs primarily related to worker classification matters, and our historical Dasher pay model and pay practices, (ii) reserves and settlements or other resolutions for or related to the collection of sales, indirect, and other taxes that we do not expect to incur on a recurring basis, and (iii) expenses related to supporting various policy matters, including those related to worker classification, other labor law matters, and price controls. We believe it is appropriate to exclude the foregoing matters from our calculation of Adjusted EBITDA because (1) the timing and magnitude of such expenses are unpredictable and thus not part of management’s budgeting or forecasting process, and (2) with respect to worker classification matters, management currently expects such 
+15
+expenses will not be material to our results of operations over the long term as a result of increasing legislative and regulatory certainty in this area, including as a result of Proposition 22 in California and similar legislation.
+(2)Excludes stock-based compensation related to restructuring, which is included in restructuring charges in the table above.
+Reconciliation of net cash provided by operating activities to Free Cash Flow
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Trailing Twelve Months Ended | 
+(in millions) | | Jun. 30,
+2025 | | Sept. 30,
+2025 | | Dec. 31,
+2025 | | Mar. 31,
+2026 | | Jun. 30,
+2026 | 
+ | | | | | | | | | | | 
+Net cash provided by operating activities | | $ | 2,188 | | | $ | 2,528 | | | $ | 2,431 | | | $ | 2,390 | | | $ | 2,830 | | 
+Purchases of property and equipment | | (204) | | | (235) | | | (257) | | | (240) | | | (235) | | 
+Capitalized software and website development costs | | (271) | | | (301) | | | (348) | | | (398) | | | (456) | | 
+Free Cash Flow | | $ | 1,713 | | | $ | 1,992 | | | $ | 1,826 | | | $ | 1,752 | | | $ | 2,139 | | 
+Reconciliation of revenue to revenue, excluding Deliveroo
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended June 30, | | Six Months Ended June 30, | 
+(in millions) | | 2025 | | 2026 | | 2025 | | 2026 | 
+ | | | | | | | | | 
+Revenue | | $ | 3,284 | | | $ | 4,454 | | | $ | 6,316 | | | $ | 8,490 | | 
+Revenue attributable to Deliveroo | | — | | | (383) | | | — | | | (745) | | 
+Revenue, excluding Deliveroo | | $ | 3,284 | | | $ | 4,071 | | | $ | 6,316 | | | $ | 7,745 | | 
+ | | | | | | 
+IR Contact:
+ir@doordash.com
+ | PR Contact:
+press@doordash.com 
+ | 
+16
+
