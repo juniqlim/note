@@ -35,6 +35,7 @@ https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231
 |------|-----|
 | Netflix | 1065280 |
 | DoorDash | 1792789 |
+| Meta | 1326801 |
 
 ### 사용 사례
 

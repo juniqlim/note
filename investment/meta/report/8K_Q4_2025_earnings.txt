@@ -1,0 +1,252 @@
+
+EX-99.1
+2
+meta-12312025xexhibit991.htm
+EX-99.1
+Document
+Meta Reports Fourth Quarter and Full Year 2025 Results
+MENLO PARK, Calif. – January 28, 2026 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter and full year ended December 31, 2025.
+"We had strong business performance in 2025," said Mark Zuckerberg, Meta founder and CEO. "I'm looking forward to advancing personal superintelligence for people around the world in 2026."
+Fourth Quarter and Full Year 2025 Financial Highlights
+ | 
+ | Three Months Ended December 31, | % Change | Twelve Months Ended December 31, | % Change | 
+In millions, except percentages and per share amounts | 2025 | 2024 | 2025 | 2024 | 
+Revenue | $ | 59,893 | $ | 48,385 | 24 | % | $ | 200,966 | $ | 164,501 | 22 | % | 
+Costs and expenses | 35,148 | 25,020 | 40 | % | 117,690 | 95,121 | 24 | % | 
+Income from operations | $ | 24,745 | $ | 23,365 | 6 | % | $ | 83,276 | $ | 69,380 | 20 | % | 
+Operating margin | 41 | % | 48 | % | 41 | % | 42 | % | 
+Provision for income taxes (1)
+ | $ | 2,586 | $ | 2,715 | (5) | % | $ | 25,474 | $ | 8,303 | 207 | % | 
+Effective tax rate (1)
+ | 10 | % | 12 | % | 30 | % | 12 | % | 
+Net income | $ | 22,768 | $ | 20,838 | 9 | % | $ | 60,458 | $ | 62,360 | (3) | % | 
+Diluted earnings per share (EPS) | $ | 8.88 | $ | 8.02 | 11 | % | $ | 23.49 | $ | 23.86 | (2) | % | 
+____________________________________
+(1) The full year 2025 provision for income taxes includes the effects of the implementation of the One Big Beautiful Bill Act during the third quarter of 2025. Absent the valuation allowance charge as of the enactment date, our full year 2025 effective tax rate would have decreased by 17 percentage points to 13%, compared to the reported effective tax rate of 30%.
+Fourth Quarter and Full Year 2025 Operational and Other Financial Highlights
+•Family daily active people (DAP) – DAP was 3.58 billion on average for December 2025, an increase of 7% year-over-year.
+•Ad impressions – Ad impressions delivered across our Family of Apps increased by 18% and 12% year-over-year for the fourth quarter and full year 2025, respectively. 
+•Average price per ad – Average price per ad increased by 6% and 9% year-over-year for the fourth quarter and full year 2025, respectively.
+•Revenue – Revenue was $59.89 billion and $200.97 billion, representing increases of 24% and 22% year-over-year for the fourth quarter and full year 2025, respectively. Revenue on a constant currency basis would have increased 23% and 22% year-over-year for the fourth quarter and full year 2025, respectively.
+•Costs and expenses – Total costs and expenses were $35.15 billion and $117.69 billion, representing increases of 40% and 24% year-over-year for the fourth quarter and full year 2025, respectively.
+•Capital expenditures – Capital expenditures, including principal payments on finance leases, were $22.14 billion and $72.22 billion for the fourth quarter and full year 2025, respectively. 
+•Capital return program – Share repurchases of our Class A common stock were nil and $26.26 billion, and total dividend and dividend equivalent payments were $1.34 billion and $5.32 billion for the fourth quarter and full year 2025, respectively.
+•Cash, cash equivalents, and marketable securities – Cash, cash equivalents, and marketable securities were $81.59 billion as of December 31, 2025. 
+•Cash flow – Cash flow from operating activities was $36.21 billion and $115.80 billion, and free cash flow was $14.08 billion and $43.59 billion for the fourth quarter and full year 2025, respectively.(1)
+•Long-term debt – Long-term debt was $58.74 billion as of December 31, 2025.
+•Headcount – Headcount was 78,865 as of December 31, 2025, an increase of 6% year-over-year.
+____________________________________
+(1) For more information on our free cash flow non-GAAP financial measure, see the sections entitled "Non-GAAP Financial Measures" and "Reconciliation of GAAP to Non-GAAP Results" in this press release.
+1
+CFO Outlook Commentary
+We expect first quarter 2026 total revenue to be in the range of $53.5-56.5 billion. Our guidance assumes foreign currency is an approximately 4% tailwind to year-over-year total revenue growth, based on current exchange rates.
+We expect full year 2026 total expenses to be in the range of $162-169 billion. 
+•The majority of expense growth will be driven by infrastructure costs, which includes third-party cloud spend, higher depreciation, and higher infrastructure operating expenses. 
+•The second-largest contributor to total expense growth is employee compensation, driven by investments in technical talent. This includes 2026 hires to support our priority areas, particularly AI, as well as a full year of expenses from 2025 hires.
+•At a segment level, we expect expense growth to be driven by the Family of Apps, with Reality Labs operating losses remaining similar to 2025 levels.
+We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $115-135 billion, with year-over-year growth driven by increased investment to support our Meta Superintelligence Labs efforts and core business.
+Despite the meaningful step up in infrastructure investment, in 2026 we expect to deliver operating income that is above 2025 operating income.
+Absent any changes to our tax landscape, we expect our full year 2026 tax rate to be 13-16%.
+Finally, we recently aligned with the European Commission on further changes to our Less Personalized Ads offering, which we will begin rolling out this quarter. However, we continue to monitor legal and regulatory headwinds in the EU and the U.S. that could significantly impact our business and financial results. For example, we continue to see scrutiny on youth-related issues and have a number of trials scheduled for this year in the U.S., which may ultimately result in a material loss. 
+2
+Webcast and Conference Call Information
+Meta will host a conference call to discuss its results at 1:30 p.m. PT / 4:30 p.m. ET today. The live webcast of the call can be accessed at the Meta Investor Relations website at investor.atmeta.com, along with the company's earnings press release, financial tables, and slide presentation.
+Following the call, a replay will be available at the same website. Transcripts of conference calls with publishing equity research analysts held today will also be posted to the investor.atmeta.com website.
+Disclosure Information
+Meta uses the investor.atmeta.com and meta.com/news websites as well as Mark Zuckerberg's Facebook profile (facebook.com/zuck), Instagram account (instagram.com/zuck) and Threads profile (threads.net/zuck) as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. 
+About Meta
+Meta is building the future of human connection, powered by artificial intelligence and immersive technologies. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward experiences that foster deeper connections and unlock new possibilities.
+Contacts
+Investors: 
+Kenneth Dorell
+investor@meta.com / investor.atmeta.com
+Press: 
+Ashley Zandy
+press@meta.com / meta.com/news
+3
+Forward-Looking Statements
+This press release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may differ materially from actual results due to a variety of factors including: the impact of macroeconomic conditions on our business and financial results, including as a result of geopolitical events; our ability to retain or increase users and engagement levels; our reliance on advertising revenue; our dependency on data signals and mobile operating systems, networks, and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as well as other new business initiatives, including our artificial intelligence initiatives and Reality Labs efforts; our emphasis on community growth and engagement and the user experience over short-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy, safety, security, and content and advertising review and enforcement efforts; competition; risks associated with government actions that could restrict access to our products or impair our ability to sell advertising in certain countries; litigation and government inquiries; privacy, legislative, and regulatory concerns or developments; risks associated with acquisitions; security breaches; our ability to manage our scale and geographically-dispersed operations; and market conditions or other factors affecting capital return to stockholders. These and other potential risks and uncertainties that could cause actual results to differ from the results predicted are more fully detailed under the caption "Risk Factors" in our Quarterly Report on Form 10-Q filed with the SEC on October 30, 2025, which is available on our Investor Relations website at investor.atmeta.com and on the SEC website at www.sec.gov. Additional information will also be set forth in our Annual Report on Form 10-K for the year ended December 31, 2025. In addition, please note that the date of this press release is January 28, 2026, and any forward-looking statements contained herein are based on assumptions that we believe to be reasonable as of this date. We undertake no obligation to update these statements as a result of new information or future events.
+For a discussion of limitations in the measurement of certain of our community metrics, see the section entitled "Limitations of Key Metrics and Other Data" in our most recent quarterly or annual report filed with the SEC.
+Non-GAAP Financial Measures 
+To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: revenue excluding foreign exchange effect, advertising revenue excluding foreign exchange effect, and free cash flow. The presentation of these financial measures is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. Investors are cautioned that there are material limitations associated with the use of non-GAAP financial measures as an analytical tool. In addition, these measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures.
+We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business. 
+Our non-GAAP financial measures are adjusted for the following items: 
+Foreign exchange effect on revenue. To calculate revenue on a constant currency basis, we translate current period revenue using the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, which we believe is a useful metric that facilitates comparison to our historical performance.
+Purchases of property and equipment; Principal payments on finance leases. We subtract both purchases of property and equipment, and principal payments on finance leases in our calculation of free cash flow because we believe that these two items collectively represent the amount of property and equipment we need to procure to support our business, regardless of whether we procure such property or equipment with a finance lease. We believe that this methodology can provide useful supplemental information to help investors better understand underlying trends in our business. Free cash flow is not intended to represent our residual cash flow available for discretionary expenditures. 
+For more information on our non-GAAP financial measures and a reconciliation of GAAP to non-GAAP measures, see the "Reconciliation of GAAP to Non-GAAP Results" table in this press release.
+4
+ | 
+META PLATFORMS, INC. | 
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME | 
+(In millions, except per share amounts) | 
+(Unaudited) | 
+ | Three Months Ended December 31, | Twelve Months Ended December 31, | 
+ | 2025 | 2024 | 2025 | 2024 | 
+Revenue | $ | 59,893 | $ | 48,385 | $ | 200,966 | $ | 164,501 | 
+Costs and expenses: | 
+Cost of revenue | 10,905 | 8,839 | 36,175 | 30,161 | 
+Research and development | 17,136 | 12,180 | 57,372 | 43,873 | 
+Marketing and sales | 3,410 | 3,240 | 11,991 | 11,347 | 
+General and administrative | 3,697 | 761 | 12,152 | 9,740 | 
+Total costs and expenses | 35,148 | 25,020 | 117,690 | 95,121 | 
+Income from operations | 24,745 | 23,365 | 83,276 | 69,380 | 
+Interest and other income, net | 609 | 188 | 2,656 | 1,283 | 
+Income before provision for income taxes | 25,354 | 23,553 | 85,932 | 70,663 | 
+Provision for income taxes
+ | 2,586 | 2,715 | 25,474 | 8,303 | 
+Net income | $ | 22,768 | $ | 20,838 | $ | 60,458 | $ | 62,360 | 
+Earnings per share: | 
+Basic | $ | 9.02 | $ | 8.24 | $ | 23.98 | $ | 24.61 | 
+Diluted | $ | 8.88 | $ | 8.02 | $ | 23.49 | $ | 23.86 | 
+Weighted-average shares used to compute earnings per share: | 
+Basic | 2,525 | 2,529 | 2,521 | 2,534 | 
+Diluted | 2,565 | 2,599 | 2,574 | 2,614 | 
+5
+ | 
+META PLATFORMS, INC. | 
+CONDENSED CONSOLIDATED BALANCE SHEETS | 
+(In millions) | 
+(Unaudited) | 
+ | December 31, 2025 | December 31, 2024 | 
+Assets | 
+Current assets: | 
+Cash and cash equivalents | $ | 35,873 | $ | 43,889 | 
+Marketable securities | 45,719 | 33,926 | 
+Accounts receivable, net | 19,769 | 16,994 | 
+Prepaid expenses and other current assets | 7,361 | 5,236 | 
+Total current assets | 108,722 | 100,045 | 
+Non-marketable equity investments | 27,524 | 6,070 | 
+Property and equipment, net | 176,400 | 121,346 | 
+Operating lease right-of-use assets | 20,404 | 14,922 | 
+Goodwill | 24,534 | 20,654 | 
+Other assets | 8,437 | 13,017 | 
+Total assets | $ | 366,021 | $ | 276,054 | 
+ | 
+Liabilities and stockholders' equity | 
+Current liabilities: | 
+Accounts payable | $ | 8,894 | $ | 7,687 | 
+Operating lease liabilities, current | 2,213 | 1,942 | 
+Accrued expenses and other current liabilities | 30,729 | 23,967 | 
+Total current liabilities | 41,836 | 33,596 | 
+Operating lease liabilities, non-current | 22,940 | 18,292 | 
+Long-term debt | 58,744 | 28,826 | 
+Long-term income taxes | 21,005 | 9,987 | 
+Other liabilities | 4,253 | 2,716 | 
+Total liabilities | 148,778 | 93,417 | 
+Commitments and contingencies | 
+Stockholders' equity: | 
+Common stock and additional paid-in capital | 95,793 | 83,228 | 
+Accumulated other comprehensive income (loss) | 271 | (3,097) | 
+Retained earnings | 121,179 | 102,506 | 
+Total stockholders' equity | 217,243 | 182,637 | 
+Total liabilities and stockholders' equity | $ | 366,021 | $ | 276,054 | 
+6
+ | 
+META PLATFORMS, INC. | 
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS | 
+(In millions) | 
+(Unaudited) | 
+ | Three Months Ended December 31, | Twelve Months Ended December 31, | 
+ | 2025 | 2024 | 2025 | 2024 | 
+Cash flows from operating activities | 
+Net income | $ | 22,768 | $ | 20,838 | $ | 60,458 | $ | 62,360 | 
+Adjustments to reconcile net income to net cash provided by operating activities: | 
+Depreciation and amortization | 5,411 | 4,460 | 18,616 | 15,498 | 
+Share-based compensation | 5,890 | 4,262 | 20,427 | 16,690 | 
+Deferred income taxes | 1,033 | (1,332) | 18,738 | (4,738) | 
+Unrealized (gain) loss on equity investments | (496) | 2 | (1,138) | (53) | 
+Impairment charges for facilities consolidation | — | 94 | — | 383 | 
+ | 
+ | 
+Other | (56) | 167 | (416) | 140 | 
+Changes in assets and liabilities: | 
+Accounts receivable | (2,475) | (2,978) | (1,815) | (1,485) | 
+Prepaid expenses and other current assets | 259 | (530) | (89) | (698) | 
+Other assets | (272) | (200) | (481) | (270) | 
+Accounts payable | 623 | 568 | (14) | 373 | 
+Accrued expenses and other current liabilities | 3,960 | 1,523 | 1,077 | 323 | 
+Other liabilities | (431) | 1,114 | 437 | 2,805 | 
+Net cash provided by operating activities | 36,214 | 27,988 | 115,800 | 91,328 | 
+Cash flows from investing activities | 
+Purchases of property and equipment | (21,383) | (14,425) | (69,691) | (37,256) | 
+ | 
+Purchases of marketable securities | (14,580) | (10,898) | (36,929) | (25,542) | 
+Sales and maturities of marketable securities | 3,113 | 3,817 | 26,874 | 15,789 | 
+Payments for held-for-sale assets | (635) | — | (2,432) | — | 
+Proceeds from Venture distribution | 2,554 | — | 2,554 | — | 
+Purchases of non-marketable equity investments | (70) | — | (18,330) | (11) | 
+Acquisitions of businesses and intangible assets | (3,415) | (9) | (4,231) | (270) | 
+Other investing activities | 229 | 17 | 182 | 140 | 
+Net cash used in investing activities | (34,187) | (21,498) | (102,003) | (47,150) | 
+Cash flows from financing activities | 
+Taxes paid related to net share settlement of equity awards | (4,272) | (3,857) | (18,400) | (13,770) | 
+Repurchases of Class A common stock | — | — | (26,248) | (30,125) | 
+Payments for dividends and dividend equivalents | (1,338) | (1,269) | (5,324) | (5,072) | 
+Proceeds from issuance of long-term debt, net | 29,906 | — | 29,906 | 10,432 | 
+Principal payments on finance leases | (754) | (411) | (2,524) | (1,969) | 
+ | 
+Other financing activities | 1,607 | 72 | 2,220 | (277) | 
+Net cash used in financing activities | 25,149 | (5,465) | (20,370) | (40,781) | 
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash equivalents | (17) | (714) | 235 | (786) | 
+Net increase (decrease) in cash, cash equivalents, and restricted cash equivalents | 27,159 | 311 | (6,338) | 2,611 | 
+Cash, cash equivalents, and restricted cash equivalents at beginning of the period | 11,941 | 45,127 | 45,438 | 42,827 | 
+Cash, cash equivalents, and restricted cash equivalents at end of the period | $ | 39,100 | $ | 45,438 | $ | 39,100 | $ | 45,438 | 
+Reconciliation of cash, cash equivalents, and restricted cash equivalents to the condensed consolidated balance sheets | 
+Cash and cash equivalents | $ | 35,873 | $ | 43,889 | $ | 35,873 | $ | 43,889 | 
+Restricted cash equivalents, included in prepaid expenses and other current assets | 837 | 353 | 837 | 353 | 
+Restricted cash equivalents, included in other assets | 2,390 | 1,196 | 2,390 | 1,196 | 
+Total cash, cash equivalents, and restricted cash equivalents | $ | 39,100 | $ | 45,438 | $ | 39,100 | $ | 45,438 | 
+ | 
+Supplemental cash flow data | 
+Cash paid for income taxes, net | $ | 1,285 | $ | 2,227 | $ | 7,578 | $ | 10,554 | 
+ | 
+7
+Segment Results
+We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our virtual and augmented reality related consumer hardware, software, and content.
+The following table sets forth our segment information of revenue and income (loss) from operations:
+ | 
+Segment Information | 
+(In millions) | 
+(Unaudited) | 
+ | Three Months Ended December 31, | Twelve Months Ended December 31, | 
+ | 2025 | 2024 | 2025 | 2024 | 
+Revenue: | 
+Advertising | $ | 58,137 | $ | 46,783 | $ | 196,175 | $ | 160,633 | 
+Other revenue | 801 | 519 | 2,584 | 1,722 | 
+Family of Apps | 58,938 | 47,302 | 198,759 | 162,355 | 
+Reality Labs | 955 | 1,083 | 2,207 | 2,146 | 
+Total revenue | $ | 59,893 | $ | 48,385 | $ | 200,966 | $ | 164,501 | 
+ | 
+Income (loss) from operations: | 
+Family of Apps | $ | 30,766 | $ | 28,332 | $ | 102,469 | $ | 87,109 | 
+Reality Labs | (6,021) | (4,967) | (19,193) | (17,729) | 
+Total income from operations | $ | 24,745 | $ | 23,365 | $ | 83,276 | $ | 69,380 | 
+8
+ | 
+Reconciliation of GAAP to Non-GAAP Results | 
+(In millions, except percentages) | 
+(Unaudited) | 
+ | Three Months Ended December 31, | Twelve Months Ended December 31, | 
+ | 2025 | 2024 | 2025 | 2024 | 
+GAAP revenue | $ | 59,893 | $ | 48,385 | $ | 200,966 | $ | 164,501 | 
+Foreign exchange effect on 2025 revenue using 2024 rates | (488) | 418 | 
+Revenue excluding foreign exchange effect | $ | 59,405 | $ | 201,384 | 
+GAAP revenue year-over-year change % | 24 | % | 22 | % | 
+Revenue excluding foreign exchange effect year-over-year change % | 23 | % | 22 | % | 
+GAAP advertising revenue | $ | 58,137 | $ | 46,783 | $ | 196,175 | $ | 160,633 | 
+Foreign exchange effect on 2025 advertising revenue using 2024 rates | (473) | 420 | 
+Advertising revenue excluding foreign exchange effect | $ | 57,664 | $ | 196,595 | 
+GAAP advertising revenue year-over-year change % | 24 | % | 22 | % | 
+Advertising revenue excluding foreign exchange effect year-over-year change % | 23 | % | 22 | % | 
+ | 
+Net cash provided by operating activities | $ | 36,214 | $ | 27,988 | $ | 115,800 | $ | 91,328 | 
+Purchases of property and equipment | (21,383) | (14,425) | (69,691) | (37,256) | 
+Principal payments on finance leases | (754) | (411) | (2,524) | (1,969) | 
+Free cash flow | $ | 14,077 | $ | 13,152 | $ | 43,585 | $ | 52,103 | 
+ | 
+ | 
+ | 
+ | 
+ | 
+9
+
