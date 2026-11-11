@@ -1,5 +1,9 @@
 # 워드 커닝햄이 설명하는 부채 은유
 
+> In other words, the whole debt metaphor, let's say, the ability to pay back debt, and make the debt metaphor work for your advantage **depends upon your writing code that is clean enough to be able to refactor** as you come to understand your problem.
+>
+> 즉, 부채 은유 전체, 말하자면 빚을 갚는 능력과 부채 은유를 내게 유리하게 작동시키는 일은, 문제를 이해해 가는 만큼 **리팩토링할 수 있을 정도로 깔끔한 코드를 작성하느냐에 달려 있습니다.**
+
 https://wiki.c2.com/?WardExplainsDebtMetaphor
 
 워드 커닝햄(WardCunningham)이 블로고스피어 내에서 혼란을 일으켰던 "부채 은유"(예: TechnicalDebt 참조)를 직접 설명하는 동영상을 게시했습니다. http://www.youtube.com/watch?v=pqeJFYwnkjE
