@@ -10,3 +10,6 @@ docs/
 
 # Playwright MCP 산출물(콘솔 로그·페이지 스냅샷·스크린샷)
 .playwright-mcp/
+
+# Refact 플러그인 상태
+.refact/
