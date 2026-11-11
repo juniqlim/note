@@ -70,10 +70,20 @@ function splitFrontmatter(src) {
 
 function parseListBlock(lines, ordered, fromPath) {
   const items = [];
+  let last = null;
+  let lastRaw = "";
   lines.forEach((raw) => {
+    // 표시 없이 들여쓴 줄은 바로 앞 항목의 이어지는 글이다. 단락과 같이 줄 끝 두 칸 = 줄바꿈
+    if (last && !/^\s*(?:[*-]|\d+\.)\s+/.test(raw)) {
+      last.inline.push(/ {2}$/.test(lastRaw) ? { t: "br" } : { t: "text", v: " " }, ...parseInline(raw.trim(), fromPath));
+      lastRaw = raw;
+      return;
+    }
     const indent = raw.match(/^\s*/)[0].replace(/\t/g, "  ").length;
     const text = raw.replace(/^\s*(?:[*-]|\d+\.)\s+/, "");
-    const node = { inline: parseInline(text, fromPath), children: [] };
+    const node = { inline: parseInline(text.replace(/\s+$/, ""), fromPath), children: [] };
+    last = node;
+    lastRaw = raw;
     if (indent >= 2 && items.length) {
       let parent = items[items.length - 1];
       while (indent >= 4 && parent.children.length) parent = parent.children[parent.children.length - 1];
@@ -136,7 +146,7 @@ export function parseBlocks(body, fromPath) {
     if (isList(line)) {
       const buf = [];
       const ordered = /^\s*\d+\.\s/.test(line);
-      while (i < lines.length && (isList(lines[i]) || (lines[i].trim() && /^\s{2,}\S/.test(lines[i]) && !isList(lines[i]) && false))) buf.push(lines[i++]);
+      while (i < lines.length && (isList(lines[i]) || /^\s{2,}\S/.test(lines[i]))) buf.push(lines[i++]);
       blocks.push(parseListBlock(buf, ordered, fromPath));
       continue;
     }
