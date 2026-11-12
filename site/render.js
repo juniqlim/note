@@ -103,8 +103,8 @@ function shell({ title, site, base, body, bodyClass = '' }) {
     <input id="q" type="search" placeholder="검색 — 제목·본문" autocomplete="off" data-base="${base}">
     <button id="theme" type="button">라이트</button>
   </div>
+  <div id="search-results" hidden></div>
 </header>
-<div id="search-results" hidden></div>
 <main id="page">
 ${body}
 </main>

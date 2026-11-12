@@ -12,8 +12,7 @@ btn?.addEventListener('click', () => {
 
 const input = document.getElementById('q');
 const panel = document.getElementById('search-results');
-const page = document.getElementById('page');
-if (input && panel && page) {
+if (input && panel) {
   const base = input.dataset.base || '';
   let index = null;
   const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -25,7 +24,7 @@ if (input && panel && page) {
   };
 
   const run = async (q) => {
-    if (!q) { panel.hidden = true; page.hidden = false; return; }
+    if (!q) { panel.hidden = true; return; }
     const list = await load();
     const lq = q.toLowerCase();
     const hits = list.map((n) => {
@@ -39,10 +38,12 @@ if (input && panel && page) {
     }).filter(Boolean);
     panel.innerHTML = '<p class="count">“' + esc(q) + '” — 노트 ' + hits.length + '건</p>' + hits.join('');
     panel.hidden = false;
-    page.hidden = true;
   };
 
   let t;
   input.addEventListener('input', () => { clearTimeout(t); t = setTimeout(() => run(input.value.trim()), 120); });
   input.addEventListener('keydown', (e) => { if (e.key === 'Escape') { input.value = ''; run(''); } });
+  // 바깥을 누르면 닫고, 검색창을 다시 누르면 다시 연다. 검색어는 남겨 둔다.
+  document.addEventListener('click', (e) => { if (!panel.contains(e.target) && e.target !== input) panel.hidden = true; });
+  input.addEventListener('focus', () => { if (input.value.trim()) run(input.value.trim()); });
 }
