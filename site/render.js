@@ -85,6 +85,8 @@ function shell({ title, site, base, body, bodyClass = '' }) {
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${base}style.css">
 <script>try{if(localStorage.getItem('theme')==='light')delete document.documentElement.dataset.theme}catch(e){}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T12BGYGXSG"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T12BGYGXSG');</script>
 </head>
 <body class="${bodyClass}">
 <header class="site-head">
