@@ -1,0 +1,358 @@
+
+EX-99.1
+2
+earningspressreleaseq326.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Reddit Reports Third Quarter 2026 Results
+
+Daily Active Uniques (“DAUq”) increased 12% year-over-year to 130.3 million
+Weekly Active Uniques (“WAUq”) increased 16% year-over-year to 515.2 million
+Logged-in DAUq and App DAUq, our most engaged and monetizable users,
+grew quarter-over-quarter in the US and RoW
+Revenue of $895 million grew 53% year-over-year
+Net income of $283 million, 32% of revenue, and Diluted EPS of $1.40, both up over 70% year-over-year
+Adj. EBITDA1 of $402 million, 45% of revenue, up 70% year-over-year
+Operating cash flow of $364 million, 41% of revenue, up 96% year-over-year
+
+SAN FRANCISCO, Calif. – October 29, 2026 – Reddit, Inc. (NYSE: RDDT) today announced financial results for the quarter ended September 30, 2026. Reddit’s complete financial results and management commentary can be found in its shareholder letter on Reddit’s Investor Relations website at https://investor.redditinc.com.
+“Our business is growing because the Reddit experience captures the human experience in a way that no other platform can replicate,” said Steve Huffman, Founder and CEO of Reddit. “Surpassing $3B of revenue over the last 12 months shows Reddit’s strength as a destination and the differentiated value of our platform.”
+Strong Growth and Fundamentals
+•Total revenue increased 53% year-over-year to $895 million, Ad revenue increased 54% year-over-year to $847 million, and Other revenue increased 35% year-over-year to $48 million
+•Gross margin was 91.5%, up 50 bps year-over-year
+•Net income was $283 million, an improvement of $121 million from the prior year
+•Adjusted EBITDA1 was $402 million, an improvement of $166 million from the prior year
+•Basic and diluted earnings per share (“EPS”) were $1.47 and $1.40, an increase of 69% and 75% year-over-year, respectively
+•Operating cash flow was $364 million, an improvement of $179 million from the prior year
+•Free Cash Flow1 was $363 million, an improvement of $179 million from the prior year
+•Capital expenditures were $1 million, 0.1% of revenue
+Managed Share Count and Dilution
+•Total fully diluted shares outstanding were 206.3 million as of September 30, 2026, down 0.3% from last quarter
+Solid Balance Sheet
+•Cash, Cash Equivalents, and Marketable Securities were $3.03 billion as of September 30, 2026
+Share Repurchases
+•We repurchased approximately 670 thousand shares of our Class A common stock during the quarter for a total of $100 million at an average price per share of $149.81
+Company Recognition
+•Reddit was added to the S&P 500 index, underscoring the Company’s value, sustained performance, and its 1-of-1 financial model
+1
+
+Third Quarter 2026 Financial Highlights
+
+Three months ended
+September 30,
+(in millions, except percentages and per share amounts; unaudited)	2026	2025	% Change
+Revenue	$	895	$	585	53%
+U.S.	$	719	$	480	50%
+International	$	176	$	105	67%
+
+GAAP gross margin	91.5	%	91.0	%
+
+Net income
+$	283	$	163	74%
+Net margin	31.7	%	27.8	%
+Net income per share
+
+Basic
+$	1.47	$	0.87	69%
+Diluted
+$	1.40	$	0.80	75%
+Adjusted EBITDA*	$	402	$	236	70%
+Adjusted EBITDA margin*	44.9	%	40.3	%
+
+Net cash provided by (used in) operating activities
+$	364	$	185	96%
+Free Cash Flow*	$	363	$	183	98%
+
+Cash, cash equivalents, and marketable securities
+$	3,033
+
+*The definitions of Adjusted EBITDA, Adjusted EBITDA margin, and Free Cash Flow can be found in the Use of Non-GAAP Financial Measures section of this release. A reconciliation of non-GAAP financial measures to the most directly comparable U.S. GAAP measure can be found on pages 10-11.
+
+Financial Outlook
+The guidance provided below is based on Reddit’s current estimates and is not a guarantee of future performance. This guidance is subject to significant risks and uncertainties that could cause actual results to differ materially, including the risk factors discussed in Reddit’s reports on file with the Securities and Exchange Commission (the “SEC”). Reddit undertakes no duty to update any forward-looking statements or estimates, except as required by applicable law.
+
+As we look ahead, we will share our internal thoughts on revenue and Adjusted EBITDA for the fourth quarter.
+
+In the fourth quarter of 2026, we estimate:
+
+•Revenue in the range of $1,000 million to $1,030 million
+•Adjusted EBITDA2 in the range of $480 million to $510 million
+
+Earnings Conference Call Information and Community Update
+Reddit will host a conference call to discuss the results for the third quarter of 2026 on Thursday, October 29, 2026, at 1:30 p.m. PT / 4:30 p.m. ET. A live webcast of the call can be accessed on Reddit’s Investor Relations website at https://investor.redditinc.com and investor relations subreddit, r/RDDT, at https://www.reddit.com/r/RDDT/. A replay of the webcast and transcript will be available on the same websites following the conclusion of the conference call.
+
+Reddit will solicit questions from the community in the investor relations subreddit, r/RDDT, at https://www.reddit.com/r/RDDT/ on Thursday, October 29, 2026, after the market closes, and post responses following the earnings call at Reddit’s Investor Relations website at https://investor.redditinc.com and r/RDDT at https://www.reddit.com/r/RDDT/.
+
+2
+
+Reddit uses the investor relations page on its website https://investor.redditinc.com, user accounts of Reddit's Chief Executive Officer, Steve Huffman (u/spez); Reddit's Chief Operating Officer, Jen Wong (u/adsjunkie); and Reddit's Chief Financial Officer, Drew Vollero (u/TimingandLuck), as well as the subreddits r/RDDT and r/reddit, available at https://www.reddit.com/r/RDDT/ and https://www.reddit.com/r/reddit/, respectively, as means of disclosing material non-public information and for complying with its disclosure obligation under Regulation FD.
+
+Notes
+1 The definitions of Adjusted EBITDA, Adjusted EBITDA margin, and Free Cash Flow can be found in the Use of Non-GAAP Financial Measures section of this release. A reconciliation of non-GAAP financial measures to the most directly comparable U.S. GAAP measure can be found on pages 10-11.
+2 We have not provided a reconciliation to the forward-looking U.S. GAAP equivalent measures for our non-GAAP guidance due to uncertainty regarding, and the potential variability of, reconciling items. Therefore, a reconciliation of these non-GAAP guidance measures to their corresponding U.S. GAAP guidance measures is not available without unreasonable effort.
+
+About Reddit
+Reddit is a community of communities. Built on shared interests and passions, it is home to the most open and authentic conversations online. Every day, millions of people post, vote, comment, and search for answers across nearly every topic imaginable, and brands build trusted relationships with their audiences. With 27+ billion posts and comments and more than 130 million daily active uniques, Reddit is one of the internet’s largest sources of information. Learn more at www.redditinc.com. The Reddit app is available on the App Store and Google Play.
+
+Investor Relations
+ir@reddit.com
+Media Relations
+press@reddit.com
+
+3
+
+Forward Looking Statements
+This press release contains forward-looking statements within the meaning of the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Forward-looking statements generally relate to future events or Reddit's future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as "may," "will," "should," "expects," "plans," "anticipates," "going to," "could," "intends," "target," "projects," "contemplates," "believes," "estimates," "predicts," "potential" or "continue" or the negative of these words or other similar terms or expressions that concern Reddit's expectations, strategy, priorities, plans or intentions. Forward-looking statements in this release include, but are not limited to, statements regarding Reddit’s future financial and operating performance, and GAAP and non-GAAP guidance; Reddit’s expectations regarding continued business growth, user engagement and monetization; and Reddit’s ability to maintain a strong balance sheet and invest in future growth. Reddit's expectations and beliefs regarding these matters may not materialize, and actual results in future periods are subject to risks and uncertainties that could cause actual results to differ materially from those projected, including those more fully described under the caption “Risk Factors” and elsewhere in documents that Reddit files with the SEC from time to time, including Reddit’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, which is being filed with the SEC at or around the date hereof. The forward-looking statements in this release are based on information available to Reddit as of the date hereof, and Reddit undertakes no obligation to update any forward-looking statements, except as required by law.
+
+A Note About Metrics
+We define a daily active unique (“DAUq”) as a user whom we can identify with a unique identifier who has visited a page on the Reddit website, www.reddit.com, or opened a Reddit application at least once during a 24-hour period. Average DAUq for a particular period is calculated by adding the number of DAUq on each day of that period and dividing that sum by the number of days in that period.
+
+We define a weekly active unique (“WAUq”) as a user whom we can identify with a unique identifier who has visited a page on the Reddit website, www.reddit.com, or opened a Reddit application at least once during a trailing seven-day period. Average quarterly WAUq for a particular period is calculated by adding the number of WAUq on each day of that period and dividing that sum by the number of days in that period.
+
+We define average revenue per unique (“ARPU”) as quarterly revenue in a given geography divided by the average DAUq in that geography. For the purposes of calculating ARPU, advertising revenue in a given geography is based on the geographic location in which advertising impressions are delivered, as this approximates revenue based on user activity, while other revenue in a given geography is based on the billing address of the customer.
+
+Use of Non-GAAP Financial Measures
+We use certain non-GAAP financial measures to supplement our consolidated financial statements, which are presented in accordance with U.S. GAAP, to evaluate our core operating performance. These non-GAAP financial measures include Adjusted EBITDA, Adjusted EBITDA margin, Free Cash Flow, and Free Cash Flow margin. We use these non-GAAP financial measures to facilitate reviews of our operational performance and as a basis for strategic planning. By excluding certain items that are non-recurring or not reflective of the performance of our normal course of business, we believe that these non-GAAP financial measures provide meaningful supplemental information regarding our performance. Accordingly, we believe these non-GAAP financial measures are useful to investors and others because they allow investors to supplement their understanding of our financial trends and evaluate our ongoing and future performance in the same manner as management.  However, there are a number of limitations related to the use of non-GAAP financial measures as they reflect the exercise of judgment by our management about which expenses are included or excluded in determining these non-GAAP measures. These non-GAAP measures should be considered in addition to, not as a substitute for or in isolation from, our financial results prepared in accordance with U.S. GAAP. Other companies, including companies in our industry, may calculate these non-GAAP financial measures differently or not at all, which reduces their usefulness as comparative measures.
+
+A reconciliation is provided below for each historical non-GAAP financial measure to the most directly comparable financial measure stated in accordance with U.S. GAAP. Reddit encourages investors to review the related U.S. GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable U.S. GAAP financial measures, and not to rely on any single financial measure to evaluate Reddit’s business. We have not provided a reconciliation to the forward-looking GAAP equivalent measures for our non-GAAP guidance due to uncertainty regarding, and the potential variability of, reconciling items. Therefore, a reconciliation of these non-GAAP guidance measures to their corresponding GAAP guidance measures is not available without unreasonable effort.
+
+4
+
+Adjusted EBITDA is defined as net income excluding interest (income) expense, net, income tax expense (benefit), depreciation and amortization, stock-based compensation expense and related taxes, other (income) expense, net, and certain other non-recurring or non-cash items impacting net income that we do not consider indicative of our ongoing business performance. Other (income) expense, net consists primarily of realized gains and losses on sales of marketable securities, foreign currency transaction gains and losses, and other income and expense that are not indicative of our core operating performance. Adjusted EBITDA margin is defined as Adjusted EBITDA divided by revenue. We consider the exclusion of certain non-recurring or non-cash items in calculating Adjusted EBITDA and Adjusted EBITDA margin to provide a useful measure for investors and others to evaluate our operating results in the same manner as management.
+
+Free Cash Flow represents net cash provided by (used in) operating activities less purchases of property and equipment. Free Cash Flow margin is defined as Free Cash Flow divided by revenue. We believe that Free Cash Flow is useful to investors as a liquidity measure because it measures our ability to generate or use cash. Once our business needs and obligations are met, cash can be used to maintain a strong balance sheet and invest in future growth. Additionally, we believe that Free Cash Flow is an important measure since we use third-party infrastructure partners to host our services and therefore we do not incur significant capital expenditures to support revenue generating activities.
+
+5
+
+Reddit, Inc.
+Key Operating Metrics by Geography
+(in millions, except percentages and ARPU)
+(unaudited)
+
+Three months ended
+September 30,	Nine months ended
+September 30,
+2026	2025	% Change	2026	2025	% Change
+Revenue: Global	$	895.0	$	584.9	53	%	$	2,363.3	$	1,476.9	60	%
+Revenue: U.S.	$	718.9	$	479.6	50	%	$	1,882.6	$	1,202.3	57	%
+Revenue: International	$	176.1	$	105.3	67	%	$	480.7	$	274.6	75	%
+
+Three months ended
+September 30,
+2026	2025	% Change
+DAUq: Global	130.3	116.0	12	%
+DAUq: U.S.	50.7	51.6	(2)	%
+DAUq: International	79.6	64.4	24	%
+
+Logged-in DAUq: Global	53.5	50.2	7	%
+Logged-in DAUq: U.S.	23.4	23.1	1	%
+Logged-in DAUq: International	30.1	27.1	11	%
+
+Logged-out DAUq: Global	76.8	65.8	17	%
+Logged-out DAUq: U.S.	27.3	28.5	(4)	%
+Logged-out DAUq: International	49.5	37.3	33	%
+
+WAUq: Global	515.2	443.8	16	%
+WAUq: U.S.	188.5	187.8	—	%
+WAUq: International	326.7	256.0	28	%
+
+ARPU: Global	$	6.87	$	5.04	36	%
+ARPU: U.S.	$	13.82	$	9.04	53	%
+ARPU: International	$	2.43	$	1.84	32	%
+
+6
+
+Reddit, Inc.
+Consolidated Statements of Operations
+(in thousands, except share and per share amounts)
+(unaudited)
+
+Three months ended
+September 30,	Nine months ended
+September 30,
+2026	2025	2026	2025
+
+Revenue	$	894,957	$	584,911	$	2,363,273	$	1,476,899
+Costs and expenses:
+Cost of revenue	75,787	52,509	202,362	135,498
+Research and development	263,531	196,379	702,053	584,260
+Sales and marketing	209,391	128,707	556,760	340,011
+General and administrative	84,662	68,774	225,884	206,974
+Total costs and expenses	633,371	446,369	1,687,059	1,266,743
+Income from operations	261,586	138,542	676,214	210,156
+Other income (expense), net	27,463	22,035	75,398	63,716
+Income before income taxes	289,049	160,577	751,612	273,872
+Income tax expense (benefit)	5,785	(2,086)	11,519	(4,246)
+Net income	$	283,264	$	162,663	$	740,093	$	278,118
+Net income per share attributable to Class A and Class B common stock
+
+Basic	$	1.47	$	0.87	$	3.85	$	1.50
+Diluted	$	1.40	$	0.80	$	3.66	$	1.38
+Weighted-average shares used to compute net income per share attributable to common stockholders
+Basic	192,596,948	188,041,632	192,155,485	185,178,360
+Diluted	201,860,245	202,727,809	202,186,014	201,659,094
+
+7
+
+Reddit, Inc.
+Consolidated Balance Sheets
+(in thousands)
+(unaudited)
+
+September 30,
+2026	December 31,
+2025
+
+Assets
+Current assets
+Cash and cash equivalents	$	1,357,583	$	953,569
+Marketable securities	1,675,849	1,523,242
+Accounts receivable, net	730,083	590,162
+Prepaid expenses and other current assets	93,009	69,012
+Total current assets	3,856,524	3,135,985
+Property and equipment, net	11,489	12,710
+Operating lease right-of-use assets, net	28,030	20,788
+Intangible assets, net	10,086	15,521
+Goodwill	42,174	42,174
+Other noncurrent assets	13,726	11,995
+Total assets	$	3,962,029	$	3,239,173
+
+Liabilities and stockholders’ equity
+Current liabilities
+Accounts payable	$	110,246	$	62,929
+Operating lease liabilities	8,364	7,023
+Accrued expenses and other current liabilities	238,598	201,331
+Total current liabilities	357,208	271,283
+Operating lease liabilities, noncurrent	23,045	16,191
+Other noncurrent liabilities	68	22,661
+Total liabilities	380,321	310,135
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock	—	—
+Class A common stock	14	14
+Class B common stock	5	5
+Class C common stock	—	—
+Additional paid-in capital	3,526,748	3,595,772
+Accumulated other comprehensive income (loss)	(14,035)	4,364
+Retained earnings (accumulated deficit)	68,976	(671,117)
+Total stockholders’ equity	3,581,708	2,929,038
+Total liabilities and stockholders’ equity	$	3,962,029	$	3,239,173
+
+8
+
+Reddit, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+(unaudited)
+
+Three months ended
+September 30,	Nine months ended
+September 30,
+2026	2025	2026	2025
+Cash flows from operating activities
+Net income
+$	283,264	$	162,663	$	740,093	$	278,118
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Depreciation and amortization
+4,260	3,900	12,728	11,797
+
+Amortization of premium (accretion of discount) on marketable securities, net
+(3,069)	(6,779)	(10,165)	(22,354)
+Stock-based compensation expense
+131,306	83,518	300,594	258,002
+Other adjustments	1,974	2,246	4,787	5,187
+Changes in operating assets and liabilities:
+Accounts receivable
+(80,007)	(80,997)	(139,278)	(138,754)
+Prepaid expenses and other assets
+10,186	2,934	(26,020)	(23,424)
+Operating lease right-of-use assets and liabilities
+(998)	(2,038)	(4,388)	(5,407)
+Accounts payable
+18,927	7,995	44,964	26,940
+Accrued expenses and other liabilities
+(2,046)	11,717	14,611	33,963
+Net cash provided by (used in) operating activities
+$	363,797	$	185,159	$	937,926	$	424,068
+Cash flows from investing activities
+Purchases of property and equipment
+(1,229)	(2,058)	(3,453)	(3,542)
+
+Purchases of marketable securities
+(596,102)	(544,101)	(1,273,009)	(1,605,404)
+Maturities of marketable securities
+209,449	563,460	1,093,164	1,581,054
+Proceeds from sale of marketable securities
+4,945	—	22,934	12,372
+
+Other investing activities
+(893)	(788)	(3,930)	2,455
+Net cash provided by (used in) investing activities
+$	(383,830)	$	16,513	$	(164,294)	$	(13,065)
+Cash flows from financing activities
+
+Proceeds from exercise of employee stock options
+5,396	6,013	15,332	20,500
+Taxes paid related to net share settlement of restricted stock units	(14,249)	(28,595)	(44,991)	(80,495)
+
+Repurchases of Class A common stock	(100,369)	—	(339,959)	—
+Other financing activities
+—	(1,497)	—	(1,497)
+Net cash provided by (used in) financing activities
+$	(109,222)	$	(24,079)	$	(369,618)	$	(61,492)
+Net increase (decrease) in cash and cash equivalents
+(129,255)	177,593	404,014	349,511
+Cash and cash equivalents at the beginning of the period
+1,486,838	734,060	953,569	562,142
+Cash and cash equivalents at the end of the period
+$	1,357,583	$	911,653	$	1,357,583	$	911,653
+
+9
+
+Reddit, Inc.
+Reconciliation of Adjusted EBITDA and Adjusted EBITDA Margin
+(in thousands, except percentages)
+(unaudited)
+
+Three months ended
+September 30,	Nine months ended
+September 30,
+2026	2025	2026	2025
+Net income	$	283,264	$	162,663	$	740,093	$	278,118
+Add (deduct):
+Interest (income) expense, net	(26,814)	(22,305)	(75,726)	(63,775)
+Income tax expense (benefit)	5,785	(2,086)	11,519	(4,246)
+Depreciation and amortization	4,260	3,900	12,728	11,797
+Stock-based compensation expense and related taxes	136,419	93,565	322,103	296,074
+
+Other (income) expense, net	(649)	270	328	59
+Adjusted EBITDA	$	402,265	$	236,007	$	1,011,045	$	518,027
+Net margin	31.7	%	27.8	%	31.3	%	18.8	%
+Adjusted EBITDA margin	44.9	%	40.3	%	42.8	%	35.1	%
+
+10
+
+Reddit, Inc.
+Reconciliation of Free Cash Flow and Free Cash Flow Margin
+(in thousands, except percentages)
+(unaudited)
+
+Three months ended
+September 30,	Nine months ended
+September 30,
+2026	2025	2026	2025
+Net cash provided by (used in) operating activities	$	363,797	$	185,159	$	937,926	$	424,068
+Less:
+Purchases of property and equipment	(1,229)	(2,058)	(3,453)	(3,542)
+Free Cash Flow	$	362,568	$	183,101	$	934,473	$	420,526
+Operating cash flow margin
+40.6	%	31.7	%	39.7	%	28.7	%
+Free Cash Flow margin
+40.5	%	31.3	%	39.5	%	28.5	%
+
+11
+

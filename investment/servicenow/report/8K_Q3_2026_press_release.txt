@@ -1,0 +1,589 @@
+
+EX-99.1
+2
+erq3fy26.htm
+EX-99.1
+
+Document
+
+ServiceNow Reports Third Quarter 2026 Financial Results
+•ServiceNow beats high end of guidance across all Q3 2026 topline growth and profitability metrics, raises full year subscription revenues and free cash flow margin outlook
+•Subscription revenues of $3,988 million in Q3 2026, representing 21% year-over-year growth, 20.5% in constant currency
+•Total revenues of $4,106 million in Q3 2026, representing 20.5% year-over-year growth, 20% in constant currency
+•Current remaining performance obligations of $13.65 billion as of Q3 2026, representing 20.5% year-over-year growth, 21% in constant currency
+•Remaining performance obligations of $29.7 billion as of Q3 2026, representing 22% year-over-year growth, 22.5% in constant currency
+•ServiceNow raises AI annual contract value target again for 2026 to $1.7 billion, up 70% from the beginning of the year
+
+SANTA CLARA, Calif. - October 28, 2026 - ServiceNow (NYSE: NOW), the Super Intelligence Control Tower for business reinvention, today announced financial results for its third quarter ended September 30, 2026, with subscription revenues of $3,988 million in Q3 2026, representing 21% year-over-year growth and 20.5% in constant currency.
+“This was more than another beat-and-raise quarter for ServiceNow, this was the inflection point for ServiceNow as the Super Intelligence Control Tower,” said ServiceNow Chairman and CEO Bill McDermott. “Our customers have validated our strategic relevance as the single harness for enterprise intelligence and security. The Control Tower is the elixir that simplifies tech debt, limits token overload and manages unprecedented cybersecurity risk. That’s why AI adoption is accelerating, surging our hybrid business model to $30 billion in RPO, growing 23 percent. What other company at the forefront of the agentic enterprise has no capital or compute constraints? This is a one-of-one, rule of 571 growth company firing on all cylinders.”
+As of September 30, 2026, current remaining performance obligations (“cRPO”), contract revenue that will be recognized as revenue in the next 12 months, was $13.65 billion, representing 20.5% year-over-year growth and 21% in constant currency. The company had 19 transactions over $5 million in net new annual contract value (“ACV”) in Q3 2026, representing over 135% year-over-year growth, and ended the quarter with 680 customers with more than $5 million in ACV, representing approximately 23% year-over-year growth.
+"Our strong Q3 results reinforce how ServiceNow is perfectly positioned to help customers put AI to work across their business, govern every agent and action, and translate intelligence into secure, measurable outcomes,” said ServiceNow President and CFO Gina Mastantuono. “Our AI momentum continues to build, with AI net new ACV exceeding expectations and enabling us to raise our year-end target for the second time this year, from $1 billion at the start of the year to $1.7 billion now. Customers are also rapidly increasing their use of agentic AI, with year-to-date consumption in production up more than 13x year-over-year. Importantly, we are capturing this significant opportunity with a capital-efficient model, reducing capex and raising our full-year free cash flow margin target by 100 basis points to 36 percent."
+
+(1) The Rule of 57 reflects a combined subscription revenue growth rate on a constant currency basis and free cash flow margin. See the section entitled “Statement Regarding Use of Non-GAAP Financial Measures” for an explanation of non-GAAP measures.
+
+1
+
+Recent Business Highlights
+Partner and Customer Momentum
+•Today, ServiceNow announced an expanded partnership with OpenAI to help enterprises move seamlessly from AI reasoning to governed action. The partnership expansion starts with a new ServiceNow plugin for ChatGPT, enabled by Action Fabric. The companies aim to develop Security and Risk solutions powered by OpenAI cyber models, a Codex integration in AI Workflow Factory, and voice-driven governance and risk assessment for ServiceNow’s Super Intelligence Control Tower.
+•Today, ServiceNow announced that HPE has selected ServiceNow to help transform customer support and field service for its Cloud & AI business, leveraging automation and AI to deliver faster, more efficient, data-driven customer experiences.
+•Today, Stagwell, the global marketing transformation company, chose the ServiceNow AI Platform to consolidate four service desks onto one governed platform across more than 70 agencies and 10,000 employees in over 40 countries. Each agency can maintain its independence, while integrating core operations across its global network.
+•In October, ServiceNow and Google Cloud announced new industry solutions for telecommunications, retail, sales and IT, integrated through ServiceNow Action Fabric workflows and skills headlessly into Gemini Enterprise, enabling employees to initiate and complete governed actions without leaving the AI assistant they use daily.
+•At NVIDIA GTC Berlin, ServiceNow announced the industry’s first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon. ServiceNow Arc, a personal long-running AI agent that can take on everyday work, is now governed and secured by the ServiceNow Super Intelligence Control Tower and enforced with NVIDIA OpenShell, allowing it to work independently while the enterprise stays in control. Additionally, the NVIDIA OpenShell and NVIDIA BlueField data processing unit (DPU) enforcement layers will be able to read ServiceNow's recently announced AI Passport solution to validate what AI agents, including Arc, have permission to access or execute.
+•In October, ServiceNow and Thrive, a managed services provider to small and mid-sized businesses, announced Thrive’s deployment of ServiceNow’s CRM solution Technology Provider Service Management and AI agents to scale customer experience. Thrive now resolves 73 percent of issues at first contact and has cut time-to-resolution by 63 percent, returning more than 14,500 estimated engineer hours to customer-facing work.
+•INRY, a Cprime Company, announced that it deployed ServiceNow EmployeeWorks in just six weeks to replace its legacy portal with an AI front door, and is now rolling out the platform to clients as a leading implementation partner. INRY cut the median time it takes for employees to submit requests by 60 percent, now completing those requests with a 97 percent resolution rate.
+Innovation
+•Today, ServiceNow announced the Control Tower Alliance, a new ecosystem of leading companies in AI, cloud infrastructure, security, and governance, which will work with ServiceNow to help customers adopt trusted enterprise AI safely at scale. Founding members of the new program include Anthropic, Amazon Web Services (AWS), Cisco, HiddenLayer, Kong, NVIDIA, Okta, OpenAI, Stripe, WitnessAI, and Zenity.
+•In October, ServiceNow announced a new AI Passport solution to verify first- and third-party AI agents’ scopes in real-time. New Super Intelligence Control Tower capabilities build on ServiceNow’s autonomous remediation and kill switch capabilities to drive end-to-end AI governance with discovery, visibility, control, measurement, and compliance on one unified platform.
+•The company also announced advances to ServiceNow EmployeeWorks, giving employees the ability to build AI agents with no code required. ToolSmith, a new agentic developer environment, allows developers to quickly and securely vibe code enterprise AI tools.
+•Additionally in October, ServiceNow launched Flow, a new AI-native service desk that operates outside the ServiceNow AI Platform, deploys instantly, and is built for any sized team or enterprise where speed and
+
+2
+
+simplicity matter most. Teams can automate workflows in chat channels, providing a lightweight, conversational execution layer.
+•ServiceNow also unveiled Autonomous Security, the industry’s most complete security offering, with a suite of six unified solutions to help enterprises prevent and remediate cyber risk. New AI Specialists complete security workflows autonomously, while capabilities from Armis and Veza feed directly into the Super Intelligence Control Tower.
+Global Expansion
+•In October, Bundesliga, Germany’s top professional soccer league, named ServiceNow its Official CRM Partner, adding to ServiceNow's role as Official Workflow Partner. In just a few weeks, ServiceNow CRM helped the league consolidate fan services from seven digital channels to one and now resolves 89 percent of fan inquiries at first contact, driving caseloads down more than 50 percent since the season began.
+•ServiceNow and Aramco Digital established an agreement to standardize and govern digital workflows across Aramco's affiliates, subsidiaries, and joint ventures in more than 50 countries, helping Aramco Digital reduce fragmentation and modernize processes across its global network.
+•ServiceNow opened its first dedicated office in Brazil, located in São Paulo, and deepened academic partnerships with SENAI-SP, Porto Digital, and Inteli to bolster regional AI talent.
+Recognition
+•ServiceNow was recognized as a Leader and Customer Favorite in the Forrester Wave™: Configure, Price, Quote Solutions, Q4 20262 and as a Leader in the Forrester Wave: Conversational AI Platforms for Employee Services, Q3 20263.
+•ServiceNow was also recognized as a Market Shaper in the 2026 Gartner® Emerging Market Quadrant for AI Agents in Human Resources - Established Vendors4 and as a Leader across multiple Gartner® Magic Quadrant™ reports, including the 2026 Gartner Magic Quadrant for AI Applications in IT Service Management5,
+
+(2) Forrester Wave™: Configure, Price, Quote Solutions, Q4 2026, Forrester Research, Inc.
+
+(3) Forrester Wave: Conversational AI Platforms For Employee Services, Q3 2026, Forrester Research, Inc.
+
+Forrester Disclaimer
+
+Forrester does not endorse any company, product, brand, or service included in its research publications and does not advise any person to select the products or services of any company or brand based on the ratings included in such publications. Information is based on the best available resources. Opinions reflect judgment at the time and are subject to change. For more information, read about Forrester’s objectivity at https://www.forrester.com/about-us/objectivity/.
+
+(4) Gartner, Inc., Emerging Magic Quadrant for AI Agents in Human Resources, Ranadip Chandra, Eser Rizaoglu, September 23, 2026.
+
+(5) Gartner, Inc., Magic Quadrant for AI Applications in IT Service Management, Chris Matchett, Luis Fernandez, Siddharth Shetty, August 17, 2026.
+
+3
+
+2026 Gartner Magic Quadrant for Business Orchestration and Automation Technologies6, and 2026 Gartner Magic Quadrant for AI-Augmented Low-Code Application Platforms7.
+•ServiceNow placed on the Fortune Best Workplaces in Technology® list8 and was named to the Forbes World’s Best Employers list, reflecting a culture built on employee trust, respect, satisfaction, and fairness.
+
+(6) Gartner, Inc., Magic Quadrant for Business Orchestration and Automation Technologies, Saikat Ray, Arthur Villa, Sachin Joshi, Adam Briggs, September 14, 2026.
+
+(7) Gartner, Inc., Magic Quadrant AI-Augmented Low-Code Application Platforms, Adrian Leow, Kyle Davis, Mukul Saha, Nitish Tyagi, September 28, 2026.
+
+Gartner Disclaimer
+The Gartner content described herein, (the "Gartner Content") represents research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and is not representation of fact. Gartner Content speaks as of its original publication date (and not as of the date of this earnings press release) and the opinions expressed in the Gartner Content are subject to change without notice.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+(8) From Fortune ©2026 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 500 are registered trademarks of Fortune Media IP Limited and are used under license. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse the products or services of, ServiceNow.
+
+4
+
+Third Quarter 2026 GAAP and Non-GAAP Results:
+The following table summarizes our financial results for the third quarter 2026:
+
+Third Quarter 2026 GAAP Results	Third Quarter 2026
+Non-GAAP Results(1)
+
+Amount
+($ millions)	Year/Year
+Growth (%)	Amount
+($ millions)(2)
+Year/Year
+Growth (%)
+Subscription revenues	$	3,988	21	%	$	3,990	20.5	%
+Professional services and other revenues	$	118	10	%	$	117	9	%
+Total revenues	$	4,106	20.5	%	$	4,107	20	%
+
+Amount
+($ billions)	Year/Year
+Growth (%)
+Amount
+($ billions)(2)
+Year/Year
+Growth (%)
+
+cRPO	$	13.65	20.5	%	$	13.72	21	%
+RPO	$	29.7	22	%	$	29.8	22.5	%
+
+Amount
+($ millions)	Margin (%)	Amount
+($ millions)(3)
+Margin (%)(3)
+
+Subscription gross profit	$	2,934	73.5	%	$	3,198	80	%
+Professional services and other gross loss	$	(39)	(32.5	%)	$	(23)	(20	%)
+Total gross profit	$	2,895	70.5	%	$	3,175	77.5	%
+Income from operations	$	385	9.5	%	$	1,338	32.5	%
+Net cash provided by operating activities	$	839	20.5	%
+Free cash flow	$	822	20	%
+
+Amount
+($ millions)	Earnings per Basic/Diluted Share ($)	Amount
+($ millions)(3)
+Earnings per
+Basic/Diluted
+Share ($)(3)
+
+Net income	$	277	$0.27 / $0.27	$	1,039	$1.00 / $1.00
+
+(1)We report non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section entitled “Statement Regarding Use of Non-GAAP Financial Measures” for an explanation of non-GAAP measures.
+(2)Non-GAAP subscription revenues and total revenues are adjusted for constant currency by excluding effects of foreign currency rate fluctuations and any gains or losses from foreign currency hedge contracts. Professional services and other revenues, cRPO, and RPO are adjusted only for constant currency. See the section entitled “Statement Regarding Use of Non-GAAP Financial Measures” for an explanation of non-GAAP measures.
+(3)Refer to the table entitled “GAAP to Non-GAAP Reconciliation” for a reconciliation of GAAP to non-GAAP measures.
+Note: Numbers rounded for presentation purposes and may not foot.
+
+4
+
+Financial Outlook
+Our guidance includes GAAP and non‑GAAP financial measures. The non‑GAAP growth rates for subscription revenues are adjusted for constant currency by excluding the effects of foreign currency rate fluctuations and any gains or losses from foreign currency hedge contracts, and the non-GAAP growth rates for cRPO are adjusted only for constant currency to provide better visibility into the underlying business.
+The following table summarizes our guidance for the fourth quarter 2026:
+
+Fourth Quarter 2026
+GAAP Guidance	Fourth Quarter 2026
+Non-GAAP Guidance(1)
+
+Amount
+($ millions)(2)
+Year/Year
+Growth (%)(2)
+Constant Currency
+Year/Year Growth (%)
+Subscription revenues	$4,245 - $4,255	22.5% - 23%	21.5	%
+
+cRPO	18.5	%	18.5	%
+
+Margin (%)(3)
+
+Income from operations	32	%
+
+Amount
+(billions)
+Weighted-average shares used to compute diluted net income per share	1.05
+
+(1)We report non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section entitled “Statement Regarding Use of Non-GAAP Financial Measures” for an explanation of non-GAAP measures.
+(2)Guidance for GAAP subscription revenues and GAAP subscription revenues and cRPO growth rates are based on the 30-day average of foreign exchange rates for September 2026 for entities reporting in currencies other than U.S. Dollars.
+(3)Refer to the table entitled “Reconciliation of Non-GAAP Financial Guidance” for a reconciliation of GAAP to non-GAAP measures.
+
+5
+
+The following table summarizes our guidance for the full-year 2026:
+
+Full-Year 2026
+GAAP Guidance	Full-Year 2026
+Non-GAAP Guidance(1)
+
+Amount
+($ millions)(2)
+Year/Year
+Growth (%)(2)
+Constant Currency
+Year/Year Growth (%)
+Subscription revenues	$15,780 - $15,790	22.5	%	21	%
+
+Margin (%)(3)
+
+Subscription gross profit	81	%
+Income from operations	31.5	%
+Free cash flow	36	%
+
+Amount
+(billions)
+Weighted-average shares used to compute diluted net income per share	1.04
+
+(1)We report non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section entitled “Statement Regarding Use of Non-GAAP Financial Measures” for an explanation of non-GAAP measures.
+(2)GAAP subscription revenues and related growth rate for the future quarter included in our full-year 2026 guidance are based on the 30-day average of foreign exchange rates for September 2026 for entities reporting in currencies other than U.S. Dollars.
+(3)Refer to the table entitled “Reconciliation of Non-GAAP Financial Guidance” for a reconciliation of GAAP to non-GAAP measures.
+Note: Numbers are rounded for presentation purposes and may not foot.
+
+6
+
+Conference Call Details
+The conference call will begin at 2 p.m. Pacific Daylight Time (21:00 GMT) on October 28, 2026. Interested parties may listen to the call by dialing (833) 461‑5787 (Meeting ID: 657715831), or if outside North America, by dialing (585) 542‑9983 (Meeting ID: 657715831). Individuals may access the live teleconference from this webcast.
+https://events.q4inc.com/attendee/657715831
+An audio replay of the conference call and webcast will be available two hours after its completion and will be accessible for 30 days. To hear the replay, interested parties may go to the investor relations section of the ServiceNow website or dial (833) 309‑1852 (Meeting ID: 657715831), or if outside North America, by dialing (929) 828‑5978 (Meeting ID: 657715831).
+Investor Presentation Details
+An investor presentation providing additional information, including forward-looking guidance, and analysis can be found at https://investors.servicenow.com.
+Upcoming Investor Conferences
+ServiceNow today announced that it will attend and have executives present at four upcoming investor conferences.
+These include:
+•ServiceNow Senior Vice President and General Manager Josh Kahn will participate in a fireside chat at the BMO Technology and Innovation Leaders Conference on Thursday, November 12, 2026, at 7:00 a.m. PT.
+•ServiceNow Senior Vice President and General Manager Josh Kahn will participate in a fireside chat at the RBC Global TIMT Conference on Tuesday, November 17, 2026, at 5:40 a.m. PT.
+•ServiceNow President and Chief Financial Officer Gina Mastantuono will participate in a fireside chat at the Wells Fargo TMT Summit on Tuesday, December 8, 2026, at 12:45 p.m. PT.
+•ServiceNow President and Chief Financial Officer Gina Mastantuono will participate in a keynote at the Barclays Global Technology Conference on Wednesday, December 9, 2026, at 11:40 a.m. PT.
+The live webcast for each will be accessible on the investor relations section of the ServiceNow website at
+https://investors.servicenow.com and archived on the ServiceNow site for a period of 30 days.
+Statement Regarding Use of Non-GAAP Financial Measures
+We use the following non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP.
+•Revenues. We adjust revenues and related growth rates for constant currency to provide a framework for assessing how our business performed excluding the effect of foreign currency rate fluctuations and any gains or losses from foreign currency hedge contracts that are reported in the current and comparative period. To exclude the effect of foreign currency rate fluctuations, current period results for entities reporting in currencies other than U.S. Dollars (“USD”) are converted into USD at the average exchange rates in effect during the comparison period (for Q3 2025, the average exchange rates in effect for our major currencies were 1 USD to 0.86 Euros and 1 USD to 0.74 British Pound Sterling (“GBP”)), rather than the actual average exchange rates in effect during the current period (for Q3 2026, the average exchange rates in effect for our major currencies were 1 USD to 0.87 Euros and 1 USD to 0.74 GBP). Guidance for revenues related growth rates is derived by applying the average exchange rates in effect during the comparison period, rather than the exchange rates for the guidance period, adjusted for any foreign currency hedging effects. We believe the presentation of revenues and related growth rates adjusted for constant currency facilitates the comparison of revenues year-over-year.
+
+7
+
+•Remaining performance obligations and current remaining performance obligations. We adjust cRPO and remaining performance obligations (“RPO”) and related growth rates for constant currency to provide a framework for assessing how our business performed. To present this information, current period results for entities reporting in currencies other than USD are converted into USD at the exchange rates in effect at the end of the comparison period (for Q3 2025, the end of the period exchange rates in effect for our major currencies were 1 USD to 0.85 Euros and 1 USD to 0.74 GBP), rather than the actual end of the period exchange rates in effect during the current period (for Q3 2026, the end of the period exchange rates in effect for our major currencies were 1 USD to 0.88 Euros and 1 USD to 0.76 GBP). Guidance for the related growth rate is derived by applying the end of period exchange rates in effect during the comparison period rather than the exchange rates in effect during the guidance period. We believe the presentation of cRPO and RPO and related growth rates adjusted for constant currency facilitates the comparison of cRPO and RPO year-over-year, respectively.
+•Gross profit, Income from operations, Net income and Net income per share - diluted. Our non-GAAP presentation of gross profit, income from operations, and net income measures exclude certain non-cash or non-recurring items, including stock-based compensation expense, amortization of purchased intangibles, legal settlements, impairment of assets, severance costs, contract termination costs, business combination and other related costs including compensation expense, gains and losses on strategic investments, net, income tax effects and adjustments, and the income tax benefit from the release of a valuation allowance on deferred tax assets. We believe these adjustments provide useful supplemental information to investors and facilitates the analysis of our operating results and comparison of operating results across reporting periods.
+•Free cash flow. Free cash flow is defined as net cash provided by operating activities plus cash outflows for legal settlements and business combination and other related costs including compensation expense, reduced by purchases of property and equipment. Free cash flow margin is calculated as free cash flow as a percentage of total revenues. We believe information regarding free cash flow and free cash flow margin provides useful information to investors because it is an indicator of the strength and performance of our business operations.
+Our presentation of non-GAAP financial measures may not be comparable to similar measures used by other companies. We encourage investors to carefully consider our results under GAAP, as well as our supplemental non-GAAP information and the reconciliation between these presentations, to more fully understand our business. Please see the tables included at the end of this release for the reconciliation of GAAP and non-GAAP results for gross profit, income from operations, net income, net income per share, and free cash flow. Our Rule of 57 guidance for 2026 and Rule of 60+ long-term target reflect a combination of subscription revenue growth rate on a constant currency basis and free cash flow margin. Subscription revenues adjusted for constant currency exclude the effects of foreign currency rate fluctuations and any gains or losses from foreign currency hedge contracts. We have not provided a reconciliation of our forward-looking long-term free cash flow margin to the most comparable GAAP financial measure because we are unable to predict, without unreasonable efforts, the timing and amount of certain adjustments, which may be significant.
+Use of Forward-Looking Statements
+This release contains “forward-looking statements.” Those statements include, without limitation, our performance outlook, including the statements in the section entitled “Financial Outlook,” and other statements regarding capital and compute constraints and the expected benefits of our announced partnerships and acquisitions.  Forward-looking statements are subject to known and unknown risks and uncertainties and are based on potentially inaccurate assumptions that could cause actual results to differ materially from those expected or implied by the forward-looking statements. If any such risks or uncertainties materialize or if any of the assumptions prove incorrect, our results could differ materially from the results expressed or implied by the forward-looking statements we make.
+Factors that may cause actual results to differ materially from those in any forward-looking statements include, among others, experiencing an actual or perceived cyber-security event or weakness; our ability to comply with evolving privacy laws, data transfer restrictions, and other foreign and domestic standards related to data and the Internet; errors, interruptions, delays or security breaches in or of our service or data centers; our ability to maintain and attract key employees and manage workplace culture; alleged violations of laws and regulations, including those relating to anti-bribery and anti-corruption and those relating to public sector contracting
+
+8
+
+requirements; our ability to compete successfully against existing and new competitors; our ability to predict, prepare for and respond promptly to rapidly evolving technological, market and customer developments; our ability to grow our business, including converting remaining performance obligations into revenue, adding and retaining customers, selling additional subscriptions to existing customers, selling to larger enterprises, government and regulated organizations with complex sales cycles and certification processes, and entering new geographies and markets; our ability to develop and gain customer demand for and acceptance of existing, new and improved products and services, including products that incorporate AI technology; our ability to expand and maintain our partnerships and partner programs, including expected market opportunity from such relationships, and realize the anticipated benefits thereof; global macroeconomic and political conditions including tariffs, inflation and armed conflicts; fluctuations in the value of foreign currencies relative to the U.S. Dollar; fluctuations in interest rates; our ability to consummate and realize the benefits of any strategic transactions or acquisitions; our ability to execute share repurchases, including the timing, manner, price, and amount of any repurchase; and fluctuations and volatility in our stock price.
+Further information on these and other factors that could affect our financial results are included in our Form 10-K for the year ended December 31, 2025, and in other filings we make with the Securities and Exchange Commission from time to time.
+We undertake no obligation, and do not intend, to update these forward-looking statements, to review or confirm analysts’ expectations, or to provide interim reports or updates on the progress of the current financial quarter.
+About ServiceNow
+ServiceNow (NYSE: NOW) is the Super Intelligence Control Tower for business reinvention. The ServiceNow platform integrates with any model, any cloud, and any data source to orchestrate, govern, and secure work across the agentic enterprise. ServiceNow gives customers the enterprise context and control to build and scale confidently. With more than 100 billion workflows running on the platform each year, ServiceNow helps organizations turn fragmented operations into coordinated, autonomous work for IT, CRM, Security, Employee Experience, and more. Learn how ServiceNow puts AI to work for people at www.servicenow.com.
+© 2026 ServiceNow, Inc. All rights reserved. ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks and/or registered trademarks of ServiceNow, Inc. in the United States and/or other countries. Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
+Media Contact:
+Emily Jeffers
+press@servicenow.com
+Investor Contact:
+Darren Yip
+(925) 388-7205
+ir@servicenow.com
+
+9
+
+ServiceNow, Inc.
+Condensed Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+
+Three Months Ended	Nine Months Ended
+September 30, 2026	September 30, 2025	September 30, 2026	September 30, 2025
+Revenues:
+Subscription	$	3,988	$	3,299	$	11,536	$	9,417
+Professional services and other	118	108	327	293
+Total revenues	4,106	3,407	11,863	9,710
+Cost of revenues (1):
+
+Subscription	1,054	666	2,904	1,852
+Professional services and other	157	108	416	297
+Total cost of revenues	1,211	774	3,320	2,149
+Gross profit	2,895	2,633	8,543	7,561
+Operating expenses (1):
+
+Sales and marketing	1,271	1,056	3,859	3,238
+Research and development	956	750	2,694	2,187
+General and administrative	283	255	940	755
+Total operating expenses	2,510	2,061	7,493	6,180
+Income from operations	385	572	1,050	1,381
+Interest income	69	115	227	346
+Interest expense	(81)	(6)	(153)	(18)
+Other income (expense), net	(3)	13	357	11
+Income before income taxes	370	694	1,481	1,720
+Provision for income taxes	93	192	437	373
+Net income	$	277	$	502	$	1,044	$	1,347
+Net income per share - basic (2)
+$	0.27	$	0.48	$	1.01	$	1.30
+Net income per share - diluted (2)
+$	0.27	$	0.48	$	1.01	$	1.29
+Weighted-average shares used to compute net income per share - basic (2)
+1,035	1,038	1,034	1,036
+Weighted-average shares used to compute net income per share - diluted (2)
+1,043	1,048	1,039	1,047
+
+(1)Includes stock-based compensation as follows:
+
+10
+
+Three Months Ended	Nine Months Ended
+September 30, 2026	September 30, 2025	September 30, 2026	September 30, 2025
+Cost of revenues:
+Subscription	$	96	$	78	$	276	$	222
+Professional services and other	13	11	38	33
+Operating expenses:
+Sales and marketing	175	141	504	444
+Research and development	282	203	801	584
+General and administrative	67	59	227	178
+
+(2)Prior period results have been retroactively adjusted to reflect the effects of the five-for-one stock split, which was effective December 17, 2025
+
+Note: Certain prior period amounts have been reclassified to conform to the current period presentation.
+
+11
+
+ServiceNow, Inc.
+Condensed Consolidated Balance Sheets
+(in millions)
+
+September 30, 2026	December 31, 2025
+(unaudited)
+
+Assets
+Current assets:
+Cash and cash equivalents	$	2,393	$	3,726
+Marketable securities	2,214	2,558
+Accounts receivable, net	2,222	2,627
+Current portion of deferred commissions	606	590
+Prepaid expenses and other current assets	1,042	970
+Total current assets	8,477	10,471
+Deferred commissions, less current portion	1,158	1,114
+Long-term marketable securities	2,354	3,771
+Strategic investments	2,050	1,542
+Property and equipment, net	2,145	2,289
+Operating lease right-of-use assets	779	806
+Intangible assets, net	3,594	1,121
+Goodwill	10,012	3,578
+Deferred tax assets	804	1,056
+Other assets	457	290
+Total assets	$	31,830	$	26,038
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable	$	231	$	204
+Accrued expenses and other current liabilities	1,760	1,813
+Current portion of deferred revenue	7,600	8,314
+Current portion of operating lease liabilities	118	112
+Short-term debt, net	2,086	—
+
+Total current liabilities	11,795	10,443
+Deferred revenue, less current portion	133	120
+Operating lease liabilities, less current portion	773	800
+Long-term debt, net	5,438	1,491
+Other long-term liabilities	595	220
+Stockholders’ equity	13,096	12,964
+Total liabilities and stockholders’ equity	$	31,830	$	26,038
+
+12
+
+ServiceNow, Inc.
+Condensed Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+
+Three Months Ended	Nine Months Ended
+September 30, 2026	September 30, 2025	September 30, 2026	September 30, 2025
+Cash flows from operating activities:
+Net income	$	277	$	502	$	1,044	$	1,347
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization	390	194	1,055	526
+
+Amortization of deferred commissions	179	161	519	454
+
+Stock-based compensation	630	492	1,829	1,461
+Deferred income taxes	29	124	167	172
+
+Unrealized (gains) losses on strategic investments	(7)	(22)	(367)	(27)
+Other	40	3	103	70
+Changes in operating assets and liabilities, net of effect of business combinations:
+Accounts receivable	(29)	141	442	740
+Deferred commissions	(213)	(171)	(589)	(462)
+Prepaid expenses and other assets	(103)	23	(221)	(199)
+Accounts payable	72	(85)	81	48
+Deferred revenue	(463)	(449)	(845)	(713)
+Accrued expenses and other liabilities	37	(100)	(122)	(211)
+Net cash provided by operating activities	$	839	$	813	$	3,096	$	3,206
+Cash flows from investing activities:
+Purchases of property and equipment	(91)	(235)	(346)	(630)
+Business combinations, net of cash acquired	(391)	(139)	(9,167)	(215)
+Purchases of other intangibles	—	(9)	—	(43)
+Purchases of marketable securities	(1,022)	(397)	(1,448)	(2,719)
+Purchases of strategic investments	(13)	(882)	(191)	(1,020)
+Sales and maturities of marketable securities	632	1,129	3,160	3,410
+
+Other	47	(18)	49	26
+Net cash used in investing activities	$	(838)	$	(551)	$	(7,943)	$	(1,191)
+Cash flows from financing activities:
+Proceeds from borrowings on senior notes, net of discount and issuance costs	(1)	—	3,943	—
+Proceeds from term loan, net of issuance costs	—	—	3,991	—
+Repayments of term loan	—	—	(4,000)	—
+
+13
+
+Three Months Ended	Nine Months Ended
+September 30, 2026	September 30, 2025	September 30, 2026	September 30, 2025
+Proceeds from issuance of commercial paper, net of discount	995	—	4,529	—
+Repayments of commercial paper	(1,012)	—	(2,484)	—
+Proceeds from employee stock plans	79	117	233	270
+Repurchases of common stock	—	(584)	(2,225)	(1,243)
+Taxes paid related to net share settlement of equity awards	(175)	(190)	(456)	(628)
+Other	—	—	(7)	—
+Net cash (used in) provided by financing activities	$	(114)	$	(657)	$	3,524	$	(1,601)
+Foreign currency effect on cash, cash equivalents and restricted cash	1	(4)	(4)	10
+Net change in cash, cash equivalents and restricted cash	(112)	(399)	(1,327)	424
+Cash, cash equivalents and restricted cash at beginning of period	2,517	3,133	3,732	2,310
+Cash, cash equivalents and restricted cash at end of period	$	2,405	$	2,734	$	2,405	$	2,734
+
+Note: Certain prior period amounts have been reclassified to conform to the current period presentation.
+
+14
+
+ServiceNow, Inc.
+GAAP to Non-GAAP Reconciliation
+(in millions, except per share data)
+(unaudited)
+
+Three Months Ended	Nine Months Ended
+September 30, 2026	September 30, 2025	September 30, 2026	September 30, 2025
+
+Gross profit:
+GAAP subscription gross profit	$	2,934	$	2,633	$	8,632	$	7,565
+Stock-based compensation	96	78	276	222
+Amortization of purchased intangibles	152	32	390	75
+
+Severance costs	16	1	20	4
+Non-GAAP subscription gross profit	$	3,198	$	2,744	$	9,318	$	7,866
+
+GAAP professional services and other gross (loss) profit	$	(39)	$	—	$	(89)	$	(4)
+Stock-based compensation	13	11	38	33
+
+Severance costs	3	1	3	1
+Non-GAAP professional services and other gross (loss) profit	$	(23)	$	12	$	(48)	$	30
+
+GAAP gross profit	$	2,895	$	2,633	$	8,543	$	7,561
+Stock-based compensation	109	89	314	255
+Amortization of purchased intangibles	152	32	390	75
+
+Severance costs	19	2	23	5
+Non-GAAP gross profit	$	3,175	$	2,756	$	9,270	$	7,896
+
+Gross margin:
+GAAP subscription gross margin	73.5	%	80	%	75	%	80.5	%
+Stock-based compensation as % of subscription revenues	2.5	%	2.5	%	2.5	%	2.5	%
+Amortization of purchased intangibles as % of subscription revenues	4	%	1	%	3.5	%	1	%
+
+Severance costs as % of subscription revenues	0.5	%	—	%	—	%	—	%
+Non-GAAP subscription gross margin	80	%	83	%	81	%	83.5	%
+
+GAAP professional services and other gross margin	(32.5	%)	0.5	%	(27	%)	(1.5	%)
+Stock-based compensation as % of professional services and other revenues	11	%	10.5	%	11.5	%	11.5	%
+
+Severance costs as % of professional services and other revenues	2	%	0.5	%	1	%	0.5	%
+Non-GAAP professional services and other gross margin	(20	%)	11	%	(15	%)	10	%
+
+15
+
+GAAP gross margin	70.5	%	77.5	%	72	%	78	%
+Stock-based compensation as % of total revenues	2.5	%	2.5	%	2.5	%	2.5	%
+Amortization of purchased intangibles as % of total revenues	3.5	%	1	%	3.5	%	1	%
+
+Severance costs as % of total revenues	0.5	%	—	%	—	%	—	%
+Non-GAAP gross margin	77.5	%	81	%	78	%	81.5	%
+
+Income from operations:
+GAAP income from operations	$	385	$	572	$	1,050	$	1,381
+Stock-based compensation	633	492	1,846	1,461
+Amortization of purchased intangibles	198	33	494	79
+Business combination and other related costs	35	19	153	44
+
+Impairment of assets	—	—	—	30
+Severance costs	87	24	167	53
+
+Non-GAAP income from operations	$	1,338	$	1,140	$	3,710	$	3,048
+
+Operating margin:
+GAAP operating margin	9.5	%	17	%	9	%	14	%
+Stock-based compensation as % of total revenues	15.5	%	14.5	%	15.5	%	15	%
+Amortization of purchased intangibles as % of total revenues	5	%	1	%	4	%	1	%
+Business combination and other related costs as % of total revenues	1	%	0.5	%	1.5	%	0.5	%
+
+Impairment of assets as % of total revenues	—	%	—	%	—	%	0.5	%
+Severance costs as % of total revenues	2	%	0.5	%	1.5	%	0.5	%
+
+Non-GAAP operating margin	32.5	%	33.5	%	31.5	%	31.5	%
+
+Net income:
+GAAP net income	$	277	$	502	$	1,044	$	1,347
+Stock-based compensation	633	492	1,846	1,461
+Amortization of purchased intangibles	198	33	494	79
+Business combination and other related costs	35	19	153	44
+
+Impairment of assets	—	—	—	30
+Severance costs	87	24	167	53
+
+(Gains)/losses on strategic investments, net (3)
+(7)	(22)	(367)	(27)
+
+Income tax effects and adjustments(1) (3)
+(184)	(56)	(305)	(299)
+Discrete income tax benefit from the release of a valuation allowance on deferred tax assets (4)
+—	—	(51)	—
+Non-GAAP net income (3)
+$	1,039	$	992	$	2,981	$	2,689
+
+Net income per share - basic and diluted:
+GAAP net income per share - basic (2)
+$	0.27	$	0.48	$	1.01	$	1.30
+GAAP net income per share - diluted (2)
+$	0.27	$	0.48	$	1.01	$	1.29
+Non-GAAP net income per share - basic (2) (3)
+$	1.00	$	0.96	$	2.88	$	2.59
+Non-GAAP net income per share - diluted (2)(3)
+$	1.00	$	0.95	$	2.87	$	2.57
+
+16
+
+Weighted-average shares used to compute net income per share - basic (2)
+1,035	1,038	1,034	1,036
+
+Weighted-average shares used to compute net income per share - diluted (2)
+1,043	1,048	1,039	1,047
+
+Free cash flow:
+GAAP net cash provided by operating activities	$	839	$	813	$	3,096	$	3,206
+Purchases of property and equipment	(91)	(235)	(346)	(630)
+Business combination and other related costs	74	14	371	28
+
+Non-GAAP free cash flow	$	822	$	592	$	3,121	$	2,604
+
+Free cash flow margin:
+GAAP net cash provided by operating activities as % of total revenues	20.5	%	24	%	26	%	33	%
+Purchases of property and equipment as % of total revenues	(2	%)	(7	%)	(3	%)	(6.5	%)
+
+Business combination and other related costs as % of total revenues	2	%	0.5	%	3	%	0.5	%
+
+Non-GAAP free cash flow margin	20	%	17.5	%	26.5	%	27	%
+
+(1)We use a non-GAAP effective tax rate for evaluating our operating results to provide consistency across reporting periods. Based on our long-term projections, we are using a non-GAAP tax rate of 21% for the three and nine months ended September 30, 2026 and 20% for the three and nine months ended September 30, 2025. This non-GAAP tax rate could change for various reasons including significant changes in our geographic earnings mix or fundamental tax law changes in major jurisdictions in which we operate.
+(2)Prior period results have been retroactively adjusted to reflect the effects of the five-for-one stock split, which was effective December 17, 2025.
+(3)Prior period results have been retroactively adjusted to reflect the exclusion of gains and losses on strategic investments.
+(4)GAAP net income for the nine months ended September 30, 2026 was impacted by a $51 million release of valuation allowance on our deferred tax assets as a discrete tax benefit.
+Note: Numbers are rounded for presentation purposes and may not foot.
+
+17
+
+ServiceNow, Inc.
+Reconciliation of Non-GAAP Financial Guidance
+
+Three Months Ending
+December 31, 2026
+
+GAAP operating margin	12	%
+Stock-based compensation expense as % of total revenues	14	%
+Amortization of purchased intangibles as % of total revenues	5	%
+Business combination and other related costs as % of total revenues	1	%
+Severance costs as % of total revenues	1	%
+
+Non-GAAP operating margin	32	%
+
+18
+
+Twelve Months Ending
+December 31, 2026
+
+GAAP subscription gross margin	75	%
+Stock-based compensation expense as % of subscription revenues	2	%
+Amortization of purchased intangibles as % of subscription revenues	3	%
+Severance costs as % of subscription revenues	—	%
+Non-GAAP subscription margin	81	%
+
+GAAP operating margin	10	%
+Stock-based compensation expense as % of total revenues	15	%
+Amortization of purchased intangibles as % of total revenues	4	%
+Business combination and other related costs as % of total revenues	1	%
+
+Severance costs as % of total revenues	1	%
+
+Non-GAAP operating margin	31.5	%
+
+GAAP net cash provided by operating activities as % of total revenues	37	%
+Purchases of property and equipment as % of total revenues	(3	%)
+
+Business combination and other related costs as % of total revenues	2	%
+
+Non-GAAP free cash flow margin	36	%
+
+Note: Numbers are rounded for presentation purposes and may not foot.
+
+19
+

@@ -1,0 +1,472 @@
+
+EX-99.1
+2
+proddashex991-pressrelease.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+DoorDash Releases Third Quarter 2026 Financial Results
+October 29, 2026
+SAN FRANCISCO—(BUSINESS WIRE)—DoorDash, Inc. (NASDAQ: DASH) today announced its financial results for the quarter ended September 30, 2026.
+In Q3 2026, we generated new quarterly records across Marketplace GOV, revenue, and net income. In the quarter, we drove continued growth in our membership1 programs, launched new products, added more selection, advanced our global technology platform, and continued to innovate in key new areas of our business, including merchant services, AI, and autonomy. We are pleased with our execution through the first nine months of 2026 and excited about the contributions we are making to local economies.
+Additionally, we announced a definitive agreement to acquire Maplebear Inc. ("Instacart") for $65.00 per share, payable in at least 75% cash and up to 25% DoorDash common stock, subject to election and proration mechanics. We believe that, together with Instacart, our combined scale and complementary technologies will enable us to build the next generation of tools and services that will empower local merchants to thrive, provide more choice for consumers, and generate more opportunity for Dashers2 and shoppers using Instacart's platform ("Shoppers").
+Third Quarter 2026 Key Financial Metrics
+•Total Orders increased 28% year-over-year (Y/Y) to 993 million.
+•Marketplace GOV increased 36% Y/Y to $33.9 billion.
+•Revenue increased 34% Y/Y to $4.6 billion.
+•GAAP net income attributable to DoorDash, Inc. common stockholders increased 91% Y/Y to $466 million.
+•Adjusted EBITDA increased 41% Y/Y to $1,060 million.
+
+Three Months Ended
+(in millions, except percentages)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+Total Orders	776	903	933	970	993
+Total Orders Y/Y growth	21	%	32	%	27	%	27	%	28	%
+Marketplace GOV	$	25,015	$	29,683	$	31,604	$	33,078	$	33,941
+Marketplace GOV Y/Y growth	25	%	39	%	37	%	36	%	36	%
+Revenue	$	3,446	$	3,955	$	4,036	$	4,454	$	4,616
+Revenue Y/Y growth	27	%	38	%	33	%	36	%	34	%
+Net Revenue Margin	13.8	%	13.3	%	12.8	%	13.5	%	13.6	%
+GAAP gross profit	$	1,689	$	1,911	$	1,944	$	2,223	$	2,311
+GAAP gross profit as a % of Marketplace GOV	6.8	%	6.4	%	6.2	%	6.7	%	6.8	%
+Contribution Profit	$	1,268	$	1,405	$	1,380	$	1,641	$	1,780
+Contribution Profit as a % of Marketplace GOV	5.1	%	4.7	%	4.4	%	5.0	%	5.2	%
+GAAP net income attributable to DoorDash, Inc. common stockholders	$	244	$	213	$	184	$	200	$	466
+GAAP net income attributable to DoorDash, Inc. common stockholders as a % of Marketplace GOV	1.0	%	0.7	%	0.6	%	0.6	%	1.4	%
+Adjusted EBITDA	$	754	$	780	$	754	$	914	$	1,060
+Adjusted EBITDA as a % of Marketplace GOV	3.0	%	2.6	%	2.4	%	2.8	%	3.1	%
+Weighted-average diluted shares outstanding	442	443	442	439	440
+
+1
+
+Operational Update
+In Q3 2026, we grew Total Orders 28% Y/Y (17% Y/Y excluding the impact of Deliveroo), Marketplace GOV 36% Y/Y (23% Y/Y excluding the impact of Deliveroo), and revenue 34% Y/Y (23% Y/Y excluding the impact of Deliveroo). In Q3 2026, net income attributable to our common stockholders was $466 million and Adjusted EBITDA was $1,060 million. As a note, beginning in Q4 2026, we intend to stop disclosing quarterly results excluding Deliveroo, as this will represent the anniversary of the acquisition and our total company results will be largely comparable with the year-ago period.
+In our U.S. restaurant category in Q3 2026, Y/Y growth in Marketplace GOV accelerated slightly compared to Q2 2026, despite a challenging Y/Y comparison due to strong growth in Q3 2025. On a quarter-over-quarter (Q/Q) basis, Marketplace GOV in the U.S. restaurant category grew faster in Q3 2026 than in any third quarter since Q3 2020. Growth in the U.S. restaurant category was driven by continued Y/Y growth in order rates3 among mature cohorts4 and accelerated Y/Y growth in new consumers.5 We continued to drive strong growth in U.S. DashPass paid memberships in Q3 2026, which helps reduce transactional friction for consumers. Over the last two years, growth in DashPass has helped drive a 9% reduction in transaction fees per order in the U.S. restaurant category.
+In our U.S. grocery and retail categories, Y/Y growth in Marketplace GOV in Q3 2026 remained strong, growing at more than double the pace of Y/Y growth in our U.S. restaurant category. During the quarter, in our U.S. grocery and retail categories, we announced several new merchant partners, supporting broader selection for consumers, and we continued to drive improvements to affordability and quality, which helped drive continued double-digit Y/Y growth in order rates for nearly all mature cohorts in Q3 2026, as well as Y/Y growth in new consumers to our U.S. grocery and retail categories that was consistent with Y/Y growth in the first half of 2026.
+We view the relatively consistent growth in our U.S. marketplace in Q3 2026, and over the last four years, as a positive signal of underlying demand trends and a reflection of our ability to continue producing increased value through product innovation. A recent addition to our service in some cities is reservations and, during Q3 2026, restaurant reservations through our U.S. marketplace grew over 340% Q/Q in existing geographies, with more than 10% of reservations in Q3 2026 coming from consumers who were new to DoorDash in the quarter.6
+In our international marketplaces, we drove accelerated Y/Y growth in Marketplace GOV in Q3 2026,7 supported by accelerated Y/Y growth in Total Orders at each of our international brands. We continue to diffuse operating insights and product innovations across the company, which is helping improve the efficiency of our international operations. At the same time, we continue to work to improve the dynamism of our capital allocation across geographies and product areas, so that we can take advantage of the best opportunities we see to positively impact customer outcomes and drive long-term profit production. We believe these improvements helped enable us to drive strong topline performance in our international marketplaces in Q3 2026, with contributions to total profitability that exceeded our expectations entering the quarter.
+The first nine months of 2026 was a period of excellent execution and solid financial performance. Nonetheless, we continue to have significant work ahead of us to improve our existing services, complete the implementation of our new global technology platform, and build the next generation of services that will drive local commerce and our company forward.
+Agreement to Acquire Instacart
+DoorDash, Inc. and Instacart today announced a definitive agreement under which DoorDash will acquire Instacart for a total value of $65.00 for each Instacart share, or an equity value of approximately $17 billion. Instacart stockholders will have the right to elect to receive, for each Instacart share: (i) $65.00 in cash, (ii) 0.3372 shares of DoorDash common stock, or (iii) a mix of $48.75 in cash and 0.0843 shares of DoorDash common stock, in each case, subject to a cap on the total stock consideration issuable by DoorDash equal to 25% of the aggregate consideration and certain proration mechanics. Instacart's board of directors has unanimously approved the agreement.
+2
+
+The value of $65.00 per Instacart share represents a 26% premium to Instacart's closing price on October 22, 2026, the last trading day before media reports about a possible transaction. As described above, Instacart stockholders may elect to receive cash, DoorDash common stock or a mix of cash and DoorDash common stock for each Instacart share, subject to a cap on the total stock consideration issuable by DoorDash equal to 25% of the aggregate consideration. If stock consideration is oversubscribed, applicable Instacart stockholders will receive stock consideration on a prorated basis.
+DoorDash expects to fund the cash portion of the consideration with cash on hand and proceeds from debt financing. DoorDash has entered into a financing commitment letter with JPMorgan Chase Bank, N.A. providing for a 364-day senior unsecured bridge loan facility in support of the debt component of the transaction, subject to satisfaction or waiver of certain customary conditions. The transaction is not subject to a financing condition. DoorDash is targeting a capital structure that will maintain investment-grade ratings.
+The transaction is expected to close in the end of 2027 or the first half of 2028, subject to approval by Instacart stockholders, the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, other regulatory approvals, including in Canada and Israel, and other customary closing conditions. Stockholders holding about 19% of Instacart's outstanding shares have agreed to vote in favor of the transaction.
+Grocery Delivery and Instacart
+Grocery delivery is still early in its adoption. We’ve made meaningful progress over the past five years at DoorDash, significantly improving logistics quality for grocery delivery, but as we’ve said many times, the product still isn’t there. Consumers are still asked to pay a premium for imperfect delivery.
+To achieve the end state of perfect grocery delivery every time at the best possible prices, we believe that invention is required on the fulfillment and business models of grocery delivery. In order to obtain perfect delivery every time from the widest selection of grocers, we believe managing the inventory ourselves for third-party grocers is important. This is why we started our DashMart project five years ago, first learning how to do this by holding our own inventory, and now managing thousands of high-quality products from Giant Eagle, Albertsons, and others. When we manage inventory ourselves, we achieve 99%+ fulfillment accuracy.8 We also deliver more than 10 minutes faster on average,9 because the warehouse environment is optimized for delivery whereas a grocery store was never set up for delivery. In addition to faster delivery, managing the inventory ourselves gives us the potential to reduce the cost of fulfillment, and lower costs enable us to reinvest into more value for consumers.
+Managing inventory inside a warehouse is a fixed cost business. Scale is a necessary (though insufficient) input into helping lower costs. This is one of the reasons we’re attracted to Instacart, as it adds scale that is unique to our network.
+Over the past 14 years, Instacart has built a great brand that serves millions of consumers. Hence, we believe that combining our reach will enable the best possible logistics and software infrastructure to produce the best possible grocery delivery experience for grocers, consumers, Shoppers, and advertising partners. We expect this to be true on Day 1 (after close), as the combined reach will increase density across the grocery store network, helping increase delivery speed, lower fulfillment costs, and provide greater earning opportunities for Shoppers.
+As we have historically done, we expect to reinvest a portion of the improved network efficiencies into creating a better experience for all audiences. We’ve done this both with our U.S. restaurant marketplace, where our reinvestments into product innovation have continued to generate durable growth, and in our acquired businesses outside of the U.S. Most recently, we demonstrated this investment philosophy and approach at Deliveroo, which in Q3 2026, saw Total Orders grow at twice the Y/Y rate it did in Q3 2025 (pre-acquisition).
+To this end, we see a multi-year path to $500 million or more of annual synergies, net of investments. We expect to invest more than 100% of total synergies in the first year after close, followed by positive net synergies in year two and beyond. However, our initial aims in online grocery with third-party fulfillment won’t be the end state, and Instacart’s scale will benefit us on the journey toward creating a better product experience for grocery delivery. First, the expected efficiencies
+3
+
+created can give us the investment capacity to invest further in our fulfillment network. Second, Instacart’s scale will help amortize the fixed cost of managing inventory on behalf of grocers.
+Moreover, Instacart shares the same mission as we do to empower merchants to grow on their own channels. Instacart has invested in its Enterprise product for several years and is a leader in this space. In addition to offering grocers the best Day 1 and long-term products from the DoorDash and Instacart marketplaces, when we combine Instacart’s leading Enterprise software with our leading fulfillment services, we believe we can offer grocers an even more efficient logistics network and best-in-class first-party products, too.
+Finally, the combined reach and cross selling opportunities across different categories will be a win for advertisers who are always seeking scaled platforms to earn the best return on ad spend.
+Atoms vs Bits
+Four years ago, as ChatGPT launched and the advent of the AI revolution was getting started, we recognized two important challenges for companies: one to be the leading digital personal assistant, and the other to become the leading physical network to help fulfill tasks in the real world. DoorDash will be focused on the second of these two battles. Building a scaled logistics network and solving the challenges that connect all of these audiences in the end-to-end flow of delivery is how we intend to compete.
+As AI personal agents are now starting to become more mainstream, our strategy today remains focused on winning the battle for atoms. This doesn’t mean that we won’t contribute to AI innovation digitally. In fact, we recently shipped a series of AI agents that solve real customer problems including: Ask DoorDash, which helps you find new restaurants most similar to what your usual orders are and enables you to build your grocery order baskets faster; Text DoorDash, a texting solution that is the fastest way to order outside the DoorDash app; and a Model Context Protocol (MCP) that interfaces with external AI agents, including those used at companies for easier corporate ordering.
+But from a capital allocation perspective, we are investing substantial sums in two ways to build for the physical world. We are investing in building capabilities like warehousing and in autonomous delivery. We are also investing in our ability to help merchants win with unique demand and the best products, such as today’s announcement to team up with Instacart.
+4
+
+Financial Outlook
+
+Period	Marketplace GOV	Adjusted EBITDA
+Q4 2026	$35.4 billion - $36.4 billion	$900 million - $1,100 million
+
+Based on our current outlook and assuming a stock price consistent with recent trading levels, we expect:
+•2026 stock-based compensation expense of approximately $1.2 billion.
+•2026 depreciation and amortization expense of approximately $1.2 billion, inclusive of approximately $450 million of amortization of acquired intangible assets.
+•2026 year-end timing for merchant payments compared to the end of 2025 is expected to reduce reported 2026 Free Cash Flow by between $700 million and $800 million.
+Our outlook assumes that aggregate consumer demand and key foreign currency rates remain relatively stable at current levels. Our outlook also anticipates significant levels of ongoing investment in new categories, international markets, and in our system capacity to support further growth, as well as growing investment in new initiatives and our global technology platform.
+We caution investors that consumer spending in any of our geographies could deteriorate relative to our outlook, which could drive results below our expectations. Additionally, our increasing international exposure heightens risks associated with operating in foreign markets, including geopolitical and currency risks. Changes in the international operating environment could negatively impact results versus our current outlook.
+We have not provided GAAP net income (loss) attributable to DoorDash, Inc. common stockholders outlook or a reconciliation of Adjusted EBITDA outlook to GAAP net income (loss) attributable to DoorDash, Inc. common stockholders as a result of the uncertainty regarding, and the potential variability of, reconciling items such as legal, tax, and regulatory expenses and other items. Accordingly, a reconciliation of Adjusted EBITDA outlook to GAAP net income (loss) attributable to DoorDash, Inc. common stockholders is not available without unreasonable effort. However, it is important to note that material changes to reconciling items could have a significant effect on future GAAP results. We have provided historical reconciliations of GAAP to non-GAAP measures in tables at the end of this release. For more information regarding the non-GAAP financial measures discussed in this release, please see "Use of Non-GAAP Financial Measures" below.
+5
+
+Q3 2026 Financial Performance
+
+Three Months Ended	Y/Y % Change	Q/Q % Change
+(in millions, except percentages)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026	Sept. 30,
+2026	Sept. 30,
+2026
+Revenue	$	3,446	$	3,955	$	4,036	$	4,454	$	4,616	34	%	4	%
+Net Revenue Margin	13.8	%	13.3	%	12.8	%	13.5	%	13.6	%
+GAAP cost of revenue, exclusive of depreciation and amortization
+$	1,687	$	1,935	$	1,992	$	2,107	$	2,171	29	%	3	%
+GAAP sales and marketing expense
+$	576	$	707	$	746	$	821	$	765	33	%	(7)	%
+GAAP research and development expense
+$	355	$	419	$	398	$	535	$	499	41	%	(7)	%
+GAAP general and administrative expense
+$	400	$	480	$	432	$	538	$	426	7	%	(21)	%
+GAAP net income attributable to DoorDash, Inc. common stockholders	$	244	$	213	$	184	$	200	$	466	91	%	133	%
+
+Net cash provided by operating activities	$	871	$	421	$	594	$	944	$	994	14	%	5	%
+Free Cash Flow
+$	723	$	254	$	420	$	742	$	787	9	%	6	%
+
+The Y/Y increase in Total Orders in Q3 2026 was driven primarily by growth in the number of consumers and the acquisition of Deliveroo. Excluding the acquisition of Deliveroo, Total Orders increased 17% Y/Y in Q3 2026.
+The Y/Y increase in Marketplace GOV in Q3 2026 was driven primarily by growth in Total Orders and an increase in average order value10 on our Marketplaces. Excluding the acquisition of Deliveroo, Marketplace GOV increased 23% Y/Y in Q3 2026.
+The Y/Y increase in revenue in Q3 2026 was driven primarily by growth in Marketplace GOV. Excluding Deliveroo, revenue increased 23% Y/Y in Q3 2026.
+The Y/Y increase in GAAP cost of revenue, exclusive of depreciation and amortization in Q3 2026 was driven primarily by increases in Total Orders. As a percentage of Marketplace GOV, GAAP cost of revenue, exclusive of depreciation and amortization, was 6.4% in Q3 2026, down from 6.7% in Q3 2025 and in line with 6.4% in Q2 2026.
+The Y/Y increase in GAAP sales and marketing expense in Q3 2026 was driven primarily by increases in advertising expenses and personnel-related compensation expenses. As a percentage of Marketplace GOV, GAAP sales and marketing expense was 2.3% in Q3 2026, in line with 2.3% in Q3 2025 and down from 2.5% in Q2 2026.
+The Y/Y increase in GAAP research and development expense in Q3 2026 was driven primarily by increases in personnel-related compensation expenses and third-party software expenses. As a percentage of Marketplace GOV, GAAP research and development expense was 1.5% in Q3 2026, up from 1.4% in Q3 2025 and down from 1.6% in Q2 2026.
+The Y/Y increase in GAAP general and administrative expense in Q3 2026 was driven primarily by increases in personnel-related compensation expenses. As a percentage of Marketplace GOV, GAAP general and administrative expense was 1.3% in Q3 2026, down from 1.6% in Q3 2025 and 1.6% in Q2 2026.
+GAAP net income attributable to DoorDash, Inc. common stockholders was $466 million in Q3 2026, up from $244 million in Q3 2025 and $200 million in Q2 2026.
+Adjusted EBITDA was $1,060 million in Q3 2026, up 41% from $754 million in Q3 2025 and up 16% from $914 million in Q2 2026. Adjusted EBITDA as a percentage of Marketplace GOV was 3.1% in Q3 2026, up from 3.0% in Q3 2025 and 2.8% in Q2 2026.
+6
+
+In Q3 2026, we generated net cash provided by operating activities of $994 million and Free Cash Flow of $787 million, up from $871 million and $723 million, respectively, in Q3 2025.
+In February 2025, our board of directors authorized the repurchase of up to $5.0 billion of our Class A common stock. Year to date through October 28, we have repurchased a total of 6.8 million shares of our Class A common stock for $1.0 billion under the February 2025 authorization. We currently have approximately $4.0 billion remaining under the current stock repurchase authorization. We may or may not repurchase any portion of the remaining amount.
+Analyst and Investor Conference Call and Earnings Webcast
+DoorDash will host a conference call and webcast to discuss our quarterly results today at 5:30 a.m. Pacific Time (8:30 a.m. Eastern Time). Those interested in listening to the call can register and attend by visiting our Investor Relations page at https://ir.doordash.com. An archived webcast will be available on our Investor Relations page shortly after the call.
+Available Information
+We announce material information to the public about us, our products and services, and other matters through a variety of means, including filings with the SEC, press releases, public conference calls, webcasts, the investor relations section of our website (ir.doordash.com), our blog (doordash.news), and our social media accounts on X (including @TheDashboard) and LinkedIn in order to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD.
+Forward-Looking Statements
+This release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as "may," "aim," "will," "should," "expect," "plan," "try," "anticipate," "could," "would," "intend," "target," "project," "contemplate," "believe," "estimate," "predict," "potential," or "continue" or the negative of these words or other similar terms or expressions that concern our expectations, strategies, plans, or intentions. Forward-looking statements in this release include, but are not limited to, our expectations regarding our financial position and financial and operating performance, including our outlook and guidance for the fourth quarter of 2026 and our assumptions underlying such guidance; our expectations regarding our stock-based compensation expense, our depreciation and amortization expense, and our Free Cash Flow; our expectations regarding the impact of year-end timing of merchant payments on 2026 Free Cash Flow; statements regarding the proposed acquisition of Instacart by DoorDash pursuant to the Agreement and Plan of Merger among DoorDash, Ibiza Merger Sub, Inc., a wholly owned subsidiary of DoorDash, and Instacart (the "Merger Agreement" and such transaction, the "Proposed Transaction"); the expected financing of the Proposed Transaction; the expected timing and likelihood of completion of the Proposed Transaction on the terms contemplated or at all; the expected benefits, synergies, and strategic value of the Proposed Transaction, including the future financial and operating performance of the combined company; our plans and expectations regarding the integration of Instacart; and our plans, objectives, expectations, and intentions with respect to the Proposed Transaction, the period of pendency of the Proposed Transaction and the combined company; our priorities and our plans and expectations regarding our overall business strategy and investment approach; expectations regarding our focus to improve the efficiency of our operations and our capital allocation across our international marketplaces; the expected benefits of our global technology platform; our expectations regarding the value and benefits of our membership programs; our plans and expectations for our expanded services, new product initiatives, and product innovation; our expectations regarding the value of our platform and services to merchants, consumers, and Dashers; our plans and expectations regarding the integration of Deliveroo, including, among other things, its impact on, and contribution to, our business, financial position, and financial and operating performance; our ability to drive future growth, gain greater efficiency in unit economics, and execute on our goals and strategies; our expectations regarding trends in our business, demand for our platform and for local commerce platforms in general, the macroeconomic environment, including global consumer spending, foreign currency rates, gas prices, and geopolitical risks; and our plans and expectations regarding share dilution, including in connection with equity award issuances and our share repurchase authorization. Our expectations and beliefs regarding these matters may not materialize, and actual results in future periods are subject to risks and uncertainties that could cause actual results to differ materially from those projected, including risks and uncertainties related to: the occurrence of any event, change, or other circumstance that could give rise to the termination of the Merger Agreement, including circumstances requiring a
+7
+
+party to pay a termination fee or reimburse expenses; the ability to obtain, or delays in obtaining, governmental and regulatory approvals required for the Proposed Transaction, including the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and any required clearance or approval under the Competition Act (Canada) or under the Israeli Economic Competition Law-1988, and the risk that such approvals may result in the imposition of conditions that could adversely affect the combined company or the expected benefits of the Proposed Transaction; the ability to obtain the requisite approval of Instacart stockholders; the satisfaction or waiver of the other conditions to the closing of the Proposed Transaction; delays in completing the Proposed Transaction, or the failure to complete the Proposed Transaction at all; the ability to obtain adequate financing or financings on satisfactory terms and the effect of any indebtedness incurred in connection with the Proposed Transaction on the combined company’s credit ratings; the ability to successfully integrate Instacart’s business and to realize the anticipated cost savings, synergies, and other benefits of the Proposed Transaction within the expected timeframe or at all; the effect of any announcement relating to the Proposed Transaction on the market price of DoorDash’s or Instacart’s common stock; fluctuations in the market price of DoorDash common stock and the possibility that Instacart stockholders may receive a form of consideration different from what they elect as a result of proration; the nature, cost, and outcome of any litigation related to the Proposed Transaction; the risk that the Proposed Transaction disrupts current plans and operations or diverts management’s attention from ongoing business operations and opportunities; adverse reactions or changes to business or employee relationships resulting from the announcement, pendency, or completion of the Proposed Transaction; the ability to retain and hire key personnel; economic, financial, social, or political conditions that could adversely affect us or the Proposed Transaction; managing our growth and corporate culture; the macroeconomic environment and geopolitical uncertainty; competition; changes in legislation or governmental regulations; financial performance; investments in new geographies, products, or offerings, as well as our technology infrastructure; our ability to successfully integrate and realize the benefits of acquisitions, including Deliveroo, strategic partnerships, joint ventures, and investments; our ability to attract merchants, consumers, and Dashers to our platform; legal proceedings and regulatory matters and developments; DoorDash's and Instacart's respective brands and reputations; and any future changes to our business or our financial or operating model. The forward-looking statements contained in this release are also subject to other risks and uncertainties that could cause actual results to differ from the results predicted, including those more fully described in our filings with the SEC, including our Annual Report on Form 10-K for the year ended December 31, 2025 and our quarterly reports on Form 10-Q, in Instacart’s filings with the SEC, including its Annual Report on Form 10-K for the year ended December 31, 2025 and quarterly reports on Form 10-Q, and in the registration statement on Form S-4 and the proxy statement/prospectus described below when they become available. All forward-looking statements in this release are based on information available to DoorDash and assumptions and beliefs as of the date hereof, and we disclaim any obligation to update any forward-looking statements, except as required by law.
+Important Additional Information Will Be Filed with the SEC and Where to Find It
+In connection with the Proposed Transaction, DoorDash intends to file with the SEC a registration statement on Form S-4 (the “Registration Statement”) to register the shares of DoorDash common stock to be issued in connection with the Proposed Transaction. The Registration Statement will include a proxy statement of Instacart that also constitutes a prospectus of DoorDash (the “proxy statement/prospectus”). Each of DoorDash and Instacart may also file other relevant documents with the SEC regarding the Proposed Transaction. After the Registration Statement has been declared effective by the SEC, a definitive proxy statement/prospectus will be mailed to stockholders of Instacart as of the record date established for voting on the Proposed Transaction. This release is not a substitute for the Registration Statement, the proxy statement/prospectus, or any other document that DoorDash or Instacart may file with the SEC in connection with the Proposed Transaction. INVESTORS AND SECURITY HOLDERS OF DOORDASH AND INSTACART ARE URGED TO READ THE REGISTRATION STATEMENT, INCLUDING THE PROXY STATEMENT/PROSPECTUS AND DOCUMENTS INCORPORATED THEREIN BY REFERENCE, AND ANY OTHER RELEVANT DOCUMENTS THAT ARE FILED OR WILL BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THOSE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT DOORDASH, INSTACART, THE PROPOSED TRANSACTION, THE RISKS RELATED THERETO, AND RELATED MATTERS.
+Investors and security holders will be able to obtain free copies of the Registration Statement and the proxy statement/prospectus (when available), as each may be amended or supplemented from time to time, and other documents containing important information about DoorDash, Instacart, and the Proposed Transaction, once such documents are filed with the SEC, through the website maintained by the SEC at www.sec.gov. Copies of the documents filed with the SEC by DoorDash, including the proxy statement/prospectus (when available), will be available free of charge on DoorDash’s investor relations website at ir.doordash.com. Copies of the documents filed with the SEC by Instacart,
+8
+
+including the proxy statement/prospectus (when available), will be available free of charge on Instacart’s investor relations website at investors.instacart.com.
+Participants in the Solicitation
+DoorDash, Instacart, and certain of their respective directors, executive officers, and other members of management and employees may be deemed to be participants in the solicitation of proxies from Instacart’s stockholders in respect of the Proposed Transaction under the rules of the SEC. Information about the directors and executive officers of DoorDash, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in DoorDash’s Annual Report on Form 10-K for the year ended December 31, 2025, its definitive proxy statement on Schedule 14A for its 2026 Annual Meeting of Stockholders, and its definitive information statement on Schedule 14C filed with the SEC on August 27, 2026 (including the beneficial ownership information set forth therein), each filed with the SEC. Information about the directors and executive officers of Instacart, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Instacart’s Annual Report on Form 10-K for the year ended December 31, 2025 and its definitive proxy statement on Schedule 14A for its 2026 Annual Meeting of Stockholders, each filed with the SEC. To the extent holdings of securities by the directors and executive officers of DoorDash or Instacart have changed from the amounts reflected therein, such changes have been or will be reflected on Initial Statements of Beneficial Ownership of Securities on Form 3, Statements of Changes in Beneficial Ownership on Form 4, or Annual Statements of Changes in Beneficial Ownership of Securities on Form 5 subsequently filed with the SEC.
+Other information regarding the interests of participants in the proxy solicitation, which may differ from the interests of DoorDash and Instacart stockholders generally, will be contained in the Registration Statement, the proxy statement/prospectus, and other relevant materials to be filed with the SEC regarding the Proposed Transaction when they become available. Investors and security holders should read the proxy statement/prospectus carefully when it becomes available before making any voting or investment decisions. You may obtain free copies of these documents from DoorDash or Instacart using the sources indicated above.
+No Offer or Solicitation
+This release is for informational purposes only and is not intended to and shall not constitute an offer to sell, buy, or exchange, or the solicitation of an offer to sell, subscribe for, buy, or exchange any securities, or a solicitation of any vote or approval, in any jurisdiction, nor shall there be any sale, issuance, exchange, or transfer of securities in any jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities, including the shares of DoorDash common stock to be issued as part of the merger consideration in the Proposed Transaction, shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended, and otherwise in accordance with applicable law.
+Use of Non-GAAP Financial Measures
+To supplement our financial information presented in accordance with accounting principles generally accepted in the United States of America ("GAAP"), we consider certain financial measures that are not prepared in accordance with GAAP, including adjusted cost of revenue, adjusted sales and marketing expense, adjusted research and development expense, adjusted general and administrative expense, Adjusted Gross Profit, Adjusted Gross Margin, Contribution Profit, Contribution Margin, Adjusted EBITDA, Free Cash Flow, and revenue, excluding Deliveroo. We use these financial measures in conjunction with GAAP measures as part of our overall assessment of our performance, including the preparation of our annual operating budget and quarterly forecasts, to evaluate the effectiveness of our business strategies and to communicate with our board of directors concerning our business and financial performance. We believe that these non-GAAP financial measures provide useful information to investors about our business and financial performance, enhance their overall understanding of our past performance and future prospects, and allow for greater transparency with respect to metrics used by our management in their financial and operational decision making. We are presenting these non-GAAP financial measures to assist investors in seeing our business and financial performance through the eyes of management, and because we believe that these non-GAAP financial measures provide an additional tool for investors to use in comparing results of operations of our business over multiple periods and with other companies in our industry.
+We define adjusted cost of revenue as cost of revenue, exclusive of depreciation and amortization, excluding stock-based compensation expense and certain payroll tax expense, allocated overhead, and inventory write-off related to
+9
+
+restructuring. Allocated overhead is determined based on an allocation of shared costs, such as facilities (including rent and utilities) and information technology costs, among all departments based on employee headcount. We define adjusted sales and marketing expense as sales and marketing expenses excluding stock-based compensation expense and certain payroll tax expense, and allocated overhead. We define adjusted research and development expense as research and development expenses excluding stock-based compensation expense and certain payroll tax expense, and allocated overhead. We define adjusted general and administrative expense as general and administrative expenses excluding stock-based compensation expense and certain payroll tax expense, certain legal, tax, and regulatory settlements, reserves, and expenses, transaction-related costs (primarily consists of acquisition, integration, and investment related costs), impairment expenses, and including allocated overhead from cost of revenue, sales and marketing, and research and development.
+We define Adjusted Gross Profit as gross profit plus (i) depreciation and amortization expense related to cost of revenue, (ii) stock-based compensation expense and certain payroll tax expense included in cost of revenue, (iii) allocated overhead included in cost of revenue, and (iv) inventory write-off related to restructuring. Gross profit is defined as revenue less (i) cost of revenue, exclusive of depreciation and amortization and (ii) depreciation and amortization related to cost of revenue. Adjusted Gross Margin is defined as Adjusted Gross Profit as a percentage of revenue for the same period.
+We define Contribution Profit as our gross profit less sales and marketing expense plus (i) depreciation and amortization expense related to cost of revenue, (ii) stock-based compensation expense and certain payroll tax expense included in cost of revenue and sales and marketing expenses, (iii) allocated overhead included in cost of revenue and sales and marketing expenses, and (iv) inventory write-off related to restructuring. We define gross margin as gross profit as a percentage of revenue for the same period and we define Contribution Margin as Contribution Profit as a percentage of revenue for the same period. We use Contribution Profit to evaluate our operating performance and trends. We believe that Contribution Profit is a useful indicator of the economic impact of orders fulfilled through DoorDash as it takes into account the direct expenses associated with generating and fulfilling orders.
+Adjusted EBITDA is a measure that we use to assess our operating performance and the operating leverage in our business. We define Adjusted EBITDA as net income (loss) attributable to DoorDash, Inc. common stockholders, adjusted to include net income (loss) attributable to redeemable non-controlling interests and exclude (i) certain legal, tax, and regulatory settlements, reserves, and expenses, (ii) loss on disposal of property and equipment, (iii) transaction-related costs (primarily consists of acquisition, integration, and investment related costs), (iv) impairment expenses, (v) restructuring charges, (vi) inventory write-off related to restructuring, (vii) provision for (benefit from) income taxes, (viii) interest income, net, (ix) other (income) expense, net, (x) stock-based compensation expense and certain payroll tax expense, and (xi) depreciation and amortization expense.
+We define Free Cash Flow as cash flows from operating activities less purchases of property and equipment and capitalized software and website development costs.
+We define Total Orders as all orders completed through our marketplaces and Commerce Platform over the period of measurement.
+We define Marketplace GOV as the total dollar value of orders completed on our marketplaces, including taxes, tips, and any applicable consumer fees, including membership fees related to DashPass, Wolt+, and Deliveroo Plus. Marketplace GOV does not include the dollar value of orders, taxes and tips, or fees charged to merchants, for orders fulfilled through our Commerce Platform.
+We define Net Revenue Margin as revenue expressed as a percentage of Marketplace GOV.
+We define revenue, excluding Deliveroo as revenue, excluding the revenue attributable to our Deliveroo branded marketplaces and Commerce Platform. We believe that revenue, excluding Deliveroo is a useful metric for period-over-period comparability of our legacy business.
+Our definitions may differ from the definitions used by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Further, these metrics have certain limitations in that they do not include the impact of certain expenses that are reflected in our consolidated statements of operations. Thus, our adjusted cost of revenue, adjusted sales and marketing expense, adjusted research and development expense,
+10
+
+adjusted general and administrative expense, Adjusted Gross Profit, Adjusted Gross Margin, Contribution Profit, Contribution Margin, Adjusted EBITDA, Free Cash Flow, and revenue, excluding Deliveroo should be considered in addition to, not as substitutes for, or in isolation from, measures prepared in accordance with GAAP.
+
+1 Members are based on the number of paid, trial, and partnership member accounts for the relevant membership programs on the last day of the period of measurement.
+2 "Dashers" generally refers to the independent contractors that use our marketplaces. In certain geographies, Dashers may be known locally as riders, courier partners, or similar. Dashers may also refer to employees or independent contractors of third-party service providers or employees of our local entities.
+3 Order rate for a given cohort and time period is mathematically equal to the orders for such time period for the given cohort, divided by the starting size of that cohort.
+4 Includes the 99 DoorDash monthly consumer cohorts from January 2017 through March 2025. We typically determine a cohort is mature after approximately six months. We exclude cohorts prior to January 2017 due to their relatively small size and a lack of certain historical data. We also exclude cohorts from April 2025 through September 2025 because those cohorts were not considered mature during all periods for a Y/Y comparison.
+5 Unless the context requires otherwise, new consumers for any given category are based on the number of individual consumer accounts that completed their first order in the stated category during the period of measurement.
+6 Based on the number of reservations made by individual consumer accounts that had yet to complete an order on our U.S. marketplace or make a reservation through DoorDash, in each case, prior to Q3 2026.
+7 For this statement only, Y/Y growth in Marketplace GOV in our international marketplaces as a whole has been calculated on a constant currency basis, excluding exited countries, and assuming we owned Deliveroo in all applicable periods.
+8 Based on fulfillment accuracy for DashMart orders during Q3 2026.
+9 Based on a comparison of the average delivery time for DashMart orders compared to that of all other grocery orders in the U.S. geographies with an active DashMart store during Q3 2026.
+10 Calculated as the total value of Marketplace GOV divided by the total number of orders completed on our marketplaces in the period of measurement.
+11
+
+DOORDASH, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in millions)
+(Unaudited)
+
+December 31,
+2025	September 30,
+2026
+
+Assets
+Current assets:
+Cash and cash equivalents	$	4,378	$	5,053
+Short-term investments	1,128	929
+Restricted cash	273	301
+Funds held at payment processors	587	660
+Accounts receivable, net	1,108	1,212
+Prepaid expenses and other current assets	1,169	1,206
+Total current assets	8,643	9,361
+Long-term investments	837	805
+Operating lease right-of-use assets	437	449
+Property and equipment, net	1,067	1,300
+Intangible assets, net	2,260	1,904
+Goodwill	5,519	5,530
+Other assets	896	1,231
+Total assets	$	19,659	$	20,580
+Liabilities, Redeemable Non-controlling Interests and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	397	$	333
+Operating lease liabilities	105	104
+Accrued expenses and other current liabilities	5,645	5,954
+Total current liabilities	6,147	6,391
+Operating lease liabilities	461	466
+Convertible notes, net
+2,724	2,728
+Other liabilities	281	268
+Total liabilities	9,613	9,853
+
+Redeemable non-controlling interests	13	10
+Stockholders’ equity:
+Common stock	—	—
+Additional paid-in capital	14,092	15,140
+Accumulated other comprehensive income	261	97
+Accumulated deficit	(4,320)	(4,520)
+Total stockholders’ equity	10,033	10,717
+Total liabilities, redeemable non-controlling interests and stockholders’ equity	$	19,659	$	20,580
+
+12
+
+DOORDASH, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except share amounts which are reflected in thousands, and per share data)
+(Unaudited)
+
+Three Months Ended September 30,	Nine Months Ended September 30,
+2025	2026	2025	2026
+
+Revenue	$	3,446	$	4,616	$	9,762	$	13,106
+Costs and expenses:
+Cost of revenue, exclusive of depreciation and amortization shown separately below	1,687	2,171	4,803	6,270
+Sales and marketing	576	765	1,769	2,332
+Research and development	355	499	1,012	1,432
+General and administrative	400	426	1,120	1,396
+Depreciation and amortization	169	312	480	876
+Restructuring charges	1	1	2	51
+Total costs and expenses	3,188	4,174	9,186	12,357
+Income from operations	258	442	576	749
+Interest income, net	71	37	169	106
+Other income (expense), net	(81)	5	(28)	27
+Income before income taxes	248	484	717	882
+Provision for (benefit from) income taxes	5	19	(2)	35
+Net income including redeemable non-controlling interests	243	465	719	847
+Less: net loss attributable to redeemable non-controlling interests	(1)	(1)	(3)	(3)
+Net income attributable to DoorDash, Inc. common stockholders	$	244	$	466	$	722	$	850
+Net income per share attributable to DoorDash, Inc. Class A and Class B common stockholders
+Basic	$	0.57	$	1.07	$	1.70	$	1.96
+Diluted	$	0.55	$	1.06	$	1.65	$	1.93
+Weighted-average number of shares outstanding used to compute net income per share attributable to DoorDash, Inc. Class A and Class B common stockholders
+Basic	428,911	434,409	425,176	434,750
+Diluted	441,812	440,314	438,611	440,658
+
+13
+
+DOORDASH, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+(Unaudited)
+
+Nine Months Ended September 30,
+2025	2026
+
+Cash flows from operating activities
+Net income including redeemable non-controlling interests	$	719	$	847
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization	480	876
+Stock-based compensation	775	847
+Reduction of operating lease right-of-use assets and accretion of operating lease liabilities	83	109
+Amortization of deferred contract costs	55	66
+Office lease impairment expenses	7	1
+Other	57	9
+Changes in operating assets and liabilities, net of assets acquired and liabilities assumed from acquisitions:
+Funds held at payment processors	74	(79)
+Accounts receivable, net	(162)	(134)
+Prepaid expenses and other current assets	(195)	(47)
+Other assets	(193)	(66)
+Accounts payable	(60)	(57)
+Accrued expenses and other current liabilities	496	320
+Payments for operating lease liabilities	(87)	(122)
+Other liabilities	(39)	(38)
+Net cash provided by operating activities	2,010	2,532
+Cash flows from investing activities
+Purchases of property and equipment	(203)	(208)
+Capitalized software and website development costs	(235)	(375)
+Purchases of investments	(1,108)	(780)
+Maturities of investments	1,046	913
+Sales of investments	429	88
+Purchases of non-marketable investments	(5)	(192)
+Acquisitions, net of cash acquired	(1,198)	(58)
+Other investing activities	—	9
+Net cash used in investing activities	(1,274)	(603)
+Cash flows from financing activities
+Proceeds from issuance of convertible notes, net of issuance costs	2,720	—
+Proceeds from issuance of warrants	341	—
+Purchase of convertible note hedges	(680)	—
+Proceeds from exercise of stock options	8	4
+Repurchase of common stock	—	(1,049)
+Payments of acquisition-related deferred cash consideration	—	(40)
+Other financing activities	(10)	(6)
+Net cash provided by (used in) financing activities	2,379	(1,091)
+Foreign currency effect on cash and cash equivalents, and restricted cash and cash equivalents	63	(21)
+Net increase in cash and cash equivalents, and restricted cash and cash equivalents	3,178	817
+Cash and cash equivalents, and restricted cash and cash equivalents
+Beginning of period	4,221	4,681
+End of period	$	7,399	$	5,498
+Reconciliation of cash and cash equivalents, and restricted cash and cash equivalents to the condensed consolidated balance sheets
+Cash and cash equivalents	$	3,279	$	5,053
+Restricted cash	4,080	301
+Long-term restricted cash and cash equivalents included in other assets	40	144
+Total cash and cash equivalents, and restricted cash and cash equivalents	$	7,399	$	5,498
+
+Non-cash investing and financing activities
+Purchases of property and equipment not yet settled	$	46	$	34
+Stock-based compensation included in capitalized software and website development costs	$	140	$	196
+Deferred cash consideration for acquisitions	$	87	$	52
+
+14
+
+DOORDASH, INC.
+NON-GAAP FINANCIAL MEASURES
+(Unaudited)
+
+Three Months Ended
+(In millions)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+
+Cost of revenue, exclusive of depreciation and amortization	$	1,687	$	1,935	$	1,992	$	2,107	$	2,171
+Adjusted to exclude the following:
+Stock-based compensation expense and certain payroll tax expense	(39)	(45)	(35)	(48)	(39)
+Allocated overhead	(12)	(16)	(16)	(21)	(20)
+Adjusted cost of revenue	$	1,636	$	1,874	$	1,941	$	2,038	$	2,112
+
+Sales and marketing	$	576	$	707	$	746	$	821	$	765
+Adjusted to exclude the following:
+Stock-based compensation expense and certain payroll tax expense	(28)	(21)	(23)	(35)	(30)
+Allocated overhead	(6)	(10)	(8)	(11)	(11)
+Adjusted sales and marketing	$	542	$	676	$	715	$	775	$	724
+
+Research and development	$	355	$	419	$	398	$	535	$	499
+Adjusted to exclude the following:
+Stock-based compensation expense and certain payroll tax expense	(133)	(138)	(113)	(189)	(145)
+Allocated overhead	(7)	(7)	(8)	(10)	(11)
+Adjusted research and development	$	215	$	274	$	277	$	336	$	343
+
+General and administrative	$	400	$	480	$	432	$	538	$	426
+Adjusted to exclude the following:
+Stock-based compensation expense and certain payroll tax expense	(61)	(72)	(57)	(77)	(55)
+Certain legal, tax, and regulatory settlements, reserves, and expenses(1)
+(48)	(29)	(45)	(98)	(16)
+Transaction-related costs	(17)	(57)	(13)	(13)	(20)
+Office lease impairment expenses
+—	(4)	—	(1)	—
+Allocated overhead from cost of revenue, sales and marketing, and research and development	25	33	32	42	42
+Adjusted general and administrative	$	299	$	351	$	349	$	391	$	377
+
+(1)We exclude certain costs and expenses from our calculation of adjusted general and administrative expense because management believes that these costs and expenses are not indicative of our core operating performance, do not reflect the underlying economics of our business, and are not necessary to operate our business. These excluded costs and expenses consist of (i) certain legal costs primarily related to worker classification matters, and our historical Dasher pay model and pay practices, (ii) reserves and settlements or other resolutions for or related to the collection of sales, indirect, and other taxes that we do not expect to incur on a recurring basis, and (iii) expenses related to supporting various policy matters, including those related to worker classification, other labor law matters, and price controls. We believe it is appropriate to exclude the foregoing matters from our calculation of adjusted general and administrative expense because (1) the timing and magnitude of such expenses are unpredictable and thus not part of management’s budgeting or forecasting process, and (2) with respect to worker classification matters, management currently expects such expenses will not be material to our results of operations over the long term as a result of increasing legislative and regulatory certainty in this area, including as a result of Proposition 22 in California and similar legislation.
+15
+
+Three Months Ended
+(In millions, except percentages)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+
+Revenue	$	3,446	$	3,955	$	4,036	$	4,454	$	4,616
+Less: Cost of revenue, exclusive of depreciation and amortization	(1,687)	(1,935)	(1,992)	(2,107)	(2,171)
+Less: Depreciation and amortization related to cost of revenue	(70)	(109)	(100)	(124)	(134)
+Gross profit	$	1,689	$	1,911	$	1,944	$	2,223	$	2,311
+Gross Margin	49.0	%	48.3	%	48.2	%	49.9	%	50.1	%
+Less: Sales and marketing	(576)	(707)	(746)	(821)	(765)
+Add: Depreciation and amortization related to cost of revenue	70	109	100	124	134
+Add: Stock-based compensation expense and certain payroll tax expense included in cost of revenue and sales and marketing	67	66	58	83	69
+Add: Allocated overhead included in cost of revenue and sales and marketing	18	26	24	32	31
+Contribution Profit	$	1,268	$	1,405	$	1,380	$	1,641	$	1,780
+Contribution Margin	36.8	%	35.5	%	34.2	%	36.8	%	38.6	%
+
+Three Months Ended
+(In millions, except percentages)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+
+Gross profit	$	1,689	$	1,911	$	1,944	$	2,223	$	2,311
+Add: Depreciation and amortization related to cost of revenue	70	109	100	124	134
+Add: Stock-based compensation expense and certain payroll tax expense included in cost of revenue	39	45	35	48	39
+Add: Allocated overhead included in cost of revenue	12	16	16	21	20
+Adjusted Gross Profit	$	1,810	$	2,081	$	2,095	$	2,416	$	2,504
+Adjusted Gross Margin	52.5	%	52.6	%	51.9	%	54.2	%	54.2	%
+
+Three Months Ended
+(In millions)
+Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+
+Net income attributable to DoorDash, Inc. common stockholders	$	244	$	213	$	184	$	200	$	466
+Add: Net loss attributable to redeemable non-controlling interests	(1)	—	(1)	(1)	(1)
+Net income including redeemable non-controlling interests	$	243	$	213	$	183	$	199	$	465
+Certain legal, tax, and regulatory settlements, reserves, and expenses(1)
+48	29	45	98	16
+Transaction-related costs	17	57	13	13	20
+Office lease impairment expenses	—	4	—	1	—
+Restructuring charges	1	—	48	2	1
+Provision for (benefit from) income taxes	5	9	8	8	19
+Interest income, net	(71)	(42)	(34)	(35)	(37)
+Other (income) expense, net
+81	(33)	(6)	(16)	(5)
+Stock-based compensation expense and certain payroll tax expense(2)
+261	276	228	349	269
+Depreciation and amortization expense	169	267	269	295	312
+Adjusted EBITDA	$	754	$	780	$	754	$	914	$	1,060
+
+(1)We exclude certain costs and expenses from our calculation of Adjusted EBITDA because management believes that these costs and expenses are not indicative of our core operating performance, do not reflect the underlying economics of our business, and are not necessary to operate our business. These excluded costs and expenses consist of (i) certain legal costs primarily related to worker classification matters, and our historical Dasher pay model and pay practices, (ii) reserves and settlements or other resolutions for or related to the collection of sales, indirect, and other taxes that we do not expect to incur on a recurring basis, and (iii) expenses related to supporting various policy matters, including those related to worker classification, other labor law matters, and price controls. We believe it is appropriate to exclude the foregoing matters from our calculation of Adjusted EBITDA because (1) the timing and magnitude of such expenses are unpredictable and thus not part of management’s budgeting or forecasting process, and (2) with respect to worker classification matters, management currently expects such
+16
+
+expenses will not be material to our results of operations over the long term as a result of increasing legislative and regulatory certainty in this area, including as a result of Proposition 22 in California and similar legislation.
+(2)Excludes stock-based compensation related to restructuring, which is included in restructuring charges in the table above.
+
+Reconciliation of net cash provided by operating activities to Free Cash Flow
+
+Trailing Twelve Months Ended
+(in millions)	Sept. 30,
+2025	Dec. 31,
+2025	Mar. 31,
+2026	Jun. 30,
+2026	Sept. 30,
+2026
+
+Net cash provided by operating activities	$	2,528	$	2,431	$	2,390	$	2,830	$	2,953
+Purchases of property and equipment	(235)	(257)	(240)	(235)	(262)
+Capitalized software and website development costs	(301)	(348)	(398)	(456)	(488)
+Free Cash Flow	$	1,992	$	1,826	$	1,752	$	2,139	$	2,203
+
+Reconciliation of revenue to revenue, excluding Deliveroo
+
+Three Months Ended September 30,	Nine Months Ended September 30,
+(in millions)	2025	2026	2025	2026
+
+Revenue	$	3,446	$	4,616	$	9,762	$	13,106
+Revenue attributable to Deliveroo	—	(365)	—	(1,110)
+Revenue, excluding Deliveroo	$	3,446	$	4,251	$	9,762	$	11,996
+
+IR Contact:
+ir@doordash.com
+PR Contact:
+press@doordash.com
+
+17
+
