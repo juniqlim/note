@@ -196,6 +196,7 @@ export function renderNote({ site, note, notes, labelOf, base }) {
   ${source}
   ${body}
   ${backlinks}
+  ${site.comments ? `<div id="comments"></div>\n<script type="module" src="${attr(site.comments)}"></script>` : ''}
 </article>`,
   });
 }

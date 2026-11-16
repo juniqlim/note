@@ -5,7 +5,8 @@
     "repo": "juniqlim/note",
     "branch": "master",
     "domain": "note.juniq.im",
-    "sibling": { "label": "위키", "url": "https://wiki.juniq.im" }
+    "sibling": { "label": "위키", "url": "https://wiki.juniq.im" },
+    "comments": "https://juniqlim.github.io/comments/src/comments.js"
   },
   "folders": [
     { "dir": "programming", "label": "프로그래밍" },
