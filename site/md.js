@@ -2,6 +2,8 @@
 // 지원: h1~h4, 단락(줄끝 두 칸 = 줄바꿈), ul/ol(2칸 들여쓰기 중첩), 인용,
 //       코드펜스, 표, 수평선, **강조** *기울임* `코드` [링크](url), 프론트매터.
 
+import { posix } from "node:path";
+
 const REPO_BLOB = /^https?:\/\/github\.com\/[^/]+\/[^/]+\/blob\/[^/]+\/(.+)$/;
 
 export function decodeEntities(s) {
@@ -15,7 +17,7 @@ export function resolveHref(href, fromPath) {
   if (/^\.{0,2}\/?[^:]+\.md(#.*)?$/.test(href) && !/^https?:/.test(href)) {
     const dir = fromPath.split("/").slice(0, -1).join("/");
     const clean = href.replace(/^\.\//, "");
-    return { href: clean.startsWith("/") ? clean.slice(1) : (dir ? dir + "/" + clean : clean), internal: true, raw: href };
+    return { href: clean.startsWith("/") ? clean.slice(1) : posix.normalize(dir ? dir + "/" + clean : clean), internal: true, raw: href };
   }
   return { href, internal: false, raw: href };
 }

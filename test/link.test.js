@@ -34,3 +34,8 @@ test('여기 없는 상대경로 링크는 글자로 남는다', () => {
   const html = inlineToHtml(parseInline('[글](../ai-agent/gone.md)', 'programming/x.md'), ctx);
   assert.match(html, /class="dead"/);
 });
+
+test('../ 는 상위 폴더로 풀린다', () => {
+  const r = resolveHref('../alan/there.md', 'programming/ward/here.md');
+  assert.equal(r.href, 'programming/alan/there.md');
+});
