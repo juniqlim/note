@@ -1,10 +1,12 @@
-# Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman 서문, 그런데 워드가 쓴
+# Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman — 서문 (Foreword)
 
-David H. Hoover와 Adewale Oshineye쓴 이 책에 Ward Cunningham이 서문을 썼다.
+**저자**: 워드 커닝햄 (Ward Cunningham)
+**원서**: David H. Hoover & Adewale Oshineye, *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman*
+**출처(원문)**: 원서 서문 (O'Reilly, 2009)
 
 ---
 
-서문 (Foreword)
+## 번역
 
 
 25년 전, 켄트 벡(Kent Beck)과 저는 텍트로닉스(Tektronix) 기술 센터의 구내식당에 앉아, 우리가 가진

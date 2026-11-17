@@ -1,4 +1,4 @@
-# 위키 발명자 워드 커닝햄 × 존 게이지
+# 존 게이지의 워드 커닝햄 인터뷰: 위키 발명자 (컴퓨터 역사박물관, 2008)
 
 - 출처: Computer History Museum, "Wiki Inventor Ward Cunningham with John Gage" (2008-01-25, 1:43:47)
 - https://www.youtube.com/watch?v=bx6nNqSASGo

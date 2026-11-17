@@ -1,4 +1,4 @@
-# Ward Cunningham - Keynote: Observation of Emergent Schema in Organized Development
+# 워드 커닝햄 DDD 컨퍼런스 기조연설: Observation of Emergent Schema in Organized Development
 
 - 원본: https://www.youtube.com/watch?v=oPJIXPC_vn8&t=483s
 - DDD 컨퍼런스 기조연설
