@@ -2,7 +2,7 @@ https://www.infoworld.com/article/2235746/interview-xp-pioneer-stumps-for-test-d
 인터뷰: XP 개척자가 테스트 주도 개발을 옹호하다 (Interview: XP pioneer stumps for test-driven development)
 글: 존 유델 (Jon Udell, InfoWorld 테스트 센터 수석 분석가) 2003년 8월 1일
 
-# 테스트 우선 접근법에 내재된 긍정적 강화
+# 워드 커닝햄 인터뷰: 테스트 우선 접근법에 내재된 긍정적 강화
 
 부제: 워드 커닝햄이 프로그래밍에 대한 테스트 우선(test-first) 접근법에 내재된 긍정적 강화(positive reinforcement)를 설명한다.
 

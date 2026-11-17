@@ -2,7 +2,7 @@ https://www.artima.com/articles/exploring-with-wiki
 워드 커닝햄(Ward Cunningham)과의 대담, 1부
 빌 베너스(Bill Venners) 작성 2003년 10월 20일
 
-# 위키를 통한 탐험 (Exploring with Wiki)
+# 빌 베너스의 워드 커닝햄 인터뷰 1: 위키를 통한 탐험 (Exploring with Wiki)
 
 요약
 워드 커닝햄이 빌 베너스와 함께 협업적 탐험을 위해 위키(Wiki)를 사용하는 방법과 위키 작성자와 독자 간의 트레이드오프(상충 관계)에 대해 이야기합니다.
