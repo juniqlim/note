@@ -92,7 +92,8 @@ function parseListBlock(lines, ordered, fromPath) {
       parent.children.push(node);
     } else items.push(node);
   });
-  return { type: ordered ? "ol" : "ul", items };
+  const start = ordered ? parseInt(lines[0].match(/\d+/)[0], 10) : 1;
+  return { type: ordered ? "ol" : "ul", items, ...(start !== 1 && { start }) };
 }
 
 export function parseBlocks(body, fromPath) {
@@ -148,7 +149,15 @@ export function parseBlocks(body, fromPath) {
     if (isList(line)) {
       const buf = [];
       const ordered = /^\s*\d+\.\s/.test(line);
-      while (i < lines.length && (isList(lines[i]) || /^\s{2,}\S/.test(lines[i]))) buf.push(lines[i++]);
+      // 빈 줄 뒤에 같은 종류 항목이 오면 목록은 이어진다(느슨한 목록)
+      const continuesAfterBlank = (j) => {
+        while (j < lines.length && !lines[j].trim()) j++;
+        return j < lines.length && isList(lines[j]) && /^\s*\d+\.\s/.test(lines[j]) === ordered;
+      };
+      while (i < lines.length && (isList(lines[i]) || /^\s{2,}\S/.test(lines[i]) || (!lines[i].trim() && continuesAfterBlank(i)))) {
+        if (lines[i].trim()) buf.push(lines[i]);
+        i++;
+      }
       blocks.push(parseListBlock(buf, ordered, fromPath));
       continue;
     }

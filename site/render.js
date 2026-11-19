@@ -60,7 +60,7 @@ function blockToHtml(b, ctx) {
     }
     case 'p': return '<p>' + inlineToHtml(b.inline, ctx) + '</p>';
     case 'ul': return '<ul>' + itemsToHtml(b.items, ctx) + '</ul>';
-    case 'ol': return '<ol>' + itemsToHtml(b.items, ctx) + '</ol>';
+    case 'ol': return (b.start ? '<ol start="' + b.start + '">' : '<ol>') + itemsToHtml(b.items, ctx) + '</ol>';
     case 'quote': return '<blockquote>' + b.blocks.map((c) => blockToHtml(c, ctx)).join('') + '</blockquote>';
     case 'code': return '<pre><code>' + esc(b.code) + '</code></pre>';
     case 'hr': return '<hr>';
