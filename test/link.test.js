@@ -39,3 +39,9 @@ test('../ 는 상위 폴더로 풀린다', () => {
   const r = resolveHref('../alan/there.md', 'programming/ward/here.md');
   assert.equal(r.href, 'programming/alan/there.md');
 });
+
+// 목차처럼 같은 글 안의 제목으로 가는 링크는 새 창을 띄우면 안 된다.
+test('# 링크는 같은 페이지 안에서 움직인다', () => {
+  const html = inlineToHtml(parseInline('[문제](#1-문제-problem)', 'x.md'), ctx);
+  assert.equal(html, '<a href="#1-문제-problem">문제</a>');
+});

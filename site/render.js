@@ -29,6 +29,7 @@ export function inlineToHtml(nodes, ctx) {
         }
         return '<span class="dead">' + inner + '</span>';
       }
+      if (n.href.startsWith('#')) return '<a href="' + attr(n.href) + '">' + inner + '</a>';
       return '<a class="ext" href="' + attr(n.href) + '" target="_blank" rel="noopener">' + inner + ' \u2197</a>';
     }
     if (n.t === 'img') return imgToHtml(n);
